@@ -1,5 +1,5 @@
 ---
-title: "Course Name"
+title: "How AI Works"
 date: "`r format(Sys.time(), '%B, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,6 +15,7 @@ output:
 
 # About this Course {-}
 
+This is the first course in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
 
 ## Available course formats
 

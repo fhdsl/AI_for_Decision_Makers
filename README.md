@@ -8,14 +8,8 @@ If you would like to contribute to this course material, take a look at the [OTT
 
 ## About this course
 
-This course introduces {info on what this course introduces}
+This course introduces learners to the basics of what AI is, what it can and cannot do, how AI and transformer models work, and what are some ground rules for using AI successfully. This is the first course in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
 
-## Learning Objectives
-
-This course will teach learners to:  
-
-- {You can use https://www.bobpikegroup.com/trainer-blog/5-steps-to-writing-clear-and-measurable-learning-objectives to define some learning objectives here}
-- {More learning objectives}
 
 ## Encountering problems?
 
