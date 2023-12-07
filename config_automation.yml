@@ -17,7 +17,7 @@ docker-test: no
 # Rendering each platform's content
 render-bookdown: yes
 render-leanpub: yes
-render-coursera: no
+render-coursera: yes
 
 ## Automate the creation of Book.txt file? TRUE/FALSE?
 ## This is only relevant if render-leanpub is yes, otherwise it will be ignored

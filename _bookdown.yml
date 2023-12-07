@@ -1,8 +1,8 @@
-book_filename: "Course_Name"
+book_filename: "AI for Decision Makers"
 chapter_name: "Chapter "
-repo: https://github.com/jhudsl/OTTR_Template/
+repo: https://github.com/fhdsl/AI_for_Decision_Makers
 rmd_files: ["index.Rmd",
-            "01-intro.Rmd",
+            "01-AI_Possibilities.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
