@@ -1,6 +1,7 @@
 ---
 title: "How AI Works"
-date: "November, 2023"
+subtitle: "AI Made Easy for Decision Makers"
+date: "December, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -15,7 +16,15 @@ output:
 
 # About this Course {-}
 
-This is the first course in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
+This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
+
+## Specialization Sections 
+
+* Introduction
+* Course 1: AI Possibilities
+* Course 2: Avoiding AI Harm
+* Course 3: Establishing AI Infrastructure
+* Course 4: AI Policy
 
 ## Available course formats
 
