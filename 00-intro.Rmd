@@ -1,0 +1,22 @@
+
+# (PART\*) Introduction {-}
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# VIDEO Summary of This Course
+
+# Introduction
+
+
+## Motivation
+
+
+## Target Audience  
+
+The course is intended for ...
+
+## Curriculum  
+
+The course covers...

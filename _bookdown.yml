@@ -1,8 +1,17 @@
-book_filename: "Course_Name"
+book_filename: "AI for Decision Makers"
 chapter_name: "Chapter "
-repo: https://github.com/jhudsl/OTTR_Template/
+repo: https://github.com/fhdsl/AI_for_Decision_Makers
 rmd_files: ["index.Rmd",
-            "01-intro.Rmd",
+            "00-intro.Rmd",
+            "01a-AI_Possibilities-intro.Rmd",
+            "01b-AI_Possibilities-what_is_ai.Rmd",
+            "01c-AI_Possibilities-how_ai_works.Rmd",
+            "01d-AI_Possibilities-ai_types.Rmd",
+            "01e-AI_Possibilities-possibilities.Rmd",
+            "01f-AI_Possibilities-ground_rules.Rmd",
+            "02a-Avoiding_Harm-intro.Rmd",
+            "03a-AI_Infrastructure-intro.Rmd",
+            "04a-AI_Policy-intro.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
