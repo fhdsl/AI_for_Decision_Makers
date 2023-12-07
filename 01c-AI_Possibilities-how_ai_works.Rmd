@@ -3,9 +3,9 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# Transformer Models Are Necessary
+# VIDEO How AI Works
 
-How they work..
+# How AI Works
 
 <!-- ## Motivation -->
 
