@@ -2,7 +2,13 @@ book_filename: "AI for Decision Makers"
 chapter_name: "Chapter "
 repo: https://github.com/fhdsl/AI_for_Decision_Makers
 rmd_files: ["index.Rmd",
-            "01-AI_Possibilities.Rmd",
+            "00-intro.Rmd",
+            "01a-AI_Possibilities-intro.Rmd",
+            "01b-AI_Possibilities-what_is_ai.Rmd",
+            "01c-AI_Possibilities-ai_types.Rmd",
+            "01d-AI_Possibilities-transformers.Rmd",
+            "01e-AI_Possibilities-possibilities.Rmd",
+            "01f-AI_Possibilities-ground_rules.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes

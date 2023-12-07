@@ -18,6 +18,7 @@ output:
 
 This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
 
+* Introduction
 * Course 1: AI Possibilities
 * Course 2: Avoiding AI Harm
 * Course 3: Establishing AI Infrastructure
