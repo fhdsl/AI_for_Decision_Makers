@@ -1,13 +1,11 @@
 
-# (PART\*) Introduction {-}
+# (PART\*) AI Policy {-}
 
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
 ```
 
-# VIDEO Summary of This Course
-
-# Introduction
+# Introduction to AI Policy
 
 
 ## Motivation
@@ -20,3 +18,4 @@ The course is intended for ...
 ## Curriculum  
 
 The course covers...
+

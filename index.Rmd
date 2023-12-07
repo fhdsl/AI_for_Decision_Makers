@@ -18,6 +18,8 @@ output:
 
 This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
 
+## Specialization Sections 
+
 * Introduction
 * Course 1: AI Possibilities
 * Course 2: Avoiding AI Harm

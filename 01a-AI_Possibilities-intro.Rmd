@@ -1,5 +1,5 @@
 
-# (PART\*) AI Possibilities
+# (PART\*) AI Possibilities {-}
 
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
