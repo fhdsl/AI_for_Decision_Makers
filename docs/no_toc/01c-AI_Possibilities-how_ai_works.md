@@ -1,0 +1,17 @@
+
+
+
+# VIDEO How AI Works
+
+# How AI Works
+
+<!-- ## Motivation -->
+
+
+<!-- ## Target Audience   -->
+
+<!-- The course is intended for ... -->
+
+<!-- ## Curriculum   -->
+
+<!-- The course covers... -->
