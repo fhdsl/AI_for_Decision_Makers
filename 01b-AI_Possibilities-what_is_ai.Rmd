@@ -9,7 +9,7 @@ ottrpal::set_knitr_image_path()
 
 ### Motivation
 
-
+This course will help you with your understanding of AI, helping you make strategic decision and cultivate a business environment that embraces the benefits of AI, while understanding its limitations and risks.
 
 ### Target Audience
 
@@ -21,7 +21,7 @@ In this course, we'll learn about what Artificial intelligence is, and what it i
 
 ## Examples
 
-Start off with actual uses/case studies/examples
+[[[[[Start off with actual uses/case studies/examples]]]]]]
 
 ## Machines Can Learn Like Us
 
