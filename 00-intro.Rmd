@@ -14,6 +14,10 @@ ottrpal::set_knitr_image_path()
 
 How can understanding AI help you be a better leader? 
 
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/13QC5DTLefV5AIUd_3QPW42D-Zf2Yf6tgrJivIf7jbaQ/edit#slide=id.g1965a5f7f0a_0_44")
+```
+
 We think understanding AI is essential for executives. It helps today's leaders make strategic decisions, drive innovation, enhance efficiency, and foster a culture that embraces the transformative power of these technologies. Specifically, AI proficiency can help leaders in the following ways:
 
 1. **Strategic Decision-Making:** Understanding AI and machine learning equips leaders to make informed decisions about integrating these technologies into business strategies, setting their teams up for success when working with AI.
