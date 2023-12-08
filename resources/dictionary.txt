@@ -2,8 +2,12 @@ AnVIL
 BIPOC
 Bloomberg
 Bookdown
+ChatGPT
 Coursera
 css
+dashcams
+DaSL
+DaSL's
 Datatrail
 DataTrail
 Dockerfile
@@ -29,5 +33,6 @@ Pandoc
 UE
 UE5
 reproducibility
+transformative
 underserved
 www

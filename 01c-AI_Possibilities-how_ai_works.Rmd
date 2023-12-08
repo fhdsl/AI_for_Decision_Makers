@@ -17,3 +17,4 @@ ottrpal::set_knitr_image_path()
 <!-- ## Curriculum   -->
 
 <!-- The course covers... -->
+
