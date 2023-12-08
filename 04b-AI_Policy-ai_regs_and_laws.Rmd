@@ -1,0 +1,23 @@
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# 
+
+Because generative AI is a fairly new technology for most fields, the regulations and laws surrounding its use are in flux and changing rapidly. Many regions and countries are still developing laws and regulations and you will need to do some research on what it and is not allowed in your local area.
+
+## Approaches to regulation
+
+The approaches of countries across the globe are highly variable. 
+
+
+For example, the European Union has been working on an EU-wide policy, 
+
+while many other countries like India and OTHER EXAMPLE??? are drafting national AI policies. 
+
+
+Still other countries like China have created regulations that are specific to some systems like generative AI but have not yet introduced comprehensive rules for AI technologies as a whole. 
+
+
+Finally, some countries like the US are taking a more patchwork approach with no national regulations, relying instead on local governments to create guidelines and laws.
+
