@@ -3,9 +3,9 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# Data Laws That Apply to AI
+# Existing Laws That Apply to AI
 
-While countries and jurisdictions are developing ans passing laws that specifically deal with AI, there are also existing laws around data that should be considered whenever working with AI. These broadly include regulations about both intellectual property and data privacy.
+While countries and jurisdictions are developing ans passing laws that specifically deal with AI, there are also existing laws around data that should be considered whenever working with AI. These broadly include regulations about intellectual property, data privacy and protection, information security, breach laws, and biometric laws.
 
 ## Intellectual Property Rights
 
@@ -23,7 +23,12 @@ Additionally, some artists have sued AI companies like the company behind Stable
 ### Are AI algorithms proprietary?
 
 
-## Data Privacy
+## Data Privacy and Protection
 
 Data privacy is especially important to consider when working in fields like healthcare, biomedical research, and education, where personally identifiable data and personal health information is under special protections.
 
+## Breach Laws
+
+## Biometric Laws
+
+## Information Security
