@@ -7,6 +7,7 @@ ottrpal::set_knitr_image_path()
 
 ## Introduction to Avoiding AI Harm
 
+This content was adapted from our course on [AI for Efficient Programming](https://hutchdatascience.org/AI_for_Efficient_Programming/ethics-of-using-ai.html). If you intend to use AI for writing code, we recommend that you review this content for a deeper dive into ethics specifically for writing code with generative AI. 
 
 The use of artificial intelligence (AI) and in particular, generative AI, has raised a number of ethical concerns. We will highlight several current concerns, however please be aware that this is a dynamic field and the possible implications of this technology is continuing to develop. It is critical that we as a society continue to evaluate and predict what the consequences of the use of AI will be, so that we can mitigate harmful effects.
 
