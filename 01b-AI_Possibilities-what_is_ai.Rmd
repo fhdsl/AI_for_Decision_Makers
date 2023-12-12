@@ -113,13 +113,14 @@ This is not AI. The computer in the fridge is typically programmed to look for s
 
 <details><summary> <span> **Speed cameras on the highway**</span></summary><br>
 
-This is not AI. These systems typically follow a strict algorithm for detecting and evaluating specific car behavior (in this case, going too fast between checkpoints!).
+Speed cameras on highways typically use specialized technology and are not explicitly powered by AI. These cameras are often equipped with radar or lidar sensors for measuring vehicle speed between checkpoints.
 
+While the core functionality of speed cameras relies on sensor technology and predetermined speed thresholds, AI elements may be incorporated in some advanced systems. For example, AI could be used to enhance image recognition accuracy for reading license plates. However, the fundamental operation of speed cameras is rooted in sensor-based speed detection, not AI.
 </details>
 
 <details><summary> <span> **Suggested accounts on Instagram**</span></summary><br>
 
-This is considered AI. Social media algorithms, like Instagram's, typically make recommendations based on user behavior. For example, if you spend a lot of time viewing a page that was recommended, the system typically interprets that as positive feedback and will make similar recommendations. Typically, these recommendations get better over time as the user generates more user-specific data.
+This is considered AI. Social media algorithms, like Instagram's, make recommendations based on user behavior. For example, if you spend a lot of time viewing a page that was recommended, the system interprets that as positive feedback and will make similar recommendations. Typically, these recommendations get better over time as the user generates more user-specific data.
 
 </details>
 
