@@ -82,7 +82,10 @@ It is well known that data and code are often biased [@belenguer_ai_2022]. The r
 
 See @belenguer_ai_2022 for more guidance. We also encourage you to check out the following video for a classic example of bias in AI:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TWWsW1w-BVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
+knitr::include_url("https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56vM")
+```
+
 
 ## Misinformation and Faulty Responses
 
