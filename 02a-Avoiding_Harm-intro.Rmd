@@ -99,10 +99,10 @@ AI tools use data that may contain false information. AI tools may also report d
 There is risk in using AI tools, that we may encounter situations where it is unclear why the AI system came to a particular result. AI systems that use more complicated algorithms can make it difficult to trace back the decision process of the algorithm. 
 Using content created or modified by AI, could make it difficult for others to understand  if the content is adequate or appropriate, or to identify and fix any issues that may arise. 
 
-This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responeses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions. 
+This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions. 
 
 
-### Tips for avoiding a lack of interpretiablility
+### Tips for avoiding a lack of interpretablility
 
  * Content should be reviewed by those experienced in the given field.
  * Ask AI tools to help you understand the how it got to the response that it did, but get expert assistance where needed.
