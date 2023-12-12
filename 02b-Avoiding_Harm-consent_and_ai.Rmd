@@ -1,0 +1,11 @@
+
+
+# (PART\*) Avoiding AI Harm {-}
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# Consent and AI
+
+
