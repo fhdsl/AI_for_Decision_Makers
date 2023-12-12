@@ -8,6 +8,8 @@ Because generative AI is a fairly new technology for most fields, the regulation
 
 Countries outside of the EU are drafting their own laws and standards surrounding AI use, so you will need to do some research on what it and is not allowed in your local area.
 
+<<add resources for people to look up their local regulations>>
+
 ## The EU AI Act
 
 According to EU policymakers involved in writing the AI Act, the goal of the Act is to regulate AI in order to limit its capacity to cause harm. The political agreement covers the use of AI in biometric surveillance (such as facial recognition), as well as guidance on regulations for LLMs. The EU AI Act divides AI-based products into levels based on how much risk each product might pose to things like data privacy and protection. Higher-risk products with a greater capacity to cause harm face more stringent rules and regulations.
