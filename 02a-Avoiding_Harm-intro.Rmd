@@ -36,17 +36,19 @@ In this chapter we will discuss the following issues that using AI tools may con
 1) **Security or Privacy Issues** - Uploading, Pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users. 
 1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
 1) **Harmful Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
-
+1) **Lack of Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate indiviudals about those standards. 
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
 :::{.ethics}
 Be transparent about what AI tools you use where possible. This help others to better understand how you created any content that was derived by AI, as well as the possible sources that the AI tools might have used when helping you. It may also help with future unknown issues related to the use of these tools.
 
-Keep in mind that some organizations and scientific societies have guidelines or requirements for using AI in journal articles and conference submissions, like the [International Society for Computational Biology](https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models). Be aware of the requirements/guidelines for your field.
+Keep in mind that some fields, organizations, and societies have guidelines or requirements for using AI, like for example the policy for the use of large language models for the [International Society for Computational Biology](https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models). Be aware of the requirements/guidelines for your field. 
 :::
 
 **It is essential to address these ethical concerns and ensure that AI is used in a responsible and transparent manner.** This could be done through ensuring the quality of training for AI systems, promoting transparency about AI-generated content, and implementing safeguards against the creation of harmful or biased content. By doing so, we can harness the potential of AI to improve and transform the way we work while maintaining ethical standards.
+
+**Recognize that the ethical guidelines and standards for your field should be considered when using AI or creating AI use policies.**
 
 ## Replacing Humans
 
@@ -190,11 +192,13 @@ Did this content use any content from others that I can cite?
 
 ## Harmful Responses
 
-Another major concern is the use of AI to generate malicious content. For instance, AI could be used to create code that spreads malware or hacks into computer systems. This could cause severe damage to individuals and organizations, including data breaches and financial losses.
+Another major concern is the use of AI to generate malicious content or that AI itself may accidentally create harmful responses. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. This could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses,to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.
 
 
-### Tips for avoiding the creation of harmful code
+### Tips for avoiding the creation of harmful content
 
+* Be careful about what commercial tools you employ, they should be transparent about what they do to avoid harm.
+* If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated.
 * Be careful about the context in which you might have people use AI - will they know how to use it responsibly?
 * Be careful about what content you share publicly, as it could be used for malicious purposes.
 * Consider how the content might be used by others.
@@ -207,6 +211,21 @@ What are the possible downstream uses of this content?
 :::{.query}
 What are some possible negative consequences of using this content?
 :::
+
+## Lack of Education
+
+There are many studies indicating that individuals typically want to comply with standards, but it becomes difficult when they do not know how.
+
+Properlly educating those you wish to comply with standards, can better ensure that compliance actually happens. 
+
+## Tips to avoid a lack of education
+
+* Emphasize the importance of training and education
+* Recognize that general AI literacy to better understand how AI works, can help individuals use AI more responsibly.
+* Seek existing education content made by experts that can possibly be modified for your use case
+* Consider how often people will need to be reminded about best practices. Should training be required regularly? Should individuals receive reminders about best practices especially in contexts in which they might use AI tools.
+* Make your best practices easily findible and help point people to the right individuals to ask for guidance.
+* Recognize that best practices for AI will likely change frequently in the near future as the technology evolves, education content should be updated accordingly.
 
 
 ## Summary
@@ -228,6 +247,7 @@ Here is a summary of all the tips we suggested:
   * Potential security or privacy issues
   * Potential downstream consequences of the use of the content
 * Always have expert humans review the content and value your own contributions and thoughts.
+* Emphasize training and education about AI and recognize that best practices will evolve as the technology evolves.
 
 :::
 
