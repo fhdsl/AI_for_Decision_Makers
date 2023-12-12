@@ -20,7 +20,7 @@ Final details are still being worked out, but we do know several important aspec
 
 1. Foundational models like GPT as well as general purpose AI systems (GPAI) must create technical documentation and detailed summaries about the training data before they can be released on the market.
 
-1. **High-risk AI systems** must undergo mandatory rights impact and mitigation assessments. Developers wull also have to conduct model evaluations, assess and track possible cybersecurity risks, and report serious incidents and breaches to the European Commission.
+1. **High-risk AI systems** must undergo mandatory rights impact and mitigation assessments. Developers will also have to conduct model evaluations, assess and track possible cybersecurity risks, and report serious incidents and breaches to the European Commission.
 
 1. **Open-source software** is excluded from regulations, with some exceptions for software that is considered a high-risk system or is a prohibited application.
 

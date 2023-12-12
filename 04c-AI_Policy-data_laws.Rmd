@@ -23,6 +23,7 @@ Data privacy is especially important to consider when working in fields like hea
 
 HIPAA?
 
+GPAI?
 
 
 ### Biometric Privacy Laws

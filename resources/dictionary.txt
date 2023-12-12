@@ -26,6 +26,7 @@ Github
 GH
 GPAI
 GPT
+HIPAA
 impactful
 ITCR
 itcrtraining
