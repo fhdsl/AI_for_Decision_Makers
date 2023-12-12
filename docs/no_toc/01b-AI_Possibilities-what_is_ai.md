@@ -3,24 +3,6 @@
 
 # What Is AI
 
-## Introduction
-
-### Motivation
-
-This course will help you with your understanding of AI, helping you make strategic decision and cultivate a business environment that embraces the benefits of AI, while understanding its limitations and risks.
-
-### Target Audience
-
-This course is targeted toward industry and non-profit leaders and decision makers.
-
-### Curriculum Summary
-
-In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, learn about different types of AI, and set some ground rules for minimizing the harms and maximizing the benefits of AI.
-
-## Examples
-
-[[[[[Start off with actual uses/case studies/examples]]]]]]
-
 ## Machines Can Learn Like Us
 
 Human beings are powerhouses when it comes to pattern recognition and processing [@Mattson2014]. We are constantly observing the world around us, collecting data to learn and make decisions. For example, we might notice a pattern between the amount of traffic on roads in a city, and the time of day. 
@@ -47,9 +29,72 @@ Data comes in many shapes and forms. Think about how much text information is fr
 
 <img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_79.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
+## AI In Practice
+
+### Amazon Recommendations
+
+Amazon's recommendation engine uses AI algorithms to analyze user behavior and past purchases, providing personalized product recommendations. This enhances the shopping experience, increases customer engagement, and drives sales.
+
+### Another Example
+
+Text here.
+
+
 ## What Is and Is Not AI
 
+It can be tricky to understand what is and isn't AI. Let's look at a few of examples that might seem like AI, but are not.
 
+### Smartphones
 
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_120.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+
+The name "smartphone" implies these devices are making decisions and are powered by AI. While there are some features on smartphones that are powered by AI models, like virtual voice assistants and facial recognition, the device as a whole isn't considered AI. 
+
+### Calculators
+
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_279.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+
+Many of us use basic calculators, as you might find in Microsoft Excel, every day. AI also makes many calculations. Is it just a scaled=up calculator? No, because AI also makes decisions on new data based on patterns. Traditional calculators can only execute predefined operations.
+
+### Computer Programs
+
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_289.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+
+Computers follow set procedures for problem solving and computation. Everyday computers use these proceedures, also called algorithms, to help automate repetitive tasks and save time. However, this isn't generally considered AI. AI systems exhibit the ability to learn, adapt, and handle new inputs for tasks that might be more complicated. 
+
+### Are You Dealing With AI
+
+It can be tricky to determine what kind of tools or systems are AI, especially if you don't come from a computational background. Here are a few questions on which you can reflect to determine if you're dealing with AI or not.
+
+<div class = "reflection"> 
+**Does it Learn and Improve Over Time?** : AI systems can learn from feedback and enhance performance without explicit programming.
+
+**Can it Perform Tasks Without Explicit Instructions?** : AI can carry out tasks beyond explicit programming, showcasing adaptability and autonomous decision-making when presented with new data or prompts.
+
+**Does it Exhibit Human-Like Intelligence in its Actions?** : AI mimics aspects of human intelligence, such as problem-solving, pattern recognition, and understanding natural language, even when presented with new data or instructions it hasn't encountered before.
+</div>
+
+### DISCUSSION Is It AI
+
+Consider the following examples. Are they examples of AI? Why or why not? Click to expand and see the answer.
+
+<details><summary> <span> **A smartfridge that lets you know when replacement parts are needed**</span></summary><br>
+
+This is not AI. The computer in the fridge is typically programmed to look for specific signs of wear or time passing.
+
+</details>
+
+<details><summary> <span> **Speed cameras on the highway**</span></summary><br>
+
+Speed cameras on highways typically use specialized technology and are not explicitly powered by AI. These cameras are often equipped with radar or lidar sensors for measuring vehicle speed between checkpoints.
+
+While the core functionality of speed cameras relies on sensor technology and predetermined speed thresholds, AI elements may be incorporated in some advanced systems. For example, AI could be used to enhance image recognition accuracy for reading license plates. However, the fundamental operation of speed cameras is rooted in sensor-based speed detection, not AI.
+</details>
+
+<details><summary> <span> **Suggested accounts on Instagram**</span></summary><br>
+
+This is considered AI. Social media algorithms, like Instagram's, make recommendations based on user behavior. For example, if you spend a lot of time viewing a page that was recommended, the system interprets that as positive feedback and will make similar recommendations. Typically, these recommendations get better over time as the user generates more user-specific data.
+
+</details>
 
 # VIDEO What Is AI and What It Is Not
