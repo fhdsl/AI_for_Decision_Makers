@@ -87,6 +87,8 @@ knitr::include_url("https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56v
 ```
 
 
+For further details check out the this [course](https://www.coursera.org/learn/algorithmic-fairness) on coursera about building fair algorithms.
+
 ## Misinformation and Faulty Responses
 
 AI tools use data that may contain false or incorrect information and may therefore respond with content that is also false or incorrect. 
@@ -160,11 +162,14 @@ It is also important to consider what data your the responses that you get from 
 ### Tips for reducing security and privacy issues
 
 * Check that no sensitive data, such as Personal Identifiable Information (PII) or propriety information becomes public through prompts to commercial AI systems.
+* Consider purchasing a license for a private AI system if needed or create your own if you wish to work with sensitive data (seek expert guidance to determine if the AI systems are secure enough).
 * Promote for regulation of AI tools by voting for standards where possible.
-* Ask AI tools for help with security, but to not rely on them alone. In some cases, commercial AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
+* Ask AI tools for help with security when using commercial tools, but to not rely on them alone. In some cases, commercial AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
 * Consult with an expert about data security if you want to design or use a AI tool that will regularly use private or propriety data.
 
-
+:::{.query}
+Are there any possible data security or privacy issues associated with the plan you proposed?
+:::
 
 ## Violating Copyright
 
