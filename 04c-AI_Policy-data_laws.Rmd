@@ -36,4 +36,4 @@ As AI systems become more and more common in everyday life, it is inevitable tha
 
 The issue of whose fault it is when an AI system fails (and thus who is responsible for the damage) depends greatly on _how_ and _why_ it failed. Blame might lie with the user (if the AI was not being used according to instructions, or if limitations were known but ignored), the software developer (if the AI product was distributed before being tested thoroughly or before the algorithm was properly tuned), or the designer or manufacturer (if the AI design or production was inherently flawed).
 
-
+# VIDEO Existing Laws That Apply to AI

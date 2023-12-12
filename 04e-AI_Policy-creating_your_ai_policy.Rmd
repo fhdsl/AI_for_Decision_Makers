@@ -4,5 +4,6 @@ ottrpal::set_knitr_image_path()
 
 # Title!
 
-"Making it easy for people to succeed in compliance"
+Everyone needs an AI policy now
 
+# VIDEO Title!
