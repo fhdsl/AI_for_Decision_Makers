@@ -7,15 +7,17 @@ ottrpal::set_knitr_image_path()
 
 # Introduction to AI Policy
 
+This course aims to help decision makers and leaders understand the rapidly evolving laws and regulations around AI use. No one sets out to run afoul of the rules and regulations, but it can be easy to do when working with technology that changes as quickly as AI.
 
 ## Motivation
 
+This course will help you with your understanding of the laws and regulations that apply to AI systems, as well as offers practical advice on how to develop an AI policy for your organization and how to make compliance easy for your workforce.
 
 ## Target Audience  
 
-The course is intended for ...
+This course is targeted toward industry and non-profit leaders and decision makers.
 
 ## Curriculum  
 
-The course covers...
+In this course, we’ll learn about the state of existing AI laws, other laws and regulations that can apply to AI systems and products, how to create a strong AI policy for your organization, and how to develop compliance training for your workforce.
 
