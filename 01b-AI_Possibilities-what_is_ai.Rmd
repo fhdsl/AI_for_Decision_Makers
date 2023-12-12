@@ -89,8 +89,38 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1OydUyEv1uEzn8ONP
 
 Computers follow set procedures for problem solving and computation. Everyday computers use these proceedures, also called algorithms, to help automate repetitive tasks and save time. However, this isn't generally considered AI. AI systems exhibit the ability to learn, adapt, and handle new inputs for tasks that might be more complicated. 
 
+### Are You Dealing With AI
+
+It can be tricky to determine what kind of tools or systems are AI, especially if you don't come from a computational background. Here are a few questions on which you can reflect to determine if you're dealing with AI or not.
+
+<div class = "reflection"> 
+**Does it Learn and Improve Over Time?** : AI systems can learn from feedback and enhance performance without explicit programming.
+
+**Can it Perform Tasks Without Explicit Instructions?** : AI can carry out tasks beyond explicit programming, showcasing adaptability and autonomous decision-making when presented with new data or prompts.
+
+**Does it Exhibit Human-Like Intelligence in its Actions?** : AI mimics aspects of human intelligence, such as problem-solving, pattern recognition, and understanding natural language, even when presented with new data or instructions it hasn't encountered before.
+</div>
+
 ### DISCUSSION Is It AI
 
-It can be tricky to determine what kind of tools or systems are AI, especially if you don't come from a computational background. Here are a few questions you can reflect on to determine if 
+Consider the following examples. Are they examples of AI? Why or why not? Click to expand and see the answer.
+
+<details><summary> <span> **A smartfridge that lets you know when replacement parts are needed**</span></summary><br>
+
+This is not AI. The computer in the fridge is typically programmed to look for specific signs of wear or time passing.
+
+</details>
+
+<details><summary> <span> **Speed cameras on the highway**</span></summary><br>
+
+This is not AI. These systems typically follow a strict algorithm for detecting and evaluating specific car behavior (in this case, going too fast between checkpoints!).
+
+</details>
+
+<details><summary> <span> **Suggested accounts on Instagram**</span></summary><br>
+
+This is considered AI. Social media algorithms, like Instagram's, typically make recommendations based on user behavior. For example, if you spend a lot of time viewing a page that was recommended, the system typically interprets that as positive feedback and will make similar recommendations. Typically, these recommendations get better over time as the user generates more user-specific data.
+
+</details>
 
 # VIDEO What Is AI and What It Is Not
