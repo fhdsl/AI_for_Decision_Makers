@@ -5,7 +5,7 @@
 ottrpal::set_knitr_image_path()
 ```
 
-## Introduction to Avoiding AI Harm
+# Introduction to Avoiding AI Harm
 
 This content was adapted from our course on [AI for Efficient Programming](https://hutchdatascience.org/AI_for_Efficient_Programming/ethics-of-using-ai.html). If you intend to use AI for writing code, we recommend that you review this content for a deeper dive into ethics specifically for writing code with generative AI. 
 
