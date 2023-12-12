@@ -214,9 +214,11 @@ What are some possible negative consequences of using this content?
 
 ## Lack of Education
 
-There are many studies indicating that individuals typically want to comply with standards, but it becomes difficult when they do not know how.
+There are many studies indicating that individuals typically want to comply with ethical standards, but it becomes difficult when they do not know how (@giorgini_researcher_2015). Furthermore, individuals who receive training are much more likely to adhere to standards (@kowaleski_can_2019). 
 
-Properlly educating those you wish to comply with standards, can better ensure that compliance actually happens. 
+Properly educating those you wish to comply with standards, can better ensure that compliance actually happens.
+
+It is especially helpful if training materials are developed to be especially relevant to the actually potential uses by the individuals receiving training and if the training includes enough fundamentals so that individuals understand why policies are in place.
 
 ## Tips to avoid a lack of education
 
