@@ -9,7 +9,7 @@ ottrpal::set_knitr_image_path()
 
 ## Introduction
 
-
+This course aims to help decision makers and leaders understand artificial intelligence (AI) at a strategic level. Not everyone will write an AI algorithm, and that is okay! Our rapidly evolving AI landscape means that we need executives and managers who know the essential information to make informed decisions and use AI for good. This course specifically focuses on the essentials of what AI is and what it makes possible, to better harmonize expectations and reality in the workplace.
 
 ### Motivation
 
