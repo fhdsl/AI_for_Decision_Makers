@@ -36,7 +36,7 @@ In this chapter we will discuss the following issues that using AI tools may con
 1) **Security or Privacy Issues** - Uploading, Pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users. 
 1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
 1) **Harmful Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
-1) **Lack of Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate indiviudals about those standards. 
+1) **Lack of Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards. 
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
@@ -89,7 +89,7 @@ knitr::include_url("https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56v
 ```
 
 
-For further details check out the this [course](https://www.coursera.org/learn/algorithmic-fairness) on coursera about building fair algorithms.
+For further details check out this [course](https://www.coursera.org/learn/algorithmic-fairness) on Coursera about building fair algorithms.
 
 ## Misinformation and Faulty Responses
 
@@ -137,7 +137,7 @@ Using content created or modified by AI, could make it difficult for others to u
 This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions. 
 
 
-### Tips for avoiding a lack of interpretablility
+### Tips for avoiding a lack of interpretability
 
  * Content should be reviewed by those experienced in the given field.
  * Ask AI tools to help you understand the how it got to the response that it did, but get expert assistance where needed.
@@ -222,11 +222,13 @@ It is especially helpful if training materials are developed to be especially re
 
 ## Tips to avoid a lack of education
 
+https://www.google.com/search?q=training+for+ai+ethics+google+scholar&sca_esv=590295209&rlz=1C5CHFA_enUS865US866&sxsrf=AM9HkKkwOjHjTn0lFykFgg_u_rrmKvbeqQ%3A1702418287168&ei=b9d4ZYT3CdXtptQPmKm18A0&ved=0ahUKEwjE6o-q8oqDAxXVtokEHZhUDd4Q4dUDCBE&uact=5&oq=training+for+ai+ethics+google+scholar&gs_lp=Egxnd3Mtd2l6LXNlcnAiJXRyYWluaW5nIGZvciBhaSBldGhpY3MgZ29vZ2xlIHNjaG9sYXIyCBAhGKABGMMEMggQIRigARjDBEiWB1AAWKgGcAB4AZABAJgBhQGgAaoHqgEDMS43uAEDyAEA-AEBwgIIEAAYgAQYogTCAgoQIRigARjDBBgK4gMEGAAgQYgGAQ&sclient=gws-wiz-serp
+
 * Emphasize the importance of training and education
 * Recognize that general AI literacy to better understand how AI works, can help individuals use AI more responsibly.
 * Seek existing education content made by experts that can possibly be modified for your use case
 * Consider how often people will need to be reminded about best practices. Should training be required regularly? Should individuals receive reminders about best practices especially in contexts in which they might use AI tools.
-* Make your best practices easily findible and help point people to the right individuals to ask for guidance.
+* Make your best practices easily findable and help point people to the right individuals to ask for guidance.
 * Recognize that best practices for AI will likely change frequently in the near future as the technology evolves, education content should be updated accordingly.
 
 

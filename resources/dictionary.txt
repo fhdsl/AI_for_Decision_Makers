@@ -18,6 +18,7 @@ GDSCN
 GitHub
 Github
 GH
+IDARE
 impactful
 ITCR
 itcrtraining
