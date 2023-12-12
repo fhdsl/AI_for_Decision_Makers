@@ -7,15 +7,18 @@ ottrpal::set_knitr_image_path()
 
 # Introduction to AI Possibilities
 
+## Introduction
 
-## Motivation
 
 
-## Target Audience  
+### Motivation
 
-The course is intended for ...
+This course will help you with your understanding of AI, helping you make strategic decision and cultivate a business environment that embraces the benefits of AI, while understanding its limitations and risks.
 
-## Curriculum  
+### Target Audience
 
-The course covers...
+This course is targeted toward industry and non-profit leaders and decision makers.
 
+### Curriculum Summary
+
+In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, learn about different types of AI, and set some ground rules for minimizing the harms and maximizing the benefits of AI.

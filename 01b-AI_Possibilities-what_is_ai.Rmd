@@ -5,30 +5,6 @@ ottrpal::set_knitr_image_path()
 
 # What Is AI
 
-## Introduction
-
-### Motivation
-
-This course will help you with your understanding of AI, helping you make strategic decision and cultivate a business environment that embraces the benefits of AI, while understanding its limitations and risks.
-
-### Target Audience
-
-This course is targeted toward industry and non-profit leaders and decision makers.
-
-### Curriculum Summary
-
-In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, learn about different types of AI, and set some ground rules for minimizing the harms and maximizing the benefits of AI.
-
-## AI In Practice
-
-### Amazon Recommendations
-
-Amazon's recommendation engine uses AI algorithms to analyze user behavior and past purchases, providing personalized product recommendations. This enhances the shopping experience, increases customer engagement, and drives sales.
-
-### Another Example
-
-Text here.
-
 ## Machines Can Learn Like Us
 
 Human beings are powerhouses when it comes to pattern recognition and processing [@Mattson2014]. We are constantly observing the world around us, collecting data to learn and make decisions. For example, we might notice a pattern between the amount of traffic on roads in a city, and the time of day. 
@@ -61,9 +37,20 @@ Data comes in many shapes and forms. Think about how much text information is fr
 ottrpal::include_slide("https://docs.google.com/presentation/d/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I/edit#slide=id.g2a3877ab699_0_79")
 ```
 
+## AI In Practice
+
+### Amazon Recommendations
+
+Amazon's recommendation engine uses AI algorithms to analyze user behavior and past purchases, providing personalized product recommendations. This enhances the shopping experience, increases customer engagement, and drives sales.
+
+### Another Example
+
+Text here.
+
+
 ## What Is and Is Not AI
 
-It can be tricky to understand what is and isn't AI. Let's look at a few of examples.
+It can be tricky to understand what is and isn't AI. Let's look at a few of examples that might seem like AI, but are not.
 
 ### Smartphones
 
