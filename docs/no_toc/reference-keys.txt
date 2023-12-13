@@ -1,3 +1,4 @@
+exm:unlabeled-div-1
 specialization-sections
 available-course-formats
 video-summary-of-this-course
@@ -55,6 +56,13 @@ tips-to-avoid-a-lack-of-education
 summary
 consent-and-ai
 idare-and-ai
+ai-is-biased
+examples-of-ai-bias
+amazons-resume-system-was-biased-against-women
+x-ray-studies-show-ai-surprises
+mitigation
+be-extremely-careful-using-ai-for-decisions
+more-inclusive-teams-means-better-models
 introduction-to-establishing-ai-infrastructure
 motivation-2
 target-audience-2
