@@ -25,6 +25,7 @@ itcrtraining
 Interpretability
 interpretability
 ITN
+findable
 fyi
 Leanpub
 Markua
@@ -33,9 +34,11 @@ NCI
 NHGRI
 ottrpal
 Pandoc
+Perelman
 PII
 UE
 UE5
+under-diagnosed
 reproducibility
 transformative
 underserved
