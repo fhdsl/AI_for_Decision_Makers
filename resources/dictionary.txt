@@ -27,6 +27,7 @@ GH
 GPAI
 GPT
 HIPAA
+IDARE
 impactful
 ITCR
 itcrtraining

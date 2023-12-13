@@ -4,14 +4,15 @@
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
 ```
+Navigate the Evolving Legal Landscape of AI with Confidence
 
 # Introduction to AI Policy
 
-This course aims to help decision makers and leaders understand the rapidly evolving laws and regulations around AI use. No one sets out to run afoul of the rules and regulations, but it can be easy to do when working with technology that changes as quickly as AI.
+In today's rapidly evolving technological landscape, staying ahead of regulations can be challenging, especially when dealing with cutting-edge technologies like artificial intelligence (AI). This course equips decision-makers and leaders with the knowledge they need to navigate the legal complexities surrounding AI.
 
 ## Motivation
 
-This course will help you with your understanding of the laws and regulations that apply to AI systems, as well as offers practical advice on how to develop an AI policy for your organization and how to make compliance easy for your workforce.
+By understanding the key legal considerations and emerging regulations, you can ensure your organization leverages the power of AI while staying compliant and mitigating potential risks. This course empowers you to make informed decisions and confidently utilize AI to achieve your organizational goals.
 
 ## Target Audience  
 
