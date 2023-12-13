@@ -61,7 +61,7 @@ TODO: Text here.
 
 ### Financial Forecasting
 
-In this case study, we will look at how artificial intelligence has been utilized in governmental financial services. National banks, such as the Federal Reserve of United States and the European Central bank of the European Union have started to explore how Artificial Intelligence can be used for data mining and economic forecast prediction. 
+In this case study, we will look at how artificial intelligence has been utilized in governmental financial services. National banks, such as the Federal Reserve of United States and the European Central bank of the European Union, have started to explore how Artificial Intelligence can be used for data mining and economic forecast prediction. 
 
 There are many uses of AI for improving financial institutions, each with potential benefits and risks. Most financial institutions weigh the benefits and risks carefully before implementation.
 
