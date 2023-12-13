@@ -57,15 +57,15 @@ Why did you assume that the individual was male?
 
 Those developing or augmenting models should also evaluate the training data and the model for biases and false associations as it is being developed instead of waiting to test the product after creation is finished. This includes verifying that the product works properly for potential use cases from a variety of ethnic, gender, ability, socioeconomic, language, and educational backgrounds. When possible, the user should also augment the training dataset with data from groups that are missing or underrepresented in the original training dataset. 
 
-# Be extremely careful using AI for decisions
+## Be extremely careful using AI for decisions
 
-There is a common misconception that AI tools might make better decisions for humans because they are believed to not be biased like humans (@pethig_biased_2023). However since they are built by humans and trained on human data, they are also biased. It is possible that in the future AI systems specifically trained to avoid bias, to be inclusive, to be anti-racist,  for specific contexts may be helpful to enable a more neutral party, but that is not currently possible.
+There is a common misconception that AI tools might make better decisions for humans because they are believed to not be biased like humans (@pethig_biased_2023). However since they are built by humans and trained on human data, they are also biased. It is possible that AI systems specifically trained to avoid bias, to be inclusive, to be anti-racist, and  for specific contexts may be helpful to enable a more neutral party, but that is generally not currently possible.
 
-AI should not be used to make or help make employment decisions about applicants or employees at this time. This includes recruitment, hiring, retention, promotions, transfers, performance monitoring, discipline, demotion, terminations, or other decisions. 
+AI should not be used to make or help make employment decisions about applicants or employees at this time. This includes recruitment, hiring, retention, promotions, transfers, performance monitoring, discipline, demotion, terminations, or other similar decisions. 
 
 ## More inclusive teams means better models
 
-Furthermore, it is vital that teams hired for the development, auditing or testing of AI tools be as inclusive as possible and should follow the current best IDARE practices for standards for hiring standards. This will help to ensure that different perspectives and concerns are considered. 
+It is vital that teams hired for the development, auditing or testing of AI tools be as inclusive as possible and should follow the current best IDARE practices for standards for hiring standards. This will help to ensure that different perspectives and concerns are considered. 
 
  
 
