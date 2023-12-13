@@ -7,7 +7,7 @@ ottrpal::set_knitr_image_path()
 
 # IDARE and AI
 
-IDARE stands for Inclusion, Diversity, Anti-Racism, and Equity. It is an acronym used by some institutions (such as the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/offices-and-services/office-of-inclusion-diversity-anti-racism-and-equity-idare), [the University of California, Davis](https://health.ucdavis.edu/diversity-inclusion/committees/departmental-committees-index.html), and the [University of Pensylvania Perlemen School off Medicine](https://www.med.upenn.edu/neurology/idare/)) to remind people about practices to improve [social justice](https://en.wikipedia.org/wiki/Social_justice). As we strive to use AI responsibly, keeping the major principles of IDARE in mind will be helpful to better ensure that individuals of all backgrounds and life experiences more equally benefit from advances in technological and that technology is not used to perpetuate harm.  
+IDARE stands for Inclusion, Diversity, Anti-Racism, and Equity. It is an acronym used by some institutions (such as the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/offices-and-services/office-of-inclusion-diversity-anti-racism-and-equity-idare), [the University of California, Davis](https://health.ucdavis.edu/diversity-inclusion/committees/departmental-committees-index.html), and the [University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/neurology/idare/)) to remind people about practices to improve [social justice](https://en.wikipedia.org/wiki/Social_justice). As we strive to use AI responsibly, keeping the major principles of IDARE in mind will be helpful to better ensure that individuals of all backgrounds and life experiences more equally benefit from advances in technological and that technology is not used to perpetuate harm.  
 
 ## AI is biased
 
@@ -29,15 +29,14 @@ Amazon used an AI system was to help filter candidates for jobs. They started us
 
 How did this happen? The model was trained on resume's of existing Amazon employees and most of their employees were male. Thus the training data for this system was not gender inclusive, which lead to bias in the model.
 
-### X-ray studies show AI suprises
-
+### X-ray studies show AI surprises
 
 
 Algorithms used to evaluate medical images seem to be predicting the self-reported race of the individuals in the images from the images alone (@gichoya_ai_2022).  This is despite the fact that the radiologists examining those same images were not able to identify what aspect about the images helped the AI systems identify the race of the individuals. Why is this a problem? That information from models that evaluate medical images are being used to help suggest care. It is recognized that health disparities exist in the treatment of different racial groups. Therefore bias related to these disparities may be perpetuated by algorithms even when the AI system is trained in a manner that is "blind" to the self-reported race of the individuals.
 
 This example shows that AI systems can possibly amplify existing biases even when humans are unaware of the AI systems using those biases to make decisions.
 
-This is especially a problem, as some populations are underdiagnosed and therefore denied care or they receive poorer care because an AI system does not work as well for their population (@ricci_lara_addressing_2022). As an example,  a study evaluating diagnosis of various diseases from chest X-ray images, found that certain groups of patients, such as females, those under 20,  those who self report as Black or Hispanic, were more likely to be falsely flagged by  AI system as healthy when they in fact had an issue (@seyyed-kalantari_underdiagnosis_2021).  Another example shows that processing of cardiac images from specific patient populations is much poorer using models where the training set was not diverse enough (@puyol-anton_fairness_2021). 
+This is especially a problem, as some populations are under-diagnosed and therefore denied care or they receive poorer care because an AI system does not work as well for their population (@ricci_lara_addressing_2022). As an example,  a study evaluating diagnosis of various diseases from chest X-ray images, found that certain groups of patients, such as females, those under 20,  those who self report as Black or Hispanic, were more likely to be falsely flagged by  AI system as healthy when they in fact had an issue (@seyyed-kalantari_underdiagnosis_2021).  Another example shows that processing of cardiac images from specific patient populations is much poorer using models where the training set was not diverse enough (@puyol-anton_fairness_2021). 
 
 However, there is promise for good AI systems to mitigate bias. For example,  a team studying pain levels in osteoarthritis (a disease where under-served populations often have higher than expected levels of pain) found that using predictions of pain based on AI system examining images were much more accurate than predictions from radiologists examining those same images (@pierson_algorithmic_2021).  
 
