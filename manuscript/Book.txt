@@ -19,6 +19,14 @@
 19-Be-extremely-careful-using-AI-for-decisions.md
 20-Introduction-to-Establishing-AI-Infrastructure.md
 21-Introduction-to-AI-Policy.md
-22-References.md
+22-Legal-Regulations-Around-AI-Use.md
+23-VIDEO-Legal-Regulations-Around-AI-Use.md
+24-Existing-Laws-That-Apply-to-AI.md
+25-VIDEO-Existing-Laws-That-Apply-to-AI.md
+26-Title!.md
+27-VIDEO-Title!.md
+28-Title!.md
+29-VIDEO-Title!.md
+30-References.md
 About-this-Course.md
 About-the-Authors.md
