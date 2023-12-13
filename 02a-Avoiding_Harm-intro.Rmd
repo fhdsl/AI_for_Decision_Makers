@@ -33,7 +33,7 @@ In this chapter we will discuss the following issues that using AI tools may con
 1) **Replacing Humans** - AI tools can help humans, but they are not a replacement. Humans are still much better at generalizing their knowledge to other contexts.
 1) **Inappropriate Uses** - There are situations in which using AI might not be appropriate now or in the future, in which as a society we may decide humans should always be involved.
 1) **Bias** - AI models are built on data and code that were created by biased humans, thus bias can be further perpetuated.
-1) **Misinformation and faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
+1) **Misinformation and Faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
 1) **Security or Privacy Issues** - Uploading, Pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users. 
 1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
 1) **Harmful or Toxic Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
