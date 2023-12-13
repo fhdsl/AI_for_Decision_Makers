@@ -17,6 +17,18 @@ To better understand your own personal bias, consider taking a test at https://i
 
 It is nearly impossible to create a training dataset that is free from all possible bias and include all possible example data, so by necessity the data used to train AI systems are generally biased in some way and lack data about people across the full spectrum of backgrounds and life experiences. This can lead to AI-created products that cause discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations. Our goal is to create and use AI systems that are as inclusive and unbiased as possible while also keeping in mind that the system is not perfect. 
 
+## Examples of AI Bias
+
+There are many examples in which biased AI systems were used in a context with negative consequences. 
+
+### Amazon's resume system was biased against women
+
+Amazon used an AI system was to help filter candidates for jobs. They started using the system in 2014. In 2015, it was discovered that the system penalized resumes that included words like "women's", and also for graduates of two all-women's colleges (@dastin_insight_2018). 
+
+How did this happen? The model was trained on resume's of existing Amazon employees and most of their employees were male. Thus the training data for this system was not gender inclusive, which lead to bias in the model.
+
+###
+
 ## Mitigation
 
 When working with AI systems, users should actively identify any potential biases used in the training data for a particular AI system. In particular, the user should look for harmful data, such as discriminatory and false associations included in the training dataset, as well as verify whether the training data is adequately inclusive for your needs. A lack of data about certain ethnic or gender groups or disabled individuals could result in a product that does not adequately consider these groups, ignores them all together, or makes false associations. Where possible, users of commercial AI tools should ask prompts in a manner that includes concern for equity and inclusion, they should use tools that are transparent about what training data was used and limitations of this data, and they should always question the responses from the tool for possible bias. 
