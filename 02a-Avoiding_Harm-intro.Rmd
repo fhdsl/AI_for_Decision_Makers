@@ -30,13 +30,15 @@ In this chapter we will demonstrate how to:
 
 In this chapter we will discuss the following issues that using AI tools may contribute to:
 
-1) **Replacing Humans** - AI tools can help humans, but they are not a replacement.
-1) **Bias** - AI models are built on data and code that were created by biased humans, this bias can be further perpetuated.
-1) **Misinformation and Faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have downstream consequences.
-1) **Security or Privacy Issues** - Uploading, Pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users. 
-1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
-1) **Harmful Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
-1) **Lack of Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards. 
+1) **Replacing humans** - AI tools can help humans, but they are not a replacement. Humans are still much better at generalizing their knowledge to other contexts.
+1) **Bias** - AI models are built on data and code that were created by biased humans, thus bias can be further perpetuated.
+1) **Misinformation and faulty responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
+1) **Security or privacy issues** - Uploading, Pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users. 
+1) **Copyright violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
+1) **Harmful responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
+1) **Over-reliance on the same tools** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues. 
+1) **Lack of education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards. 
+
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
@@ -211,6 +213,19 @@ What are the possible downstream uses of this content?
 :::{.query}
 What are some possible negative consequences of using this content?
 :::
+
+## Over-reliance on the same tools
+
+Only using one AI tool can increase the risk of the ethical issues discussed. For example, it may be easier to determine if a tool incorrect about a response if we see that a variety of tools have different answers to the same prompt. Secondly, as our technology evolves, some tools may perform better than others at specific tasks. It is also necessary to check responses over time with the same tool, to verify that a result is even consistent from the same tool.
+
+### Tips for avoiding over-reliance
+
+- Check that each tool  meets the privacy and security restrictions that you need.
+- Utilize platforms that make it easier to use multiple AI tools, such as https://poe.com/, which as access to many tools,  or [Amazon Bedrock](https://aws.amazon.com/bedrock), which actually has a feature to send the same prompt to multiple tools automatically, including for more advanced usage in the development of models based on modifying existing foundation models.
+- Evaluate the results of the same prompt multiple times with the same tool to see how consistent it is overtime. 
+- Use slightly different prompts to see how the response may change with the same tool.
+- Consider if using different types of data maybe helpful for answering the same question.
+
 
 ## Lack of Education
 
