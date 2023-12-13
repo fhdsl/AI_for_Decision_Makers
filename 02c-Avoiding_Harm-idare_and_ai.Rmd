@@ -17,7 +17,7 @@ To better understand your own personal bias, consider taking a test at https://i
 
 It is nearly impossible to create a training dataset that is free from all possible bias and include all possible example data, so by necessity the data used to train AI systems are generally biased in some way and lack data about people across the full spectrum of backgrounds and life experiences. This can lead to AI-created products that cause discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations. Our goal is to create and use AI systems that are as inclusive and unbiased as possible while also keeping in mind that the system is not perfect. 
 
-To learn more about how AI algroithms become biased, see https://www.criticalracedigitalstudies.com/peoplesguide. 
+To learn more about how AI algorithms become biased, see https://www.criticalracedigitalstudies.com/peoplesguide. 
 
 ## Examples of AI Bias
 
