@@ -96,7 +96,7 @@ Banks are considering expanding upon existing traditional economic models to bri
 ottrpal::include_slide("https://docs.google.com/presentation/d/1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw/edit#slide=id.g2639341f200_0_14")
 ```
 
-The US Federal Reserve has researched the idea of using pre-trained large language models from Google to make inflation prediction. Usually, inflation is predicted from the Survey of Professional Forecasters, which pools forecasts from a range of financial forecasts and experts. When compared to the true inflation rate, the researchers found that the large language models performed slightly better than the Survey of Professional Forecasters.
+The US Federal Reserve has researched the idea of using pre-trained large language models from Google to make inflation predictions. Usually, inflation is predicted from the Survey of Professional Forecasters, which pools forecasts from a range of financial forecasts and experts. When compared to the true inflation rate, the researchers found that the large language models performed slightly better than the Survey of Professional Forecasters.
 
 A concern of using pre-trained large language models is that the data sources used for model training are not known, so the financial institution may be using data that is not in line with its policy. Also, a potential risk of using large language models that perform similarly is the convergence of predictions. If large language models make very similar predictions, banks would act similarly and make similar policies, which may lead to financial instability. 
 
