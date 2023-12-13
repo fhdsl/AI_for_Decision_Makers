@@ -222,7 +222,6 @@ It is especially helpful if training materials are developed to be especially re
 
 ## Tips to avoid a lack of education
 
-https://www.google.com/search?q=training+for+ai+ethics+google+scholar&sca_esv=590295209&rlz=1C5CHFA_enUS865US866&sxsrf=AM9HkKkwOjHjTn0lFykFgg_u_rrmKvbeqQ%3A1702418287168&ei=b9d4ZYT3CdXtptQPmKm18A0&ved=0ahUKEwjE6o-q8oqDAxXVtokEHZhUDd4Q4dUDCBE&uact=5&oq=training+for+ai+ethics+google+scholar&gs_lp=Egxnd3Mtd2l6LXNlcnAiJXRyYWluaW5nIGZvciBhaSBldGhpY3MgZ29vZ2xlIHNjaG9sYXIyCBAhGKABGMMEMggQIRigARjDBEiWB1AAWKgGcAB4AZABAJgBhQGgAaoHqgEDMS43uAEDyAEA-AEBwgIIEAAYgAQYogTCAgoQIRigARjDBBgK4gMEGAAgQYgGAQ&sclient=gws-wiz-serp
 
 * Emphasize the importance of training and education
 * Recognize that general AI literacy to better understand how AI works, can help individuals use AI more responsibly.
