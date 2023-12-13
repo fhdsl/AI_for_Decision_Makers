@@ -74,7 +74,7 @@ Let’s look at a few examples that illustrate the potential benefits and risks 
 #### Web scraping and classification financial data
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
-ottrpal::include_slide("hhttps://docs.google.com/presentation/d/1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw/edit#slide=id.g2639341f200_0_58")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw/edit#slide=id.g2639341f200_0_58")
 ```
 
 An important task in analysis of economic data is to classify business by institutional sector. For instance, given 10 million legal entities in the European Union, they need to be classified by financial sector to conduct downstream analysis. In the past, classifying legal entities was curated by expert knowledge.
