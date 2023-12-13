@@ -152,5 +152,99 @@
 	pmid = {35568690},
 	note = {Publisher: Elsevier},
 	pages = {e406--e414},
+}
 
 
+@article{seyyed-kalantari_underdiagnosis_2021,
+	title = {Underdiagnosis bias of artificial intelligence algorithms applied to chest radiographs in under-served patient populations},
+	volume = {27},
+	copyright = {2021 The Author(s)},
+	issn = {1546-170X},
+	url = {https://www.nature.com/articles/s41591-021-01595-0},
+	doi = {10.1038/s41591-021-01595-0},
+	abstract = {Artificial intelligence (AI) systems have increasingly achieved expert-level performance in medical imaging applications. However, there is growing concern that such AI systems may reflect and amplify human bias, and reduce the quality of their performance in historically under-served populations such as female patients, Black patients, or patients of low socioeconomic status. Such biases are especially troubling in the context of underdiagnosis, whereby the AI algorithm would inaccurately label an individual with a disease as healthy, potentially delaying access to care. Here, we examine algorithmic underdiagnosis in chest X-ray pathology classification across three large chest X-ray datasets, as well as one multi-source dataset. We find that classifiers produced using state-of-the-art computer vision techniques consistently and selectively underdiagnosed under-served patient populations and that the underdiagnosis rate was higher for intersectional under-served subpopulations, for example, Hispanic female patients. Deployment of AI systems using medical imaging for disease diagnosis with such biases risks exacerbation of existing care biases and can potentially lead to unequal access to medical treatment, thereby raising ethical concerns for the use of these models in the clinic.},
+	language = {en},
+	number = {12},
+	urldate = {2023-12-13},
+	journal = {Nature Medicine},
+	author = {Seyyed-Kalantari, Laleh and Zhang, Haoran and McDermott, Matthew B. A. and Chen, Irene Y. and Ghassemi, Marzyeh},
+	month = dec,
+	year = {2021},
+	note = {Number: 12
+Publisher: Nature Publishing Group},
+	keywords = {Machine learning, Medical imaging},
+	pages = {2176--2182},
+}
+
+
+@article{ricci_lara_addressing_2022,
+	title = {Addressing fairness in artificial intelligence for medical imaging},
+	volume = {13},
+	copyright = {2022 The Author(s)},
+	issn = {2041-1723},
+	url = {https://www.nature.com/articles/s41467-022-32186-3},
+	doi = {10.1038/s41467-022-32186-3},
+	abstract = {A plethora of work has shown that AI systems can systematically and unfairly be biased against certain populations in multiple scenarios. The field of medical imaging, where AI systems are beginning to be increasingly adopted, is no exception. Here we discuss the meaning of fairness in this area and comment on the potential sources of biases, as well as the strategies available to mitigate them. Finally, we analyze the current state of the field, identifying strengths and highlighting areas of vacancy, challenges and opportunities that lie ahead.},
+	language = {en},
+	number = {1},
+	urldate = {2023-12-13},
+	journal = {Nature Communications},
+	author = {Ricci Lara, María Agustina and Echeveste, Rodrigo and Ferrante, Enzo},
+	month = aug,
+	year = {2022},
+	note = {Number: 1
+Publisher: Nature Publishing Group},
+	keywords = {Image processing, Machine learning},
+	pages = {4581},
+}
+
+
+@misc{puyol-anton_fairness_2021,
+	title = {Fairness in {Cardiac} {MR} {Image} {Analysis}: {An} {Investigation} of {Bias} {Due} to {Data} {Imbalance} in {Deep} {Learning} {Based} {Segmentation}},
+	shorttitle = {Fairness in {Cardiac} {MR} {Image} {Analysis}},
+	url = {http://arxiv.org/abs/2106.12387},
+	doi = {10.48550/arXiv.2106.12387},
+	abstract = {The subject of "fairness" in artificial intelligence (AI) refers to assessing AI algorithms for potential bias based on demographic characteristics such as race and gender, and the development of algorithms to address this bias. Most applications to date have been in computer vision, although some work in healthcare has started to emerge. The use of deep learning (DL) in cardiac MR segmentation has led to impressive results in recent years, and such techniques are starting to be translated into clinical practice. However, no work has yet investigated the fairness of such models. In this work, we perform such an analysis for racial/gender groups, focusing on the problem of training data imbalance, using a nnU-Net model trained and evaluated on cine short axis cardiac MR data from the UK Biobank dataset, consisting of 5,903 subjects from 6 different racial groups. We find statistically significant differences in Dice performance between different racial groups. To reduce the racial bias, we investigated three strategies: (1) stratified batch sampling, in which batch sampling is stratified to ensure balance between racial groups; (2) fair meta-learning for segmentation, in which a DL classifier is trained to classify race and jointly optimized with the segmentation model; and (3) protected group models, in which a different segmentation model is trained for each racial group. We also compared the results to the scenario where we have a perfectly balanced database. To assess fairness we used the standard deviation (SD) and skewed error ratio (SER) of the average Dice values. Our results demonstrate that the racial bias results from the use of imbalanced training data, and that all proposed bias mitigation strategies improved fairness, with the best SD and SER resulting from the use of protected group models.},
+	urldate = {2023-12-13},
+	publisher = {arXiv},
+	author = {Puyol-Anton, Esther and Ruijsink, Bram and Piechnik, Stefan K. and Neubauer, Stefan and Petersen, Steffen E. and Razavi, Reza and King, Andrew P.},
+	month = jul,
+	year = {2021},
+	note = {arXiv:2106.12387 [cs]},
+	keywords = {Computer Science - Artificial Intelligence, Computer Science - Computer Vision and Pattern Recognition},
+	annote = {Comment: MICCAI 2021 conference},
+	file = {arXiv Fulltext PDF:/Users/carriewright/Zotero/storage/X9LN5YTJ/Puyol-Anton et al. - 2021 - Fairness in Cardiac MR Image Analysis An Investig.pdf:application/pdf;arXiv.org Snapshot:/Users/carriewright/Zotero/storage/6EN5T3JE/2106.html:text/html},
+}
+
+
+@article{pierson_algorithmic_2021,
+	title = {An algorithmic approach to reducing unexplained pain disparities in underserved populations},
+	volume = {27},
+	copyright = {2021 The Author(s), under exclusive licence to Springer Nature America, Inc.},
+	issn = {1546-170X},
+	url = {https://www.nature.com/articles/s41591-020-01192-7},
+	doi = {10.1038/s41591-020-01192-7},
+	abstract = {Underserved populations experience higher levels of pain. These disparities persist even after controlling for the objective severity of diseases like osteoarthritis, as graded by human physicians using medical images, raising the possibility that underserved patients’ pain stems from factors external to the knee, such as stress. Here we use a deep learning approach to measure the severity of osteoarthritis, by using knee X-rays to predict patients’ experienced pain. We show that this approach dramatically reduces unexplained racial disparities in pain. Relative to standard measures of severity graded by radiologists, which accounted for only 9\% (95\% confidence interval (CI), 3–16\%) of racial disparities in pain, algorithmic predictions accounted for 43\% of disparities, or 4.7× more (95\% CI, 3.2–11.8×), with similar results for lower-income and less-educated patients. This suggests that much of underserved patients’ pain stems from factors within the knee not reflected in standard radiographic measures of severity. We show that the algorithm’s ability to reduce unexplained disparities is rooted in the racial and socioeconomic diversity of the training set. Because algorithmic severity measures better capture underserved patients’ pain, and severity measures influence treatment decisions, algorithmic predictions could potentially redress disparities in access to treatments like arthroplasty.},
+	language = {en},
+	number = {1},
+	urldate = {2023-12-13},
+	journal = {Nature Medicine},
+	author = {Pierson, Emma and Cutler, David M. and Leskovec, Jure and Mullainathan, Sendhil and Obermeyer, Ziad},
+	month = jan,
+	year = {2021},
+	note = {Number: 1
+Publisher: Nature Publishing Group},
+	keywords = {Machine learning, Social sciences},
+	pages = {136--140},
+}
+
+
+@misc{Arnold_23,
+	title = {How {Biased} {Data} and {Algorithms} {Can} {Harm} {Health} {\textbar} {Hopkins} {Bloomberg} {Public} {Health} {Magazine}},
+	url = {https://magazine.jhsph.edu/2022/how-biased-data-and-algorithms-can-harm-health},
+	author =  {Arnold, Carrie},
+	abstract = {Public health researchers are working to uncover and correct unfairness in AI.},
+	language = {en},
+	urldate = {2023-12-13},
+	year= {2022}
+}
