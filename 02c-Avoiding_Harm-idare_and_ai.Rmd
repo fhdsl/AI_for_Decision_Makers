@@ -7,11 +7,11 @@ ottrpal::set_knitr_image_path()
 
 # IDARE and AI
 
-IDARE stands for Inclusivity, Diversity, Anti-Racism, and Equity. As we strive to use AI responsibly, keeping the major principles of IDARE in mind will be helpful to better ensure that individuals of all backgrounds and life experiences more equally benefit from technological advances.  
+IDARE stands for Inclusion, Diversity, Anti-Racism, and Equity. It is an acronym used by some institutions (such as the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/offices-and-services/office-of-inclusion-diversity-anti-racism-and-equity-idare), [the University of California, Davis](https://health.ucdavis.edu/diversity-inclusion/committees/departmental-committees-index.html), and the [University of Pensylvania Perlemen School off Medicine](https://www.med.upenn.edu/neurology/idare/)) to remind people about practices to improve [social justice](https://en.wikipedia.org/wiki/Social_justice). As we strive to use AI responsibly, keeping the major principles of IDARE in mind will be helpful to better ensure that individuals of all backgrounds and life experiences more equally benefit from advances in technological and that technology is not used to perpetuate harm.  
 
 ## AI is biased
 
-Humans are biased, therefore data from text written by humans is often also biased, which mean AI systems built on human text are trained to be biased, even those created with the best intentions.
+Humans are biased, therefore data from text written by humans is often also biased, which mean AI systems built on human text are trained to be biased, even those created with the best intentions (@pethig_biased_2023).
 
 To better understand your own personal bias, consider taking a test at https://implicit.harvard.edu/. 
 
