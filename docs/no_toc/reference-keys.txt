@@ -39,6 +39,8 @@ learning-objectives
 major-concerns
 replacing-humans
 tips-for-supporting-human-contributions
+inappropriate-uses
+tips-for-avoiding-inappropriate-uses
 bias
 tips-for-avoiding-bias
 misinformation-and-faulty-responses
@@ -49,8 +51,10 @@ security-and-privacy-issues
 tips-for-reducing-security-and-privacy-issues
 violating-copyright
 tips-for-avoiding-copyright-violations
-harmful-responses
+harmful-or-toxic-responses
 tips-for-avoiding-the-creation-of-harmful-content
+same-tool-over-reliance
+tips-for-avoiding-over-reliance
 lack-of-education
 tips-to-avoid-a-lack-of-education
 summary
