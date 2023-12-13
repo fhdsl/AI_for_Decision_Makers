@@ -31,12 +31,13 @@ In this chapter we will demonstrate how to:
 In this chapter we will discuss the following issues that using AI tools may contribute to:
 
 1) **Replacing Humans** - AI tools can help humans, but they are not a replacement. Humans are still much better at generalizing their knowledge to other contexts.
+1) **Inappropriate Uses** - There are situations in which using AI might not be appropriate now or in the future, in which as a society we may decide humans should always be involved.
 1) **Bias** - AI models are built on data and code that were created by biased humans, thus bias can be further perpetuated.
 1) **Misinformation and faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
 1) **Security or Privacy Issues** - Uploading, Pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users. 
 1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
 1) **Harmful or Toxic Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
-1) **Same Tool Over-reliance** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues. 
+1) **Same Tool Over-reliance** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues.
 1) **Lack of Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards. 
 
 
@@ -67,6 +68,23 @@ Computer science is a field that has historically lacked diversity. It is critic
 :::{.ethics}
 A new term in the medical field called [AI paternalism](https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/) describes the concept that doctors (and others) may trust AI over their own judgment or the experiences of the patients they treat. This has already been shown to be a problem with earlier AI systems intended to help distinguish patient groups. Not all humans will necessarily fit the expectations of the AI model if it is not very good at predicting edge cases [@AI_paternalism]. Therefore, in all fields it is important for us to not forget our value as humans in our understanding of the world. 
 :::
+
+## Inappopriate Uses
+
+There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgement by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible. We will learn throughout this course that despite the common misconception that AI systems have clearer judgement than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023) and can behave in unexpected ways that we are still discovering (@gichoya_ai_2022). 
+
+For example, it may be considered inappropriate for AI systems to be used in the justice system to determine if someone is guilty of a crime or to determine the punishment of someone found guilty of a crime.
+
+As another example, it may be considered inappropriate for AI systems to be used in certain warfare circumstances.
+
+### Tips for avoiding inappopriate uses
+
+* Stay up-to-date on current practices and standards for your field, as well as up-to-date on the news for how others have experienced their use of AI.
+* Stay involved in discussions about appropriate uses for AI, particularly for policy.
+* Begin using AI slowly and iteratively to allow time to determine the appropriateness of the use. Some issues will only be discovered after some experience.
+* Involve a diverse group of individuals in discussions of intended uses to better account for a variety of perspectives.
+* Seek outside expert opinion whenever you are unsure about your AI use plans.
+* Consider AI alternatives if something doesn't feel right.
 
 ## Bias
 
@@ -194,13 +212,13 @@ Did this content use any content from others that I can cite?
 
 ## Harmful or Toxic Responses
 
-Another major concern is the use of AI to generate malicious content or that AI itself may accidentally create harmful responses. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called ["toxicity"](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f), which refers to rude or hateful responses. This could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses,to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.
+Another major concern is the use of AI to generate malicious content or that AI itself may accidentally create harmful responses. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called ["toxicity"](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f), which refers to disrespectful, rude, or hateful responses (@nikulski_toxicity_2021). These responses can have very negative consequences for users. Ultimately both issues could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses, to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.
 
 
 ### Tips for avoiding the creation of harmful content
 
 * Be careful about what commercial tools you employ, they should be transparent about what they do to avoid harm.
-* If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as [Amazon Bedrock](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/) have tools for evaluating [toxicity](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f) to test for harmful responses.
+* If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as [Amazon Bedrock](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/) have tools for evaluating [toxicity](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f) to test for harmful responses. Although such systems can be helpful to automatically test, evaluation should also be done directly by humans.
 * Be careful about the context in which you might have people use AI - will they know how to use it responsibly?
 * Be careful about what content you share publicly, as it could be used for malicious purposes.
 * Consider how the content might be used by others.
@@ -272,7 +290,7 @@ Here is a summary of all the tips we suggested:
 * Credit human authors by citing them and adhering to copyright restrictions.
 * Ensure that prompts to commercial tools don't include private or propriety data or information.
 * Cross-check content from AI tools by using multiple AI tools - but check that each tool meets the privacy and security restrictions that you need.
-* Don't assume AI-generated content is real, accurate, current, or better than that of a human.
+* Don't assume AI-generated content is real, accurate, consistent, current, or better than that of a human.
 * Ask the AI tools to help you understand:
   * Sources for the content that you can cite
   * Any decision processes in how the content was created 
