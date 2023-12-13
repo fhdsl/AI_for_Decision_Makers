@@ -4,7 +4,9 @@ Biometric
 BIPOC
 Bloomberg
 Bookdown
+chatbot
 ChatGPT
+ChatGPT's
 Coursera
 css
 cybersecurity
