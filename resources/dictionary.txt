@@ -31,7 +31,10 @@ IDARE
 impactful
 ITCR
 itcrtraining
+Interpretability
+interpretability
 ITN
+findable
 fyi
 Leanpub
 LLMs
@@ -43,8 +46,11 @@ NHGRI
 OpenAI
 ottrpal
 Pandoc
+Perelman
+PII
 UE
 UE5
+under-diagnosed
 reproducibility
 transformative
 underserved

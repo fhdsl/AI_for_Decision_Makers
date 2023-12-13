@@ -32,7 +32,11 @@ We think understanding AI is essential for executives. It helps today's leaders 
 
 ## Target Audience  
 
-The course is intended for ...
+This specialization is intended for executives, decision-makers, and business leaders across industries, including executives in C-suite positions, managers, and directors. Our goal is for these learners to understand the strategic applications of AI and machine learning in driving innovation, improving operations, creating supportive working environments, and gaining an innovative edge. 
+
+We also believe that learning is a life-long process. This specialization is targeted toward those who value continuous learning and want to stay ahead in today's fast-paced technology landscape.
+
+![](resources/images/00-intro_files/figure-docx//13QC5DTLefV5AIUd_3QPW42D-Zf2Yf6tgrJivIf7jbaQ_g2a3e68cb5a3_0_16.png){width=100%}
 
 ## Curriculum  
 
