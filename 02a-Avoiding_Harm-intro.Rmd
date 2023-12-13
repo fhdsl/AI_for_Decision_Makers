@@ -71,11 +71,20 @@ A new term in the medical field called [AI paternalism](https://www.technologyre
 
 ## Inappopriate Uses
 
-There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgement by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible. We will learn throughout this course that despite the common misconception that AI systems have clearer judgement than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023) and can behave in unexpected ways that we are still discovering (@gichoya_ai_2022). 
+There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgement by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future. 
 
-For example, it may be considered inappropriate for AI systems to be used in the justice system to determine if someone is guilty of a crime or to determine the punishment of someone found guilty of a crime.
+Some reasons why AI may not be appropriate for certain situation include:
 
-As another example, it may be considered inappropriate for AI systems to be used in certain warfare circumstances.
+- Despite the common misconception that AI systems have clearer judgement than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023).  There are some very mindful researchers working on these issues in specific contexts and making progress where AI may actually improve on human judgement, but generally speaking AI systems are currently typically biased and reflective of human judgement but in a more limited manner based on the context in which they have been trained.
+- AI systems can behave in unexpected ways (@gichoya_ai_2022). 
+- Humans are still better than AI at generalizing what they learn for new contexts.
+- Humans can better understand the consequences of discussions from a humanity standpoint. 
+
+Some examples where it may be considered inappropriate for AI systems to be used include:
+
+- In the justice system to determine if someone is guilty of a crime or to determine the punishment of someone found guilty of a crime.
+- It may be considered inappropriate for AI systems to be used in certain warfare circumstances.
+
 
 ### Tips for avoiding inappopriate uses
 
@@ -109,7 +118,7 @@ knitr::include_url("https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56v
 ```
 
 
-For further details check out this [course](https://www.coursera.org/learn/algorithmic-fairness) on Coursera about building fair algorithms.
+For further details check out this [course](https://www.coursera.org/learn/algorithmic-fairness) on Coursera about building fair algorithms. We will also describe more in the next section.
 
 ## Misinformation and Faulty Responses
 
