@@ -31,10 +31,11 @@ GPT
 HIPAA
 IDARE
 impactful
-ITCR
-itcrtraining
 Interpretability
 interpretability
+ITCR
+itcrtraining
+iteratively
 ITN
 findable
 fyi
@@ -54,6 +55,7 @@ UE
 UE5
 under-diagnosed
 reproducibility
+Samsung
 transformative
 underserved
 www
