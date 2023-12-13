@@ -14,8 +14,11 @@
 14-Ground-Rules-for-AI.md
 15-VIDEO-Knowing-the-Ground-Rules.md
 16-Introduction-to-Avoiding-AI-Harm.md
-17-Introduction-to-Establishing-AI-Infrastructure.md
-18-Introduction-to-AI-Policy.md
-19-References.md
+17-Consent-and-AI.md
+18-IDARE-and-AI.md
+19-Be-extremely-careful-using-AI-for-decisions.md
+20-Introduction-to-Establishing-AI-Infrastructure.md
+21-Introduction-to-AI-Policy.md
+22-References.md
 About-this-Course.md
 About-the-Authors.md
