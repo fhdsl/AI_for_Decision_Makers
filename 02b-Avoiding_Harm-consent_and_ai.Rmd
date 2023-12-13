@@ -6,4 +6,4 @@ ottrpal::set_knitr_image_path()
 
 # Consent and AI
 
-chatgpt example for samsun or use that earlier?
+ChatGPT example for Samsung or use that earlier?
