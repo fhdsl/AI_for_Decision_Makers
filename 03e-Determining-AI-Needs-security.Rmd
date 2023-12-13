@@ -1,21 +1,28 @@
 
-# (PART\*) Establishing AI Infrastructure {-}
+# Customized Security for AI
 
-```{r, include = FALSE}
-ottrpal::set_knitr_image_path()
+
+## Learning objectives:
+
+- Understand the motivation behind customized security needs for AI tools
+- Discuss a variety of low to high investment strategies for meeting customized security needs
+- Define and be able to contrast the differences between secure AI services, deidentifying data, and deploying existing models on secure computing resources.
+
+## Intro
+
+Customized security needs are perhaps one of the largest barriers keeping individuals in certain fields from using AI tools to their full potential. There are many legitimate reasons commercial AI tools cannot and should not be used with protected data.
+
+
+```{r, out.width = "100%", echo = FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c/edit#slide=id.g2a642e30eae_0_175")
 ```
 
-# Introduction to Establishing AI Infrastructure
+Commercial AI products do not have data use agreements. They do not have to tell you what they do with your data. And if you work with protected data types that generally means you can't use them.
 
+```{r, out.width = "100%", echo = FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c/edit#slide=id.g2a642e30eae_0_179")
+```
 
-## Motivation
+Not all data types are safe to share for a variety of reasons. To protect patients or customers, Personal Identifiable Information (PII) Protected Health Information (PHI) cannot be used with AI
 
-
-## Target Audience  
-
-The course is intended for ...
-
-## Curriculum  
-
-The course covers...
-
+Controlled Unclassified Information
