@@ -9,7 +9,7 @@ TODO: Slides here: https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24j
 
 # What Is AI
 
-When discussing artificial intelligence, people often envision humanoid robots, prompting concerns about their ability to outsmart us. The notion of robots passing tests that blur the line between human and machine, often depicted in sci-fi, adds to these worries, particularly when considering the potential for AI systems to act in self-interest and make decisions independently.
+When discussing artificial intelligence, people often envision humanoid robots, prompting concerns about their ability to outsmart us. The notion of robots passing tests that blur the line between human and machine, often depicted in science fiction, adds to these worries, particularly when considering the potential for AI systems to act in self-interest and make decisions independently.
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g2a68fa11a90_0_0")
@@ -33,7 +33,7 @@ Amazon's recommendation engine uses AI algorithms to analyze user behavior and p
 
 TODO: Text here.
 
-### Financial Forcasting
+### Financial Forecasting
 
 TODO: Text here.
 
@@ -63,7 +63,7 @@ Many of us use basic calculators, as you might find in Microsoft Excel, every da
 ottrpal::include_slide("https://docs.google.com/presentation/d/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I/edit#slide=id.g2a3877ab699_0_289")
 ```
 
-Computers follow set procedures for problem solving and computation. Everyday computers use these proceedures, also called algorithms, to help automate repetitive tasks and save time. However, this isn't generally considered AI. AI systems exhibit the ability to learn, adapt, and handle new inputs for tasks that might be more complicated. 
+Computers follow set procedures for problem solving and computation. Everyday computers use these procedures, also called algorithms, to help automate repetitive tasks and save time. However, this isn't generally considered AI. AI systems exhibit the ability to learn, adapt, and handle new inputs for tasks that might be more complicated. 
 
 ### Are You Dealing With AI
 
@@ -89,7 +89,7 @@ This is not AI. The computer in the fridge is typically programmed to look for s
 
 <details><summary> <span> **Speed cameras on the highway**</span></summary><br>
 
-Speed cameras on highways typically use specialized technology and are not explicitly powered by AI. These cameras are often equipped with radar or lidar sensors for measuring vehicle speed between checkpoints.
+Speed cameras on highways typically use specialized technology and are not explicitly powered by AI. These cameras are often equipped with radar sensors for measuring vehicle speed between checkpoints.
 
 While the core functionality of speed cameras relies on sensor technology and predetermined speed thresholds, AI elements may be incorporated in some advanced systems. For example, AI could be used to enhance image recognition accuracy for reading license plates. However, the fundamental operation of speed cameras is rooted in sensor-based speed detection, not AI.
 </details>
