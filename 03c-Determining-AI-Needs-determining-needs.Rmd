@@ -38,11 +38,11 @@ Please take a moment now to jot down the answers of what these items are for you
 
 ## Generalized Custom AI Use Cases
 
-Here we will discuss 4 bins of AI tool customization needs that we will discuss for the rest of the course. Keep in mind that these customization categories are for the purposes of discussion and not necessarily google-able terms.
+Here we will discuss three bins of AI tool customization needs that we will discuss for the rest of the course. Keep in mind that these customization categories are for the purposes of discussion and not necessarily google-able terms.
 
 Note that these categories of AI customization needs almost never mutually exclusive. It is possible (and probable) that your project may have multiple or all of these needs. The more needs you have the more complicated your project will likely be. So carefully consider what is truly needed for your project.
 
-The upcoming chapters will discuss each of these customized AI needs and examples of existing options in more details.
+However, these are increasingly doable needs to address. There are a growing number of [helpful communities](https://huggingface.co/) and developers who are experts in customizing interfaces, security, parameters, algorithms, data handling and more for AI tools.
 
 ### Customized Knowledge
 
@@ -65,7 +65,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xC
 
 This doesn't mean protected data can't be used with AI tools, but it does mean the AI solutions involved with projects with protected data need to be very carefully planned and constructed. And respective experts should be consulted about these solutions to make sure patients or customer's data is being kept safe!
 
-## Customized interface
+## Customized Interface
 
 Perhaps your project could benefit from the power of AI but you need to do this automatically or you need your users to access AI tools from a customized interface.
 
@@ -75,16 +75,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xC
 
 This *may* be the most straightforward of the AI needs. An increasing number of AI tools have APIs available that can be used underneath the hood of your AI project.
 
-## Customized handling
-
-Lastly, customized handling is likely the most technically demanding type of AI need. Perhaps for one reason or another you need complete transparency into the handling of the data and algorithms. Commercial AI platforms do not allow this.
-
-```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4/edit#slide=id.g2a6104c5b4d_0_47")
-```
-
-However, this is an increasingly doable need to address. There are a growing number of [helpful communities](https://huggingface.co/) and developers who are experts in customizing parameters, algorithms, data handling and all kinds of inner workings of AI tools
-
+The upcoming chapters will discuss each of these customized AI needs and examples of existing options in more details.
 
 ### Generalized strategies for these needs
 
