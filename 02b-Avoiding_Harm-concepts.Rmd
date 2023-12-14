@@ -57,7 +57,7 @@ There are situations in which we may, as a society, not want an automated respon
 
 Some reasons why AI may not be appropriate for certain situation include:
 
-- Despite the common misconception that AI systems have clearer judgement than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023).  There are some very mindful researchers working on these issues in specific contexts and making progress where AI may actually improve on human judgement, but generally speaking AI systems are currently typically biased and reflective of human judgement but in a more limited manner based on the context in which they have been trained.
+- Despite the common misconception that AI systems have clearer judgment than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023).  There are some very mindful researchers working on these issues in specific contexts and making progress where AI may actually improve on human judgement, but generally speaking AI systems are currently typically biased and reflective of human judgement but in a more limited manner based on the context in which they have been trained.
 - AI systems can behave in unexpected ways (@gichoya_ai_2022). 
 - Humans are still better than AI at generalizing what they learn for new contexts.
 - Humans can better understand the consequences of discussions from a humanity standpoint. 
@@ -79,7 +79,7 @@ Some examples where it may be considered inappropriate for AI systems to be used
 
 ## Bias 
 
-One of the biggest concerns is the potential for AI to further perpetutate. AI systems are trained on data created by humans. If this data used to train the system is biased (and this includes existing code that may be written in a biased manner), the resulting content from the AI tools could also be biased. This could lead to discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations. 
+One of the biggest concerns is the potential for AI to further perpetuate bias. AI systems are trained on data created by humans. If this data used to train the system is biased (and this includes existing code that may be written in a biased manner), the resulting content from the AI tools could also be biased. This could lead to discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations. 
 
 It is well known that data and code are often biased [@belenguer_ai_2022]. The resulting output of AI tools should be evaluated for bias and modified where needed. Please be aware that because bias is intrinsic, it may be difficult to identify issues. Therefore, people with specialized training to recognize bias should be consulted. It is also vital that evaluations be made throughout the software development process of new AI tools to check for and consider potential perpetuation of bias.
 
