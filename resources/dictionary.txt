@@ -7,8 +7,10 @@ Bookdown
 chatbot
 ChatGPT
 ChatGPT's
+CIO
 Coursera
 css
+cyberattacks
 cybersecurity
 DALL
 dashcams
@@ -20,6 +22,7 @@ deepfakes
 Dockerfile
 Dockerhub
 dropdown
+EURACTIV
 EU's
 favicon
 GDSCN
@@ -50,6 +53,7 @@ ottrpal
 Pandoc
 Perelman
 PII
+pre
 UE
 UE5
 under-diagnosed
