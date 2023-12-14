@@ -275,7 +275,7 @@ li.appendix span, li.part span { /* for TOC part names */
 /* Sidebar formating --------------------------------------------*/
 /* from r-pkgs.org*/
 
-div.notice, div.warning, div.github, div.dictionary, div.reflection, div.question, div.ethics{
+div.notice, div.warning, div.github, div.dictionary, div.reflection, div.question, div.ethics, div.example{
   padding: 1em;
   margin: 1em 0;
   padding-left: 100px;
@@ -298,6 +298,15 @@ div.motivations{
   display:flex;
   align-items:center;
 }
+
+div.example{
+  background-size: 70px;
+  background-position: 15px center;
+  background-image: url("../assets/box_images/example.png");
+  border: 4px #193a5c;
+  border-style: solid;
+}
+
 
 div.question_box{
   background-size: 70px;
