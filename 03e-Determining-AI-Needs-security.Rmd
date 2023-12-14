@@ -43,7 +43,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7R
 
 <div class = "warning">
 
-* Protected data needs should always be taken seriously! Before deploying any AI solutions that involve protected data consult your legal experts and IRB!
+* Protected data needs should always be taken seriously! Before employing any AI solutions that involve protected data consult your legal experts and IRB!
 
 </div>
 
