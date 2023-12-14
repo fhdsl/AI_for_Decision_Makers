@@ -43,8 +43,10 @@ More information about the EU's AI Act can be found in these sources.
 
 ## Industry-specific policies
 
-Some individual industries have already begun adopting policies about generative AI. They may also have long-standing policies in place about the use of other forms of AI, like machine learning. For example, many academic journals have created guidelines about how generative AI may not be used in research articles, as well as rules about images generated with AI tools.
+Some individual industries have already begun adopting policies about generative AI. They may also have long-standing policies in place about the use of other forms of AI, like machine learning. When in doubt, always check with the experts within your organization about what AI policies exist for your industry.
 
-When in doubt, always check with the experts within your organization about what AI policies exist for your industry.
+### Academic Publishing Industry
+
+### US Federal Drug Administration
 
 # VIDEO Legal Regulations Around AI Use
