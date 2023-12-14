@@ -1,4 +1,5 @@
 AnVIL
+auditability
 biometric
 Biometric
 BIPOC
@@ -22,6 +23,7 @@ deepfakes
 Dockerfile
 Dockerhub
 dropdown
+Ethicists
 EURACTIV
 EU's
 favicon
@@ -34,6 +36,7 @@ GPT
 HIPAA
 IDARE
 impactful
+IRBs
 ITCR
 itcrtraining
 Interpretability
