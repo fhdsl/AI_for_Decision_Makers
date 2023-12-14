@@ -7,22 +7,13 @@ ottrpal::set_knitr_image_path()
 
 
 
-## Major concerns
+Adherence practices
 
-In this chapter we will discuss the following issues that using AI tools may contribute to:
+1) **Start Slow**
+1) **Fair Data Use** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
+1) **Tool Diversity** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues.
+1) **Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards of use. 
 
-1) **Replacing Humans** - AI tools can help humans, but they are not a replacement. Humans are still much better at generalizing their knowledge to other contexts.
-1) **Inappropriate Uses** - There are situations in which using AI might not be appropriate now or in the future, in which as a society we may decide humans should always be involved.
-1) **Bias** - AI models are built on data and code that were created by biased humans, thus bias can be further perpetuated.
-1) **Misinformation and Faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
-1) **Security or Privacy Issues** - Uploading, pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users. 
-1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
-1) **Harmful or Toxic Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
-1) **Same Tool Over-reliance** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues.
-1) **Lack of Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards. 
-
-
-Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
 :::{.ethics}
 Be transparent about what AI tools you use where possible. This help others to better understand how you created any content that was derived by AI, as well as the possible sources that the AI tools might have used when helping you. It may also help with future unknown issues related to the use of these tools.
@@ -33,6 +24,8 @@ Keep in mind that some fields, organizations, and societies have guidelines or r
 **It is essential to address these ethical concerns and ensure that AI is used in a responsible and transparent manner.** This could be done through ensuring the quality of training for AI systems, promoting transparency about AI-generated content, and implementing safeguards against the creation of harmful or biased content. By doing so, we can harness the potential of AI to improve and transform the way we work while maintaining ethical standards.
 
 **Recognize that the ethical guidelines and standards for your field should be considered when using AI or creating AI use policies.**
+
+
 
 ## Replacing Humans
 
@@ -179,9 +172,9 @@ It is also important to consider what data your the responses that you get from 
 * Ask AI tools for help with security when using commercial tools, but to not rely on them alone. In some cases, commercial AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
 * Consult with an expert about data security if you want to design or use a AI tool that will regularly use private or propriety data.
 
-:::{.query}
+<div class = "query">
 Are there any possible data security or privacy issues associated with the plan you proposed?
-:::
+</div>
 
 ## Violating Copyright
 
@@ -196,9 +189,10 @@ Similarly, AI systems could potentially infringe on intellectual property rights
 * Cite all content that you can.
 * Ask the AI tools if the content it helped generate used any content that you can cite.
 
-:::{.query}
+<div class = "query">
 Did this content use any content from others that I can cite?
-:::
+</div>
+
 
 ## Harmful or Toxic Responses
 
@@ -214,13 +208,14 @@ Another major concern is the use of AI to generate malicious content or that AI 
 * Consider how the content might be used by others.
 * Ask the AI tools to help you, but do not rely on them alone.
 
-:::{.query}
+<div class = "query">
 What are the possible downstream uses of this content?
-:::
+</div>
 
-:::{.query}
+<div class = "query">
 What are some possible negative consequences of using this content?
-:::
+</div>
+
 
 ## Same Tool Over-reliance
 
@@ -243,7 +238,7 @@ Properly educating those you wish to comply with standards, can better ensure th
 
 It is especially helpful if training materials are developed to be especially relevant to the actually potential uses by the individuals receiving training and if the training includes enough fundamentals so that individuals understand why policies are in place.
 
-:::{.example}
+<div class = "example">
 
 **Real World Example**
 
@@ -256,7 +251,8 @@ A lack of proper training at Samsung lead to a leak of proprietary data due to u
 > Samsung supposedly discovered three attempts during which confidential data was revealed. Workers revealed restricted equipment data to the chatbot on two separate occasions and once sent the chatbot an excerpt from a corporate meeting. 
 Privacy concerns over ChatGPT’s security have been ramping up since OpenAI revealed that a flaw in its bot exposed parts of conversations users had with it, as well as their payment details in some cases. 
 As a result, the Italian Data Protection Authority has banned ChatGPT, while German lawmakers have said they could follow in Italy’s footsteps." 
-:::
+
+</div>
 
 ### Tips to avoid a lack of education
 
