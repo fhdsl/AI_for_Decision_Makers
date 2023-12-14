@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 19 Algorithm considerations | How AI Works</title>
+  <meta name="description" content="Description about Course/Book." />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 19 Algorithm considerations | How AI Works" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Description about Course/Book." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 19 Algorithm considerations | How AI Works" />
+  
+  <meta name="twitter:description" content="Description about Course/Book." />
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  <link rel="shortcut icon" href="assets/dasl_favicon.ico" type="image/x-icon" />
+<link rel="prev" href="societal-impact.html"/>
+<link rel="next" href="adherence-practices.html"/>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YLGCFXEHPV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-YLGCFXEHPV');
+  </script>
+
+
+
+
+
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<link rel="stylesheet" href="assets/style.css" type="text/css" />
+<link rel="stylesheet" href="assets/style_custom.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<a href="https://hutchdatascience.org/" target="_blank"><img src="assets/big-dasl-stacked.png" style="width: 80%; padding-left: 34px; padding-top: 8px;"</a>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>About this Course</a>
+<ul>
+<li class="chapter" data-level="0.1" data-path="index.html"><a href="index.html#specialization-sections"><i class="fa fa-check"></i><b>0.1</b> Specialization Sections</a></li>
+<li class="chapter" data-level="0.2" data-path="index.html"><a href="index.html#available-course-formats"><i class="fa fa-check"></i><b>0.2</b> Available course formats</a></li>
+</ul></li>
+<li class="part"><span><b>Introduction</b></span></li>
+<li class="chapter" data-level="1" data-path="video-summary-of-this-course.html"><a href="video-summary-of-this-course.html"><i class="fa fa-check"></i><b>1</b> VIDEO Summary of This Course</a></li>
+<li class="chapter" data-level="2" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>2</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="introduction.html"><a href="introduction.html#motivation"><i class="fa fa-check"></i><b>2.1</b> Motivation</a></li>
+<li class="chapter" data-level="2.2" data-path="introduction.html"><a href="introduction.html#target-audience"><i class="fa fa-check"></i><b>2.2</b> Target Audience</a></li>
+<li class="chapter" data-level="2.3" data-path="introduction.html"><a href="introduction.html#curriculum"><i class="fa fa-check"></i><b>2.3</b> Curriculum</a></li>
+</ul></li>
+<li class="part"><span><b>AI Possibilities</b></span></li>
+<li class="chapter" data-level="3" data-path="introduction-to-ai-possibilities.html"><a href="introduction-to-ai-possibilities.html"><i class="fa fa-check"></i><b>3</b> Introduction to AI Possibilities</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="introduction-to-ai-possibilities.html"><a href="introduction-to-ai-possibilities.html#introduction-1"><i class="fa fa-check"></i><b>3.1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="3.1.1" data-path="introduction-to-ai-possibilities.html"><a href="introduction-to-ai-possibilities.html#motivation-1"><i class="fa fa-check"></i><b>3.1.1</b> Motivation</a></li>
+<li class="chapter" data-level="3.1.2" data-path="introduction-to-ai-possibilities.html"><a href="introduction-to-ai-possibilities.html#target-audience-1"><i class="fa fa-check"></i><b>3.1.2</b> Target Audience</a></li>
+<li class="chapter" data-level="3.1.3" data-path="introduction-to-ai-possibilities.html"><a href="introduction-to-ai-possibilities.html#curriculum-summary"><i class="fa fa-check"></i><b>3.1.3</b> Curriculum Summary</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="video-what-is-ai.html"><a href="video-what-is-ai.html"><i class="fa fa-check"></i><b>4</b> VIDEO What Is AI</a></li>
+<li class="chapter" data-level="5" data-path="what-is-ai.html"><a href="what-is-ai.html"><i class="fa fa-check"></i><b>5</b> What Is AI</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="what-is-ai.html"><a href="what-is-ai.html#our-ai-definition"><i class="fa fa-check"></i><b>5.1</b> Our AI Definition</a></li>
+<li class="chapter" data-level="5.2" data-path="what-is-ai.html"><a href="what-is-ai.html#ai-in-practice"><i class="fa fa-check"></i><b>5.2</b> AI In Practice</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="what-is-ai.html"><a href="what-is-ai.html#amazon-recommendations"><i class="fa fa-check"></i><b>5.2.1</b> Amazon Recommendations</a></li>
+<li class="chapter" data-level="5.2.2" data-path="what-is-ai.html"><a href="what-is-ai.html#financial-forecasting"><i class="fa fa-check"></i><b>5.2.2</b> Financial Forecasting</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="what-is-ai.html"><a href="what-is-ai.html#what-is-and-is-not-ai"><i class="fa fa-check"></i><b>5.3</b> What Is and Is Not AI</a>
+<ul>
+<li class="chapter" data-level="5.3.1" data-path="what-is-ai.html"><a href="what-is-ai.html#smartphones"><i class="fa fa-check"></i><b>5.3.1</b> Smartphones</a></li>
+<li class="chapter" data-level="5.3.2" data-path="what-is-ai.html"><a href="what-is-ai.html#calculators"><i class="fa fa-check"></i><b>5.3.2</b> Calculators</a></li>
+<li class="chapter" data-level="5.3.3" data-path="what-is-ai.html"><a href="what-is-ai.html#computer-programs"><i class="fa fa-check"></i><b>5.3.3</b> Computer Programs</a></li>
+<li class="chapter" data-level="5.3.4" data-path="what-is-ai.html"><a href="what-is-ai.html#discussion-is-it-ai"><i class="fa fa-check"></i><b>5.3.4</b> DISCUSSION Is It AI</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="video-how-ai-works.html"><a href="video-how-ai-works.html"><i class="fa fa-check"></i><b>6</b> VIDEO How AI Works</a></li>
+<li class="chapter" data-level="7" data-path="how-ai-works.html"><a href="how-ai-works.html"><i class="fa fa-check"></i><b>7</b> How AI Works</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="how-ai-works.html"><a href="how-ai-works.html#machines-can-learn-like-us"><i class="fa fa-check"></i><b>7.1</b> Machines Can Learn Like Us</a></li>
+<li class="chapter" data-level="7.2" data-path="how-ai-works.html"><a href="how-ai-works.html#the-data-explosion"><i class="fa fa-check"></i><b>7.2</b> The Data Explosion</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="video-different-types-of-ai.html"><a href="video-different-types-of-ai.html"><i class="fa fa-check"></i><b>8</b> VIDEO Different Types of AI</a></li>
+<li class="chapter" data-level="9" data-path="types-of-ai.html"><a href="types-of-ai.html"><i class="fa fa-check"></i><b>9</b> Types of AI</a></li>
+<li class="chapter" data-level="10" data-path="video-real-life-possibilities.html"><a href="video-real-life-possibilities.html"><i class="fa fa-check"></i><b>10</b> VIDEO Real Life Possibilities</a></li>
+<li class="chapter" data-level="11" data-path="what-is-possible.html"><a href="what-is-possible.html"><i class="fa fa-check"></i><b>11</b> What Is Possible</a></li>
+<li class="chapter" data-level="12" data-path="video-what-is-possible.html"><a href="video-what-is-possible.html"><i class="fa fa-check"></i><b>12</b> VIDEO What Is Possible</a></li>
+<li class="chapter" data-level="13" data-path="video-what-is-not-possible.html"><a href="video-what-is-not-possible.html"><i class="fa fa-check"></i><b>13</b> VIDEO What Is NOT Possible</a></li>
+<li class="chapter" data-level="14" data-path="ground-rules-for-ai.html"><a href="ground-rules-for-ai.html"><i class="fa fa-check"></i><b>14</b> Ground Rules for AI</a></li>
+<li class="chapter" data-level="15" data-path="video-knowing-the-ground-rules.html"><a href="video-knowing-the-ground-rules.html"><i class="fa fa-check"></i><b>15</b> VIDEO Knowing the Ground Rules</a></li>
+<li class="part"><span><b>Avoiding AI Harm</b></span></li>
+<li class="chapter" data-level="16" data-path="introduction-to-avoiding-ai-harm.html"><a href="introduction-to-avoiding-ai-harm.html"><i class="fa fa-check"></i><b>16</b> Introduction to Avoiding AI Harm</a>
+<ul>
+<li class="chapter" data-level="16.1" data-path="introduction-to-avoiding-ai-harm.html"><a href="introduction-to-avoiding-ai-harm.html#motivation-2"><i class="fa fa-check"></i><b>16.1</b> Motivation</a></li>
+<li class="chapter" data-level="16.2" data-path="introduction-to-avoiding-ai-harm.html"><a href="introduction-to-avoiding-ai-harm.html#target-audience-2"><i class="fa fa-check"></i><b>16.2</b> Target Audience</a></li>
+<li class="chapter" data-level="16.3" data-path="introduction-to-avoiding-ai-harm.html"><a href="introduction-to-avoiding-ai-harm.html#curriculum-1"><i class="fa fa-check"></i><b>16.3</b> Curriculum</a></li>
+<li class="chapter" data-level="16.4" data-path="introduction-to-avoiding-ai-harm.html"><a href="introduction-to-avoiding-ai-harm.html#learning-objectives"><i class="fa fa-check"></i><b>16.4</b> Learning Objectives</a></li>
+</ul></li>
+<li class="chapter" data-level="17" data-path="ethical-process.html"><a href="ethical-process.html"><i class="fa fa-check"></i><b>17</b> Ethical process</a></li>
+<li class="chapter" data-level="18" data-path="societal-impact.html"><a href="societal-impact.html"><i class="fa fa-check"></i><b>18</b> Societal Impact</a>
+<ul>
+<li class="chapter" data-level="18.1" data-path="societal-impact.html"><a href="societal-impact.html#intentional-and-inadvertent-harm"><i class="fa fa-check"></i><b>18.1</b> Intentional and Inadvertent Harm</a>
+<ul>
+<li class="chapter" data-level="18.1.1" data-path="societal-impact.html"><a href="societal-impact.html#tips-for-avoiding-inadvertent-harm"><i class="fa fa-check"></i><b>18.1.1</b> Tips for avoiding inadvertent harm</a></li>
+</ul></li>
+<li class="chapter" data-level="18.2" data-path="societal-impact.html"><a href="societal-impact.html#replacing-humans-and-human-autonomy"><i class="fa fa-check"></i><b>18.2</b> Replacing Humans and Human Autonomy</a>
+<ul>
+<li class="chapter" data-level="18.2.1" data-path="societal-impact.html"><a href="societal-impact.html#tips-for-supporting-human-contributions"><i class="fa fa-check"></i><b>18.2.1</b> Tips for supporting human contributions</a></li>
+</ul></li>
+<li class="chapter" data-level="18.3" data-path="societal-impact.html"><a href="societal-impact.html#inappropriate-use"><i class="fa fa-check"></i><b>18.3</b> Inappropriate Use</a>
+<ul>
+<li class="chapter" data-level="18.3.1" data-path="societal-impact.html"><a href="societal-impact.html#tips-for-avoiding-inappropriate-uses"><i class="fa fa-check"></i><b>18.3.1</b> Tips for avoiding inappropriate uses</a></li>
+</ul></li>
+<li class="chapter" data-level="18.4" data-path="societal-impact.html"><a href="societal-impact.html#bias-perpetuation-and-disparities"><i class="fa fa-check"></i><b>18.4</b> Bias Perpetuation and Disparities</a>
+<ul>
+<li class="chapter" data-level="18.4.1" data-path="societal-impact.html"><a href="societal-impact.html#tips-for-avoiding-bias"><i class="fa fa-check"></i><b>18.4.1</b> Tips for avoiding bias</a></li>
+</ul></li>
+<li class="chapter" data-level="18.5" data-path="societal-impact.html"><a href="societal-impact.html#security-and-privacy-issues"><i class="fa fa-check"></i><b>18.5</b> Security and Privacy issues</a>
+<ul>
+<li class="chapter" data-level="18.5.1" data-path="societal-impact.html"><a href="societal-impact.html#use-the-right-tool-for-the-job"><i class="fa fa-check"></i><b>18.5.1</b> Use the right tool for the job</a></li>
+<li class="chapter" data-level="18.5.2" data-path="societal-impact.html"><a href="societal-impact.html#ai-can-have-security-blind-spots"><i class="fa fa-check"></i><b>18.5.2</b> AI can have security blind spots</a></li>
+<li class="chapter" data-level="18.5.3" data-path="societal-impact.html"><a href="societal-impact.html#data-source-issues"><i class="fa fa-check"></i><b>18.5.3</b> Data source issues</a></li>
+<li class="chapter" data-level="18.5.4" data-path="societal-impact.html"><a href="societal-impact.html#tips-for-reducing-security-and-privacy-issues"><i class="fa fa-check"></i><b>18.5.4</b> Tips for reducing security and privacy issues</a></li>
+</ul></li>
+<li class="chapter" data-level="18.6" data-path="societal-impact.html"><a href="societal-impact.html#climate-impact"><i class="fa fa-check"></i><b>18.6</b> Climate Impact</a></li>
+<li class="chapter" data-level="18.7" data-path="societal-impact.html"><a href="societal-impact.html#tips-for-reducing-climate-impact"><i class="fa fa-check"></i><b>18.7</b> Tips for reducing climate impact</a></li>
+<li class="chapter" data-level="18.8" data-path="societal-impact.html"><a href="societal-impact.html#summary"><i class="fa fa-check"></i><b>18.8</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="19" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html"><i class="fa fa-check"></i><b>19</b> Algorithm considerations</a>
+<ul>
+<li class="chapter" data-level="19.1" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#harmful-or-toxic-responses"><i class="fa fa-check"></i><b>19.1</b> Harmful or Toxic Responses</a>
+<ul>
+<li class="chapter" data-level="19.1.1" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#tips-for-avoiding-the-creation-of-harmful-content"><i class="fa fa-check"></i><b>19.1.1</b> Tips for avoiding the creation of harmful content</a></li>
+</ul></li>
+<li class="chapter" data-level="19.2" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#lack-of-interpretability"><i class="fa fa-check"></i><b>19.2</b> Lack of Interpretability</a>
+<ul>
+<li class="chapter" data-level="19.2.1" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#tips-for-avoiding-a-lack-of-interpretability"><i class="fa fa-check"></i><b>19.2.1</b> Tips for avoiding a lack of interpretability</a></li>
+</ul></li>
+<li class="chapter" data-level="19.3" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#misinformation-and-faulty-responses"><i class="fa fa-check"></i><b>19.3</b> Misinformation and Faulty Responses</a>
+<ul>
+<li class="chapter" data-level="19.3.1" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#tips-for-reducing-misinformation-faulty-responses"><i class="fa fa-check"></i><b>19.3.1</b> Tips for reducing misinformation &amp; faulty responses</a></li>
+</ul></li>
+<li class="chapter" data-level="19.4" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#lack-of-interpretability-1"><i class="fa fa-check"></i><b>19.4</b> Lack of Interpretability</a>
+<ul>
+<li class="chapter" data-level="19.4.1" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#tips-for-avoiding-a-lack-of-interpretability-1"><i class="fa fa-check"></i><b>19.4.1</b> Tips for avoiding a lack of interpretability</a></li>
+</ul></li>
+<li class="chapter" data-level="19.5" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#misinformation-and-faulty-responses-1"><i class="fa fa-check"></i><b>19.5</b> Misinformation and Faulty Responses</a>
+<ul>
+<li class="chapter" data-level="19.5.1" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#tips-for-reducing-misinformation-faulty-responses-1"><i class="fa fa-check"></i><b>19.5.1</b> Tips for reducing misinformation &amp; faulty responses</a></li>
+</ul></li>
+<li class="chapter" data-level="19.6" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#security-and-privacy-issues-1"><i class="fa fa-check"></i><b>19.6</b> Security and Privacy issues</a></li>
+<li class="chapter" data-level="19.7" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#violating-copyright"><i class="fa fa-check"></i><b>19.7</b> Violating Copyright</a>
+<ul>
+<li class="chapter" data-level="19.7.1" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#tips-for-avoiding-copyright-violations"><i class="fa fa-check"></i><b>19.7.1</b> Tips for avoiding copyright violations</a></li>
+</ul></li>
+<li class="chapter" data-level="19.8" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#summary-1"><i class="fa fa-check"></i><b>19.8</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="20" data-path="adherence-practices.html"><a href="adherence-practices.html"><i class="fa fa-check"></i><b>20</b> Adherence practices</a>
+<ul>
+<li class="chapter" data-level="20.1" data-path="adherence-practices.html"><a href="adherence-practices.html#start-slow"><i class="fa fa-check"></i><b>20.1</b> Start Slow</a>
+<ul>
+<li class="chapter" data-level="20.1.1" data-path="adherence-practices.html"><a href="adherence-practices.html#tips-for-starting-slow"><i class="fa fa-check"></i><b>20.1.1</b> Tips for starting slow</a></li>
+</ul></li>
+<li class="chapter" data-level="20.2" data-path="adherence-practices.html"><a href="adherence-practices.html#check-for-allowed-use"><i class="fa fa-check"></i><b>20.2</b> Check for Allowed Use</a>
+<ul>
+<li class="chapter" data-level="20.2.1" data-path="adherence-practices.html"><a href="adherence-practices.html#tips-for-checking-for-allowed-use"><i class="fa fa-check"></i><b>20.2.1</b> Tips for checking for allowed use</a></li>
+</ul></li>
+<li class="chapter" data-level="20.3" data-path="adherence-practices.html"><a href="adherence-practices.html#use-multiple-ai-tools"><i class="fa fa-check"></i><b>20.3</b> Use Multiple AI Tools</a>
+<ul>
+<li class="chapter" data-level="20.3.1" data-path="adherence-practices.html"><a href="adherence-practices.html#tips-for-using-multiple-ai-tools"><i class="fa fa-check"></i><b>20.3.1</b> Tips for using multiple AI tools</a></li>
+</ul></li>
+<li class="chapter" data-level="20.4" data-path="adherence-practices.html"><a href="adherence-practices.html#educate-yourself-and-others"><i class="fa fa-check"></i><b>20.4</b> Educate Yourself and Others</a>
+<ul>
+<li class="chapter" data-level="20.4.1" data-path="adherence-practices.html"><a href="adherence-practices.html#tips-to-educate-yourself-and-others"><i class="fa fa-check"></i><b>20.4.1</b> Tips to educate yourself and others</a></li>
+</ul></li>
+<li class="chapter" data-level="20.5" data-path="adherence-practices.html"><a href="adherence-practices.html#summary-2"><i class="fa fa-check"></i><b>20.5</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="21" data-path="consent-and-ai.html"><a href="consent-and-ai.html"><i class="fa fa-check"></i><b>21</b> Consent and AI</a></li>
+<li class="chapter" data-level="22" data-path="idare-and-ai.html"><a href="idare-and-ai.html"><i class="fa fa-check"></i><b>22</b> IDARE and AI</a>
+<ul>
+<li class="chapter" data-level="22.1" data-path="idare-and-ai.html"><a href="idare-and-ai.html#ai-is-biased"><i class="fa fa-check"></i><b>22.1</b> AI is biased</a></li>
+<li class="chapter" data-level="22.2" data-path="idare-and-ai.html"><a href="idare-and-ai.html#examples-of-ai-bias"><i class="fa fa-check"></i><b>22.2</b> Examples of AI Bias</a>
+<ul>
+<li class="chapter" data-level="22.2.1" data-path="idare-and-ai.html"><a href="idare-and-ai.html#amazons-resume-system-was-biased-against-women"><i class="fa fa-check"></i><b>22.2.1</b> Amazon’s resume system was biased against women</a></li>
+<li class="chapter" data-level="22.2.2" data-path="idare-and-ai.html"><a href="idare-and-ai.html#x-ray-studies-show-ai-surprises"><i class="fa fa-check"></i><b>22.2.2</b> X-ray studies show AI surprises</a></li>
+</ul></li>
+<li class="chapter" data-level="22.3" data-path="idare-and-ai.html"><a href="idare-and-ai.html#mitigation"><i class="fa fa-check"></i><b>22.3</b> Mitigation</a></li>
+<li class="chapter" data-level="22.4" data-path="idare-and-ai.html"><a href="idare-and-ai.html#be-extremely-careful-using-ai-for-decisions"><i class="fa fa-check"></i><b>22.4</b> Be extremely careful using AI for decisions</a></li>
+<li class="chapter" data-level="22.5" data-path="idare-and-ai.html"><a href="idare-and-ai.html#more-inclusive-teams-means-better-models"><i class="fa fa-check"></i><b>22.5</b> More inclusive teams means better models</a></li>
+<li class="chapter" data-level="22.6" data-path="idare-and-ai.html"><a href="idare-and-ai.html#access"><i class="fa fa-check"></i><b>22.6</b> Access</a></li>
+</ul></li>
+<li class="part"><span><b>Establishing AI Infrastructure</b></span></li>
+<li class="chapter" data-level="23" data-path="introduction-to-establishing-ai-infrastructure.html"><a href="introduction-to-establishing-ai-infrastructure.html"><i class="fa fa-check"></i><b>23</b> Introduction to Establishing AI Infrastructure</a>
+<ul>
+<li class="chapter" data-level="23.1" data-path="introduction-to-establishing-ai-infrastructure.html"><a href="introduction-to-establishing-ai-infrastructure.html#motivation-3"><i class="fa fa-check"></i><b>23.1</b> Motivation</a></li>
+<li class="chapter" data-level="23.2" data-path="introduction-to-establishing-ai-infrastructure.html"><a href="introduction-to-establishing-ai-infrastructure.html#target-audience-3"><i class="fa fa-check"></i><b>23.2</b> Target Audience</a></li>
+<li class="chapter" data-level="23.3" data-path="introduction-to-establishing-ai-infrastructure.html"><a href="introduction-to-establishing-ai-infrastructure.html#curriculum-2"><i class="fa fa-check"></i><b>23.3</b> Curriculum</a></li>
+</ul></li>
+<li class="part"><span><b>AI Policy</b></span></li>
+<li class="chapter" data-level="24" data-path="introduction-to-ai-policy.html"><a href="introduction-to-ai-policy.html"><i class="fa fa-check"></i><b>24</b> Introduction to AI Policy</a>
+<ul>
+<li class="chapter" data-level="24.1" data-path="introduction-to-ai-policy.html"><a href="introduction-to-ai-policy.html#motivation-4"><i class="fa fa-check"></i><b>24.1</b> Motivation</a></li>
+<li class="chapter" data-level="24.2" data-path="introduction-to-ai-policy.html"><a href="introduction-to-ai-policy.html#target-audience-4"><i class="fa fa-check"></i><b>24.2</b> Target Audience</a></li>
+<li class="chapter" data-level="24.3" data-path="introduction-to-ai-policy.html"><a href="introduction-to-ai-policy.html#curriculum-3"><i class="fa fa-check"></i><b>24.3</b> Curriculum</a></li>
+</ul></li>
+<li class="chapter" data-level="25" data-path="legal-regulations-around-ai-use.html"><a href="legal-regulations-around-ai-use.html"><i class="fa fa-check"></i><b>25</b> Legal Regulations Around AI Use</a>
+<ul>
+<li class="chapter" data-level="25.1" data-path="legal-regulations-around-ai-use.html"><a href="legal-regulations-around-ai-use.html#the-eu-ai-act"><i class="fa fa-check"></i><b>25.1</b> The EU AI Act</a></li>
+</ul></li>
+<li class="chapter" data-level="26" data-path="video-legal-regulations-around-ai-use.html"><a href="video-legal-regulations-around-ai-use.html"><i class="fa fa-check"></i><b>26</b> VIDEO Legal Regulations Around AI Use</a></li>
+<li class="chapter" data-level="27" data-path="existing-laws-that-apply-to-ai.html"><a href="existing-laws-that-apply-to-ai.html"><i class="fa fa-check"></i><b>27</b> Existing Laws That Apply to AI</a>
+<ul>
+<li class="chapter" data-level="27.1" data-path="existing-laws-that-apply-to-ai.html"><a href="existing-laws-that-apply-to-ai.html#intellectual-property-laws"><i class="fa fa-check"></i><b>27.1</b> Intellectual Property Laws</a></li>
+<li class="chapter" data-level="27.2" data-path="existing-laws-that-apply-to-ai.html"><a href="existing-laws-that-apply-to-ai.html#data-privacy-and-protection"><i class="fa fa-check"></i><b>27.2</b> Data Privacy and Protection</a>
+<ul>
+<li class="chapter" data-level="27.2.1" data-path="existing-laws-that-apply-to-ai.html"><a href="existing-laws-that-apply-to-ai.html#information-security"><i class="fa fa-check"></i><b>27.2.1</b> Information Security</a></li>
+<li class="chapter" data-level="27.2.2" data-path="existing-laws-that-apply-to-ai.html"><a href="existing-laws-that-apply-to-ai.html#personal-information"><i class="fa fa-check"></i><b>27.2.2</b> Personal Information</a></li>
+<li class="chapter" data-level="27.2.3" data-path="existing-laws-that-apply-to-ai.html"><a href="existing-laws-that-apply-to-ai.html#biometric-privacy-laws"><i class="fa fa-check"></i><b>27.2.3</b> Biometric Privacy Laws</a></li>
+</ul></li>
+<li class="chapter" data-level="27.3" data-path="existing-laws-that-apply-to-ai.html"><a href="existing-laws-that-apply-to-ai.html#liability-laws"><i class="fa fa-check"></i><b>27.3</b> Liability Laws</a></li>
+</ul></li>
+<li class="chapter" data-level="28" data-path="video-existing-laws-that-apply-to-ai.html"><a href="video-existing-laws-that-apply-to-ai.html"><i class="fa fa-check"></i><b>28</b> VIDEO Existing Laws That Apply to AI</a></li>
+<li class="chapter" data-level="29" data-path="title.html"><a href="title.html"><i class="fa fa-check"></i><b>29</b> Title!</a></li>
+<li class="chapter" data-level="30" data-path="video-title.html"><a href="video-title.html"><i class="fa fa-check"></i><b>30</b> VIDEO Title!</a></li>
+<li class="chapter" data-level="31" data-path="title-1.html"><a href="title-1.html"><i class="fa fa-check"></i><b>31</b> Title!</a></li>
+<li class="chapter" data-level="32" data-path="video-title-1.html"><a href="video-title-1.html"><i class="fa fa-check"></i><b>32</b> VIDEO Title!</a></li>
+<li class="chapter" data-level="" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i>About the Authors</a></li>
+<li class="chapter" data-level="33" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i><b>33</b> References</a></li>
+<li class="divider"></li>
+<p style="text-align:center;"> <a href="https://github.com/jhudsl/OTTR_Template" target="blank" > This content was published with</a> <a href="https://bookdown.org/" target="blank"> bookdown by: </a> </p>
+<p style="text-align:center;"> <a href="https://hutchdatascience.org/"> The Fred Hutch Data Science Lab </a></p>
+<p style="text-align:center; font-size: 12px;"> <a href="https://github.com/rstudio4edu/rstudio4edu-book/"> Style adapted from: rstudio4edu-book </a> <a href ="https://creativecommons.org/licenses/by/2.0/"> (CC-BY 2.0) </a></p>
+<p style="padding-left: 40px;"><div class="trapezoid" style = "padding-left: 40px;"><span>  <a href="https://forms.gle/W6Mg4rzuMK6Yk3Am8"> Click here to provide feedback</a> <img src="assets/itcr_arrow.png" style=" width: 10%" ></span></div></p>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">How AI Works</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<head>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0">
+  <!--script src="https://kit.fontawesome.com/6a26f47516.js"></script-->
+  <!--<script src="assets/hideOutput.js"></script>-->
+  <link href="assets/style.css" rel="stylesheet">
+</head>
+        
+
+
+<div class="hero-image-container"> 
+  <img class= "hero-image" src="assets/dasl_thin_main_image.png">
+</div>
+<div id="algorithm-considerations" class="section level1" number="19">
+<h1><span class="header-section-number">Chapter 19</span> Algorithm considerations</h1>
+<p>In this chapter we will discuss the some of the major ethical considerations regarding the algorithms underlying AI tools. We will provide some tips for how to deal with these issues that may be useful for creating AI guidelines at your institution.</p>
+<ol style="list-style-type: decimal">
+<li><strong>Toxic Responses</strong> - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc.</li>
+<li><strong>Lack of Interpretability</strong> - When complicated algorithms are used within AI systems, it can be unclear how it came up with a decision. In many circumstances it is necessary to understand how the AI system works to know how to proceed.</li>
+<li><strong>Misinformation and Faulty Responses</strong> - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.</li>
+<li><strong>Copyright Violations</strong> - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright.</li>
+</ol>
+<p>Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools <strong>careful to learn more about the specific tools they are interested in</strong> and to be <strong>transparent</strong> about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.</p>
+<div id="harmful-or-toxic-responses" class="section level2" number="19.1">
+<h2><span class="header-section-number">19.1</span> Harmful or Toxic Responses</h2>
+<p>Another major concern is the use of AI to generate malicious content or that AI itself may accidentally create harmful responses. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">“toxicity”</a>, which refers to disrespectful, rude, or hateful responses (<span class="citation">Nikulski (<a href="references.html#ref-nikulski_toxicity_2021" role="doc-biblioref">2021</a>)</span>). These responses can have very negative consequences for users. Ultimately both issues could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses, to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.</p>
+<div id="tips-for-avoiding-the-creation-of-harmful-content" class="section level3" number="19.1.1">
+<h3><span class="header-section-number">19.1.1</span> Tips for avoiding the creation of harmful content</h3>
+<ul>
+<li>Be careful about what commercial tools you employ, they should be transparent about what they do to avoid harm.</li>
+<li>If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as <a href="https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/">Amazon Bedrock</a> have tools for evaluating <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">toxicity</a> to test for harmful responses. Although such systems can be helpful to automatically test, evaluation should also be done directly by humans.</li>
+<li>Be careful about the context in which you might have people use AI - will they know how to use it responsibly?</li>
+<li>Be careful about what content you share publicly, as it could be used for malicious purposes.</li>
+<li>Consider how the content might be used by others.</li>
+<li>Ask the AI tools to help you, but do not rely on them alone.</li>
+</ul>
+<div class="query">
+<p>What are the possible downstream uses of this content?</p>
+</div>
+<div class="query">
+<p>What are some possible negative consequences of using this content?</p>
+</div>
+</div>
+</div>
+<div id="lack-of-interpretability" class="section level2" number="19.2">
+<h2><span class="header-section-number">19.2</span> Lack of Interpretability</h2>
+<p>There is risk in using AI tools, that we may encounter situations where it is unclear why the AI system came to a particular result. AI systems that use more complicated algorithms can make it difficult to trace back the decision process of the algorithm.
+Using content created or modified by AI, could make it difficult for others to understand if the content is adequate or appropriate, or to identify and fix any issues that may arise.</p>
+<p>This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions.</p>
+<div id="tips-for-avoiding-a-lack-of-interpretability" class="section level3" number="19.2.1">
+<h3><span class="header-section-number">19.2.1</span> Tips for avoiding a lack of interpretability</h3>
+<ul>
+<li>Content should be reviewed by those experienced in the given field.</li>
+<li>Ask AI tools to help you understand the how it got to the response that it did, but get expert assistance where needed.</li>
+</ul>
+<div class="query">
+<p>Can you explain how you generated this response?</p>
+</div>
+</div>
+</div>
+<div id="misinformation-and-faulty-responses" class="section level2" number="19.3">
+<h2><span class="header-section-number">19.3</span> Misinformation and Faulty Responses</h2>
+<p>AI tools use data that may contain false or incorrect information and may therefore respond with content that is also false or incorrect.</p>
+<p>This is due to number of reasons:</p>
+<ul>
+<li>AI tools may “hallucinate” fake response based on artifacts of the algorithm</li>
+<li>AI tools may be trained on data that is out-of-date</li>
+<li>AI tools may be trained on data that has fake or incorrect information</li>
+<li>AI tools are not necessarily trained for every intended use and may therefore may not reflect best practices for a given task or field</li>
+</ul>
+<p>AI tools may also report data as if it is real, when it is in fact not real. For example, currently at the time of the writing of this course, ChatGPT will report citations with links that are not always correct. Furthermore, AI models can “hallucinate” incorrect responses based on artifacts of the algorithm underneath the tool. These responses are essentially made up by the tool. It is difficult to know when a tool is hallucinating especially if it is a tool that you did not create, therefore it is important to review and check responses from AI tools. There is also a risk that content written with AI tools, may be incorrect or inappropriate for the given context of intended use, or they may not reflect best practices for a given context or field. The tools are limited to the data they were trained on, which may not reflect your intended use.</p>
+<p>It is also important to remember that content generated by AI tools is not necessarily better than content written by humans. It requires just as much, if not more review.</p>
+<div id="tips-for-reducing-misinformation-faulty-responses" class="section level3" number="19.3.1">
+<h3><span class="header-section-number">19.3.1</span> Tips for reducing misinformation &amp; faulty responses</h3>
+<ul>
+<li>Be aware that some AI tools currently make up false information based on artifacts of the algorithm called hallucinations or based on false information in the training data.</li>
+<li>Do not assume that the content generated by AI is real or correct.</li>
+<li>Realize that AI is only as good or up-to-date as what it was trained on, the content may be generated using out-of-date data. Look up responses to ensure it is up-to-date.</li>
+<li>In many cases <strong>utilizing multiple AI tools</strong> can help you to <strong>cross-check</strong> the responses (however be careful about the privacy of each tool if you use any private or propriety data in your prompts!).</li>
+<li>Ask the AI tools for extra information about if there are any potential limitations or weaknesses in the responses, but keep in mind that the tool may not be aware of issues and therefore human review is required. The information provided by the tool can however be a helpful starting point.</li>
+</ul>
+<div class="query">
+<p>Are there any limitations associated with this response?</p>
+</div>
+<div class="query">
+<p>What assumptions were made in creating this content?</p>
+</div>
+<div class="ethics">
+<p><a href="https://stackoverflow.com/">Stack Overflow</a>, a popular community-based website where programmers help one another, has (at the time of writing this) temporarily <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned">banned</a> users from answering questions with AI-generated code. This is because users were posting incorrect answers to questions. It is important to follow this policy (as you may face removal from the community). This policy goes to show that you really need to check the code that you get from AI models. While they are currently helpful tools, they do not know everything.</p>
+</div>
+</div>
+</div>
+<div id="lack-of-interpretability-1" class="section level2" number="19.4">
+<h2><span class="header-section-number">19.4</span> Lack of Interpretability</h2>
+<p>There is risk in using AI tools, that we may encounter situations where it is unclear why the AI system came to a particular result. AI systems that use more complicated algorithms can make it difficult to trace back the decision process of the algorithm.
+Using content created or modified by AI, could make it difficult for others to understand if the content is adequate or appropriate, or to identify and fix any issues that may arise.</p>
+<p>This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions.</p>
+<div id="tips-for-avoiding-a-lack-of-interpretability-1" class="section level3" number="19.4.1">
+<h3><span class="header-section-number">19.4.1</span> Tips for avoiding a lack of interpretability</h3>
+<ul>
+<li>Content should be reviewed by those experienced in the given field.</li>
+<li>Ask AI tools to help you understand the how it got to the response that it did, but get expert assistance where needed.</li>
+</ul>
+<div class="query">
+<p>Can you explain how you generated this response?</p>
+</div>
+<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_157.png" title="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." alt="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." width="100%" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+<div id="misinformation-and-faulty-responses-1" class="section level2" number="19.5">
+<h2><span class="header-section-number">19.5</span> Misinformation and Faulty Responses</h2>
+<p>AI tools use data that may contain false or incorrect information and may therefore respond with content that is also false or incorrect.</p>
+<p>This is due to number of reasons:</p>
+<ul>
+<li>AI tools may “hallucinate” fake response based on artifacts of the algorithm</li>
+<li>AI tools may be trained on data that is out-of-date</li>
+<li>AI tools may be trained on data that has fake or incorrect information</li>
+<li>AI tools are not necessarily trained for every intended use and may therefore may not reflect best practices for a given task or field</li>
+</ul>
+<p>AI tools may also report data as if it is real, when it is in fact not real. For example, currently at the time of the writing of this course, ChatGPT will report citations with links that are not always correct. Furthermore, AI models can “hallucinate” incorrect responses based on artifacts of the algorithm underneath the tool. These responses are essentially made up by the tool. It is difficult to know when a tool is hallucinating especially if it is a tool that you did not create, therefore it is important to review and check responses from AI tools. There is also a risk that content written with AI tools, may be incorrect or inappropriate for the given context of intended use, or they may not reflect best practices for a given context or field. The tools are limited to the data they were trained on, which may not reflect your intended use.</p>
+<p>It is also important to remember that content generated by AI tools is not necessarily better than content written by humans. It requires just as much, if not more review.</p>
+<div id="tips-for-reducing-misinformation-faulty-responses-1" class="section level3" number="19.5.1">
+<h3><span class="header-section-number">19.5.1</span> Tips for reducing misinformation &amp; faulty responses</h3>
+<ul>
+<li>Be aware that some AI tools currently make up false information based on artifacts of the algorithm called hallucinations or based on false information in the training data.</li>
+<li>Do not assume that the content generated by AI is real or correct.</li>
+<li>Realize that AI is only as good or up-to-date as what it was trained on, the content may be generated using out-of-date data. Look up responses to ensure it is up-to-date.</li>
+<li>In many cases <strong>utilizing multiple AI tools</strong> can help you to <strong>cross-check</strong> the responses (however be careful about the privacy of each tool if you use any private or propriety data in your prompts!).</li>
+<li>Ask the AI tools for extra information about if there are any potential limitations or weaknesses in the responses, but keep in mind that the tool may not be aware of issues and therefore human review is required. The information provided by the tool can however be a helpful starting point.</li>
+</ul>
+<div class="query">
+<p>Are there any limitations associated with this response?</p>
+</div>
+<div class="query">
+<p>What assumptions were made in creating this content?</p>
+</div>
+<div class="ethics">
+<p><a href="https://stackoverflow.com/">Stack Overflow</a>, a popular community-based website where programmers help one another, has (at the time of writing this) temporarily <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned">banned</a> users from answering questions with AI-generated code. This is because users were posting incorrect answers to questions. It is important to follow this policy (as you may face removal from the community). This policy goes to show that you really need to check the code that you get from AI models. While they are currently helpful tools, they do not know everything.</p>
+</div>
+<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_157.png" title="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." alt="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." width="100%" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+<div id="security-and-privacy-issues-1" class="section level2" number="19.6">
+<h2><span class="header-section-number">19.6</span> Security and Privacy issues</h2>
+<p>Commercial AI tools are often not designed to protect users from unknowingly submitting prompts that include propriety are private information. Different AI tools have different practices in terms of how they do or do not collect data about the prompts that people submit. They also have different practices in terms of if they reuse information from prompts to other users. Thus if users submit prompts that include propriety or private information, they run the risk of that information being viewable not only by the developers/maintainers of the AI tool used, but also by other users who use that same AI tool. Note that the AI system itself may not be trained on responses for how prompt data is collected or not.</p>
+<p>Furthermore, AI tools are not always trained in a way that is particularly conscious of data security. If for example, code is written using these tools by users who are less familiar with coding security concerns, protected data or important passwords may be leaked within the code itself. AI systems may also utilize data that was actually intended to be private.</p>
+<p>It is also important to consider what data your the responses that you get from an AI tool might actually be using.</p>
+</div>
+<div id="violating-copyright" class="section level2" number="19.7">
+<h2><span class="header-section-number">19.7</span> Violating Copyright</h2>
+<p>When AI systems are trained on data, they may also learn and incorporate copyrighted information. This means that AI-generated content could potentially infringe on the copyright of the original author. For example, if an AI system is trained on a code written by a human programmer, the AI system could generate code that is identical to or similar to the code from that author. If the AI system then uses this code without permission from the original author, this could constitute copyright infringement.</p>
+<p>Similarly, AI systems could potentially infringe on intellectual property rights by using code that is protected by trademarks or patents. For example, if an AI system is trained on a training manual that contains code that is protected by a trademark, the AI system could generate code that is identical to or similar to the code in the training manual. If the AI system then uses this code without permission from the trademark owner, this could constitute trademark infringement.</p>
+<div id="tips-for-avoiding-copyright-violations" class="section level3" number="19.7.1">
+<h3><span class="header-section-number">19.7.1</span> Tips for avoiding copyright violations</h3>
+<ul>
+<li>Be transparent about what AI tools you use to write your code.</li>
+<li>Obtain permission from the copyright holders of any content that you use to train an AI system. Only use content that has been licensed for use.</li>
+<li>Cite all content that you can.</li>
+<li>Ask the AI tools if the content it helped generate used any content that you can cite.</li>
+</ul>
+<div class="query">
+<p>Did this content use any content from others that I can cite?</p>
+</div>
+</div>
+</div>
+<div id="summary-1" class="section level2" number="19.8">
+<h2><span class="header-section-number">19.8</span> Summary</h2>
+<p>Here is a summary of all the tips we suggested:</p>
+<div class="ethics">
+<ul>
+<li>Disclose when you use AI tools to create content.</li>
+<li>Be aware that AI systems are biased and their responses are likely biased. Any content generated by an AI system should be evaluated for potential bias.</li>
+<li>Be aware that AI systems may behave in unexpected ways. Implement new AI solutions slowly to account for the unexpected. Test those systems and try to better understand how they work in different contexts.</li>
+<li>Be aware that humans are still better at generalizing concepts to other contexts.</li>
+<li>Carefully consider if an AI solution is appropriate for your context.</li>
+<li>Credit human authors by citing them and adhering to copyright restrictions.</li>
+<li>Ensure that prompts to commercial tools don’t include private or propriety data or information.</li>
+<li>Cross-check content from AI tools by using multiple AI tools - but check that each tool meets the privacy and security restrictions that you need.</li>
+<li>Don’t assume AI-generated content is real, accurate, consistent, current, or better than that of a human.</li>
+<li>Ask the AI tools to help you understand:
+<ul>
+<li>Sources for the content that you can cite</li>
+<li>Any decision processes in how the content was created</li>
+<li>Potential limitations</li>
+<li>Potential security or privacy issues</li>
+<li>Potential downstream consequences of the use of the content</li>
+</ul></li>
+<li>Always have expert humans review the content and value your own contributions and thoughts.</li>
+<li>Emphasize training and education about AI and recognize that best practices will evolve as the technology evolves.</li>
+</ul>
+</div>
+<p>Overall, we hope that these guidelines and tips will help us all use AI tools more responsibly. We recognize however, that as this is emerging technology and more ethical issues will emerge as we continue to use these tools in new ways. AI tools can even help us to use them more responsibly when we ask the right additional questions, but remember that human review is always necessary. Staying up-to-date on the current ethical considerations will also help us all continue to use AI responsibly.</p>
+
+</div>
+</div>
+<hr>
+<center> 
+  <div class="footer">
+      All illustrations <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY. </a>
+      <br>
+      All other materials <a href= "https://creativecommons.org/licenses/by/4.0/"> CC-BY </a> unless noted otherwise.
+      <a href="https://hutchdatascience.org/" target="_blank"><img src="https://hutchdatascience.org/images/crazy-idea-wide.png" style="width: 80%; padding-left: 15px; padding-top: 8px;"</a>
+  </div>
+</center>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="societal-impact.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="adherence-practices.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
