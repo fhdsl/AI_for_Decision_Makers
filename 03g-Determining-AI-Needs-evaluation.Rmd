@@ -86,17 +86,20 @@ Here's a very quick overview of what a usability testing workflow might look lik
 - Decide what features of your AI tool you’d like to get feedback on
 - Recruit and compensate participants
 - Write a script for usability testing - always need to emphasize that if they the participant doesn’t know how to do something it is not their fault, its something that needs to be fixed with the tool!
-- Watch 3 - 5 people try to do the task – often 3 is enough to illuminate a lot of problems to be fixed! 
+- Watch 3 - 5 people try to do the task – often 3 is enough to illuminate a lot of problems to be fixed!
 - Observe and take notes on what was tricky
 - Ask participants questions!
 
 [We recommend reading this great article about user testing](https://uxstudioteam.com/ux-blog/usability-testing/) or reading more from this [Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/index.html#available-course-formats).
 
+There's many ways to obtain user feedback, and surveys, and interface analytics.
+
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM/edit#slide=id.g2a6c15e7d80_0_329")
 ```
+Some examples of metrics you may want to collect:
 
-Success rate - how many users were able to successfully complete the task?
-Task time - how long does it take them to do
-Net Promoter Score (NPS) - scale of 0 - 10 summarized stat to understand what percentage of users would actively recommend your tool to others.
-Qualitative data and surveys - don’t underestimate the power of asking people their thoughts!
+- Success rate - how many users were able to successfully complete the task?
+- Task time - how long does it take them to do
+- Net Promoter Score (NPS) - scale of 0 - 10 summarized stat to understand what percentage of users would actively recommend your tool to others.
+- Qualitative data and surveys - don’t underestimate the power of asking people their thoughts!
