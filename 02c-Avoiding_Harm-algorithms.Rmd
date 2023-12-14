@@ -15,8 +15,7 @@ In this chapter we will discuss the some of the major ethical considerations reg
 1) **Toxic Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
 1) **Lack of Interpretability** - When complicated algorithms are used within AI systems, it can be unclear how it came up with a decision. In many circumstances it is necessary to understand how the AI system works to know how to proceed. 
 1) **Misinformation and Faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
-1) **Security or Privacy Issues** - Uploading, pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users
-- https://www.securitymagazine.com/articles/100219-ai-security-risks-separating-hype-from-reality#:~:text=Security%20teams%20must%20ensure%20that,complying%20with%20data%20protection%20regulations.
+1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
@@ -174,18 +173,6 @@ Furthermore, AI tools are not always trained in a way that is particularly consc
 
 It is also important to consider what data your the responses that you get from an AI tool might actually be using.
 
-
-### Tips for reducing security and privacy issues
-
-* Check that no sensitive data, such as Personal Identifiable Information (PII) or propriety information becomes public through prompts to commercial AI systems.
-* Consider purchasing a license for a private AI system if needed or create your own if you wish to work with sensitive data (seek expert guidance to determine if the AI systems are secure enough).
-* Promote for regulation of AI tools by voting for standards where possible.
-* Ask AI tools for help with security when using commercial tools, but to not rely on them alone. In some cases, commercial AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
-* Consult with an expert about data security if you want to design or use a AI tool that will regularly use private or propriety data.
-
-<div class = "query">
-Are there any possible data security or privacy issues associated with the plan you proposed?
-</div>
 
 ## Violating Copyright
 
