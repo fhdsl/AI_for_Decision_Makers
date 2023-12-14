@@ -7,7 +7,9 @@ ottrpal::set_knitr_image_path()
 
 
 
-#Adherence practices
+# Adherence practices
+
+Here we suggest some simple practices that can help you and others at your institution to better adhere to current proposed ethical guidelines.
 
 1) **Start Slow** - Starting slow can allow for time to better understand how AI systems work and any possible unexpected consequences.
 1) **Check for Allowed Use ** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
