@@ -28,7 +28,7 @@ Not all data types are safe to share for a variety of reasons. To protect patien
 But protected data projects could highly benefit from AI!
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c/edit#slide=id.g2a67c71014b_0_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c/edit#slide=id.g2a642e30eae_0_361")
 ```
 
 - AI analysis tools as helpful diagnostic aids for use with health data, imaging data, genomic data.
