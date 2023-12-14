@@ -1,8 +1,8 @@
 1-VIDEO-Summary-of-This-Course.md
 2-Introduction.md
 3-Introduction-to-AI-Possibilities.md
-4-What-Is-AI.md
-5-VIDEO-What-Is-AI-and-What-It-Is-Not.md
+4-VIDEO-What-Is-AI.md
+5-What-Is-AI.md
 6-VIDEO-How-AI-Works.md
 7-How-AI-Works.md
 8-VIDEO-Different-Types-of-AI.md
@@ -14,9 +14,9 @@
 14-Ground-Rules-for-AI.md
 15-VIDEO-Knowing-the-Ground-Rules.md
 16-Introduction-to-Avoiding-AI-Harm.md
-17-Consent-and-AI.md
-18-IDARE-and-AI.md
-19-Be-extremely-careful-using-AI-for-decisions.md
+17-Introduction-to-Avoiding-AI-Harm.md
+18-Consent-and-AI.md
+19-IDARE-and-AI.md
 20-Introduction-to-Establishing-AI-Infrastructure.md
 21-Introduction-to-AI-Policy.md
 22-Legal-Regulations-Around-AI-Use.md
