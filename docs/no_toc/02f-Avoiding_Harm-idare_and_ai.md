@@ -66,6 +66,7 @@ AI should not be used to make or help make employment decisions about applicants
 It is vital that teams hired for the development, auditing or testing of AI tools be as inclusive as possible and should follow the current best IDARE practices for standards for hiring standards. This will help to ensure that different perspectives and concerns are considered. 
 
  
+## Access
 
 Resources:  
 
