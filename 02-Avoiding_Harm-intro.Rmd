@@ -38,6 +38,7 @@ This course provides a brief introduction about ethical concepts to be aware of 
 
 In this chapter we will demonstrate how to:
 
+- Explain a possible process for ethical AI use and development
 - Describe key ethical concerns for using AI tools
 - Identify possible mitigation strategies for these major concerns
 - Explain the potential benefits of being transparent about the use of AI tools
