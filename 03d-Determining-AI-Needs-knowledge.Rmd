@@ -58,7 +58,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1rdVYJyS7xLYDsoZw
 
 In addition to prompt engineering it's also vital to note that different AI models are trained on different things. So if one is not giving you the output you need, try another!
 
-For LLMs, you can use https://poe.com/ or https://gpt.h2o.ai/  to test out prompts on multiple Ai platforms side by side.
+For LLMs, you can use https://poe.com/ or https://gpt.h2o.ai/  to test out prompts on multiple AI platforms side by side.
 
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA/edit#slide=id.g2a646d7c3d3_0_39")
