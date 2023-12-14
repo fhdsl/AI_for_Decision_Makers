@@ -7,7 +7,7 @@ ottrpal::set_knitr_image_path()
 
 
 
-## Algorithm considerations
+# Algorithm considerations
 
 In this chapter we will discuss the some of the major ethical considerations for the use or development of AI tools.
 
@@ -59,6 +59,7 @@ This could result in negative consequences, such as for example reliance on a sy
 :::{.query}
 Can you explain how you generated this response?
 :::
+
 ## Misinformation and Faulty Responses
 
 AI tools use data that may contain false or incorrect information and may therefore respond with content that is also false or incorrect. 

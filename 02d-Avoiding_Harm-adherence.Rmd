@@ -7,7 +7,7 @@ ottrpal::set_knitr_image_path()
 
 
 
-Adherence practices
+#Adherence practices
 
 1) **Start Slow**
 1) **Fair Data Use** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 

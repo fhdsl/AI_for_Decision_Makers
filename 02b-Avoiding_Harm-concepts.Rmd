@@ -7,7 +7,7 @@ ottrpal::set_knitr_image_path()
 
 
 
-## Societal Impact
+# Societal Impact
 
 In this chapter we will discuss the some of the major ethical considerations in terms of possible societal consequences for the use or development of AI tools:
 
