@@ -17,6 +17,9 @@ our-ai-definition
 ai-in-practice
 amazon-recommendations
 financial-forecasting
+categorizing-businesses
+incorporating-new-predictors-for-forecasting
+using-large-language-models-to-predict-inflation
 what-is-and-is-not-ai
 smartphones
 calculators
