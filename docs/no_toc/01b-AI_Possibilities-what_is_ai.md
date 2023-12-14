@@ -11,9 +11,9 @@ When discussing artificial intelligence, people often envision humanoid robots, 
 
 <img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g2a68fa11a90_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
-Defining what AI is can be tricky because what experts consider to be AI changes frequently. John McCarthy, one of the leading early figures in AI once said, "As soon as it works, no one calls it artificial intelligence anymore". 
+Defining what AI is can be tricky because what experts consider to be AI changes frequently. John McCarthy, one of the leading early figures in AI once said, "As soon as it works, no one calls it artificial intelligence anymore".
 
-For instance, 20 years ago, the idea of an email spam checker was new. People were surprised that an algorithm could identify junk email accurately, and called it “artificial intelligence”. Since this type of algorithm has become so common, it is no longer called "artificial intelligence". This transition happened because we no longer think it is surprising that computers can filter spam messages. Because it is not learning something new and surprising, it is no longer considered intelligent. 
+For instance, 20 years ago, the idea of an email spam checker was new. People were surprised that an algorithm could identify junk email accurately, and called it “artificial intelligence”. Since this type of algorithm has become so common, it is no longer called "artificial intelligence". This transition happened because we no longer think it is surprising that computers can filter spam messages. Because it is not learning something new and surprising, it is no longer considered intelligent.
 
 <img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g2a162964683_1_176.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
@@ -23,7 +23,7 @@ Scientists are still working toward computers with full human problem solving an
 
 <img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_gcf1264c749_0_130.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
-<div class = "dictionary"> 
+<div class = "dictionary">
 **Artificial General Intelligence (AGI)**: A type of artificial intelligence that can understand, learn, and apply knowledge across a wide range of tasks, similar to the broad cognitive abilities of a human being. It represents the aspiration for machines to have versatile intelligence rather than focusing on specific, narrow domains. Check out **Types of AI** to learn more.
 </div>
 
@@ -33,7 +33,7 @@ Going forward in this course, we define AI as having the following features:
 
 1. **Dataset**: AI needs data examples that can be used to train a statistical or machine learning model to make predictions.
 
-1. **Algorithm**: AI needs an algorithm, or a set of procedures, that can be trained based on the data examples. That way, it can take a new example and execute a human-like task. For instance, the algorithm learns which images feature a cat from pre-labeled images. When given a new image, it decides whether the image has a cat in it. 
+1. **Algorithm**: AI needs an algorithm, or a set of procedures, that can be trained based on the data examples. That way, it can take a new example and execute a human-like task. For instance, the algorithm learns which images feature a cat from pre-labeled images. When given a new image, it decides whether the image has a cat in it.
 
 1. **Interface**: AI needs a physical interface or software for the trained algorithm to receive a data input and execute the human-like task in the real world. For example, you might interface with a chatbot in your web browser.
 
@@ -69,13 +69,13 @@ The name "smartphone" implies these devices are making decisions and are powered
 
 1. **Interface**: Again, some features like voice assistants can be interacted with through the smartphone.
 
-While there are some features on smartphones that are powered by AI models, like virtual voice assistants and facial recognition, the device as a whole isn't considered AI. 
+While there are some features on smartphones that are powered by AI models, like virtual voice assistants and facial recognition, the device as a whole isn't considered AI.
 
 ### Calculators
 
 <img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_8.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
-Many of us use basic calculators, as you might find in Microsoft Excel, every day. AI also makes many calculations. Is it just a scaled-up calculator? 
+Many of us use basic calculators, as you might find in Microsoft Excel, every day. AI also makes many calculations. Is it just a scaled-up calculator?
 
 1. **Dataset:** Calculators and spreadsheets can store data.
 
@@ -89,7 +89,7 @@ Traditional calculators are not considered AI, because they can only execute pre
 
 <img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_15.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
-Like calculators, computers follow set procedures for problem solving and computation. Everyday computers use these procedures to help automate repetitive tasks and save time. However, this isn't generally considered AI, because the computer's algorithms aren't being trained with new data you supply. AI systems exhibit the ability to adapt and handle new inputs for tasks that might be more complicated. 
+Like calculators, computers follow set procedures for problem solving and computation. Everyday computers use these procedures to help automate repetitive tasks and save time. However, this isn't generally considered AI, because the computer's algorithms aren't being trained with new data you supply. AI systems exhibit the ability to adapt and handle new inputs for tasks that might be more complicated.
 
 ### DISCUSSION Is It AI
 
