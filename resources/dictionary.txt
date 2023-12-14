@@ -39,8 +39,13 @@ impactful
 IRBs
 ITCR
 itcrtraining
+Inadvertent
+inadvertent
 Interpretability
 interpretability
+ITCR
+itcrtraining
+iteratively
 ITN
 findable
 fyi
@@ -61,6 +66,7 @@ UE
 UE5
 under-diagnosed
 reproducibility
+Samsung
 transformative
 underserved
 www
