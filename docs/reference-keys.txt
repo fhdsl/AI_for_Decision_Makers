@@ -10,6 +10,7 @@ introduction-1
 motivation-1
 target-audience-1
 curriculum-summary
+learning-objectives
 video-what-is-ai
 what-is-ai
 our-ai-definition
@@ -23,8 +24,9 @@ computer-programs
 discussion-is-it-ai
 video-how-ai-works
 how-ai-works
-machines-can-learn-like-us
 the-data-explosion
+what-is-data
+machines-can-learn-like-us
 video-different-types-of-ai
 types-of-ai
 video-real-life-possibilities
@@ -37,7 +39,7 @@ introduction-to-avoiding-ai-harm
 motivation-2
 target-audience-2
 curriculum-1
-learning-objectives
+learning-objectives-1
 ethical-process
 societal-impact
 intentional-and-inadvertent-harm
