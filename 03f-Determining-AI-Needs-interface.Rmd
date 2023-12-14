@@ -12,7 +12,7 @@
 Sometimes you need the power of AI underneath the hood of your own website/app. There are multiple strategies you can employ to achieve this.
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c/edit#slide=id.g2a642e30eae_0_175")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g/edit#slide=id.g2a0db34665a_0_6")
 ```
 
 In this scenario, you need to have your website or app that has its own interface. Interfaces are how people will use your app. There's two main interface types that are most common: GUIs and Command line
