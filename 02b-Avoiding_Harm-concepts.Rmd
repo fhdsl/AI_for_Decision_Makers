@@ -9,7 +9,7 @@ ottrpal::set_knitr_image_path()
 
 # Societal Impact
 
-AI has the potential to dramatically influence society. It is our responsibility to be proactive in thinking about what uses and impacts we consider to be useful and appropriate and those we consider harmful and in appopriate. 
+AI has the potential to dramatically influence society. It is our responsibility to be proactive in thinking about what uses and impacts we consider to be useful and appropriate and those we consider harmful and in appropriate. 
 
 There are a few current major codes of ethics for AI. As this is an emerging technology, more codes will be developed and updated as the technology evolves.
 
