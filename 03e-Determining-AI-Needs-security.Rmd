@@ -41,6 +41,12 @@ Protected data might be useful as training data for a problem and/or patients or
 ottrpal::include_slide("https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c/edit#slide=id.g2a642e30eae_0_0")
 ```
 
+<div class = "warning">
+
+* Protected data needs should always be taken seriously! Before deploying any AI solutions that involve protected data consult your legal experts and IRB!
+
+</div>
+
 ## Data security basics
 
 Before we dive into AI related solutions, it's a good idea that we remind ourselves of some of the best practices for data privacy
