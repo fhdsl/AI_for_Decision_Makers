@@ -142,11 +142,7 @@ First we might highlight keywords in this paragraph. And meanwhile the words and
 ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_146")
 ```
 
-When we connect these relationship between these words we might already start pulling out some of the meaning of this paragraph.Grabbing these relational words will help us piece together more meaning.
-
-```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_168")
-```
+When we connect these relationship between these words we might already start pulling out some of the meaning of this paragraph. Grabbing these relational words will help us piece together more meaning.
 
 Lastly we might pull out some contextual information from the other words we left behind.
 
@@ -210,4 +206,4 @@ One more important point about AI models. Their training and training data is cr
 ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a61bc12ef8_0_169")
 ```
 
-To summarize, for AI models can only be as good as their training. So garbage training data in means biased garbage as output. 
+To summarize, for AI models can only be as good as their training. So garbage training data in means biased garbage as output.
