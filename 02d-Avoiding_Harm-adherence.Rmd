@@ -7,12 +7,14 @@ ottrpal::set_knitr_image_path()
 
 
 
-Adherence practices
+# Adherence practices
 
-1) **Start Slow**
-1) **Fair Data Use** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
-1) **Tool Diversity** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues.
-1) **Education** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards of use. 
+Here we suggest some simple practices that can help you and others at your institution to better adhere to current proposed ethical guidelines.
+
+1) **Start Slow** - Starting slow can allow for time to better understand how AI systems work and any possible unexpected consequences.
+1) **Check for Allowed Use ** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
+1) **Use Multiple AI Tools** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues.
+1) **Educate Yourself and Others** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards of use. 
 
 
 :::{.ethics}
@@ -26,16 +28,25 @@ Keep in mind that some fields, organizations, and societies have guidelines or r
 **Recognize that the ethical guidelines and standards for your field should be considered when using AI or creating AI use policies.**
 
 
+## Start Slow
 
+Launching large projects using AI before you get a chance to test them could lead to disastrous consequences. Unforeseen challenges have already come up with many uses of AI, so it is wise to start small and do evaluation first before you roll out a system to more users.
 
+This also gives you time to correspond with legal, equity, security, etc. experts about the risks of your AI use. 
 
-## Fair Data Use
+### Tips for starting slow
+
+ * Consider an early adopters program to evaluate usage.
+ * Consult with experts about potential unforeseen challenges.
+ * Continue to assess and evaluate AI systems over time.
+
+## Check for Allowed Use
 
 When AI systems are trained on data, they may also learn and incorporate copyrighted information. This means that AI-generated content could potentially infringe on the copyright of the original author. For example, if an AI system is trained on a code written by a human programmer, the AI system could generate code that is identical to or similar to the code from that author. If the AI system then uses this code without permission from the original author, this could constitute copyright infringement.
 
 Similarly, AI systems could potentially infringe on intellectual property rights by using code that is protected by trademarks or patents. For example, if an AI system is trained on a training manual that contains code that is protected by a trademark, the AI system could generate code that is identical to or similar to the code in the training manual. If the AI system then uses this code without permission from the trademark owner, this could constitute trademark infringement.
 
-### Tips for avoiding copyright violations
+### Tips for checking for allowed use
 
 * Be transparent about what AI tools you use to write your code. 
 * Obtain permission from the copyright holders of any content that you use to train an AI system. Only use content that has been licensed for use.
@@ -48,11 +59,11 @@ Did this content use any content from others that I can cite?
 
 
 
-## Tool Diversity
+## Use Multiple AI Tools
 
 Only using one AI tool can increase the risk of the ethical issues discussed. For example, it may be easier to determine if a tool incorrect about a response if we see that a variety of tools have different answers to the same prompt. Secondly, as our technology evolves, some tools may perform better than others at specific tasks. It is also necessary to check responses over time with the same tool, to verify that a result is even consistent from the same tool.
 
-### Tips for avoiding over-reliance
+### Tips for using multiple AI tools
 
 - Check that each tool you are using meets the privacy and security restrictions that you need.
 - Utilize platforms that make it easier to use multiple AI tools, such as https://poe.com/, which as access to many tools, or [Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/), which actually has a feature to send the same prompt to multiple tools automatically, including for more advanced usage in the development of models based on modifying existing foundation models.
@@ -61,7 +72,7 @@ Only using one AI tool can increase the risk of the ethical issues discussed. Fo
 - Consider if using different types of data maybe helpful for answering the same question.
 
 
-## Lack of education
+## Educate Yourself and Others
 
 There are many studies indicating that individuals typically want to comply with ethical standards, but it becomes difficult when they do not know how (@giorgini_researcher_2015). Furthermore, individuals who receive training are much more likely to adhere to standards (@kowaleski_can_2019). 
 
@@ -85,7 +96,7 @@ As a result, the Italian Data Protection Authority has banned ChatGPT, while Ger
 
 </div>
 
-### Tips to avoid a lack of education
+### Tips to educate yourself and others
 
 
 * Emphasize the importance of training and education
@@ -103,26 +114,14 @@ Here is a summary of all the tips we suggested:
 :::{.ethics}
 
 * Disclose when you use AI tools to create content.
-* Be aware that AI systems are biased and their responses are likely biased. Any content generated by an AI system should be evaluated for potential bias.
 * Be aware that AI systems may behave in unexpected ways. Implement new AI solutions slowly to account for the unexpected. Test those systems and try to better understand how they work in different contexts.
-* Be aware that humans are still better at generalizing concepts to other contexts.
-* Carefully consider if an AI solution is appropriate for your context.
-* Credit human authors by citing them and adhering to copyright restrictions.
-* Ensure that prompts to commercial tools don't include private or propriety data or information.
-* Cross-check content from AI tools by using multiple AI tools - but check that each tool meets the privacy and security restrictions that you need.
-* Don't assume AI-generated content is real, accurate, consistent, current, or better than that of a human.
-* Ask the AI tools to help you understand:
-  * Sources for the content that you can cite
-  * Any decision processes in how the content was created 
-  * Potential limitations 
-  * Potential security or privacy issues
-  * Potential downstream consequences of the use of the content
-* Always have expert humans review the content and value your own contributions and thoughts.
+* Adhere to copyright restrictions for use of data and content created by AI systems.
+* Cross-check content from AI tools by using multiple AI tools and checking for consistent results over time. Check that each tool meets the privacy and security restrictions that you need.
 * Emphasize training and education about AI and recognize that best practices will evolve as the technology evolves.
 
 :::
 
-Overall, we hope that these guidelines and tips will help us all use AI tools more responsibly. We recognize however, that as this is emerging technology and more ethical issues will emerge as we continue to use these tools in new ways. AI tools can even help us to use them more responsibly when we ask the right additional questions, but remember that human review is always necessary. Staying up-to-date on the current ethical considerations will also help us all continue to use AI responsibly.
+Overall, we hope that these suggestions will help us all use AI tools more responsibly. We recognize however, that as this is emerging technology and more ethical issues will emerge as we continue to use these tools in new ways. AI tools can even help us to use them more responsibly when we ask the right additional questions, but remember that human review is always necessary. Staying up-to-date on the current ethical considerations will also help us all continue to use AI responsibly.
 
 
 
