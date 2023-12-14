@@ -59,7 +59,7 @@ Let's look at a few of examples. We can then decide whether or not the examples 
 
 ### Smartphones
 
-![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_120.png){width=100%}
+![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_0.png){width=70%}
 
 The name "smartphone" implies these devices are making decisions and are powered by AI. Let's consider our three criteria:
 
@@ -73,7 +73,7 @@ While there are some features on smartphones that are powered by AI models, like
 
 ### Calculators
 
-![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_279.png){width=100%}
+![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_8.png){width=70%}
 
 Many of us use basic calculators, as you might find in Microsoft Excel, every day. AI also makes many calculations. Is it just a scaled-up calculator? 
 
@@ -87,7 +87,7 @@ Traditional calculators are not considered AI, because they can only execute pre
 
 ### Computer Programs
 
-![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_289.png){width=100%}
+![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_15.png){width=70%}
 
 Like calculators, computers follow set procedures for problem solving and computation. Everyday computers use these procedures to help automate repetitive tasks and save time. However, this isn't generally considered AI, because the computer's algorithms aren't being trained with new data you supply. AI systems exhibit the ability to adapt and handle new inputs for tasks that might be more complicated. 
 
