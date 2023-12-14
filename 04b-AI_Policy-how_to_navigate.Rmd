@@ -1,0 +1,15 @@
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# Some sort of title
+
+The legal stuff governing AI use is changing rapidly. It's really hard to stay on top of current case law, and what is true today about AI use might not be true next week - or even the next day. Your best bet is to become familiar with some of the general regulations that apply to different aspects of AI use and to rely upon your subject-matter experts to guide you through the details as they change.
+
+## Who can you go to about AI regulations?
+
+Think about your legal council, your data governance specialists, and your HR folks. 
+
+IF YOU'RE NOT SURE, ASK YOUR EXPERTS 
+
+# VIDEO Some sort of title!
