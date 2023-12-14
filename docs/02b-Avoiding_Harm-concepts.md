@@ -7,7 +7,7 @@
 
 # Societal Impact
 
-AI has the potential to dramatically influence society. It is our responsibility to be proactive in thinking about what uses and impacts we consider to be useful and appropriate and those we consider harmful and in appropriate. 
+AI has the potential to dramatically influence society. It is our responsibility to be proactive in thinking about what uses and impacts we consider to be useful and appropriate and those we consider harmful and in appropriate.
 
 There are a few current major codes of ethics for AI. As this is an emerging technology, more codes will be developed and updated as the technology evolves.
 
@@ -23,11 +23,11 @@ In this chapter we will discuss the some of the major ethical considerations in 
 1) **Inappropriate Use** - There are situations in which using AI might not be appropriate now or in the future.
 1) **Bias Perpetuation and Disparities** - AI models are built on data and code that were created by biased humans, thus bias can be further perpetuated by using AI tools. In some cases Bias can even be exaggerated. This combined with differences in access may exacerbate disparities.
 1) **Security and Privacy Issues** - Data for AI systems should be collected in an ethical manner that is mindful of the rights of the individuals the data comes from. Data around usage of those tools should also be collected in an ethical manner. Commercial tool usage with proprietary or private data, code, text, images or other files may result in leaked data not only to the developers of the commercial tool, but potentially also to other users.
-1) **Climate Impact** - As we continue to use more and more data and computing power, we need to be ever more mindful of how we generate the electricity to store and perform our computations. 
+1) **Climate Impact** - As we continue to use more and more data and computing power, we need to be ever more mindful of how we generate the electricity to store and perform our computations.
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
-## Intentional and Inadvertent Harm 
+## Intentional and Inadvertent Harm
 
 AI tools need to be developed with safeguards and continually audited to ensure that the AI system is not responsive to harmful requests by users. With additional usage and updates, AI tools can adapt and thus continual auditing is required.  
 
@@ -35,7 +35,7 @@ Of course using AI to help you perform a harmful action would result in intentio
 
 Perhaps you or your company develop an AI tool that helps to identify individuals that might especially benefit from a product or service that you offer. This in and of itself is likely not harmful. However, the data you have used, the data that you may have collected, and the tool that you have created, all could be used for other malicious reasons, such as targeting specific groups of people for advertisements when they are vulnerable.
 
-Therefore it is critical that we be considerate of the downstream consequences of what we create and what might happen if that technology or data was used for other purposes. 
+Therefore it is critical that we be considerate of the downstream consequences of what we create and what might happen if that technology or data was used for other purposes.
 
 ### Tips for avoiding inadvertent harm
 
@@ -50,24 +50,24 @@ Computer science is a field that has historically lacked diversity. It is critic
 
 ### Tips for supporting human contributions
 
-* Avoid thinking that content by AI tools must be better than that created by humans, as this is not true. 
+* Avoid thinking that content by AI tools must be better than that created by humans, as this is not true.
 * Recall that humans wrote the code to create these AI tools and that the data used to train these AI tools also came from humans. Many of the large commercial AI tools were trained on websites and other content from the internet.
 * Be transparent where possible about when you do or do not use AI tools, give credit to the humans involved as much as possible.
 
 <div Class = ethics>
-A new term in the medical field called [AI paternalism](https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/) describes the concept that doctors (and others) may trust AI over their own judgment or the experiences of the patients they treat. This has already been shown to be a problem with earlier AI systems intended to help distinguish patient groups. Not all humans will necessarily fit the expectations of the AI model if it is not very good at predicting edge cases [@AI_paternalism]. Therefore, in all fields it is important for us to not forget our value as humans in our understanding of the world. 
+A new term in the medical field called [AI paternalism](https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/) describes the concept that doctors (and others) may trust AI over their own judgment or the experiences of the patients they treat. This has already been shown to be a problem with earlier AI systems intended to help distinguish patient groups. Not all humans will necessarily fit the expectations of the AI model if it is not very good at predicting edge cases [@AI_paternalism]. Therefore, in all fields it is important for us to not forget our value as humans in our understanding of the world.
 </div>
 
 ## Inappropriate Use
 
-There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgment by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future. 
+There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgment by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future.
 
 Some reasons why AI may not be appropriate for certain situation include:
 
 - Despite the common misconception that AI systems have clearer judgment than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023).  There are some very mindful researchers working on these issues in specific contexts and making progress where AI may actually improve on human judgment, but generally speaking AI systems are currently typically biased and reflective of human judgment but in a more limited manner based on the context in which they have been trained.
-- AI systems can behave in unexpected ways (@gichoya_ai_2022). 
+- AI systems can behave in unexpected ways (@gichoya_ai_2022).
 - Humans are still better than AI at generalizing what they learn for new contexts.
-- Humans can better understand the consequences of discussions from a humanity standpoint. 
+- Humans can better understand the consequences of discussions from a humanity standpoint.
 
 Some examples where it may be considered inappropriate for AI systems to be used include:
 
@@ -86,7 +86,7 @@ Some examples where it may be considered inappropriate for AI systems to be used
 
 ## Bias Perpetuation and Disparities
 
-One of the biggest concerns is the potential for AI to further perpetuate bias. AI systems are trained on data created by humans. If this data used to train the system is biased (and this includes existing code that may be written in a biased manner), the resulting content from the AI tools could also be biased. This could lead to discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations. 
+One of the biggest concerns is the potential for AI to further perpetuate bias. AI systems are trained on data created by humans. If this data used to train the system is biased (and this includes existing code that may be written in a biased manner), the resulting content from the AI tools could also be biased. This could lead to discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations.
 
 It is well known that data and code are often biased [@belenguer_ai_2022]. The resulting output of AI tools should be evaluated for bias and modified where needed. Please be aware that because bias is intrinsic, it may be difficult to identify issues. Therefore, people with specialized training to recognize bias should be consulted. It is also vital that evaluations be made throughout the software development process of new AI tools to check for and consider potential perpetuation of bias.
 
@@ -96,11 +96,11 @@ Because of differences in access to technology, disparities may be further exace
 
 ### Tips for avoiding bias
 
-* Be aware of the biases in the data that is used to train AI systems. 
+* Be aware of the biases in the data that is used to train AI systems.
 * Check for possible biases within data used to train new AI tools.
   - Are there harmful data values? Examples could include discriminatory and false associations.
   - Are the data adequately inclusive? Examples could include a lack of data about certain ethnic or gender groups or disabled individuals, which could result in code that does not adequately consider these groups, ignores them all together, or makes false associations.
-  - Are the data of high enough quality?  Examples could include data that is false about certain individuals. 
+  - Are the data of high enough quality?  Examples could include data that is false about certain individuals.
 * Evaluate the code for new AI tools for biases as it is developed. Check if any of the criteria for weighting certain data values over others are rooted in bias.
 * Consider the possible outcomes of the use of content created by AI tools. Consider if the content could possibly be used in a manner that will result in discrimination.
 
@@ -121,12 +121,12 @@ Security and privacy are a major concern for AI usage. Here we discuss a few asp
 There are two kinds of commercial AI tools (@nigro_ai_nodate):
 
 - those that are designed for public general use
-- those that are disgned private use with sensitive data
+- those that are designed private use with sensitive data
 
 Public commercial AI tools are often **not designed to protect users from unknowingly submitting prompts that include propriety are private information**. Different AI tools have different practices in terms of how they do or do not collect data about the prompts that people submit. They also have different practices in terms of if they reuse information from prompts to other users. Note that the AI system itself may not be trained on responses for how prompt data is collected or not. So asking the AI system may not give accurate answers.
 
 <div class  = warning>
-Thus if users of public AI tools, such as ChatGPT submit prompts that include propriety or private information, they **run the risk of that information being viewable not only by the developers/maintainers of the AI tool used, but also by other users** who use that same AI tool. 
+Thus if users of public AI tools, such as ChatGPT submit prompts that include propriety or private information, they **run the risk of that information being viewable not only by the developers/maintainers of the AI tool used, but also by other users** who use that same AI tool.
 </div>
 
 ### AI can have security blind spots
@@ -151,7 +151,7 @@ It is important to follow legal and ethical guidance around the collection of da
 * Promote for regulation of AI tools by voting for standards where possible.
 * Ask AI tools for help with security when using commercial tools, but to not rely on them alone. In some cases, commercial AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
 * Consult with an expert about data security if you want to design or use a AI tool that will regularly use private or propriety data.
-* Development of new tools should involve 
+* Development of new tools should involve
 
 <div class = "query">
 Are there any possible data security or privacy issues associated with the plan you proposed?
@@ -181,8 +181,3 @@ Here is a summary of all the tips we suggested:
 
 
 Overall, we hope that awareness of these concerns and the tips we shared will help us all use AI tools more responsibly. We recognize however, that as this is emerging technology and more ethical issues will emerge as we continue to use these tools in new ways. Staying up-to-date on the current ethical considerations will also help us all continue to use AI responsibly.
-
-
-
-
-
