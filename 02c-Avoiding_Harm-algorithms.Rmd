@@ -9,14 +9,14 @@ ottrpal::set_knitr_image_path()
 
 # Algorithm considerations
 
-In this chapter we will discuss the some of the major ethical considerations for the use or development of AI tools.
+In this chapter we will discuss the some of the major ethical considerations regarding the algorithms underlying AI tools. We will provide some tips for how to deal with these issues that may be useful for creating AI guidelines at your institution.
 
 
 1) **Toxic Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
 1) **Lack of Interpretability** - When complicated algorithms are used within AI systems, it can be unclear how it came up with a decision. In many circumstances it is necessary to understand how the AI system works to know how to proceed. 
 1) **Misinformation and Faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
 1) **Security or Privacy Issues** - Uploading, pasting or typing in proprietary or private data, code, text, images or other files into commercial generative AI tools may be leaked not only to the developers of the commercial tool, but potentially also to other users
-
+- https://www.securitymagazine.com/articles/100219-ai-security-risks-separating-hype-from-reality#:~:text=Security%20teams%20must%20ensure%20that,complying%20with%20data%20protection%20regulations.
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
