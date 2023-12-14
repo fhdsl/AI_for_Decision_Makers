@@ -20,7 +20,7 @@ In this chapter we will discuss the some of the major ethical considerations in 
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
-## Inadvertant Harm 
+## Inadvertent Harm 
 
 Of course using AI to help you perform a harmful action would result in intentional harm. This may sound like an obvious and easy issue to avoid, at least by those with good intent. However, the consequences may be much further reaching than might be first anticipated.
 
@@ -28,7 +28,7 @@ Perhaps you or your company develop an AI tool that helps to identify individual
 
 Therefore it is critical that we be considerate of the downstream consequences of what we create and what might happen if that technology or data was used for other purposes. 
 
-### Tips for avoiding inadvertant harm
+### Tips for avoiding inadvertent harm
 
 * Be careful about what content you share publicly, as it could be used for malicious purposes.
 * Consider how the content, data, or newly developed AI tool might be used by others.
@@ -57,7 +57,7 @@ There are situations in which we may, as a society, not want an automated respon
 
 Some reasons why AI may not be appropriate for certain situation include:
 
-- Despite the common misconception that AI systems have clearer judgment than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023).  There are some very mindful researchers working on these issues in specific contexts and making progress where AI may actually improve on human judgement, but generally speaking AI systems are currently typically biased and reflective of human judgement but in a more limited manner based on the context in which they have been trained.
+- Despite the common misconception that AI systems have clearer judgment than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023).  There are some very mindful researchers working on these issues in specific contexts and making progress where AI may actually improve on human judgment, but generally speaking AI systems are currently typically biased and reflective of human judgment but in a more limited manner based on the context in which they have been trained.
 - AI systems can behave in unexpected ways (@gichoya_ai_2022). 
 - Humans are still better than AI at generalizing what they learn for new contexts.
 - Humans can better understand the consequences of discussions from a humanity standpoint. 
