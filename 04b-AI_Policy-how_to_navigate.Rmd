@@ -2,14 +2,21 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# Some sort of title
+# Building a team to guide your AI use
 
-The legal stuff governing AI use is changing rapidly. It's really hard to stay on top of current case law, and what is true today about AI use might not be true next week - or even the next day. Your best bet is to become familiar with some of the general regulations that apply to different aspects of AI use and to rely upon your subject-matter experts to guide you through the details as they change.
+The legal and regulatory framework around AI systems is evolving rapidly. As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws and regulations is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving legal landscape should be one of your top priorities as a leader.
 
-## Who can you go to about AI regulations?
+There are multiple possible roles that you could fill, depending on what your organization's AI needs and uses are. Having representation from technical, policy and social science backgrounds helps ensure a multidisciplinary, holistic approach to building and overseeing responsible AI.
 
-Think about your legal council, your data governance specialists, and your HR folks. 
+1. _Legal council_ that understands AI and the nuances of the rapidly changing laws can advise you can advise on regulations relevant to your organization. 
 
-IF YOU'RE NOT SURE, ASK YOUR EXPERTS 
+1. _Policy and governance analysts_ can research and draft internal policies on transparency, auditability, harm mitigation, and appropriate AI uses. They can also advise and assist with compliance.
+
+1. _Data protection officers_ who can aid with implementation privacy-by-design principles and handling personally identifiable information legally and securely are especially important for organizations that deal with personal data.
+
+1. _Ethicists and oversight board members_ are experts who can provide guidance on ethical issues and review systems for potential biases, risks, and policy compliance.
+
+1. _Trainers and educators_ can create and run programs aimed at keeping all employees aware of responsibilities in developing and using AI respectfully, accountably, and in compliance with AI policies and regulations.
+
 
 # VIDEO Some sort of title!
