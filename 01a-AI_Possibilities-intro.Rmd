@@ -22,3 +22,6 @@ This course is targeted toward industry and non-profit leaders and decision make
 ### Curriculum Summary
 
 In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, learn about different types of AI, and set some ground rules for minimizing the harms and maximizing the benefits of AI.
+
+### Learning Objectives
+
