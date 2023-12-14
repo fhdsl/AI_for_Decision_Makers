@@ -65,11 +65,11 @@ In the early 2000’s, Amazon’s recommendation system was based on a method ca
 
 Here is how it worked: The history of a customer on all items in the marketplace is stored as a large numerical list. Given a customer’s purchasing history list, the collaborative filtering algorithm looks for similar customers with similar purchasing patterns via a similarity score. The algorithm makes product recommendations based on their these similar customers’ top purchases. This is called customer-based collaborative filtering. 
 
-However, this recommendation process was not particularly efficient: computing the similarity score between all customers was slow, and this had to be done regularly, as customers purchasing habits changed regularly. The system was not very stable.
+However, this recommendation process was not particularly efficient: computing the similarity score between all customers was slow, and this had to be done regularly, as customers purchasing habits changed regularly. The system was not very stable. @sarwar2001item
 
 As the number of Amazon users grew faster than the number of marketplace products, scientists thought about creating more stability by looking at the purchasing history of a product by customers instead. This is called item-based collaborative filtering. Given a customer’s recently purchased items, this new algorithm finds items that have a similar purchasing pattern, and recommend it to the customer. 
 
-A product’s purchasing history by all customers did not change quickly, so computing the similarity between all products did not have to be done regularly. This system was much more stable. 
+A product’s purchasing history by all customers did not change quickly, so computing the similarity between all products did not have to be done regularly. This system was much more stable. @amazon-recommendation-history
 
 #### Compressed representation and Autoencoders
 
@@ -79,15 +79,15 @@ A modern way of finding this compact representation of an item’s purchase hist
 
 Autoencoders takes an item’s history, which consists of millions of customers, and tries to map it to a smaller representation. This is called the “encoder” step. To make sure that this representation is accurate, the Autoencoder then maps the representation back to its original, uncompressed state. This is called the “decoder” step. A good Autoencoder must “encode” and “decode” effectively.
 
-Once the Autoencoder is well-built, every item’s purchase history is represented compactly in via the “encoded” step. When it’s time to compare two item’s similarity, the computer only has to deal with two lists with much smaller sizes. This leads to much more efficient computing. 
+Once the Autoencoder is well-built, every item’s purchase history is represented compactly in via the “encoded” step. When it’s time to compare two item’s similarity, the computer only has to deal with two lists with much smaller sizes. This leads to much more efficient computing. @amazon-recommendation-history
 
 #### Active Research
 
 There are still many active areas of research to improve recommendation systems!
 
-For instance, the order of purchase should be considered. A customer is likely to buy a smartphone, then buy a phone case, but not the other way around. Scientists have started to explore modeling items using a network, and using arrows between items to represent the likely purchase order.
+For instance, the order of purchase should be considered. A customer is likely to buy a smartphone, then buy a phone case, but not the other way around. Scientists have started to explore modeling items using a network, and using arrows between items to represent the likely purchase order. @amazon-gnn-recommendation
 
-Also, the purchase time between items gives important context for how related they are. Two books purchased five months apart are less relevant than two books purchased within hours apart. Scientists have started to pay close attention to purchase time to improve their recommendation system.
+Also, the purchase time between items gives important context for how related they are. Two books purchased five months apart are less relevant than two books purchased within hours apart. Scientists have started to pay close attention to purchase time to improve their recommendation system. @linden2003two
 
 
 ### Financial Forecasting
