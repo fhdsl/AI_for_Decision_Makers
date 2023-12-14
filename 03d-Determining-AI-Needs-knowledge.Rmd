@@ -130,7 +130,7 @@ Here's places you can learn about AI models that are out there:
 
 - [This repository has a nice summary of a lot of currently available open source LLMs.](https://github.com/eugeneyan/open-llms)
 - [Practical Guide to LLMs](https://github.com/Mooler0410/LLMsPracticalGuide)
-- [HuggingFace has all of the AI models - multimodel and more that we could want](https://huggingface.co/models)
+- [HuggingFace has all of the AI models - multimodal and more that we could want](https://huggingface.co/models)
 
 Lastly, you should consider how you will evaluate the AI model's performance? Where did the existing models you tried fall short?
 
@@ -147,7 +147,7 @@ We'll discuss strategies for evaluation and data privacy in the upcoming chapter
 
 ## Example strategies for Fine tuning
 
-Just because you may have identified you require fine tuning for an AI project doesn't necessarily mean you will need a lot of technical expertise. There are some solutions like [MonsterAPI](https://monsterapi.ai/) and [H2o](https://gpt.h2o.ai/) that allow for fine tuning without code. These might be good platforms to explore either as a way to meet needs or to experiment to determine a larger strategy. 
+Just because you may have identified you require fine tuning for an AI project doesn't necessarily mean you will need a lot of technical expertise. There are some solutions like [MonsterAPI](https://monsterapi.ai/) and [H2o](https://gpt.h2o.ai/) that allow for fine tuning without code. These might be good platforms to explore either as a way to meet needs or to experiment to determine a larger strategy.
 
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA/edit#slide=id.g2a62349c7d4_0_305")

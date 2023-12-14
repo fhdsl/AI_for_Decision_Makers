@@ -31,5 +31,5 @@ The course is intended for individuals who have an AI related project in mind or
 **What this course does NOT cover:**
 
 - This is NOT a comprehensive survey of the AI tools and products in existence. Even if it was comprehensive at this time, there are new tools and developments constantly arriving. We merely give examples of solutions that show a *possible* AI solution. There may be competitors or similar solutions out there that would even better fit a project's needs.
-- This does NOT cover in depth aspects of algorithms, statistics or mathmetatics behind AI algorithms -- these are numerous and not always necessary to understand in fine detail for making decisions about projects.
-- This does NOT cover how to complete or write code for an AI project. This is not a tutorial for building an AI tool. Instead we merely give stategies you could employ but we do not give details on how you might employ them. There are too many ways that AI tools may be built -- this is outside the scope of this course.
+- This does NOT cover in depth aspects of algorithms, statistics or mathematics behind AI algorithms -- these are numerous and not always necessary to understand in fine detail for making decisions about projects.
+- This does NOT cover how to complete or write code for an AI project. This is not a tutorial for building an AI tool. Instead we merely give strategies you could employ but we do not give details on how you might employ them. There are too many ways that AI tools may be built -- this is outside the scope of this course.

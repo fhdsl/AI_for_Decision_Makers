@@ -111,7 +111,7 @@ For each type of need there is often a continuum of solutions that require less 
 - For **customized knowledge** needs, you will likely be needing to train a model for your domain specific knowledge.
 - For **customized security** needs, you may need to deploy an AI tool on a secure server or use some other type of security layering tool
 - For **customized interface** needs, you may need to use an API of an existing AI tool or use prepackaged AI tools that you can embed in your website/app.
-- For **customized handling** needs, you will liekyl need to build and deploy a custom AI model.
+- For **customized handling** needs, you will likely need to build and deploy a custom AI model.
 
 ## The Whole Picture
 
@@ -186,7 +186,7 @@ In this computing cost analysis graph from La Javaness R&D, they demonstrated ho
 
 #### Staffing costs
 
-Custom deployments will require more technical expertises on hand as we discussed in the previous section – think salary costs. You will need to estimate whether it is more cost efficient for you to have in house developers work on this or use borrow commercial computing infrastructure.
+Custom deployments will require more technical expertise on hand as we discussed in the previous section – think salary costs. You will need to estimate whether it is more cost efficient for you to have in house developers work on this or use borrow commercial computing infrastructure.
 
 It's not just about developers. Ideally you would also have:  
 
@@ -221,7 +221,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xC
 ```
 
 - In the example column we have links to resources and platforms that would be a central point or product for this strategy.
-- The technical expertise column describes vaguely how much teachnical expertise in house you would need to deploy the example strategy.
+- The technical expertise column describes vaguely how much technical expertise in house you would need to deploy the example strategy.
 - The funding column describes approximately the funding costs that would be associated with the strategy (but not this is highly variable given specifics of a project).
 - The time column describes how long it would take to deploy this solution.
 
@@ -240,7 +240,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xC
 
 ### Hugging Face
 
-[Hugging Face ](https://huggingface.co/)is a community and repository of open source AI and machine learning models of all kinds of varieties. The resources available on Hugging Face would allow you to customize an AI tool to meet all the needs you might have. The open source nature of the AI models, datasets, and examples available on Hugging Face means that this not completely from scratch either but would require more technical expertise to utilize the resources here. The tutorials and resources on hugging face would allow you to control and build a AI model that fits every need you might have. But remember computing and staffing are always costs, hence why we have not said that this is *necessarily* a less expensive strategy. Depending on the size and technical expertise of your team it will likely take more time than the other strategies. 
+[Hugging Face ](https://huggingface.co/)is a community and repository of open source AI and machine learning models of all kinds of varieties. The resources available on Hugging Face would allow you to customize an AI tool to meet all the needs you might have. The open source nature of the AI models, datasets, and examples available on Hugging Face means that this not completely from scratch either but would require more technical expertise to utilize the resources here. The tutorials and resources on hugging face would allow you to control and build a AI model that fits every need you might have. But remember computing and staffing are always costs, hence why we have not said that this is *necessarily* a less expensive strategy. Depending on the size and technical expertise of your team it will likely take more time than the other strategies.
 
 
 

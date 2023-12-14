@@ -20,7 +20,7 @@ In this scenario, you need to have your website or app that has its own interfac
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g/edit#slide=id.g2a672011b50_0_4")
 ```
-- `GUI` - stands for "Graohics user interface" -- it's the most widely used. Here users point and click buttons to tell a computer and its software what they'd like to do.
+- `GUI` - stands for "Graphics user interface" -- it's the most widely used. Here users point and click buttons to tell a computer and its software what they'd like to do.
 - `Command line` - generally for software that is for individuals with more technical expertise and comfort with programming. In this interface, users type commands in order to perform tasks
 
 In this scenario we could maintain all of the same machinery but merely have a different platform where our users arrive.
