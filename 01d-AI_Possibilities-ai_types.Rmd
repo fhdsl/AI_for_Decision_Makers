@@ -5,7 +5,7 @@ ottrpal::set_knitr_image_path()
 
 # VIDEO Different Types of AI
 
-# Types of AI
+# Demystifying Types of AI
 
 We've learned a bit about how AI works. However there are many different types of AI with different combinations of data, algorithms, and interfaces. There are also general terms that are important to know. Let's explore some of these below.
 
@@ -15,7 +15,9 @@ We've learned a bit about how AI works. However there are many different types o
 
 ## Neural Networks
 
-**Neural networks** are a specific class of algorithms within the broader field of machine learning. They organize data into layers, including an input layer for data input and an output layer for results, with intermediate layers in between. These layers help neural networks understand hierarchical patterns in data. 
+**Neural networks** are a specific class of algorithms within the broader field of machine learning. They organize data into layers, including an input layer for data input and an output layer for results, with intermediate "hidden" layers in between. 
+
+You can think of layers like different teams in an organization. The input layer is in charge of scoping and strategy, the output layer is in charge of finalizing deliverables, while the intermediate layers are responsible for piecing together existing and creating new project materials. These layers help neural networks understand hierarchical patterns in data. 
 
 The connections between nodes have weights that the network learns during training. The network can then adjust these weights to minimize errors in predictions. Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data.
 
