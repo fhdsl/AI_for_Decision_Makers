@@ -49,6 +49,7 @@ ChatGPT's
 CIO
 Coursera
 css
+curation
 cyberattacks
 cybersecurity
 DALL
@@ -57,7 +58,9 @@ DaSL
 DaSL's
 Datatrail
 DataTrail
+deliverables
 deepfakes
+Derma
 Dockerfile
 Dockerhub
 dropdown
@@ -74,6 +77,7 @@ GPT
 HIPAA
 IDARE
 impactful
+IRB
 IRBs
 ITCR
 itcrtraining
