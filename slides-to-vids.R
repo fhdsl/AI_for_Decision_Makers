@@ -8,7 +8,7 @@ if (!"ptplyr" %in% installed.packages()) devtools::install_github("fhdsl/ptplyr"
 library('magrittr')
 
 slide_links <- c(
-  "00-intro.mp4" = "https://docs.google.com/presentation/d/13QC5DTLefV5AIUd_3QPW42D-Zf2Yf6tgrJivIf7jbaQ/edit",
+  "00-intro.mp4" = NA, # "https://docs.google.com/presentation/d/13QC5DTLefV5AIUd_3QPW42D-Zf2Yf6tgrJivIf7jbaQ/edit"
   "01a-AI_Possibilities-intro_video.mp4" = NA,
   "01b-AI_Possibilities-what_is_ai_video.mp4" = "https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit",
   "01c-AI_Possibilities-how_ai_works_video.mp4" = "https://docs.google.com/presentation/d/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I/edit",
@@ -62,7 +62,7 @@ gs_to_video <- function(gs_url, video_name) {
 }
 
 ### Making videos
-purrr::pmap(slides_df[1, ], function(chapter, slide_links) { 
+purrr::pmap(slides_df, function(chapter, slide_links) { 
   video = gs_to_video(gs_url = slide_links, 
               video_name = chapter)
   })
