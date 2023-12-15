@@ -8,6 +8,8 @@ ottrpal::set_knitr_image_path()
 
 Much of the world is developing data privacy regulations, as many individuals value their right to better control how others can collect and store data about them (@chaaya_privacy_2021).
 
+
+
 While data collection concerns have been increasing up for years, AI systems present new challenges (@pearce_beware_2021; @tucker_privacy_2018):
 
 - **Accountability** - It is more difficult to determine who is accountable at times when separate parties may collect versus redistribute data, versus use data (@hao_deleting_2021)
@@ -57,4 +59,7 @@ See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-f
 
 Overall the consent process is particularly challenging and consideration should especially be centered on the rights of the individuals who may have data collected about them. We hope that awareness of some of the major challenges can help you to more responsibly implement any consenting processes that may be needed for AI tools that you employ or develop. We advise that you speak with ethical and legal experts. 
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
 

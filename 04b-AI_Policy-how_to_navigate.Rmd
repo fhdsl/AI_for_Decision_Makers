@@ -6,6 +6,10 @@ ottrpal::set_knitr_image_path()
 
 The legal and regulatory framework around AI systems is evolving rapidly. As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws and regulations is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving legal landscape should be one of your top priorities as a leader.
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
 There are multiple possible roles that you could fill, depending on what your organization's AI needs and uses are. Having representation from technical, policy and social science backgrounds helps ensure a multidisciplinary, holistic approach to building and overseeing responsible AI.
 
 1. _Legal council_ that understands AI and the nuances of the rapidly changing laws can advise on regulations relevant to your organization. 

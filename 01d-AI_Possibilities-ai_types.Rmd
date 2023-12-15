@@ -24,3 +24,7 @@ The connections between nodes have weights that the network learns during traini
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a694e3cce9_0_0")
 ```
+
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>

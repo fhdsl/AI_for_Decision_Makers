@@ -93,3 +93,7 @@ In summary we suggest you consider the following to better promote the well-bein
 - More inclusive AI teams can help us build more responsible and more useful models 
 - Enhancing access to AI tools has the potential to improve the well-being of individuals in places with other limited technology or healthcare access, however this needs to be done in a collaborative manner to avoid harm and exploitation 
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
