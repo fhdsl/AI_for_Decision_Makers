@@ -109,16 +109,19 @@ reflection-during-inception-of-the-idea-1
 planning-reflections
 development-reflection
 post-development-reflection
+video-introduction-to-determining-ai-needs-video
 introduction-to-determining-ai-needs
 motivation-3
 target-audience-3
 curriculum-2
+video-what-are-the-components-of-ai
 what-are-the-components-of-ai
 learning-objectives-2
 intro
 what-makes-an-ai-model-accurate
 what-makes-an-ai-model-efficient
 putting-it-together
+video-determining-your-ai-needs
 determining-your-ai-needs
 learning-objectives-3
 intro-1
@@ -138,6 +141,7 @@ privateai
 chatgpt-api
 hugging-face
 conclusion
+video-customized-knowledge-for-ai
 customized-knowledge-for-ai
 learning-objectives-4
 intro-2
@@ -147,6 +151,7 @@ prompt-tuning-or-p-tuning
 fine-tuning
 find-a-base-model-to-start-with
 example-strategies-for-fine-tuning
+video-customized-security-for-ai
 customized-security-for-ai
 learning-objectives-5
 intro-3
@@ -158,6 +163,7 @@ privateai-1
 deidentify
 aws-servers-huggingface
 always-double-triple-quadruple-check
+video-customized-interface-for-ai
 customized-interfaces-for-ai
 learning-objectives-6
 intro-4
@@ -166,6 +172,7 @@ examples-of-ai-customized-interface-strategies
 premade-ai-tools
 ai-tool-apis
 custom-builds
+video-evaluating-your-customized-ai-tool
 evaluating-your-customized-ai-tool
 learning-objectives-7
 intro-5
