@@ -31,7 +31,7 @@ We think understanding AI is essential for executives. It helps today's leaders 
 1. **Communication with Tech Teams:** Executives and managers benefit from understanding AI event if they aren't building tech, as it helps them effectively communicate with their technical teams. This can mean more effective collaboration and improved alignment between teams or departments.
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
 ## Target Audience  

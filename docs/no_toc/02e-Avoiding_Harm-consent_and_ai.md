@@ -58,6 +58,6 @@ See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-f
 Overall the consent process is particularly challenging and consideration should especially be centered on the rights of the individuals who may have data collected about them. We hope that awareness of some of the major challenges can help you to more responsibly implement any consenting processes that may be needed for AI tools that you employ or develop. We advise that you speak with ethical and legal experts. 
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
