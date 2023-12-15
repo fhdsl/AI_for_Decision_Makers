@@ -45,10 +45,12 @@ The tech industry's lack of diversity contributes to these issues, often leading
 
 Large Language Models (LLMs), which we will cover later, are great examples of high quantity and quality of data. Think about how much text information is freely available on the internet! Throughout the internet, we're much more likely to see the phrase "cancer is a disease" than "cancer is a computer program". Many LLMs are trained on sources like [Wikipedia](https://www.wikipedia.org/), which are typically grammatically sound and informative, leading to higher quality output.
 
+
 <img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_79.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 <div class = "ethics"> 
 It is **essential** that you and your team think critically about data sources. Many companies releasing generative AI systems have come under fire for training these systems on data that doesn't belong to them [@Walsh2023]. Individual people also have a right to data privacy. No personal data should be used without permission, even if that data could be interesting or useful.  
+
 </div>
 
 ### Preparing the Data
@@ -56,6 +58,7 @@ It is **essential** that you and your team think critically about data sources. 
 It's important to remember that AI systems need specific instructions to start detecting patterns. We'll need to take our raw data and indicate which pictures are positive for skin cancer and which aren't. This process is called **labeling** and has to be done by humans.
 
 Once data is labeled, either "cancer" or "not cancer", we can use it to train the algorithm in the next step. This data is aptly called **training data**.
+
 
 <img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_318.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
