@@ -34,7 +34,7 @@ c) Lower overall budget
 D) More technical expertise and longer timeframes
 
 ? What resource might you seek out if you need to build a fully customizable AI solutions including trained models and custom deployment?
-a) CogniFlow
+a) Cogniflow
 b) PrivateAI
 c) ChatGPT API
 D) Hugging Face
