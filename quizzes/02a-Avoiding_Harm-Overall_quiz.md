@@ -21,7 +21,7 @@ d) They cannot be trusted for any applications
 ? According to the material, what should be considered at every stage of AI system development and use?
 
 a) Funding sources
-b) Legal protections
+b) Model usage
 C) Ethical implications
 d) Marketing strategies
 
