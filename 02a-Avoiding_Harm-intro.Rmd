@@ -46,3 +46,6 @@ We will demonstrate how to:
 - Discuss why human contributions are still important and necessary 
 - Explain a possible process for reflecting on ethical AI use and development
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
