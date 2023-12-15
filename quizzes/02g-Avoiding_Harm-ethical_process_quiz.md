@@ -11,7 +11,7 @@ c) Just before an AI system is deployed
 D) Throughout the entire process of development and use
 
 ? What is NOT a consideration when reflecting on AI use during the inception of an idea?
-a) If larger training datasets are needed
+a) What training datasets are a reasonable size
 b) How transparency will be maintained
 c) Whether AI is actually appropriate for the use case
 d) If harmful content could be generated
