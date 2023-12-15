@@ -70,14 +70,18 @@ It is vital that teams hired for the development, auditing or testing of AI tool
  
 ## Access
 
-Resources:  
+Improving access for all individuals holds the power to make the benefits of AI and other technology a reality to everyone. However exapanding access should be done mindfully to empower others, rather than to exploit. 
 
-https://arxiv.org/abs/2311.14096 
+The [Gates foundation has suggested [principles](https://www.gatesfoundation.org/ideas/articles/artificial-intelligence-ai-development-principles) (@Gates_principles) for their work to expand AI access responsibly, including the following summarized here :
 
-https://www3.weforum.org/docs/WEF_A_Blueprint_for_Equity_and_Inclusion_in_Artificial_Intelligence_2022.pdf  
+1) Adhering to core values of helping all people reach their full potential
+1) Promoting co-design and inclusivity by including indiviudals in low-income settings to be collaborators and partners and acknowledging infrastructure limitations.
+1) Proceeding responsibly with continuous improvement in a step-wise fashion
+1) Addressing Privacy and security concerns by regulrlary peforming assessments and ensuring compliance with relevant regulations and laws, as well as caeful consent practices
+1) Building equitable access - focusing not just on access distribution by on equitible ownership and maintenance and development
+1) Committing to transparency - Sharing information for public good
 
-https://magazine.jhsph.edu/2022/how-biased-data-and-algorithms-can-harm-health  
+It might also be worth adding another point about transparency for potential risks. 
 
-https://research.csiro.au/ss/science/projects/responsible-ai-pattern-catalogue/rai-standard/ 
 
-https://www.tandfonline.com/doi/full/10.1080/08839514.2023.2176618  
+
