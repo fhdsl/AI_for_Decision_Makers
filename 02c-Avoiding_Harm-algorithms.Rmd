@@ -15,13 +15,13 @@ In this chapter we will discuss the some of the major ethical considerations reg
 1) **Toxic Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
 1) **Lack of Interpretability** - When complicated algorithms are used within AI systems, it can be unclear how it came up with a decision. In many circumstances it is necessary to understand how the AI system works to know how to proceed. 
 1) **Misinformation and Faulty Responses** - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.
-1) **Copyright Violations** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
+1) **Copyright Violations** - Current commercial AI tools are often not transparent about using code, text, images and other data types that may violate copyright. 
 
 Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools **careful to learn more about the specific tools they are interested in** and to be **transparent** about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.
 
 ## Harmful or Toxic Responses
 
-Another major concern is the use of AI to generate malicious content or that AI itself may accidentally create harmful responses. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called ["toxicity"](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f), which refers to disrespectful, rude, or hateful responses (@nikulski_toxicity_2021). These responses can have very negative consequences for users. Ultimately both issues could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses, to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.
+One major concern is the use of AI to generate malicious content. Secondly the AI itself may accidentally create harmful responses or suggestions. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called ["toxicity"](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f), which refers to disrespectful, rude, or hateful responses (@nikulski_toxicity_2021). These responses can have very negative consequences for users. Ultimately these issues could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses, to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.
 
 
 ### Tips for avoiding the creation of harmful content
@@ -45,7 +45,8 @@ What are some possible negative consequences of using this content?
 ## Lack of Interpretability
 
 There is risk in using AI tools, that we may encounter situations where it is unclear why the AI system came to a particular result. AI systems that use more complicated algorithms can make it difficult to trace back the decision process of the algorithm. 
-Using content created or modified by AI, could make it difficult for others to understand  if the content is adequate or appropriate, or to identify and fix any issues that may arise. 
+
+Using content created or modified by AI, could make it difficult for others to understand if the content is adequate or appropriate, or to identify and fix any issues that may arise. 
 
 This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions. 
 
@@ -54,6 +55,7 @@ This could result in negative consequences, such as for example reliance on a sy
 
  * Content should be reviewed by those experienced in the given field.
  * Ask AI tools to help you understand the how it got to the response that it did, but get expert assistance where needed.
+ * New AI tools should be designed with interpretability in mind.
  
 :::{.query}
 Can you explain how you generated this response?
@@ -71,9 +73,9 @@ This is due to number of reasons:
 - AI tools are not necessarily trained for every intended use and may therefore may not reflect best practices for a given task or field
 
 
-AI tools may also report data as if it is real, when it is in fact not real. For example, currently at the time of the writing of this course, ChatGPT will report citations with links that are not always correct. Furthermore, AI models can "hallucinate" incorrect responses based on artifacts of the algorithm underneath the tool. These responses are essentially made up by the tool. It is difficult to know when a tool is hallucinating especially if it is a tool that you did not create, therefore it is important to review and check responses from AI tools. There is also a risk that content written with AI tools, may be incorrect or inappropriate for the given context of intended use, or they may not reflect best practices for a given context or field. The tools are limited to the data they were trained on, which may not reflect your intended use.
+AI tools may also report that fake data is real, when it is in fact not real. For example, currently at the time of the writing of this course, older version sof ChatGPT will report citations with links that are not always correct and it doesn't seem to be able to correct itself very well when challenged. Furthermore, AI models can "hallucinate" incorrect responses based on artifacts of the algorithm underneath the tool. These responses are essentially made up by the tool. It is difficult to know when a tool is hallucinating especially if it is a tool that you did not create, therefore it is important to review and check responses from AI tools. There is also a risk that content written with AI tools, may be incorrect or inappropriate for the given context of intended use, or they may not reflect best practices for a given context or field. The tools are limited to the data they were trained on, which may not reflect your intended use.
 
-It is also important to remember that content generated by AI tools is not necessarily better than content written by humans. It requires just as much, if not more review. 
+It is also important to remember that content generated by AI tools is not necessarily better than content written by humans. Additionally review and auditing of AI-generated content by humans is needed to ensure that they are working properly and giving expected results. 
 
 ### Tips for reducing misinformation & faulty responses
 
@@ -93,7 +95,7 @@ What assumptions were made in creating this content?
 
 
 :::{.ethics}
-[Stack Overflow](https://stackoverflow.com/), a popular community-based website where programmers help one another, has (at the time of writing this) temporarily [banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned) users from answering questions with AI-generated code. This is because users were posting incorrect answers to questions. It is important to follow this policy (as you may face removal from the community). This policy goes to show that you really need to check the code that you get from AI models. While they are currently helpful tools, they do not know everything. 
+[Stack Overflow](https://stackoverflow.com/), a popular community-based website where programmers help one another, has (at the time of writing this) temporarily [banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned) users from answering questions with AI-generated code. This is because users were posting incorrect answers to questions. It is important to follow policies like this (as you may face removal from the community). This policy goes to show that you really need to check the code that you get from AI models. While they are currently helpful tools, they do not know everything. 
 :::
 
 
