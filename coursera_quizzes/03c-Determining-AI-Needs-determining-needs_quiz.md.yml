@@ -1,0 +1,78 @@
+
+- typeName: multipleChoice
+  prompt: What is an important first step when planning an AI project?
+  shuffleOptions: true
+  options:
+    - answer: Choosing an AI platform to use
+      isCorrect: false
+    - answer: Defining the goals and use cases
+      isCorrect: true
+    - answer: Assembling a development team
+      isCorrect: false
+    - answer: Estimating required computing power
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What does "customized knowledge" mean for an AI project?
+  shuffleOptions: true
+  options:
+    - answer: Restricting access to sensitive data
+      isCorrect: false
+    - answer: Integrating with an existing interface
+      isCorrect: false
+    - answer: Training models on specific domains
+      isCorrect: true
+    - answer: Modifying algorithms for efficiency
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Who should you definitely consult before starting an AI project that involves protected data?
+  shuffleOptions: true
+  options:
+    - answer: Legal experts and IRB
+      isCorrect: true
+    - answer: Back-end developers
+      isCorrect: false
+    - answer: Project manager
+      isCorrect: false
+    - answer: User experience designer
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What should be estimated to account for computing costs in an AI project?
+  shuffleOptions: true
+  options:
+    - answer: Number of users
+      isCorrect: false
+    - answer: Size of input data
+      isCorrect: false
+    - answer: Queries per user
+      isCorrect: false
+    - answer: All of the above
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: As compared to using a prepackaged AI tool, building a custom solution from scratch will likely require?
+  shuffleOptions: true
+  options:
+    - answer: Less technical expertise
+      isCorrect: false
+    - answer: Shorter development timeframes
+      isCorrect: false
+    - answer: Lower overall budget
+      isCorrect: false
+    - answer: More technical expertise and longer timeframes
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What resource might you seek out if you need to build a fully customizable AI solutions including trained models and custom deployment?
+  shuffleOptions: true
+  options:
+    - answer: CogniFlow
+      isCorrect: false
+    - answer: PrivateAI
+      isCorrect: false
+    - answer: ChatGPT API
+      isCorrect: false
+    - answer: Hugging Face
+      isCorrect: true

@@ -1,0 +1,39 @@
+
+- typeName: multipleChoice
+  prompt: What is the main motivation for a customized user interface with AI?
+  shuffleOptions: true
+  options:
+    - answer: Improving model accuracy
+      isCorrect: false
+    - answer: Enabling use of protected data
+      isCorrect: false
+    - answer: Integrating AI into an existing app/website
+      isCorrect: true
+    - answer: Speeding up computations
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What does GUI stand for in software interfaces?
+  shuffleOptions: true
+  options:
+    - answer: General User Interface
+      isCorrect: false
+    - answer: Graphical User Interface
+      isCorrect: true
+    - answer: Generic Usability Interface
+      isCorrect: false
+    - answer: Guided User Interface
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What is an advantage of using a pre-packaged AI service?
+  shuffleOptions: true
+  options:
+    - answer: Allows for protected data use
+      isCorrect: false
+    - answer: Gives high levels of customization
+      isCorrect: false
+    - answer: Requires little technical expertise
+      isCorrect: true
+    - answer: Has faster computational speeds
+      isCorrect: false
