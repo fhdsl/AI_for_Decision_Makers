@@ -89,3 +89,6 @@ Consider the following after developing an AI tool:
 
 ![](resources/images/02g-Avoiding_Harm-ethical_process_files/figure-docx//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2a75372534b_12_1.png){width=100%}
 
+## Summary
+
+In summary, to use and develop AI ethically consideration for impact should be occur across the entire process from the stage of forming an idea, to planning, to active use or development, and afterwards. We hope these frameworks help you to consider your AI use and development more responsibly. 
