@@ -4,6 +4,7 @@ exm:unlabeled-div-3
 exm:unlabeled-div-4
 exm:unlabeled-div-5
 exm:unlabeled-div-6
+exm:unlabeled-div-7
 specialization-sections
 available-course-formats
 video-summary-of-this-course
@@ -96,6 +97,7 @@ educate-yourself-and-others
 tips-to-educate-yourself-and-others
 summary-3
 consent-and-ai
+summary-4
 idare-and-ai
 ai-is-biased
 examples-of-ai-bias
@@ -105,6 +107,7 @@ mitigation
 be-extremely-careful-using-ai-for-decisions
 more-inclusive-teams-means-better-models
 access
+summary-5
 ethical-process
 ethical-use-process
 reflection-during-inception-of-the-idea
@@ -115,16 +118,20 @@ reflection-during-inception-of-the-idea-1
 planning-reflections
 development-reflection
 post-development-reflection
+summary-6
+video-introduction-to-determining-ai-needs-video
 introduction-to-determining-ai-needs
 motivation-3
 target-audience-3
 curriculum-2
+video-what-are-the-components-of-ai
 what-are-the-components-of-ai
 learning-objectives-2
 intro
 what-makes-an-ai-model-accurate
 what-makes-an-ai-model-efficient
 putting-it-together
+video-determining-your-ai-needs
 determining-your-ai-needs
 learning-objectives-3
 intro-1
@@ -144,6 +151,7 @@ privateai
 chatgpt-api
 hugging-face
 conclusion
+video-customized-knowledge-for-ai
 customized-knowledge-for-ai
 learning-objectives-4
 intro-2
@@ -153,6 +161,7 @@ prompt-tuning-or-p-tuning
 fine-tuning
 find-a-base-model-to-start-with
 example-strategies-for-fine-tuning
+video-customized-security-for-ai
 customized-security-for-ai
 learning-objectives-5
 intro-3
@@ -164,6 +173,7 @@ privateai-1
 deidentify
 aws-servers-huggingface
 always-double-triple-quadruple-check
+video-customized-interface-for-ai
 customized-interfaces-for-ai
 learning-objectives-6
 intro-4
@@ -172,6 +182,7 @@ examples-of-ai-customized-interface-strategies
 premade-ai-tools
 ai-tool-apis
 custom-builds
+video-evaluating-your-customized-ai-tool
 evaluating-your-customized-ai-tool
 learning-objectives-7
 intro-5
@@ -187,9 +198,9 @@ video-building-a-team-to-guide-your-ai-use
 ai-acts-orders-and-policies
 the-eu-ai-act
 industry-specific-policies
-academic-publishing-industry
+mississippi-ai-institute
 us-federal-drug-administration
-video-legal-regulations-around-ai-use
+video-ai-acts-orders-and-policies
 other-laws-that-can-apply-to-ai
 intellectual-property
 information-security
