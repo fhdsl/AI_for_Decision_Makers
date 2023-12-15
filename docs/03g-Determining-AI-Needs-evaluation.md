@@ -1,6 +1,12 @@
+# VIDEO: Evaluating your customized AI tool
+
+This video discusses how to evaluate your customized AI tool.
+
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM/edit). -->
 
 # Evaluating your customized AI tool
-
 
 ## Learning objectives:
 

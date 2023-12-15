@@ -5,6 +5,15 @@
 ottrpal::set_knitr_image_path()
 ```
 
+# VIDEO Introduction to Determining AI Needs Video
+
+This video introduces the 'Determining AI Needs' course.
+
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
+
+You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit).
+
+
 # Introduction to Determining AI Needs
 
 ## Motivation
