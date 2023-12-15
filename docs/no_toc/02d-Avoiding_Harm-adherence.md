@@ -10,20 +10,9 @@
 Here we suggest some simple practices that can help you and others at your institution to better adhere to current proposed ethical guidelines.
 
 1) **Start Slow** - Starting slow can allow for time to better understand how AI systems work and any possible unexpected consequences.
-1) **Check for Allowed Use ** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. 
+1) **Check for Allowed Use ** - AI model responses are often not transparent about using code, text, images and other data types that may violate copyright. They are currently not necessarily trained to adequately credit those who contributed to the data that may help generate content.
 1) **Use Multiple AI Tools** - Using a variety of tools can help reduce the potential for ethical issues that may be specific to one tool, such as bias, misinformation, and security or privacy issues.
 1) **Educate Yourself and Others** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards of use. 
-
-
-:::{.ethics}
-Be transparent about what AI tools you use where possible. This help others to better understand how you created any content that was derived by AI, as well as the possible sources that the AI tools might have used when helping you. It may also help with future unknown issues related to the use of these tools.
-
-Keep in mind that some fields, organizations, and societies have guidelines or requirements for using AI, like for example the policy for the use of large language models for the [International Society for Computational Biology](https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models). Be aware of the requirements/guidelines for your field. 
-:::
-
-**It is essential to address these ethical concerns and ensure that AI is used in a responsible and transparent manner.** This could be done through ensuring the quality of training for AI systems, promoting transparency about AI-generated content, and implementing safeguards against the creation of harmful or biased content. By doing so, we can harness the potential of AI to improve and transform the way we work while maintaining ethical standards.
-
-**Recognize that the ethical guidelines and standards for your field should be considered when using AI or creating AI use policies.**
 
 
 ## Start Slow
@@ -37,12 +26,30 @@ This also gives you time to correspond with legal, equity, security, etc. expert
  * Consider an early adopters program to evaluate usage.
  * Consult with experts about potential unforeseen challenges.
  * Continue to assess and evaluate AI systems over time.
+ 
+<div class = example>
+
+**Real-World Example**
+
+IBM created Watson, an AI system that participated and won on the game show Jeopardy! and showed promise for advancing healthcare. However IBM had lofty goals for Watson to revolutionize cancer diagnosis, yet unexpected challenges resulted in unsafe and incorrect responses.
+
+> IBM poured many millions of dollars in the next few years into promoting Watson as a benevolent digital assistant that would help hospitals and farms as well as offices and factories. 
+> The challenges turned out to be far more difficult and time-consuming than anticipated.
+> IBM insists that its revised A.I. strategy — a pared-down, less world-changing ambition — is working (@lohr_what_2021). 
+
+See here for addition info: https://ieeexplore.ieee.org/abstract/document/8678513 
+</div>
 
 ## Check for Allowed Use
 
 When AI systems are trained on data, they may also learn and incorporate copyrighted information. This means that AI-generated content could potentially infringe on the copyright of the original author. For example, if an AI system is trained on a code written by a human programmer, the AI system could generate code that is identical to or similar to the code from that author. If the AI system then uses this code without permission from the original author, this could constitute copyright infringement.
 
 Similarly, AI systems could potentially infringe on intellectual property rights by using code that is protected by trademarks or patents. For example, if an AI system is trained on a training manual that contains code that is protected by a trademark, the AI system could generate code that is identical to or similar to the code in the training manual. If the AI system then uses this code without permission from the trademark owner, this could constitute trademark infringement.
+
+<div class =reflection>
+The same is true for music, art, poetry etc. AI poses questions about how we define art and if AI will reduce the opportunities for employment for human artists. See [here](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/) for an interesting discussion, in which it is argued that AI may enhance our capacity to create art. This will be an important topic for society to consider.
+
+</div>
 
 ### Tips for checking for allowed use
 
@@ -80,7 +87,7 @@ It is especially helpful if training materials are developed to be especially re
 
 <div class = "example">
 
-**Real World Example**
+**Real-World Example**
 
 A lack of proper training at Samsung lead to a leak of proprietary data due to unauthorized use of ChatGPT by employees – see https://cybernews.com/news/chatgpt-samsung-data-leak for more details: 
 

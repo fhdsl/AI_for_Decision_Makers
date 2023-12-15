@@ -1,0 +1,112 @@
+
+- typeName: multipleChoice
+  prompt: What are the two important qualities of an AI tool that make it good?
+
+  shuffleOptions: true
+  options:
+    - answer: Accuracy and computational complexity
+      isCorrect: false
+    - answer: Accuracy and computational efficiency
+      isCorrect: true
+    - answer: Speed and cost
+      isCorrect: false
+    - answer: Usage and funding
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What were the three AI tool customizations we discussed in this course?
+
+  shuffleOptions: true
+  options:
+    - answer: Data, algorithms, and hardware
+      isCorrect: false
+    - answer: Knowledge, security, and interface
+      isCorrect: true
+    - answer: Inputs, outputs, and models
+      isCorrect: false
+    - answer: Servers, networks, and storage
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What should you do first when planning an AI project?
+
+  shuffleOptions: true
+  options:
+    - answer: Find funding
+      isCorrect: false
+    - answer: Assemble a team
+      isCorrect: false
+    - answer: Define goals and use cases
+      isCorrect: true
+    - answer: Start development
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What size model is ideal for building a custom trained AI model?
+
+  shuffleOptions: true
+  options:
+    - answer: The biggest model that is available
+      isCorrect: false
+    - answer: The newest version available
+      isCorrect: false
+    - answer: Small as possible while still maintaining accuracy
+      isCorrect: true
+    - answer: An private subscription model
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which was NOT a best practice for data security?
+
+  shuffleOptions: true
+  options:
+    - answer: Use authentication
+      isCorrect: false
+    - answer: Allow broad data access
+      isCorrect: true
+    - answer: Limit privileges
+      isCorrect: false
+    - answer: Employ data agreements
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What should you do before using or building AI tools for use with protected data?
+
+  shuffleOptions: true
+  options:
+    - answer: Consult legal experts
+      isCorrect: true
+    - answer: Test extensively
+      isCorrect: false
+    - answer: Accept terms of service
+      isCorrect: false
+    - answer: Purchase usage licenses
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Why is usability testing important?
+
+  shuffleOptions: true
+  options:
+    - answer: It identifies areas for improvement
+      isCorrect: false
+    - answer: It gathers user opinions
+      isCorrect: false
+    - answer: It identifies user needs
+      isCorrect: false
+    - answer: All of the above
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: How might you decide what metrics are important for you to collect about your AI tool?
+
+  shuffleOptions: true
+  options:
+    - answer: Make up your own benchmarks to make your tool look good
+      isCorrect: false
+    - answer: Use the most flashy metrics
+      isCorrect: false
+    - answer: Copy your competitors regardless if it makes sense for your use case
+      isCorrect: false
+    - answer: Evaluate your AI model against what types of "ground truth" you have available.
+      isCorrect: true
