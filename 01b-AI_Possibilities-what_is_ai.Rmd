@@ -61,11 +61,20 @@ Let’s look at the history of how Amazon’s recommendation algorithm is design
 
 #### Collaborative Filtering
 
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/13U93pHO64Q7X1Sv6uu7WyKyhCeDpMhRi57EROjZD4v4/edit#slide=id.g2a6aa979cb6_0_1")
+```
+
 In the early 2000’s, Amazon’s recommendation system was based on a method called “collaborative filtering”. The term comes from the fact that the method tries to predict a customer’s buying habits based on other similar customers in the marketplace. 
 
 Here is how it worked: The history of a customer on all items in the marketplace is stored as a large numerical list. Given a customer’s purchasing history list, the collaborative filtering algorithm looks for similar customers with similar purchasing patterns via a similarity score. The algorithm makes product recommendations based on their these similar customers’ top purchases. This is called customer-based collaborative filtering. 
 
 However, this recommendation process was not particularly efficient: computing the similarity score between all customers was slow, and this had to be done regularly, as customers purchasing habits changed regularly. The system was not very stable. @sarwar2001item
+
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/13U93pHO64Q7X1Sv6uu7WyKyhCeDpMhRi57EROjZD4v4/edit#slide=id.g2a6aa979cb6_0_36")
+```
 
 As the number of Amazon users grew faster than the number of marketplace products, scientists thought about creating more stability by looking at the purchasing history of a product by customers instead. This is called item-based collaborative filtering. Given a customer’s recently purchased items, this new algorithm finds items that have a similar purchasing pattern, and recommend it to the customer. 
 
@@ -76,6 +85,11 @@ A product’s purchasing history by all customers did not change quickly, so com
 As the number of customers and items grew for Amazon, scientists still scrambled to deal with the scale of the problem. For instance, to compare the similarity of two items, a computer would have to compare a two lists each consisting of millions of customers. Perhaps, each item’s purchasing probability can be described more compactly.
 
 A modern way of finding this compact representation of an item’s purchase history is using a type of neural network called Autoencoders. 
+
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/13U93pHO64Q7X1Sv6uu7WyKyhCeDpMhRi57EROjZD4v4/edit#slide=id.g2a6aa979cb6_0_70")
+```
 
 Autoencoders takes an item’s history, which consists of millions of customers, and tries to map it to a smaller representation. This is called the “encoder” step. To make sure that this representation is accurate, the Autoencoder then maps the representation back to its original, uncompressed state. This is called the “decoder” step. A good Autoencoder must “encode” and “decode” effectively.
 
