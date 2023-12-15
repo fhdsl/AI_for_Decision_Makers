@@ -17,17 +17,6 @@ Here we suggest some simple practices that can help you and others at your insti
 1) **Educate Yourself and Others** - To actually comply with ethical standards, it is vital that users be educated about best practices for use. If you help set standards for an institution or group, it strongly advised that you carefully consider how to educate individuals about those standards of use. 
 
 
-:::{.ethics}
-Be transparent about what AI tools you use where possible. This help others to better understand how you created any content that was derived by AI, as well as the possible sources that the AI tools might have used when helping you. It may also help with future unknown issues related to the use of these tools.
-
-Keep in mind that some fields, organizations, and societies have guidelines or requirements for using AI, like for example the policy for the use of large language models for the [International Society for Computational Biology](https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models). Be aware of the requirements/guidelines for your field. 
-:::
-
-**It is essential to address these ethical concerns and ensure that AI is used in a responsible and transparent manner.** This could be done through ensuring the quality of training for AI systems, promoting transparency about AI-generated content, and implementing safeguards against the creation of harmful or biased content. By doing so, we can harness the potential of AI to improve and transform the way we work while maintaining ethical standards.
-
-**Recognize that the ethical guidelines and standards for your field should be considered when using AI or creating AI use policies.**
-
-
 ## Start Slow
 
 Launching large projects using AI before you get a chance to test them could lead to disastrous consequences. Unforeseen challenges have already come up with many uses of AI, so it is wise to start small and do evaluation first before you roll out a system to more users.
@@ -39,6 +28,19 @@ This also gives you time to correspond with legal, equity, security, etc. expert
  * Consider an early adopters program to evaluate usage.
  * Consult with experts about potential unforeseen challenges.
  * Continue to assess and evaluate AI systems over time.
+ 
+<div class = example>
+
+**Real World Example**
+
+IBM created Watson, an AI system that participated and won on the game show Jeopardy! and showed promise for advancing healthcare. However IBM had lofty goals for Watson to revolutionize cancer diagnosis, yet unexpected challenges resulted in unsafe and incorrect responses.
+
+> IBM poured many millions of dollars in the next few years into promoting Watson as a benevolent digital assistant that would help hospitals and farms as well as offices and factories. 
+> The challenges turned out to be far more difficult and time-consuming than anticipated.
+> IBM insists that its revised A.I. strategy — a pared-down, less world-changing ambition — is working (@lohr_what_2021). 
+
+See here for addition info: https://ieeexplore.ieee.org/abstract/document/8678513 
+</div>
 
 ## Check for Allowed Use
 
