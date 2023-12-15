@@ -185,7 +185,7 @@ Thoughtful planning to efficiently modify existing models as opposed to unnecess
 
 ## Transparency
 
-In the United States Bluebrint for the AI Bill of Rights, it states:
+In the United States Blueprint for the AI Bill of Rights, it states:
 
  > You should know that an automated system is being used and understand how and why it contributes to outcomes that impact you.
  
