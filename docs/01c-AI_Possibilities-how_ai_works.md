@@ -101,3 +101,7 @@ Finally, AI would not work without an interface. This is where we can get creati
 - Telling people they might have cancer could be very upsetting for them. Our interface should provide supporting resources and clear disclaimers about its abilities.
 
 ![](resources/images/01c-AI_Possibilities-how_ai_works_files/figure-docx//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_397.png){width=100%}
+
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
