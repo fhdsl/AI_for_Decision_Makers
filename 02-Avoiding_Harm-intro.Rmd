@@ -25,14 +25,16 @@ This course is intended for leaders who might make decisions about AI at nonprof
 
 ## Curriculum  
 
-This course provides a brief introduction about ethical concepts to be aware of when making decisions about AI. It will cover:
+This course provides a brief introduction about ethical concepts to be aware of when making decisions about AI, as well as real world examples of situations that involved ethical challenges. 
 
-- A proposed process for ethical AI use and development
+The course will cover:
+
 - Possible societal impacts of AI 
 - Concerns to be aware of for AI algorithms
 - Strategies to adhere to AI codes of ethics
 - Concepts for consent with AI
 - IDARE principles (Inclusion, Diversity, Anti-Racism, and Equity) with AI 
+- A proposed process for ethical AI use and development
 
 ## Learning Objectives
 
