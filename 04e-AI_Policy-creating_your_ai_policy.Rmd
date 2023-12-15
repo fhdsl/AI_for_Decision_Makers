@@ -6,6 +6,10 @@ ottrpal::set_knitr_image_path()
 
 AI tools are already changing how we work, and they will continue to do so for years. Over the next few years, we're likely going to see AI used in ways we've never imagined and are not anticipating. How can you guide your organization to adopt AI in a way that's not unethical, illegal, or wrong?
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
 ## An AI policy alone is not enough
 
 It is probably not enough to build only an AI policy. Building in an AI support system that make it possible for the people in your organization to adopt AI in safe and ethical ways is also important. An AI policy support system might include the infrastructure to handle AI, guidelines on AI best practices, and training materials in addition to the policy. 
