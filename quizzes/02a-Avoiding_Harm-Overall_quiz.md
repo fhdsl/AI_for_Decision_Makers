@@ -42,7 +42,7 @@ D) All of the above
 ? What should be done to mitigate algorithmic bias?
 
 a) Nothing, AI systems are inherently unbiased
-B) Retrain models on more diverse and inclusive data
+B) Train models on more diverse and inclusive data
 c) Disable safety checks that restrict harmful content
 d) Rely completely on AI systems for decision-making
 
