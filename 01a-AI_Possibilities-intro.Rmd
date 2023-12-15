@@ -40,4 +40,4 @@ We will learn how to:
 - Identify common technologies and whether or not they are AI
 - Explain the essential "behind the scenes" technology of how AI works
 - Detail ground rules for using AI ethically
-- Identify possibilites for using AI while understanding its limitations
+- Identify possibilities for using AI while understanding its limitations
