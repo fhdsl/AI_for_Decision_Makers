@@ -85,6 +85,7 @@ Inadvertent
 inadvertent
 Interpretability
 interpretability
+interpretable
 ITCR
 itcrtraining
 iteratively
