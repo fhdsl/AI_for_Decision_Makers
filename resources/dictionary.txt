@@ -66,11 +66,10 @@ inadvertent
 Inadvertent
 interpretability
 Interpretability
+interpretable
 IRB
 IRBs
 ITCR
-ITCR
-itcrtraining
 itcrtraining
 iteratively
 ITN
