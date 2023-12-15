@@ -38,7 +38,8 @@ Secondly your evaluation strategies will dependent on what your goals are – ho
 
 LLM chatbots can be a bit tricky to evaluate accuracy -- how do you know if the response it gave a user was what the user was looking for? But there's a number of options and groups who are working on establishing methods and standards for LLM evaluation.
 
-**Some examples at this time:**
+**Some examples at this time:**  
+
 - [MOdel kNowledge relIabiliTy scORe (MONITOR)](https://arxiv.org/pdf/2310.09820.pdf)
 - [google/BIG-bench](https://github.com/google/BIG-bench)
 - [GLUE Benchmark](https://gluebenchmark.com/)
@@ -56,7 +57,8 @@ Besides being shocked by your computing bill each month, there's more fore think
 
 ![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_329.png){width=100%}
 
-Examples of metrics you may consider collecting:   
+Examples of metrics you may consider collecting:  
+
 - Average time per job - How much time
 - Capacity - Total jobs that can be run at once
 - FLOPs (Floating Point Operations) - measure the computational cost or complexity of a model or calculation [More about FLOPs](https://www.kdnuggets.com/2023/06/calculate-computational-efficiency-deep-learning-models-flops-macs.html).

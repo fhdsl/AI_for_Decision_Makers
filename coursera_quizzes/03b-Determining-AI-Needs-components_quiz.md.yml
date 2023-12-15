@@ -1,0 +1,52 @@
+
+- typeName: multipleChoice
+  prompt: What is one way that AI models can become more accurate?
+  shuffleOptions: true
+  options:
+    - answer: Adding more irrelevant training data
+      isCorrect: false
+    - answer: Adding more labeled, relevant training data
+      isCorrect: true
+    - answer: Not adding any new training data
+      isCorrect: false
+    - answer: Only training the model on text data
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What enables modern AI models like large language models to be efficient?
+  shuffleOptions: true
+  options:
+    - answer: Using sequential processing algorithms
+      isCorrect: false
+    - answer: Using transformer algorithms
+      isCorrect: false
+    - answer: Using attention mechanism algorithms
+      isCorrect: true
+    - answer: Using encoder algorithms
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which is NOT a core component of an AI system we discussed?
+  shuffleOptions: true
+  options:
+    - answer: Input
+      isCorrect: false
+    - answer: Training data
+      isCorrect: false
+    - answer: Parameters
+      isCorrect: true
+    - answer: Output
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Why can AI models sometimes give biased outputs?
+  shuffleOptions: true
+  options:
+    - answer: They don't have enough training data
+      isCorrect: false
+    - answer: Their training data contains human biases
+      isCorrect: true
+    - answer: Their algorithms are biased
+      isCorrect: false
+    - answer: They don't use transformer algorithms
+      isCorrect: false
