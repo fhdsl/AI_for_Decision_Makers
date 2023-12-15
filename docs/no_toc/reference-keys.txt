@@ -4,6 +4,7 @@ exm:unlabeled-div-3
 exm:unlabeled-div-4
 exm:unlabeled-div-5
 exm:unlabeled-div-6
+exm:unlabeled-div-7
 specialization-sections
 available-course-formats
 video-summary-of-this-course
@@ -96,6 +97,7 @@ educate-yourself-and-others
 tips-to-educate-yourself-and-others
 summary-3
 consent-and-ai
+summary-4
 idare-and-ai
 ai-is-biased
 examples-of-ai-bias
@@ -105,6 +107,7 @@ mitigation
 be-extremely-careful-using-ai-for-decisions
 more-inclusive-teams-means-better-models
 access
+summary-5
 ethical-process
 ethical-use-process
 reflection-during-inception-of-the-idea
@@ -115,6 +118,7 @@ reflection-during-inception-of-the-idea-1
 planning-reflections
 development-reflection
 post-development-reflection
+summary-6
 video-introduction-to-determining-ai-needs-video
 introduction-to-determining-ai-needs
 motivation-3
