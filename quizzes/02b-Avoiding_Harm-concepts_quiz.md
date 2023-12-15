@@ -5,7 +5,7 @@
 
 ? Which of the following is NOT considered a major ethical consideration discussed in the material?
 
-a) Security and Privacy issues
+a) Security and privacy issues
 b) Climate impact
 C) Efficiency of the AI project
 d) Inadvertent harm
