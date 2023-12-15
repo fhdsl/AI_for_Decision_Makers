@@ -70,18 +70,26 @@ It is vital that teams hired for the development, auditing or testing of AI tool
  
 ## Access
 
-Improving access for all individuals holds the power to make the benefits of AI and other technology a reality to everyone. However exapanding access should be done mindfully to empower others, rather than to exploit. 
+Improving access for all individuals holds the power to make the benefits of AI and other technology a reality to everyone. However expanding access should be done mindfully to empower others, rather than to exploit or create further vulnerability. 
 
-The [Gates foundation has suggested [principles](https://www.gatesfoundation.org/ideas/articles/artificial-intelligence-ai-development-principles) (@Gates_principles) for their work to expand AI access responsibly, including the following summarized here :
+The [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/) has suggested [principles](https://www.gatesfoundation.org/ideas/articles/artificial-intelligence-ai-development-principles) (@Gates_principles) for their work to expand AI access responsibly, including the following summarized here :
 
 1) Adhering to core values of helping all people reach their full potential
-1) Promoting co-design and inclusivity by including indiviudals in low-income settings to be collaborators and partners and acknowledging infrastructure limitations.
+1) Promoting co-design and inclusivity by including individuals in low-income settings to be collaborators and partners and acknowledging infrastructure limitations.
 1) Proceeding responsibly with continuous improvement in a step-wise fashion
-1) Addressing Privacy and security concerns by regulrlary peforming assessments and ensuring compliance with relevant regulations and laws, as well as caeful consent practices
-1) Building equitable access - focusing not just on access distribution by on equitible ownership and maintenance and development
+1) Addressing Privacy and security concerns by regularly performing assessments and ensuring compliance with relevant regulations and laws, as well as careful consent practices
+1) Building equitable access - focusing not just on access distribution by on equitable ownership and maintenance and development
 1) Committing to transparency - Sharing information for public good
 
-It might also be worth adding another point about transparency for potential risks. 
 
+## Summary
 
+In summary we suggest you consider the following to better promote the well-being of all individuals when approaching AI:
+
+- Recognize that humans are biased and AI systems created by humans are therefore biased. They typically currently enhance bias, unless mindfully engineered for specific contexts with appropriate training data. 
+- Recognize that sometimes AI works in unexpected ways and systems can be biased in ways that are not fully understood
+- Testing, auditing, and questioning AI systems about bias can help mitigate harm
+- Using AI for decisions at this point in time could be very harmful towards vulnerable populations. AI should not be used for any important decisions without human oversight.
+- More inclusive AI teams can help us build more responsible and more useful models 
+- Enhancing access to AI tools has the potential to improve the well-being of individuals in places with other limited technology or healthcare access, however this needs to be done in a collaborative manner to avoid harm and exploitation 
 
