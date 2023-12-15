@@ -3,7 +3,7 @@
 
 ## IDARE and AI Quiz
 
-? What does the acronym IDARE stand for in the context of using AI responsibly?
+? What does the acronym IDARE stand for?
 
 A) Inclusion, Diversity, Anti-Racism, and Equity
 b) Intelligence, Data, Algorithms, Research, Engineering
