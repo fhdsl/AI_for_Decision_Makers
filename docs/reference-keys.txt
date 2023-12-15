@@ -191,8 +191,12 @@ data-privacy
 liability
 who-can-tell-you-about-your-particular-legal-concerns
 video-existing-laws-that-apply-to-ai
-title
+considerations-for-creating-an-ai-policy
+an-ai-policy-alone-is-probably-not-enough
+get-lots-of-voices-weighing-in-from-the-beginning
+consider-how-to-keep-your-guidance-agile
+adopting-good-practices-now-can-benefit-your-organization
 video-title
-title-1
+title
 video-title-1
 references
