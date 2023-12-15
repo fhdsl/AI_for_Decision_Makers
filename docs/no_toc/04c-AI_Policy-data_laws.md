@@ -8,7 +8,7 @@ While countries and jurisdictions are developing ans passing laws that specifica
 Keep in mind this is not an exhaustive list! This can give you a starting point of what sorts of laws and regulations you might need to consider, but you'll need to apply your own domain knowledge to determine the specifics for your organization. Always confirm with your legal council whether a particular law or regulation applies to you.
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
 ## Intellectual Property

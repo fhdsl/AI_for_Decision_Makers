@@ -7,7 +7,7 @@ With generative AI still new in many fields, from medicine to law, regulations a
 Countries outside of the EU are drafting their own laws, orders, and standards surrounding AI use, so you and your employees will need to do some research on what it and is not allowed in your local area. **Always consult your legal council about the AI regulations that apply to you.**
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
 ## The EU AI Act
