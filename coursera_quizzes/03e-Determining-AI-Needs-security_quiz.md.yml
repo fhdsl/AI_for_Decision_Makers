@@ -1,0 +1,48 @@
+
+- typeName: multipleChoice
+  prompt: What is a key motivation for customized security with AI?
+  shuffleOptions: true
+  options:
+    - answer: Increasing computational efficiency
+      isCorrect: false
+    - answer: Enabling use of protected data
+      isCorrect: true
+    - answer: Improving user interfaces
+      isCorrect: false
+    - answer: Adding new algorithms
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Before using an AI service with protected data, users should
+  shuffleOptions: true
+  options:
+    - answer: Accept the terms of service
+      isCorrect: false
+    - answer: Consult legal experts
+      isCorrect: true
+    - answer: Pay for a usage license
+      isCorrect: false
+    - answer: Test on sample data
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What technique replaces sensitive data with fake, randomized data?
+  shuffleOptions: true
+  options:
+    - answer: Data redaction
+      isCorrect: false
+    - answer: Data masking
+      isCorrect: false
+    - answer: Data anonymization
+      isCorrect: true
+    - answer: Data aggregation
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which customized security solution requires the most technical expertise?
+  shuffleOptions: true
+  options:
+    - answer: Using an AI service with built-in security
+      isCorrect: false
+    - answer: Deploying models on compliant servers
+      isCorrect: true

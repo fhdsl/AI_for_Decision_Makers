@@ -2,6 +2,8 @@ exm:unlabeled-div-1
 exm:unlabeled-div-2
 exm:unlabeled-div-3
 exm:unlabeled-div-4
+exm:unlabeled-div-5
+exm:unlabeled-div-6
 specialization-sections
 available-course-formats
 video-summary-of-this-course
@@ -56,6 +58,8 @@ curriculum-1
 learning-objectives-1
 ethical-process
 societal-impact
+ethics-codes
+major-ethical-considerations
 intentional-and-inadvertent-harm
 tips-for-avoiding-inadvertent-harm
 replacing-humans-and-human-autonomy
@@ -71,6 +75,8 @@ data-source-issues
 tips-for-reducing-security-and-privacy-issues
 climate-impact
 tips-for-reducing-climate-impact
+transparency
+tips-for-being-transparent-in-your-use-of-ai
 summary-1
 algorithm-considerations
 harmful-or-toxic-responses
@@ -79,13 +85,6 @@ lack-of-interpretability
 tips-for-avoiding-a-lack-of-interpretability
 misinformation-and-faulty-responses
 tips-for-reducing-misinformation-faulty-responses
-lack-of-interpretability-1
-tips-for-avoiding-a-lack-of-interpretability-1
-misinformation-and-faulty-responses-1
-tips-for-reducing-misinformation-faulty-responses-1
-security-and-privacy-issues-1
-violating-copyright
-tips-for-avoiding-copyright-violations
 summary-2
 adherence-practices
 start-slow

@@ -13,7 +13,7 @@ Some of this content was adapted from our course on [AI for Efficient Programmin
 
 ## Motivation
 
-The use of artificial intelligence (AI) and in particular, generative AI, has raised a number of ethical concerns. We will highlight several current concerns, however please be aware that this is a dynamic field and the possible implications of this technology is continuing to develop. It is critical that we as a society continue to evaluate and predict what the consequences of the use of AI will be, so that we can mitigate harmful effects.
+The use of artificial intelligence (AI) and in particular, generative AI, has raised a number of ethical concerns. We will highlight several current concerns, however please be aware that this is a dynamic field and the possible implications of this technology is continuing to develop. It is critical that society continue to evaluate and predict what the consequences of the use of AI will be, so that we can try to mitigate harmful effects.
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "A cartoon of a robot thinking and text that says 'How can we use AI responsibly'."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g263a8b2455e_0_0")
@@ -25,23 +25,24 @@ This course is intended for leaders who might make decisions about AI at nonprof
 
 ## Curriculum  
 
-This course provides a brief introduction about ethical concepts to be aware of when making decisions about AI. It will cover:
+This course provides a brief introduction about ethical concepts to be aware of when making decisions about AI, as well as **real-world examples** of situations that involved ethical challenges. 
 
-- A proposed process for Ethical AI use and development
+The course will cover:
+
 - Possible societal impacts of AI 
 - Concerns to be aware of for AI algorithms
 - Strategies to adhere to AI codes of ethics
 - Concepts for consent with AI
 - IDARE principles (Inclusion, Diversity, Anti-Racism, and Equity) with AI 
+- A proposed process for ethical AI use and development
 
 ## Learning Objectives
 
-In this chapter we will demonstrate how to:
+We will demonstrate how to:
 
-- Explain a possible process for ethical AI use and development
 - Describe key ethical concerns for using AI tools
 - Identify possible mitigation strategies for these major concerns
 - Explain the potential benefits of being transparent about the use of AI tools
 - Discuss why human contributions are still important and necessary 
-- Recognize strategies for using AI tools more responsibly
+- Explain a possible process for reflecting on ethical AI use and development
 
