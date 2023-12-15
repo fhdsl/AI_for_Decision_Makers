@@ -10,7 +10,7 @@ b) At the beginning of during development only
 c) Just before an AI system is deployed
 D) Throughout the entire process of development and use
 
-? What is one consideration when reflecting on AI use during the inception of an idea?
+? What is NOT a consideration when reflecting on AI use during the inception of an idea?
 a) If larger training datasets are needed
 b) How transparency will be maintained
 c) Whether AI is actually appropriate for the use case
