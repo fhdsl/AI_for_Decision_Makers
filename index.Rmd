@@ -16,6 +16,7 @@ output:
 
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
+install.packages("config")
 library(config)
 ```
 
