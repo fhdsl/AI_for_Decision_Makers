@@ -24,7 +24,7 @@ D) Chatbots giving biased answers that lack diverse perspectives to users
 
 ? What does the material recommend regarding using AI for employment decisions?
 a) AI should be fully relied upon to make unbiased choices
-b) Humans should have final say but AI can guide decisions
+b) Humans should have final say but AI can select a small number of resumes to evaluate without any potential bias issues
 C) AI is not appropriate for use in employment decisions with our current systems
 d) Guidelines are unnecessary as bias is no longer an issue
 
