@@ -16,7 +16,7 @@ output:
 
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
-if(!require(config)) install.packages("config",repos = "http://cran.us.r-project.org")
+install.packages("config", repos = "http://cran.us.r-project.org")
 library(config)
 ```
 
