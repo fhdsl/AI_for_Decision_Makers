@@ -43,5 +43,5 @@ We will demonstrate how to:
 - Explain a possible process for reflecting on ethical AI use and development
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>

@@ -22,5 +22,5 @@ The connections between nodes have weights that the network learns during traini
 <img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>

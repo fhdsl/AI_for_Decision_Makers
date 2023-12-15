@@ -10,7 +10,7 @@
 There is the potential for AI to dramatically influence society. It is our responsibility to be proactive in thinking about what uses and impacts we consider to be useful and appropriate and those we consider harmful and inappropriate. 
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
 
