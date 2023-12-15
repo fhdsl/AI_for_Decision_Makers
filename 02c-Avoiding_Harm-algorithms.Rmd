@@ -120,7 +120,7 @@ Here is a summary of all the tips we suggested:
 
 :::{.ethics}
 
-* Design new AI systems with interpretibility in mind 
+* Design new AI systems with interpretability in mind 
 * Don't assume AI-generated content is real, accurate, consistent, current, or better than that of a human.
 * Ask the AI tools to help you understand:
   * Sources for the content that you can cite
