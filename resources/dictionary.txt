@@ -37,6 +37,7 @@ skillsetes
 useable
 PrivateAI
 AnVIL
+auditability
 biometric
 Biometric
 BIPOC
@@ -45,8 +46,10 @@ Bookdown
 chatbot
 ChatGPT
 ChatGPT's
+CIO
 Coursera
 css
+cyberattacks
 cybersecurity
 DALL
 dashcams
@@ -58,6 +61,8 @@ deepfakes
 Dockerfile
 Dockerhub
 dropdown
+Ethicists
+EURACTIV
 EU's
 favicon
 GDSCN
@@ -69,6 +74,9 @@ GPT
 HIPAA
 IDARE
 impactful
+IRBs
+ITCR
+itcrtraining
 Inadvertent
 inadvertent
 Interpretability
@@ -91,6 +99,7 @@ ottrpal
 Pandoc
 Perelman
 PII
+pre
 UE
 UE5
 under-diagnosed
