@@ -46,11 +46,7 @@ Some individual industries have already begun adopting policies about generative
 
 Some countries have also begun creating policies for specific industries and fields. For example, the US recently released an Executive Order about creating [healthcare-specific AI policies](https://www.whitehouse.gov/briefing-room/blog/2023/12/14/delivering-on-the-promise-of-ai-to-improve-health-outcomes/).
 
-### Scientific Societies
-
-Many scientific societies around the globe have issued policies and guidelines on how AI may and may not be used by their members for conferences, abstracts, and journal articles. For many of these societies, AI cannot be used to wholly generate abstracts or scientific articles. AI tools may also not be used to create or modify images or figures. Scientists are also not allowed to use AI LLMs to review articles under consideration for publication.
-
-AI use can be allowed in some circumstances, especially if it being used as one tool of many. Although the entire piece cannot be written with AI, AI LLMs can potentially be used for editing and tightening language the author has written. AI tools can also be used to tweak and optimize code, although all AI-written code should be rigorously tested.
+### Mississippi AI Institute
 
 ### US Federal Drug Administration
 
