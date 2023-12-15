@@ -51,5 +51,10 @@ It has been argued that there are possible uses that should be exempt, such as l
 
 See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-facial-recognition-raises-concerns/) to learn more about this debate.
 
-
 <div>
+
+## Summary
+
+Overall the consent process is particularly challenging and consideration should especially be centered on the rights of the individuals who may have data collected about them. We hope that awareness of some of the major challenges can help you to more responsbily implement any consenting processes that may be needed for AI tools that you employ or develop. We advise that you speak with ethical and legal experts. 
+
+
