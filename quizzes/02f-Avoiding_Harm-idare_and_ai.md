@@ -19,7 +19,7 @@ d) Bias only occurs when using unsupervised learning
 ? What example demonstrates an AI system perpetuating existing biases?
 a) An AI system beating a human at chess
 b) AI-written articles discussing IDARE principles
-c) Algorithms predicting patient ancestry from medical images
+c) Algorithms that help flag medical images for further review based on patient reported pain
 D) Chatbots giving biased answers that lack diverse perspectives to users
 
 ? What does the material recommend regarding using AI for employment decisions?
