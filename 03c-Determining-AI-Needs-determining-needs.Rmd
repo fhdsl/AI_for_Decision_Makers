@@ -8,6 +8,11 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Determining your AI needs
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
+
 ## Learning objectives:
 
 - Establish your AI project goals

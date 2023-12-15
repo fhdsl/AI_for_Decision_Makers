@@ -8,6 +8,10 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Evaluating your customized AI tool
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
 ## Learning objectives:
 
 - Understand the motivation behind evaluating your customized AI tool
