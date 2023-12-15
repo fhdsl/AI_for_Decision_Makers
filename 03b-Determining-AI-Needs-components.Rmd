@@ -1,4 +1,11 @@
 
+# VIDEO: What are the Components of AI
+
+This video discusses the components of AI tools and what constitutes a good AI model.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/na9ixCg4oMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1Le4EqKaQKJskZDFrO0h2I0mP-s23C8UHFenhMeFpmu8/edit).
 
 # What are the components of AI?
 
