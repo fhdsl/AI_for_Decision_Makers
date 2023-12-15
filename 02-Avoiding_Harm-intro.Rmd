@@ -25,7 +25,7 @@ This course is intended for leaders who might make decisions about AI at nonprof
 
 ## Curriculum  
 
-This course provides a brief introduction about ethical concepts to be aware of when making decisions about AI, as well as real world examples of situations that involved ethical challenges. 
+This course provides a brief introduction about ethical concepts to be aware of when making decisions about AI, as well as **real-world examples** of situations that involved ethical challenges. 
 
 The course will cover:
 
