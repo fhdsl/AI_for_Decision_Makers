@@ -31,7 +31,7 @@
 31-Building-a-team-to-guide-your-AI-use.md
 32-VIDEO-Building-a-team-to-guide-your-AI-use.md
 33-AI-Acts,-Orders,-and-Policies.md
-34-VIDEO-Legal-Regulations-Around-AI-Use.md
+34-VIDEO-AI-Acts,-Orders,-and-Policies.md
 35-Other-Laws-That-Can-Apply-to-AI.md
 36-VIDEO-Existing-Laws-That-Apply-to-AI.md
 37-Considerations-for-creating-an-AI-Policy.md
