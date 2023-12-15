@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 18 Algorithm considerations | How AI Works</title>
+  <title>Chapter 43 Data Privacy and Information Security | How AI Works</title>
   <meta name="description" content="Description about Course/Book." />
   <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 18 Algorithm considerations | How AI Works" />
+  <meta property="og:title" content="Chapter 43 Data Privacy and Information Security | How AI Works" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 18 Algorithm considerations | How AI Works" />
+  <meta name="twitter:title" content="Chapter 43 Data Privacy and Information Security | How AI Works" />
   
   <meta name="twitter:description" content="Description about Course/Book." />
   
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="assets/dasl_favicon.ico" type="image/x-icon" />
-<link rel="prev" href="societal-impact.html"/>
-<link rel="next" href="adherence-practices.html"/>
+<link rel="prev" href="other-laws-that-can-apply-to-ai.html"/>
+<link rel="next" href="video-existing-laws-that-apply-to-ai.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
@@ -461,110 +461,19 @@ div.csl-indent {
 <div class="hero-image-container"> 
   <img class= "hero-image" src="assets/dasl_thin_main_image.png">
 </div>
-<div id="algorithm-considerations" class="section level1" number="18">
-<h1><span class="header-section-number">Chapter 18</span> Algorithm considerations</h1>
-<p>In this chapter we will discuss the some of the major ethical considerations regarding the algorithms underlying AI tools. We will provide some tips for how to deal with these issues that may be useful for creating AI guidelines at your institution.</p>
-<div class="disclaimer">
-<p><strong>Disclaimer:</strong> The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.</p>
+<div id="data-privacy-and-information-security" class="section level1" number="43">
+<h1><span class="header-section-number">Chapter 43</span> Data Privacy and Information Security</h1>
+<p>An estimated 4.2 billion individuals share some form of data about themselves online. This might be information like what they’re interested in or information that can be used for identification, like their birth date or where they live, or even financial information. With vast amounts of data about us out there, privacy laws protecting the digital information of internet users are becoming increasingly common. More than 100 countries have some sort of privacy laws in place.</p>
+<p>Initial concerns around AI and information security focused on bad actors using LLMs to generate malicious code that could be used for cyberattacks. While commercially available chatbots have guardrails in place that are meant to prevent them from being used to create such code, users were able to come up with workarounds to bypass these safety checks. More recently people have begun to worry about privacy concerns related to the AI systems themselves. AI systems are trained on vast amounts of data, including data that is covered by existing privacy laws, and many systems also collect and store data from their users, potentially for use as additional training data.</p>
+<p>Data privacy is especially important to consider when working in fields like healthcare, biomedical research, and education, where personally identifiable data and personal health information is under special protections. Special consideration should also be taken when dealing with biometric data, or data involving human characteristics gathered from physical or behavioral traits that can be used to identify a single person. This might include things like fingerprints, palm prints, iris scans, facial scans, and voice recognition. DNA can also be considered biometric data when used for forensics.</p>
+<div id="liability" class="section level2" number="43.1">
+<h2><span class="header-section-number">43.1</span> Liability</h2>
+<p>As AI systems become more and more common in everyday life, it is inevitable that some of these systems will fail at some point. Who is liable when AI fails, especially when it fails in a catastrophic manner?</p>
+<p>The issue of whose fault it is when an AI system fails (and thus who is responsible for the damage) depends greatly on <em>how</em> and <em>why</em> it failed. Blame might lie with the user (if the AI was not being used according to instructions, or if limitations were known but ignored), the software developer (if the AI product was distributed before being tested thoroughly or before the algorithm was properly tuned), or the designer or manufacturer (if the AI design or production was inherently flawed).</p>
 </div>
-<ol style="list-style-type: decimal">
-<li><strong>Toxic Responses</strong> - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc.</li>
-<li><strong>Lack of Interpretability</strong> - When complicated algorithms are used within AI systems, it can be unclear how it came up with a decision. In many circumstances it is necessary to understand how the AI system works to know how to proceed.</li>
-<li><strong>Misinformation and Faulty Responses</strong> - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.</li>
-</ol>
-<p>Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools <strong>careful to learn more about the specific tools they are interested in</strong> and to be <strong>transparent</strong> about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.</p>
-<div id="harmful-or-toxic-responses" class="section level2" number="18.1">
-<h2><span class="header-section-number">18.1</span> Harmful or Toxic Responses</h2>
-<p>One major concern is the use of AI to generate malicious content. Secondly the AI itself may accidentally create harmful responses or suggestions. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">“toxicity”</a>, which refers to disrespectful, rude, or hateful responses (<span class="citation">Nikulski (<a href="references.html#ref-nikulski_toxicity_2021" role="doc-biblioref">2021</a>)</span>). These responses can have very negative consequences for users. Ultimately these issues could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses, to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.</p>
-<div id="tips-for-avoiding-the-creation-of-harmful-content" class="section level3" number="18.1.1">
-<h3><span class="header-section-number">18.1.1</span> Tips for avoiding the creation of harmful content</h3>
-<ul>
-<li>Be careful about what commercial tools you employ, they should be transparent about what they do to avoid harm.</li>
-<li>If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as <a href="https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/">Amazon Bedrock</a> have tools for evaluating <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">toxicity</a> to test for harmful responses. Although such systems can be helpful to automatically test, evaluation should also be done directly by humans.</li>
-<li>Be careful about the context in which you might have people use AI - will they know how to use it responsibly?</li>
-<li>Be careful about what content you share publicly, as it could be used for malicious purposes.</li>
-<li>Consider how the content might be used by others.</li>
-<li>Ask the AI tools to help you, but do not rely on them alone.</li>
-</ul>
-<div class="query">
-<p>What are the possible downstream uses of this content?</p>
-</div>
-<div class="query">
-<p>What are some possible negative consequences of using this content?</p>
-</div>
-</div>
-</div>
-<div id="lack-of-interpretability" class="section level2" number="18.2">
-<h2><span class="header-section-number">18.2</span> Lack of Interpretability</h2>
-<p>There is risk in using AI tools, that we may encounter situations where it is unclear why the AI system came to a particular result. AI systems that use more complicated algorithms can make it difficult to trace back the decision process of the algorithm.</p>
-<p>Using content created or modified by AI, could make it difficult for others to understand if the content is adequate or appropriate, or to identify and fix any issues that may arise.</p>
-<p>This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions.</p>
-<div id="tips-for-avoiding-a-lack-of-interpretability" class="section level3" number="18.2.1">
-<h3><span class="header-section-number">18.2.1</span> Tips for avoiding a lack of interpretability</h3>
-<ul>
-<li>Content should be reviewed by those experienced in the given field.</li>
-<li>Ask AI tools to help you understand the how it got to the response that it did, but get expert assistance where needed.</li>
-<li>New AI tools should be designed with interpretability in mind.</li>
-</ul>
-<div class="query">
-<p>Can you explain how you generated this response?</p>
-</div>
-</div>
-</div>
-<div id="misinformation-and-faulty-responses" class="section level2" number="18.3">
-<h2><span class="header-section-number">18.3</span> Misinformation and Faulty Responses</h2>
-<p>AI tools use data that may contain false or incorrect information and may therefore respond with content that is also false or incorrect.</p>
-<p>This is due to number of reasons:</p>
-<ul>
-<li>AI tools may “hallucinate” fake response based on artifacts of the algorithm</li>
-<li>AI tools may be trained on data that is out-of-date</li>
-<li>AI tools may be trained on data that has fake or incorrect information</li>
-<li>AI tools are not necessarily trained for every intended use and may therefore may not reflect best practices for a given task or field</li>
-</ul>
-<p>AI tools may also report that fake data is real, when it is in fact not real. For example, currently at the time of the writing of this course, older versions of ChatGPT will report citations with links that are not always correct and it doesn’t seem to be able to correct itself very well when challenged. Furthermore, AI models can “hallucinate” incorrect responses based on artifacts of the algorithm underneath the tool. These responses are essentially made up by the tool. It is difficult to know when a tool is hallucinating especially if it is a tool that you did not create, therefore it is important to review and check responses from AI tools. There is also a risk that content written with AI tools, may be incorrect or inappropriate for the given context of intended use, or they may not reflect best practices for a given context or field. The tools are limited to the data they were trained on, which may not reflect your intended use.</p>
-<p>It is also important to remember that content generated by AI tools is not necessarily better than content written by humans. Additionally review and auditing of AI-generated content by humans is needed to ensure that they are working properly and giving expected results.</p>
-<div id="tips-for-reducing-misinformation-faulty-responses" class="section level3" number="18.3.1">
-<h3><span class="header-section-number">18.3.1</span> Tips for reducing misinformation &amp; faulty responses</h3>
-<ul>
-<li>Be aware that some AI tools currently make up false information based on artifacts of the algorithm called hallucinations or based on false information in the training data.</li>
-<li>Do not assume that the content generated by AI is real or correct.</li>
-<li>Realize that AI is only as good or up-to-date as what it was trained on, the content may be generated using out-of-date data. Look up responses to ensure it is up-to-date.</li>
-<li>In many cases <strong>utilizing multiple AI tools</strong> can help you to <strong>cross-check</strong> the responses (however be careful about the privacy of each tool if you use any private or propriety data in your prompts!).</li>
-<li>Ask the AI tools for extra information about if there are any potential limitations or weaknesses in the responses, but keep in mind that the tool may not be aware of issues and therefore human review is required. The information provided by the tool can however be a helpful starting point.</li>
-</ul>
-<div class="query">
-<p>Are there any limitations associated with this response?</p>
-</div>
-<div class="query">
-<p>What assumptions were made in creating this content?</p>
-</div>
-<div class="example">
-<p><span id="exm:unlabeled-div-1" class="example"><strong>Example 18.1  </strong></span><strong>Real World Example</strong></p>
-<p><a href="https://stackoverflow.com/">Stack Overflow</a>, a popular community-based website where programmers help one another, has (at the time of writing this) temporarily <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned">banned</a> users from answering questions with AI-generated code. This is because users were posting incorrect answers to questions. It is important to follow policies like this (as you may face removal from the community). This policy goes to show that you really need to check the code that you get from AI models. While they are currently helpful tools, they do not know everything.</p>
-</div>
-<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_157.png" title="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." alt="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." width="100%" style="display: block; margin: auto;" /></p>
-</div>
-</div>
-<div id="summary-2" class="section level2" number="18.4">
-<h2><span class="header-section-number">18.4</span> Summary</h2>
-<p>Here is a summary of all the tips we suggested:</p>
-<div class="ethics">
-<ul>
-<li>Design new AI systems with interpretability in mind</li>
-<li>Don’t assume AI-generated content is real, accurate, consistent, current, or better than that of a human.</li>
-<li>Ask the AI tools to help you understand:
-<ul>
-<li>Sources for the content that you can cite</li>
-<li>Any decision processes in how the content was created</li>
-<li>Potential limitations</li>
-<li>Potential security or privacy issues</li>
-<li>Potential downstream consequences of the use of the content</li>
-</ul></li>
-<li>Always have expert humans review/auditing and value your own contributions and thoughts.</li>
-</ul>
-</div>
-<p>Overall, we hope that these guidelines and tips will help us all use AI tools more responsibly. We recognize however, that as this is emerging technology and more ethical issues will emerge as we continue to use these tools in new ways. AI tools can even help us to use them more responsibly when we ask the right additional questions, but remember that human review is always necessary. Staying up-to-date on the current ethical considerations will also help us all continue to use AI responsibly.</p>
-
+<div id="who-can-tell-you-about-your-particular-legal-concerns" class="section level2" number="43.2">
+<h2><span class="header-section-number">43.2</span> Who can tell you about your particular legal concerns</h2>
+<p>As a general rule of thumb: <strong>when in doubt, talk to your legal council!</strong> They can offer you the best advice for your organization and your situation. The information in this course is <strong>ONLY</strong> meant as starting point for you as you create AI guidelines for your organization. You can also seek guidance from your governance and compliance experts.</p>
 </div>
 </div>
 <hr>
@@ -581,8 +490,8 @@ div.csl-indent {
           </div>
         </div>
       </div>
-<a href="societal-impact.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="adherence-practices.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="other-laws-that-can-apply-to-ai.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="video-existing-laws-that-apply-to-ai.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

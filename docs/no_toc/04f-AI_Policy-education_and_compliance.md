@@ -7,7 +7,7 @@
 that's the best that you do is just say like here are some considerations here are some things to you know, maybe get them on the right path, but I think it's definitely like the main things that I was kind of seeing even just like put different law firms have put out about everything is like, Yep, it's changing
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
 No one solidly knows the answers, but make sure that you're looping in people who might know. It should be a collaborative effort and really specific and tailored to your own environment.

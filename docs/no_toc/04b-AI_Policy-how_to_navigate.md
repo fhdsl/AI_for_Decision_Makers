@@ -5,7 +5,7 @@
 The legal and regulatory framework around AI systems is evolving rapidly. As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws and regulations is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving legal landscape should be one of your top priorities as a leader.
 
 <div class = disclaimer>
- **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
 There are multiple possible roles that you could fill, depending on what your organization's AI needs and uses are. Having representation from technical, policy and social science backgrounds helps ensure a multidisciplinary, holistic approach to building and overseeing responsible AI.
