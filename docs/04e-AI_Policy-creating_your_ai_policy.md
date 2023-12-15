@@ -4,6 +4,10 @@
 
 AI tools are already changing how we work, and they will continue to do so for years. Over the next few years, we're likely going to see AI used in ways we've never imagined and aren't anticipating. People are going to use AI one way or another. As a decision maker, you want to support them so they can be successful and not fall into traps. How can you guide your organization to adopt AI in a way that's not unethical, illegal, or wrong?
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
 ## An AI policy alone is probably not enough
 
 Building in an AI support system is also important. This might include the infrastructure to handle AI, guidelines on AI best practices, training materials, and other things that will make it possible for people to adopt AI in the safest and most ethical ways.

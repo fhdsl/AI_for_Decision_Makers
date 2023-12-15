@@ -14,6 +14,8 @@ output:
       toc: true
 ---
 
+
+
 # About this Course {-}
 
 This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
@@ -26,6 +28,10 @@ This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" spec
 * Course 3: Establishing AI Infrastructure
 * Course 4: AI Policy
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
 ## Available course formats
 
 This course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.
@@ -34,3 +40,4 @@ This course is available in multiple formats which allows you to take it in the 
 - This course can be taken for [free certification through Leanpub](LINK HERE).
 - This course can be taken on [Coursera for certification here](LINK HERE) (but it is not available for free on Coursera).
 - Our courses are open source, you can find the [source material for this course on GitHub](LINK HERE).
+

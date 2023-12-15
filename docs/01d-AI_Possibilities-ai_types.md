@@ -20,3 +20,7 @@ You can think of layers like different teams in an organization. The input layer
 The connections between nodes have weights that the network learns during training. The network can then adjust these weights to minimize errors in predictions. Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data.
 
 ![](resources/images/01d-AI_Possibilities-ai_types_files/figure-docx//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png){width=100%}
+
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>

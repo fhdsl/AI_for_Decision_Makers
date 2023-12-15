@@ -8,6 +8,11 @@
 The concepts for ethical AI use are still highly debated as this is a rapidly evolving field.
 However, it is becoming apparent based on real-world situations that ethical consideration should occur in every stage of the process of development and use.
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
+
 ## Ethical Use Process
 Here is a proposed framework for using AI more ethically. This should involve active consideration at three stages: the inception of an idea, during usage, and after usage.
 
