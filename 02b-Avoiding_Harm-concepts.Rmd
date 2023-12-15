@@ -177,11 +177,13 @@ Are there any possible data security or privacy issues associated with the plan 
 
 ## Climate Impact
 
-The data storage and computing resources needed for AI could exacerbate climate challenges.
+The data storage and computing resources needed for AI could exacerbate climate challenges (@bender_dangers_2021).
 
 ## Tips for reducing climate impact
 
-Thoughtful planning to efficiently modify existing models as opposed to unnecessarily creating new models from scratch is needed. Solutions such as [federated learning](https://research.ibm.com/blog/what-is-federated-learning), where AI models are iteratively trained in multiple locations using data at those locations, instead of collectively sharing the data to create more massive datasets can help [reduce](https://www.cam.ac.uk/research/news/can-federated-learning-save-the-world.) the required resources and also help preserve data privacy and security.
+- Thoughtful planning to efficiently modify existing models as opposed to unnecessarily creating new models from scratch is needed. 
+- Solutions such as [federated learning](https://research.ibm.com/blog/what-is-federated-learning), where AI models are iteratively trained in multiple locations using data at those locations, instead of collectively sharing the data to create more massive datasets can help [reduce](https://www.cam.ac.uk/research/news/can-federated-learning-save-the-world.) the required resources and also help preserve data privacy and security.
+- Avoid using models with datasets that unnecessarily large (@bender_dangers_2021)
 
 ## Transparency
 
