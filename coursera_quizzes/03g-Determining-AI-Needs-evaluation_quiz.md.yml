@@ -1,0 +1,39 @@
+
+- typeName: multipleChoice
+  prompt: What is one reason evaluation of an AI tool is important?
+  shuffleOptions: true
+  options:
+    - answer: To justify costs to ourselves
+      isCorrect: false
+    - answer: To identify areas needing improvement
+      isCorrect: true
+    - answer: To publish performance benchmarks
+      isCorrect: false
+    - answer: To qualify models for competitions
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What metric could evaluate computational efficiency of an AI model?
+  shuffleOptions: true
+  options:
+    - answer: Success rate
+      isCorrect: false
+    - answer: Average response time
+      isCorrect: true
+    - answer: Number of parameters
+      isCorrect: false
+    - answer: Qualitative feedback
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What is an initial step of usability testing?
+  shuffleOptions: true
+  options:
+    - answer: Publishing user surveys
+      isCorrect: false
+    - answer: Monitoring web analytics
+      isCorrect: false
+    - answer: Deciding what features to get feedback on
+      isCorrect: true
+    - answer: Automating data collection
+      isCorrect: false
