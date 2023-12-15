@@ -9,6 +9,10 @@
 
 In this chapter we will discuss the some of the major ethical considerations regarding the algorithms underlying AI tools. We will provide some tips for how to deal with these issues that may be useful for creating AI guidelines at your institution.
 
+<div class = disclaimer>
+ **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
 
 1) **Toxic Responses** - Currently it is not clear how well generative AI models restrict harmful responses in terms of ideas, code, text, etc. 
 1) **Lack of Interpretability** - When complicated algorithms are used within AI systems, it can be unclear how it came up with a decision. In many circumstances it is necessary to understand how the AI system works to know how to proceed. 
