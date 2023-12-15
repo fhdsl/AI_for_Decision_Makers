@@ -181,9 +181,9 @@ video-building-a-team-to-guide-your-ai-use
 ai-acts-orders-and-policies
 the-eu-ai-act
 industry-specific-policies
-academic-publishing-industry
+mississippi-ai-institute
 us-federal-drug-administration
-video-legal-regulations-around-ai-use
+video-ai-acts-orders-and-policies
 other-laws-that-can-apply-to-ai
 intellectual-property
 information-security
