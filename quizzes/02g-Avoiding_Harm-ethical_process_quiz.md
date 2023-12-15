@@ -12,7 +12,7 @@ D) Throughout the entire process of development and use
 
 ? What is NOT a consideration when reflecting on AI use during the inception of an idea?
 a) What training datasets are a reasonable size
-b) How transparency will be maintained
+b) Could the project start smaller and be built up?
 c) Whether AI is actually appropriate for the use case
 d) If harmful content could be generated
 
