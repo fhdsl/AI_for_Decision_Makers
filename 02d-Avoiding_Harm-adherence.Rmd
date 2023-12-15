@@ -48,7 +48,7 @@ When AI systems are trained on data, they may also learn and incorporate copyrig
 
 Similarly, AI systems could potentially infringe on intellectual property rights by using code that is protected by trademarks or patents. For example, if an AI system is trained on a training manual that contains code that is protected by a trademark, the AI system could generate code that is identical to or similar to the code in the training manual. If the AI system then uses this code without permission from the trademark owner, this could constitute trademark infringement.
 
-<div class thinking_face>
+<div class =reflection>
 The same is true for music, art, poetry etc. AI poses questions about how we define art and if AI will reduce the opportunities for employment for human artists. See [here](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/) for an interesting discussion, in which it is argued that AI may enhance our capacity to create art. This will be an important topic for society to consider.
 
 </div>
