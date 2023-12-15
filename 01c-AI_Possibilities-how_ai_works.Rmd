@@ -42,7 +42,9 @@ Other kinds of data can be collected and used to train algorithms. These might i
 Quantity *and* quality of data are very important. More data makes it easier to detect and account for minor differences among observations. However, that shouldn't come at the cost of quality. It is sometimes better to have fewer, high resolution or high quality images in our dataset than many images that are blurry, discolored, or in other ways questionable.
 
 <div class = "ethics"> 
-Diversity in datasets is often critical for AI. For example, if our skin cancer screening AI never sees skin cancer on darker skin, it might fail to alert patients that have darker skin. Lack of representation in the tech industry is partially responsible for these kinds of failures being discovered after harm has already happened. 
+Representative diversity of datasets is crucial for the effectiveness of AI. For instance, if an AI used for skin cancer screening only encounters instances of skin cancer on lighter skin tones, it might fail to alert individuals with darker skin tones. 
+
+The tech industry's lack of diversity contributes to these issues, often leading to the discovery of failures only after harm has occurred.
 </div>
 
 Large Language Models (LLMs), which we will cover later, are great examples of high quantity and quality of data. Think about how much text information is freely available on the internet! Treating that as input data, AI systems can look for patterns of words that typically go together. For example, you're much more likely to see the phrase "cancer is a disease" than "cancer is a computer program". Many LLMs are trained on sources like [Wikipedia](https://www.wikipedia.org/), which are typically grammatically sound and informative, leading to higher quality output.
