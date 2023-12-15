@@ -7,6 +7,10 @@ While countries and jurisdictions are developing ans passing laws that specifica
 
 Keep in mind this is not an exhaustive list! This can give you a starting point of what sorts of laws and regulations you might need to consider, but you'll need to apply your own domain knowledge to determine the specifics for your organization. Always confirm with your legal council whether a particular law or regulation applies to you.
 
+<div class = disclaimer>
+ **Disclaimer**: The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
 ## Intellectual Property
 
 There are multiple concerns around generative AI and intellectual property rights, especially with regards to copyright and fair use or fair dealing laws. _Copyright_ is "the exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same" ([Oxford Languages](https://languages.oup.com/google-dictionary-en/)). _Fair use_ and _fair dealing_ are legal doctrines that allows for limited use of copyrighted material without permission under certain circumstances. While fair use and fair dealing exceptions vary from country to country, they broadly allow for nonprofit, educational, commentary or criticism, satire, and highly creative works to sample copyrighted material. 
