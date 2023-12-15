@@ -6,8 +6,7 @@ ottrpal::set_knitr_image_path()
 
 With generative AI still new in many fields, from medicine to law, regulations are rapidly evolving. A landmark provisional deal on AI regulation was reached by the European Parliament and Council on December 8, 2023, with the [EU AI Act](https://artificialintelligenceact.eu/documents/)). These guidelines laid out in this document apply to AI regulation and use within the 27-member EU bloc, as well as to foreign companies that operate within the EU. It is likely the EU AI Act will guide regulations around the globe.
 
-Countries outside of the EU are drafting their own laws, orders, and standards surrounding AI use, so you and your employees will need to do some research on what it and is not allowed in your local area.
-
+Countries outside of the EU are drafting their own laws, orders, and standards surrounding AI use, so you and your employees will need to do some research on what it and is not allowed in your local area. **Always consult your legal council about the AI regulations that apply to you.**
 
 ## The EU AI Act
 
@@ -45,8 +44,10 @@ More information about the EU's AI Act can be found in these sources.
 
 Some individual industries have already begun adopting policies about generative AI. They may also have long-standing policies in place about the use of other forms of AI, like machine learning. When in doubt, always check with the experts within your organization about what AI policies exist for your industry.
 
-### Academic Publishing Industry
+Some countries have also begun creating policies for specific industries and fields. For example, the US recently released an Executive Order about creating [healthcare-specific AI policies](https://www.whitehouse.gov/briefing-room/blog/2023/12/14/delivering-on-the-promise-of-ai-to-improve-health-outcomes/).
+
+### Mississippi AI Institute
 
 ### US Federal Drug Administration
 
-# VIDEO Legal Regulations Around AI Use
+# VIDEO AI Acts, Orders, and Policies
