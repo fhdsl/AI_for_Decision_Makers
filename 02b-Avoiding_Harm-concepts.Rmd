@@ -9,11 +9,12 @@ ottrpal::set_knitr_image_path()
 
 # Societal Impact
 
-AI has the potential to dramatically influence society. It is our responsibility to be proactive in thinking about what uses and impacts we consider to be useful and appropriate and those we consider harmful and in appropriate. 
+There is the potential for AI to dramatically influence society. It is our responsibility to be proactive in thinking about what uses and impacts we consider to be useful and appropriate and those we consider harmful and inappropriate. 
 
 There are a few current major codes of ethics for AI. As this is an emerging technology, more codes will be developed and updated as the technology evolves.
 
-- United States [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+- United States [Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+- United States [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 - European Commission [Ethics Guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
 - The  Institute of Electrical and Electronics Engineers (IEEE) [Ethically Aligned Design Version 2](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf)
 
