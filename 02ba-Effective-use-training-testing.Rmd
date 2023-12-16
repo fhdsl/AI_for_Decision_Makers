@@ -8,13 +8,18 @@ https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQv
 
 # Effective use of Training and Testing data
 
-In the previous chapter, we have started to think about the ethics of using relevant and unbiased data for building our AI model. In this chapter we will see that even if our data is unbiased and represents our population of interest, issues can still happen if the data is mishandled during the AI model building process. Let's take a look at how that can happen.
+In the previous chapter, we have started to think about the ethics of using relevant and unbiased data for building our AI model. In this chapter we will see that even if our data is inclusive and represents our population of interest, issues can still happen if the data is mishandled during the AI model building process. Let's take a look at how that can happen.
 
 ## Population and sample
 
 The data we collect to train our model is always a limited representation of what we want to study, and as we explored in the previous chapter, bias can arise through our choice of selection. Let us define two terms commonly used in artificial intelligence and statistics research: the **population** is the entire group of entities we want to get information from, study, and describe. If we were building an artificial intelligence system to classify dog photographs based on their breeds, then the population is every dog photograph in the world. That’s prohibitively expensive and not easy data to acquire, so we use a **sample**, which is a subset of the population, to represent our desired population.
 
 When our sample is a random subset of our population, we say that our data is unbiased and represent our population of interest. However, even if we are sure that the sample is representative of the population, a different type of bias and harm from the data can arise. It has to do with how we use the sample data for training and evaluating the model.
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image showing a larger circle indicating the population of all photos of all dogs in the world and a smaller circle within that circle depicting a sample of 1000 dog photos'."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_0")
+```
+
 
 ## Training data
 
@@ -66,6 +71,9 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8r
 ```
 
 When we evaluate our model under this division of training and testing data, our accuracy will look a bit lower compared to our first scenario, but that is more realistic of what happens in the real world. Our model evaluation needs to be a simulation of what happens when we deploy our model into the real world! 
+
+
+
 
 ## Conclusions
 
