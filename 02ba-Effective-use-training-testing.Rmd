@@ -18,45 +18,51 @@ When our sample is a random subset of our population, we say that our data is un
 
 ## Training data
 
-```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
-knitr::include_url("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_22")
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image of possible training data of photos of different dog breeds'."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_22")
 ```
+
 
 The above image depics some of our samples for building an artificial intelligence model to classify dog photographs based on their breeds. Each dog photograph has a corresponding label that gives the correct dog breed, and the goal of the model training process is to have the artificial intelligence model learn the association between photograph and dog breed label. For now, we will use *all of our samples for training the model*. The data we use for model training is called the **training data**. Then, once the model is trained and has learned the association between photograph and dog breed, model will be able make new predictions: given a new dog image without its breed label, the model will make a prediction what its breed label is. 
 
 ## Testing data
 
-```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
-knitr::include_url("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_28")
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image of possible testing data of photos of different dog breeds, including 3 of the exact images shown in the training data'."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_28")
 ```
+
 
 To evaluate how well this model is good as predicting dog breeds from dog images, we need to use some of our samples to evaluate our model. The samples being used for model evaluation is called the **testing data**. For instance, suppose we used these four images to score our model. We give it to our trained model without the true breed label, and then the model makes a prediction on the breed. Then we compare the predicted breed label with the true label to compute the model accuracy. 
 
 
 ## Evaluation
 
-```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
-knitr::include_url("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_38")
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image of possible testing data of photos of different dog breeds, including 4 of the images show in the training data and the accuracy value of 74%."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_38")
 ```
 
 Suppose we get 3 out of 4 breed predictions correct. That would be an accuracy of 75 percent.
 
 ## Proper separation of Training and Testing data
 
-```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
-knitr::include_url("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_57")
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An of the dog photos showing that the testing and training data had the same images."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_57")
 ```
+
 
 However, we have inflated our model evaluation accuracy. The samples we used for model evaluation were also used for model training! Our training and testing data are not independent of each other. Why is this a problem? When we train a model, the model will naturally perform well on the training data, because the model has seen it before. This is called **Overfitting**. In real life, when the dog breed image labeling system is deployed, the model would not be seeing any dog images it has seen in the training data. Our model evaluation accuracy is likely too high because it is evaluated on data it was trained on. 
 
-```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
-knitr::include_url("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_65")
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image showing that the testing and training dataset should be separate from one another, so 4 images used for testing are now not included in the training set."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_65")
 ```
 
 Let’s fix this. Given a sample, we split it into two independent groups for training and testing. We use the training data for training the model, and we use the testing data for evaluating the model. They don’t overlap. 
 
-```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
-knitr::include_url("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_75")
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image that the accuracy with this independent test set is now 50%."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_75")
 ```
 
 When we evaluate our model under this division of training and testing data, our accuracy will look a bit lower compared to our first scenario, but that is more realistic of what happens in the real world. Our model evaluation needs to be a simulation of what happens when we deploy our model into the real world! 
