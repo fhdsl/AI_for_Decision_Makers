@@ -42,6 +42,7 @@ The course will cover:
 We will demonstrate how to:
 
 - Describe key ethical concerns for using AI tools
+- Explain the necessity for independent validation of AI models
 - Identify possible mitigation strategies for these major concerns
 - Explain the potential benefits of being transparent about the use of AI tools
 - Discuss why human contributions are still important and necessary 
