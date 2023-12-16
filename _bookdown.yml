@@ -28,7 +28,6 @@ rmd_files: ["index.Rmd",
             "04b-AI_Policy-ai_regs_and_laws.Rmd",
             "04c-AI_Policy-data_laws.Rmd",
             "04e-AI_Policy-creating_your_ai_policy.Rmd",
-            "04f-AI_Policy-education_and_compliance.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
