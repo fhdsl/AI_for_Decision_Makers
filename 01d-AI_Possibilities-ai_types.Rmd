@@ -32,3 +32,13 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 ## Natural Language Processing
 
 **Natural language processing**, or NLP, deals with interpreting text and extracting relevant information and insights. It can also categorize and organize the documents themselves. For example, NLP could help read the contents of documents online and decide whether they are patents or journal articles. These documents could then be indexed in [Google Scholar](https://scholar.google.com/). Many NLP approaches use deep learning [@wikiNLP]
+
+## Generative AI
+
+## Large Language Model
+
+## Transformer Model
+
+In 2017, Google engineers published a paper describing a type of neural network they called a **transformer model**. This model revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformer models are basically what drives generative AI models today.
+
+## Strengths and Weaknesses
