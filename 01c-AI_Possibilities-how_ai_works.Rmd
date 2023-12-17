@@ -9,7 +9,7 @@ TODO: Slides here: https://docs.google.com/presentation/d/1OydUyEv1uEzn8ONPznxH1
 
 # How AI Works
 
-Let's briefly revisit our definition of AI: it must have data, algorithm(s), and an interface. Let's dive into each of these in more detail below.
+Let's briefly revisit our definition of AI. It must have some data, an algorithm, and an interface. Let's break these down in more detail below.
 
 ## Early Warning for Skin Cancer
 
@@ -17,7 +17,7 @@ Each year in the United States, 6.1 million adults are treated for skin cancer (
 
 Increasingly, AI is being used to flag potential skin cancer. AI focused on skin cancer detection could be used by would-be patients to motivate them to seek a professional opinion, or by clinicians to validate their findings or help with continuous learning.
 
-1. **Data**: Images of skin
+1. **Data**: Images with and without skin cancer present
 
 1. **Algorithm**: Detection of possible skin cancer
 

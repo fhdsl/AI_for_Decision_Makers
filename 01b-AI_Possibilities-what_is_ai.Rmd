@@ -53,6 +53,8 @@ At its core, AI is about problem solving [@fogel2022]. But how does it do this? 
 ottrpal::include_slide("https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g2a64e94b13a_0_0")
 ```
 
+As an example, consider Amazon Echo’s voice control device [@wikiECHO]. The data set consists of customer voices talking to Amazon Echo or other devices. The algorithm predicts what a new customer voice is asking it to do. Given human voice request, it may set a kitchen timer. Lastly, the interface, is a physical device with a microphone, speaker, and computer software running the algorithm and accessing the data. It is the part that will interact with humans.
+
 ## What Is and Is Not AI
 
 Let's look at a few of examples. We can then decide whether or not the examples constitute AI.
