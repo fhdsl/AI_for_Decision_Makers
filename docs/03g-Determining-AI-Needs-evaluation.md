@@ -8,6 +8,10 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Evaluating your customized AI tool
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
 ## Learning objectives:
 
 - Understand the motivation behind evaluating your customized AI tool

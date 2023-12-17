@@ -9,6 +9,10 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # What are the components of AI?
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
 ## Learning objectives:
 
 - Understand what makes a good AI model

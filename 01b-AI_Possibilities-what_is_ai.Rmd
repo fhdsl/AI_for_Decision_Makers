@@ -142,6 +142,10 @@ The definition of artificial intelligence (AI) has shifted over time. We use the
 
 The following are case studies that can help us conceptualize AI in the real world.
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
 ## Amazon Recommendations
 
 Amazon's recommendation engine uses AI algorithms to analyze user behavior and past purchases, providing personalized product recommendations. This enhances the shopping experience, increases customer engagement, and drives sales.
@@ -188,3 +192,6 @@ The US Federal Reserve has researched the idea of using pre-trained large langua
 
 A concern of using pre-trained large language models is that the data sources used for model training are not known, so the financial institution may be using data that is not in line with its policy. Also, a potential risk of using large language models that perform similarly is the convergence of predictions. If large language models make very similar predictions, banks would act similarly and make similar policies, which may lead to financial instability [@omfif2023]. 
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>

@@ -8,6 +8,9 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Customized Knowledge for AI
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
 
 ## Learning objectives:
 

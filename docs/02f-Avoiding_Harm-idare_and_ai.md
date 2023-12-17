@@ -17,6 +17,15 @@ It is nearly impossible to create a training dataset that is free from all possi
 
 To learn more about how AI algorithms become biased, see https://www.criticalracedigitalstudies.com/peoplesguide. 
 
+
+<div class = dictionary>
+
+**Algorithmic Fairness** - The field of algorithmic fairness aims to mitigate the effects of bias in models or algorithms in AI. 
+
+</div>
+
+Importantly issues with bias can occur in all steps of model development. (@huang_evaluation_2022, @baker_algorithmic_2022). There are experts in fairness that can help you to avoid the potential harm caused by bias in your AI development. 
+
 ## Examples of AI Bias
 
 There are many examples in which biased AI systems were used in a context with negative consequences. 
@@ -68,14 +77,30 @@ It is vital that teams hired for the development, auditing or testing of AI tool
  
 ## Access
 
-Resources:  
+Improving access for all individuals holds the power to make the benefits of AI and other technology a reality to everyone. However expanding access should be done mindfully to empower others, rather than to exploit or create further vulnerability. 
 
-https://arxiv.org/abs/2311.14096 
+The [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/) has suggested [principles](https://www.gatesfoundation.org/ideas/articles/artificial-intelligence-ai-development-principles) (@Gates_principles) for their work to expand AI access responsibly, including the following summarized here :
 
-https://www3.weforum.org/docs/WEF_A_Blueprint_for_Equity_and_Inclusion_in_Artificial_Intelligence_2022.pdf  
+1) Adhering to core values of helping all people reach their full potential
+1) Promoting co-design and inclusivity by including individuals in low-income settings to be collaborators and partners and acknowledging infrastructure limitations.
+1) Proceeding responsibly with continuous improvement in a step-wise fashion
+1) Addressing Privacy and security concerns by regularly performing assessments and ensuring compliance with relevant regulations and laws, as well as careful consent practices
+1) Building equitable access - focusing not just on access distribution by on equitable ownership and maintenance and development
+1) Committing to transparency - Sharing information for public good
 
-https://magazine.jhsph.edu/2022/how-biased-data-and-algorithms-can-harm-health  
 
-https://research.csiro.au/ss/science/projects/responsible-ai-pattern-catalogue/rai-standard/ 
+## Summary
 
-https://www.tandfonline.com/doi/full/10.1080/08839514.2023.2176618  
+In summary we suggest you consider the following to better promote the well-being of all individuals when approaching AI:
+
+- Recognize that humans are biased and AI systems created by humans are therefore biased. They typically currently enhance bias, unless mindfully engineered for specific contexts with appropriate training data. 
+- Recognize that sometimes AI works in unexpected ways and systems can be biased in ways that are not fully understood
+- Testing, auditing, and questioning AI systems about bias can help mitigate harm
+- Using AI for decisions at this point in time could be very harmful towards vulnerable populations. AI should not be used for any important decisions without human oversight.
+- More inclusive AI teams can help us build more responsible and more useful models 
+- Enhancing access to AI tools has the potential to improve the well-being of individuals in places with other limited technology or healthcare access, however this needs to be done in a collaborative manner to avoid harm and exploitation 
+
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
