@@ -17,6 +17,15 @@ It is nearly impossible to create a training dataset that is free from all possi
 
 To learn more about how AI algorithms become biased, see https://www.criticalracedigitalstudies.com/peoplesguide. 
 
+
+<div class = dictionary>
+
+**Algorithmic Fairness** - The field of algorithmic fairness aims to mitigate the effects of bias in models or algorithms in AI. 
+
+</div>
+
+Importantly issues with bias can occur in all steps of model development. (@huang_evaluation_2022, @baker_algorithmic_2022). There are experts in fairness that can help you to avoid the potential harm caused by bias in your AI development. 
+
 ## Examples of AI Bias
 
 There are many examples in which biased AI systems were used in a context with negative consequences. 
