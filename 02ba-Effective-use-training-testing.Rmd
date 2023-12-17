@@ -30,7 +30,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8r
 ```
 
 
-The above image depics some of our samples for building an artificial intelligence model to classify dog photographs based on their breeds. Each dog photograph has a corresponding label that gives the correct dog breed, and the goal of the model training process is to have the artificial intelligence model learn the association between photograph and dog breed label. For now, we will use *all of our samples for training the model*. The data we use for model training is called the **training data**. Then, once the model is trained and has learned the association between photograph and dog breed, the model will be able make new predictions: given a new dog image without its breed label, the model will make a prediction of what its breed label is. 
+The above image depicts some of our samples for building an artificial intelligence model to classify dog photographs based on their breeds. Each dog photograph has a corresponding label that gives the correct dog breed, and the goal of the model training process is to have the artificial intelligence model learn the association between photograph and dog breed label. For now, we will use *all of our samples for training the model*. The data we use for model training is called the **training data**. Then, once the model is trained and has learned the association between photograph and dog breed, the model will be able make new predictions: given a new dog image without its breed label, the model will make a prediction of what its breed label is. 
 
 ## Testing data
 
@@ -84,7 +84,7 @@ Note that there should actually be an intermediate phase called validation, wher
 
 This seemingly small tweak in how data is partitioned during model training and evaluation can have a large impact on how artificial intelligence systems are evaluated. We always should have independence between training and testing data so that our model accuracy is not inflated. 
 
-If we don't have this independence of trianing and testing data, many real-life promotions of artificial intelligence may be overhyped. Imagine that someone claimed that their cancer diagnostic model from a blood draw is 90%. But their testing data is a subset of their training data. That would over-inflate their model accuracy, and it will less accurate than advertised when used on new patient data. Doctors would make clinical decisions on inaccurate information and potentially create harm. 
+If we don't have this independence of training and testing data, many real-life promotions of artificial intelligence efficacy may be exaggerated. Imagine that someone claimed that their cancer diagnostic model from a blood draw is 90%. But their testing data is a subset of their training data. That would over-inflate their model accuracy, and it will less accurate than advertised when used on new patient data. Doctors would make clinical decisions on inaccurate information and potentially create harm. 
 
 
 
