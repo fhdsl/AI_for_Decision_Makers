@@ -8,13 +8,13 @@ https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQv
 
 # Effective use of Training and Testing data
 
-In the previous chapter, we started to think about the ethics of using relevant and unbiased data for building our AI model. In this chapter we will see that even if our data is inclusive and represents our population of interest, issues can still happen if the data is mishandled during the AI model building process. Let's take a look at how that can happen.
+In the previous chapter, we started to think about the ethics of using representative data for building our AI model. In this chapter we will see that even if our data is inclusive and represents our population of interest, issues can still happen if the data is mishandled during the AI model building process. Let's take a look at how that can happen.
 
 ## Population and sample
 
 The data we collect to train our model is typically a limited representation of what we want to study, and as we explored in the previous chapter, bias can arise through our choice of selection. Let us define two terms commonly used in artificial intelligence and statistics: the **population** is the entire group of entities we want to get information from, study, and describe. If we were building an artificial intelligence system to classify dog photographs based on their breeds, then the population is every dog photograph in the world. That’s prohibitively expensive and not easy data to acquire, so we use a **sample**, which is a subset of the population, to represent our desired population.
 
-Even if we are sure that the sample is representative of the population, a different type of bias and harm from the data can arise. It has to do with how we use the sample data for training and evaluating the model.
+Even if we are sure that the sample is representative of the population, a different type of bias, in this case [statistical bias](https://en.wikipedia.org/wiki/Bias_(statistics)) can arise. It has to do with how we use the sample data for training and evaluating the model. If we do this poorly, it can result in a model that gives skewed or inaccurate results at times, and/or we may overestimate the performance of the model. This statistical bias can also result in the other type of bias we have already described, in which a model unfairly impacts different people.
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image showing a larger circle indicating the population of all photos of all dogs in the world and a smaller circle within that circle depicting a sample of 1000 dog photos'."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.g262d5f57190_0_0")
@@ -82,7 +82,7 @@ Note that there should actually be an intermediate phase called validation, wher
 
 This seemingly small tweak in how data is partitioned during model training and evaluation can have a large impact on how artificial intelligence systems are evaluated. We always should have independence between training and testing data so that our model accuracy is not inflated. 
 
-If we don't have this independence of trianinga and testing data, many real-life promotions of artificial intelligence may be overhyped. Imagine that someone claimed that their cancer diagnostic model from a blood draw is 90%. But their testing data is a subset of their training data. That would over-inflate their model accuracy, and it will less accurate than advertised when used on new patient data. Doctors would make clinical decisions on inaccurate information and potentially create harm. 
+If we don't have this independence of trianing and testing data, many real-life promotions of artificial intelligence may be overhyped. Imagine that someone claimed that their cancer diagnostic model from a blood draw is 90%. But their testing data is a subset of their training data. That would over-inflate their model accuracy, and it will less accurate than advertised when used on new patient data. Doctors would make clinical decisions on inaccurate information and potentially create harm. 
 
 
 
