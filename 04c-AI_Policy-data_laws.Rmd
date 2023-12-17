@@ -25,7 +25,7 @@ There is also ongoing debate as to whether AI-generated images and text can be c
 The CEO of Midjourney has [previously confirmed](https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/?sh=141343b62d2b) that copyrighted images were included in the Midjourney training data without the consent of the artists. Artists have sued Midjourney, Stability AI, and other AI image generation companies for violating their copyrights, while the companies maintain their use falls under fair use. This lawsuit is still [active] as of November 30, 2023 (https://www.reuters.com/legal/litigation/artists-take-new-shot-stability-midjourney-updated-copyright-lawsuit-2023-11-30/) and is one of a handful of similar lawsuits brought by artists and authors.
 :::
 
-# Data Privacy and Information Security
+## Data Privacy and Information Security
 
 An estimated 4.2 billion individuals share some form of data about themselves online. This might be information like what they're interested in or information that can be used for identification, like their birth date or where they live, or even financial information. With vast amounts of data about us out there, privacy laws protecting the digital information of internet users are becoming increasingly common. More than 100 countries have some sort of privacy laws in place.
 
