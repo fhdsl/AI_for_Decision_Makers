@@ -101,7 +101,7 @@ Like calculators, computers follow set procedures for problem solving and comput
 
 ### Examples of AI In the Real World
 
-As we can see from the examples above, there are many instances of technology that are incredibly useful but are not considered AI. Without getting too into the details of how they work yet, let's list some exaples of AI in the real world and their applications.
+As we can see from the examples above, there are many instances of technology that are incredibly useful but are not considered AI. Without getting too into the details of how they work yet, let's list some examples of AI in the real world and their applications.
 
 1. [Meta's Advantage](https://www.facebook.com/business/news/introducing-ai-sandbox-and-expanding-meta-advantage-suite) suite of tools helps advertisers produce content and target specific social media users. 
 

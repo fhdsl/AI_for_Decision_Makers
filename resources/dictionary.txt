@@ -39,6 +39,7 @@ deidentify
 deidentifying
 deliverables
 Derma
+DevOps
 digesters
 Dockerfile
 Dockerhub
@@ -85,11 +86,13 @@ LLM's
 LLMs
 Markua
 mentorship
+Meta's
 Midjourney
 MOdel
 MonsterAPI
 NCI
 NHGRI
+NLP
 NPS
 OpenAI
 ottrpal

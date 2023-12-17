@@ -25,7 +25,8 @@ Increasingly, AI is being used to flag potential skin cancer. AI focused on skin
 
 ## Collecting Datapoints
 
-Let's say a clinician, *Dr. Derma*, is learning how to screen for skin cancer. When Dr. D sees their first instance of skin cancer, they now have one data point. Dr. D could make future diagnoses based on this one data point, but it might not be very accurate. Over time, as Dr. D does more screenings of skin with and without cancer, they will get a better and better idea of what skin cancer looks like. This is part of what we do best. Human beings are powerhouses when it comes to pattern recognition and processing [@Mattson2014].
+Let's say a clinician, *Dr. Derma*, is learning how to screen for skin cancer. Dr. D goes to their first day at the clinic and sees their first instance of skin cancer. Dr. D now has one data point. 
+Dr. D could make future diagnoses based on this single data point, but these diagnoses probably won't be very accurate. Over time, as Dr. D does more screenings of skin with and without cancer, they will get a better and better idea of what skin cancer looks like. This is part of what we do best. Human beings are powerhouses when it comes to pattern recognition and processing [@Mattson2014].
 
 Like Dr. D, AI will get better at finding the right patterns with more data. In order to train an AI algorithm to detect possible skin cancer, we'll first want to gather as many pictures of normal and cancerous skin as we can. This is the **raw data** [@Leek2017].
 
