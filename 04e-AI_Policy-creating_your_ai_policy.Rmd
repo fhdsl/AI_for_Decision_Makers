@@ -38,7 +38,7 @@ The best practices can change more rapidly with more frequent updates, leaving t
 
 You should also consider whether asynchronous collaboration versus synchronous collaboration is right for your organization when creating and updating your policy and best practices documents. With an asynchronous approach, people write their individual sections of a document by a deadline, after which the full policy is polished and edited. With a synchronous approach, an organization might convene a set of meetings with experts over a length or time to work on the document together. There are benefits and drawbacks to both approaches, and you will know which best fits your organization's needs.
 
-## Make it easy for people to follow your policy
+## Make it easy for people to follow your policy through effective training
 
 Good AI policies are most effective when they are easy for people to follow. This can be particularly challenging in periods of explosive technological growth like we're experiencing now with AI. What is possible with AI, and how to safely and ethically use AI, is changing quickly, making it a challenge for people to always know how to comply with an AI policy.
 
