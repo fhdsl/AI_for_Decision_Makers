@@ -1,5 +1,5 @@
 
-{quiz, id: idare_and_ai, attempts: 10}
+{quiz, id: idare_and_ai_quiz, attempts: 10}
 
 ## IDARE and AI Quiz
 

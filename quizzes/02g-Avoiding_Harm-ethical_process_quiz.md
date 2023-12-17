@@ -1,5 +1,5 @@
 
-{quiz, id: ethical_process, attempts: 10}
+{quiz, id: ethical_process_quiz, attempts: 10}
 
 ## Ethical Process Quiz
 

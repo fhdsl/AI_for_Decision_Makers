@@ -1,5 +1,5 @@
 
-{quiz, id: societal_impact, attempts: 10}
+{quiz, id: societal_impact_quiz, attempts: 10}
 
 ## Societal Impact Quiz
 
