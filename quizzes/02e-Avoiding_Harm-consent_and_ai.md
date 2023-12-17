@@ -1,5 +1,5 @@
 
-{quiz, id: consent, attempts: 10}
+{quiz, id: consent_quiz, attempts: 10}
 
 ## Consent and AI Quiz
 

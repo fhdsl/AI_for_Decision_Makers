@@ -1,5 +1,5 @@
 
-{quiz, id: adherence, attempts: 10}
+{quiz, id: adherence_quiz, attempts: 10}
 
 ## Adherence Quiz
 

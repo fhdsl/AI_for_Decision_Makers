@@ -5,7 +5,7 @@
 
 ? Which of the following is TRUE?
 
-a) Unintended harm is okay because it wasn't intended
+a) Unintended harm is alright because it wasn't intended
 b) AI systems are unbiased and should be used to address human biases
 C) Evaluate new AI tools for biases throughout its development and use
 d) AI tools are accessible and useful in an equitable sense

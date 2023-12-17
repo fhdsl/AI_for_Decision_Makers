@@ -1,5 +1,5 @@
 
-{quiz, id: algorithms, attempts: 10}
+{quiz, id: algorithms_quiz, attempts: 10}
 
 ## Algorithms Quiz
 
