@@ -201,6 +201,7 @@ motivation-4
 target-audience-4
 curriculum-3
 building-a-team-to-guide-your-ai-use
+who-might-be-on-your-team
 video-building-a-team-to-guide-your-ai-use
 ai-acts-orders-and-policies
 the-eu-ai-act
