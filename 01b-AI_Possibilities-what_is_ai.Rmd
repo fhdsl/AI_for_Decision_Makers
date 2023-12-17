@@ -41,7 +41,7 @@ We often look at human intelligence the same way. For example, many years ago, o
 
 ## Our AI Definition
 
-Going forward in this course, we define AI as having the following features:
+At its core, AI is about problem solving [@fogel2022]. But how does it do this? How hard does the problem have to be? There are no clear answers to these questions. Going forward in this course, we define AI as having the following features:
 
 1. **Dataset**: AI needs data examples that can be used to train a statistical or machine learning model to make predictions.
 
@@ -87,7 +87,7 @@ Many of us use basic calculators, as you might find in Microsoft Excel, every da
 
 1. **Interface**: Calculators do meet the criteria for an interface, whether through a physical device or software application.
 
-Traditional calculators are not considered AI, because they can only execute predefined operations.
+Traditional calculators are not considered AI, because everything they can do is predefined by people.
 
 ### Computer Programs
 
@@ -96,6 +96,20 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLR
 ```
 
 Like calculators, computers follow set procedures for problem solving and computation. Everyday computers use these procedures to help automate repetitive tasks and save time. However, this isn't generally considered AI, because the computer's algorithms aren't being trained with new data you supply. AI systems exhibit the ability to adapt and handle new inputs for tasks that might be more complicated.
+
+### Examples of AI In the Real World
+
+As we can see from the examples above, there are many instances of technology that are incredibly useful but are not considered AI. Without getting too into the details of how they work yet, let's list some exaples of AI in the real world and their applications.
+
+1. [Meta's Advantage](https://www.facebook.com/business/news/introducing-ai-sandbox-and-expanding-meta-advantage-suite) suite of tools helps advertisers produce content and target specific social media users. 
+
+1. [Google Search](https://blog.google/products/search/generative-ai-search/) is using generative AI to summarize search results in an "AI-powered snapshot of key information".
+
+1. Financial institutions use AI to [detect fraud](https://www.ey.com/en_us/assurance/how-an-ai-application-can-help-auditors-detect-fraud). For example, detecting the 1 audit risk in a database of 10 million entries.
+
+1. In medicine, AI can help [predict Alzheimer's risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9209493/) from MRI scans.
+
+1. [Global Plastic Watch](https://globalplasticwatch.org/about) uses satellite imagery and artificial intelligence to detect and monitor plastic waste sites globally.
 
 ### DISCUSSION Is It AI
 
