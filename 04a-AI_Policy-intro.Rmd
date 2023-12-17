@@ -1,5 +1,5 @@
 
-# (PART\*) AI Policy {-}
+# (PART\*) Developing an AI Policy {-}
 
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
