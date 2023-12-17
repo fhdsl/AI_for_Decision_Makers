@@ -36,15 +36,7 @@ The best practices can change more rapidly with more frequent updates, leaving t
 
 You should also consider whether asynchronous collaboration versus synchronous collaboration is right for your organization when creating and updating your policy and best practices documents. With an asynchronous approach, people write their individual sections of a document by a deadline, after which the full policy is polished and edited. With a synchronous approach, an organization might convene a set of meetings with experts over a length or time to work on the document together. There are benefits and drawbacks to both approaches, and you will know which best fits your organization's needs.
 
-## Adopting good practices now can benefit your organization
-
-When technological shifts happen, there's always a period of explosive growth where the technology and what's possible changes incredibly quickly. We're in that stage right now with AI. Really surprising things that we never anticipated will happen, and they'll happen pretty regularly. We'll have to adapt.
-
-With the rapid changes also comes a fear about what this new technology means for the world and our current way of working. The new world is going be different and things will change in some ways, both big and small. Some things will get a little better and some things will go wrong. However, adopting this new technology at the right time can really change a lot of things for you and also give you the opportunity to guide and direct your future and the future of your organization. It's a bit like catching the tail of a rocket ship that just being launched, but catching it in a way that doesn't like burn you to a crisp.
-
-Thirty or so years ago, we had a similar technological shift with the advent of the Internet. At the time, using the Internet for common, everyday tasks was a big deal, and there was fear about how it would change how we work. Now, we have accepted the Internet as a way of life and it's a normal experience to look things up on Google or shop on the internet. In 30 years, AI systems will be the same.
-
-## Make it easy for people to succeed in compliance
+## Make it easy for people to follow your policy through effective training
 
 Good AI policies are most effective when they are easy for people to follow. This can be particularly challenging in periods of explosive technological growth like we're experiencing now with AI. What is possible with AI, and how to safely and ethically use AI, is changing quickly, making it a challenge for people to always know how to comply with an AI policy.
 

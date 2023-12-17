@@ -218,7 +218,6 @@ considerations-for-creating-an-ai-policy
 an-ai-policy-alone-is-not-enough
 get-lots-of-voices-weighing-in-from-the-beginning
 consider-how-to-keep-your-guidance-agile
-adopting-good-practices-now-can-benefit-your-organization
-make-it-easy-for-people-to-succeed-in-compliance
+make-it-easy-for-people-to-follow-your-policy-through-effective-training
 video-title
 references
