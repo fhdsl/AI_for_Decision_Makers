@@ -23,6 +23,19 @@ In this course, you’ll learn why you need an AI policy, what an AI policy migh
 
 ## Learning Objectives
 
+During this course, learners will:
+
+- Understand the reasons why organizations need an AI policy.
+- Identify the key elements of a good AI policy.
+- Describe the roles and responsibilities of different team members involved in guiding AI use.
+- Identify key regulations outlined in the EU AI Act, including risk classifications, transparency requirements, and prohibited applications.
+- Understand how existing industry-specific AI policies can inform your organization's policy.
+- Identify key legal categories relevant to AI use, including intellectual property, data privacy, and liability.
+- Understand the limitations of relying solely on an AI policy without supporting infrastructure and training.
+- Recognize the importance of involving diverse stakeholders from various departments in AI policy creation.
+- Identify strategies for building flexible and adaptable AI policies, such as living documents and separate best practices guidelines.
+- Appreciate the role of effective training in promoting policy compliance and ethical AI use.
+
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>
