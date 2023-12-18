@@ -14,7 +14,7 @@ D) Throughout the entire process of development and use
 a) What training datasets are a reasonable size
 b) What would the impact be if the AI system performed poorly
 c) Whether AI is actually appropriate for the use case
-d) How you could be more efficient and implement faster
+D) How you could be more efficient and implement faster
 
 ? What is needed after an AI system is launched according to the material?
 a) The system should not change after launch
