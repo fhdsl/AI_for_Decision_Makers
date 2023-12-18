@@ -3,7 +3,7 @@
 
 This video discusses the components of AI tools and what constitutes a good AI model.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1Le4EqKaQKJskZDFrO0h2I0mP-s23C8UHFenhMeFpmu8/edit).
 
@@ -25,7 +25,7 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 What makes the AI chatbots’ performance today so vastly improved from previous chatbots? Like those that resembled office supplies and helped us write documents? In this chapter we’ll discuss some generalities of how AI works and what makes an AI tool good.
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g1965a5f7f0a_0_44")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g1965a5f7f0a_0_44)
 ```
 
 A good AI model is accurate – you need it to give answers that are correct or at least useful. They are also computationally efficient because we need them to give the answer back in a reasonable amount of time. We also don’t want to spend tons of money on the computation it takes for the chatbot to work.
@@ -68,13 +68,15 @@ To address this gap in the model's knowledge, you might add supplementary traini
 ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_273")
 ```
 
-
-However, this added training data may help for the identification of green apples, but if given something similar to an apple but not -- say a pear. It may incorrectly identify a pear as an apple if it hasn't ALSO been trained on pears.
-
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_216")
 ```
 
+However, this added training data may help for the identification of green apples, but if given something similar to an apple but not -- say a pear. It may incorrectly identify a pear as an apple if it hasn't ALSO been trained on pears.
+
+```{r, out.width = "100%", echo = FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a78463b3b0_50_34")
+```
 
 This may feel silly to you -- why couldn't it identify a pear -- but this is because you are a really well trained AI. (Actually just the I, you presumably aren't artificial). You've seen lots of fruit in your life -- you've collected a lot of training data on this task and have no problem identifying a pear from an apple.
 
@@ -106,7 +108,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJ
 With the above image, you don't need much time to look at that picture and know that that is an apple. You don't have to think about this for very long.
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_117")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a78463b3b0_50_45")
 ```
 
 With the above image, you don't need much time to look at that picture and know that that is an apple. You don't have to think about this for very long. You didn't take in one piece of information at a time.
@@ -115,13 +117,17 @@ This type of information processing is what neural networks are based on. Neural
 
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_125")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_117")
 ```
 
 Think about how you'd read the following paragraph:
 
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_129")
+```
+
+```{r, out.width = "100%", echo = FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_300")
 ```
 
 **Did you read each word, in order from start to end?**
@@ -173,14 +179,22 @@ Without these recent advancements in attention mechanism algorithms, the large l
 
 In summary, a good AI model is accurate -- this is largely determine by its training data being high quality, relevant and properly processed.
 
-A good AI model is also computationally efficient. We need to use algorithms that can efficiently and properly process data.
+A good AI tool is also computationally efficient. We need to use algorithms that can efficiently and properly process data.
 
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a3ef1dce0a_0_310")
 ```
 
+Let’s talk about the process of an AI query in a general sense. If we give input like an image of an apple, the AI tool will observe that input. It will use its prior experience of training data to digest that input.
 
-In order to visualize this, we've made a fake machine learning machine to describe AI. AI models can take a lot of different forms and functions and this visual is merely a tool to understand generalities about components of AI. It is not meant to be a detailed representation of any given AI model.
+```{r, out.width = "100%", echo = FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a61bc12ef8_0_0")
+```
+
+It will then formulate a response to return to us to tell us it’s conclusion. If it was trained properly, its returned response to us will be that it is indeed an apple.
+
+
+We can then visualized a "machine learning machine" to describe AI. AI models can take a lot of different forms and functions and this visual is merely a tool to understand generalities about components of AI. It is not meant to be a detailed representation of any given AI model.
 
 But we can discuss AI tools in terms of their:  
 
@@ -190,7 +204,7 @@ But we can discuss AI tools in terms of their:
 - *output* - what are we returning to the user of this AI tool?
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a61bc12ef8_0_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a8041f95c8_0_0")
 ```
 
 Each of these components can get very complicated very quickly. Although we won't go through the details of these in this course, we will discuss practical aspects of these in terms of customization for AI needs.
@@ -199,7 +213,7 @@ Each of these components can get very complicated very quickly. Although we won'
 Large language models are one popular type of AI tool. So we can talk about the components of these models in the context of this visual.
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a678430d60_0_153")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a8041f95c8_0_20")
 ```
 
 
