@@ -14,6 +14,11 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Introduction to Determining AI Needs
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
+
 ## Motivation
 
 There are a ever increasing number of options, strategies and solutions for integrating AI solutions into a project. It can feel overwhelming to understand what these options entail let alone understand how to decide what solution best fits a use case.

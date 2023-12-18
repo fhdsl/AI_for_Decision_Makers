@@ -26,3 +26,6 @@ What is possible with AI? What’s still fantasy?
 
 # VIDEO What Is NOT Possible
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>

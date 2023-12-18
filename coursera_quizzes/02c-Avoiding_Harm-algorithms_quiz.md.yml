@@ -1,0 +1,54 @@
+
+- typeName: multipleChoice
+  prompt: What is one potential issue with using AI systems that lack interpretability?
+  shuffleOptions: true
+  options:
+    - answer: It can be unclear why the system made a certain decision
+      isCorrect: true
+    - answer: The systems always behave as expected
+      isCorrect: false
+    - answer: There are no risks associated with using them
+      isCorrect: false
+    - answer: They cannot be trusted for any applications
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: According to the material, which of the following can help reduce issues with faulty AI responses?
+  shuffleOptions: true
+  options:
+    - answer: Never questioning the accuracy of AI responses
+      isCorrect: false
+    - answer: Relying completely on AI tools without human review
+      isCorrect: false
+    - answer: Assuming AI tools reflect current best practices
+      isCorrect: false
+    - answer: Cross-checking responses from multiple AI tools
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What does the term "hallucinate" refer to in the context of AI systems?
+
+  shuffleOptions: true
+  options:
+    - answer: AI systems having visions or dreams
+      isCorrect: false
+    - answer: AI systems making up information based on artifacts of their algorithms
+      isCorrect: true
+    - answer: AI systems malfunctioning due to hardware issues
+      isCorrect: false
+    - answer: AI systems being trained on datasets containing hallucinogens
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What recent real-world example demonstrates issues with faulty AI responses?
+
+  shuffleOptions: true
+  options:
+    - answer: AI systems spreading misinformation on social media
+      isCorrect: false
+    - answer: An AI system beating the world chess champion
+      isCorrect: false
+    - answer: A website banning AI-generated code that provided incorrect answers
+      isCorrect: true
+    - answer: AI systems writing biased news articles
+      isCorrect: false

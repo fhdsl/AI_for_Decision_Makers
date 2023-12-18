@@ -19,6 +19,15 @@ It is nearly impossible to create a training dataset that is free from all possi
 
 To learn more about how AI algorithms become biased, see https://www.criticalracedigitalstudies.com/peoplesguide. 
 
+
+<div class = dictionary>
+
+**Algorithmic Fairness** - The field of algorithmic fairness aims to mitigate the effects of bias in models or algorithms in AI. 
+
+</div>
+
+Importantly issues with bias can occur in all steps of model development. (@huang_evaluation_2022, @baker_algorithmic_2022). There are experts in fairness that can help you to avoid the potential harm caused by bias in your AI development. 
+
 ## Examples of AI Bias
 
 There are many examples in which biased AI systems were used in a context with negative consequences. 
@@ -61,7 +70,7 @@ Those developing or augmenting models should also evaluate the training data and
 
 There is a common misconception that AI tools might make better decisions for humans because they are believed to not be biased like humans (@pethig_biased_2023). However since they are built by humans and trained on human data, they are also biased. It is possible that AI systems specifically trained to avoid bias, to be inclusive, to be anti-racist, and  for specific contexts may be helpful to enable a more neutral party, but that is generally not currently possible.
 
-AI should not be used to make or help make employment decisions about applicants or employees at this time. This includes recruitment, hiring, retention, promotions, transfers, performance monitoring, discipline, demotion, terminations, or other similar decisions. 
+We highly suggest caution with using AI to make or help make employment decisions about applicants or employees at this time. This includes recruitment, hiring, retention, promotions, transfers, performance monitoring, discipline, demotion, terminations, or other similar decisions. At a minimum, humans should be involved in the testing the AI system, evaluating the results of the AI system, and monitoring the system's behavior overtime. Experts of algorithm fairness should be consulted.
 
 ## More inclusive teams means better models
 
@@ -92,4 +101,8 @@ In summary we suggest you consider the following to better promote the well-bein
 - Using AI for decisions at this point in time could be very harmful towards vulnerable populations. AI should not be used for any important decisions without human oversight.
 - More inclusive AI teams can help us build more responsible and more useful models 
 - Enhancing access to AI tools has the potential to improve the well-being of individuals in places with other limited technology or healthcare access, however this needs to be done in a collaborative manner to avoid harm and exploitation 
+
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
 

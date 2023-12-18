@@ -1,12 +1,23 @@
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
 ```
-
 # Building a team to guide your AI use
 
-The legal and regulatory framework around AI systems is evolving rapidly. As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws and regulations is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving legal landscape should be one of your top priorities as a leader.
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
+Big technological shifts always trigger a period of explosive growth where the technology and what's possible changes incredibly quickly. We're in that stage right now with AI systems. Each month regularly brings new opportunities and surprises, many of which we can't anticipate and require organizations to adapt quickly. Things are changing in ways both big and small. Some things will get a little better and some things will go wrong. However, adopting this new technology at the right time and in a way that minimizes mistakes and bad outcomes can make great things happen for your organization. It's a bit like catching the tail of a rocket ship that just being launched, but catching it in a way that doesn't like burn you to a crisp.
+
+Thirty or so years ago, we had a similar technological shift with the advent of the Internet. At the time, using the Internet for common, everyday tasks was a big deal, and there was fear about how it would change how we work. Now, we have accepted the Internet as a way of life and it's a normal experience to look things up on Google or shop on the internet. In 30 years, AI systems will be the same.
+
+As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws, regulations, and computational resources is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving landscape should be one of your top priorities as a leader.
 
 There are multiple possible roles that you could fill, depending on what your organization's AI needs and uses are. Having representation from technical, policy and social science backgrounds helps ensure a multidisciplinary, holistic approach to building and overseeing responsible AI.
+
+## Who might be on your team?
+
+**This list is a starting point for you when deciding what sort of roles you need for your own team and is not written in any particular order.** This is not an exhaustive list of all possible experts that you can gather. You should consult with your legal council, board members, and other oversight staff in order to properly address your own specialized needs.
 
 1. _Legal council_ that understands AI and the nuances of the rapidly changing laws can advise on regulations relevant to your organization. 
 
@@ -20,6 +31,10 @@ There are multiple possible roles that you could fill, depending on what your or
 
 1. _Institutional Review Board members_ are experts who review research studies (both before a study begins and while it is ongoing) involving human participants. Their job is to make sure researchers are protecting the welfare, rights, and privacy of human subjects. Institutional review boards are especially important for organizations involved in any human research that uses AI.
 
-**This list is a starting point for you when deciding what sort of roles you need for your own team.** This is not an exhaustive list of all possible experts that you can gather. You should consult with your legal council, board members, and other oversight staff when building your team, so that you can address your own specialized needs.
+1. _Technical experts_ understand how to design, build, and deploy AI models. They can also offer advice on the algorithms, data, and computational infrastructure your organization might need.  They might be AI or machine learning experts, data scientists, DevOps engineers, cloud architects, or systems engineers.
+
+1. _Information security architects_ are vital for identifying and mitigating the security risks associated with AI systems. They can provide advice on data privacy measures, security weak points, and incident response plans.
+
+The specific roles and their required skillsets will vary depending on the size, industry, and AI maturity of the company. However, having a balanced team with both technical and strategic expertise is key to successfully implementing AI policies in your organization. Remember, effective communication and collaboration between these roles is crucial for a successful AI implementation.
 
 # VIDEO Building a team to guide your AI use

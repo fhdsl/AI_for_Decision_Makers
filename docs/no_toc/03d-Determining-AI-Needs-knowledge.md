@@ -8,6 +8,9 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Customized Knowledge for AI
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
 
 ## Learning objectives:
 
@@ -41,7 +44,7 @@ In summary, we will cover 4 different strategies for obtaining better output fro
 
 ### Prompt engineering
 
-Sometimes its not the model who needs training, its the user.
+Sometimes it's not the model who needs training, it's the user.
 AI models, just like humans, are not mind readers, and just as we all learned how to google, we also need to learn how to engineer prompts.
 
 <img src="03d-Determining-AI-Needs-knowledge_files/figure-html//1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g2a62349c7d4_0_272.png" width="100%" />
@@ -83,7 +86,14 @@ Let's make a hiring analog. If you needed someone to fulfill a specialized educa
 
 <img src="03d-Determining-AI-Needs-knowledge_files/figure-html//1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g1965a5f7f0a_0_44.png" width="100%" />
 
-That is the strategy of fine tuning. We aren't going to create a model from scratch, instead we're going to find one that has the training that *most closely* overlaps with our needs but we will provide them with additional training for our specific needs.
+<img src="03d-Determining-AI-Needs-knowledge_files/figure-html//1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g2a62349c7d4_0_235.png" width="100%" />
+
+ChatGPT cost ~$100 million to create 
+Training models from scratch requires an insane amount of data and computing costs
+It’s almost never where you will want to start.
+
+
+So instead we will use the strategy of fine tuning. We aren't going to create a model from scratch, instead we're going to find one that has the training that *most closely* overlaps with our needs but we will provide them with additional training for our specific needs.
 
 But fine tuning also might cost money, so before we jump to this strategy we need to check one more time whether we've surveyed the available models for their fitness of our project's needs. Are you sure no other model works? if you've only tried ChatGPT go try other AI platforms. If an LLM is what you are looking for you can [read our paper for a summary](https://www.nature.com/articles/d41586-023-03023-4).
 

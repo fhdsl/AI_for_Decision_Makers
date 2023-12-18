@@ -8,6 +8,10 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Evaluating your customized AI tool
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
 ## Learning objectives:
 
 - Understand the motivation behind evaluating your customized AI tool
@@ -23,9 +27,11 @@ Evaluating a software tool is critical. This is for multiple reasons that feed i
 1. Evaluating your AI tool will help identify areas for improvement
 2. Evaluating your AI tool will demonstrate value to funders so you can actually make those improvements
 
-It's important to keep the pulse on your project as it is developing. But once you have a stable AI tool, its a good time to gather initial evaluations.
 
-<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_0.png" width="100%" />
+It's important to keep the pulse on your project as it is developing. Ideally, you should be monitoring your eh I’s performance when it comes to bias ad performance throughout the project. But once you have a stable ah I tool, it is an especially good time to gather more evaluations.
+
+
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g1ed70280ce0_0_0.png" width="100%" />
 
 As a reminder, generally a good AI tool is accurate in that it gives output that is useful. It is also computationally efficient in that we won’t be able to actually deploy the tool if it is computationally costly or takes too long to run a query.
 
