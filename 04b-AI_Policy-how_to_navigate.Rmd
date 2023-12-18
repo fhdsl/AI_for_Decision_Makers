@@ -37,7 +37,7 @@ In general, a policy might have sections devoted to the following topics:
 
 1. _Fairness and Non-discrimination_. In this section, you can lay out how you might monitor and audit AI systems for possible bias. This section can also include guidelines for developing or deploying AI in ways to avoid perpetuating or exacerbating bias or discrimination based on protected characteristics.
 
-1. _Risk Management, Safety, and Oversight_. A section like this might lay out robust testing procedures to moniter, identify, and mitigate potential risks associated with AI systems, including security vulnerabilities, safety hazards, and unintended consequences. It can also identify ways to ensure oversight and accountability for AI systems, ensuring humans remain ultimately responsible for AI-driven decisions.
+1. _Risk Management, Safety, and Oversight_. A section like this might lay out robust testing procedures to monitor, identify, and mitigate potential risks associated with AI systems, including security vulnerabilities, safety hazards, and unintended consequences. It can also identify ways to ensure oversight and accountability for AI systems, ensuring humans remain ultimately responsible for AI-driven decisions.
 
 1. _Education and Training_. This section describes how your organization will provide training and education programs on AI systems on responsible AI development, deployment, and use. You can also detail how these training modules will be created and what topics are necessary for different groups of employees.
 
