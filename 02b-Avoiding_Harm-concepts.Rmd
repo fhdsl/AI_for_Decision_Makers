@@ -101,12 +101,12 @@ Additionally there are many contexts in which using AI without human interventio
 
 - Diagnosis of disease for patients - Delivering this news should likely come from a human. Secondly, the stakes for errors in the AI system could be very high. What if the system works poorly occasionally for certain individuals? What if the system starts behaving strangely? What if a patient with an unusual situation comes in that the AI system can't work well for?
 
-Even for seemingly benign uses, if humans do not intervene, it is possible that negative consequences could occur if the system starts working poorly or unusally.
+Even for seemingly benign uses, if humans do not intervene, it is possible that negative consequences could occur if the system starts working poorly or unusually.
 
 <div class = example>
 **Real-World Example**
 
-Uber drivers in India experienced issues with the facial recognition technology for logging into the App. This caused many drivers to get locked out of their accounts temporarily or permanently resulting in a reduction in their capacity to work and earn a living.
+Uber drivers in India experienced issues with the facial recognition technology for logging into the App. This caused many drivers to get locked out of their accounts temporarily or permanently resulting in a reduction in their capacity to work and earn a living (@bansal_ubers_2022).
 
 Read more about this in this [article](https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/).
 
