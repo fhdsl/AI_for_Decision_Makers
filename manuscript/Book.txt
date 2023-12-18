@@ -60,6 +60,6 @@ VIDEO-AI-Acts,-Orders,-and-Policies.md
 Other-Laws-That-Can-Apply-to-AI.md
 VIDEO-Existing-Laws-That-Apply-to-AI.md
 Considerations-for-creating-an-AI-Policy.md
-VIDEO-Title!.md
+VIDEO-Considerations-for-creating-an-AI-Policy.md
 About-the-Authors.md
 References.md
