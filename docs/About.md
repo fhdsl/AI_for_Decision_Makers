@@ -9,11 +9,11 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[Ava Hoffman][Candace Savonen] [Carrie Wright] [Elizabeth Humphries]|
+|Lead Content Instructor(s)|[Ava Hoffman] - Course 1 <br> [Carrie Wright] - Course 2 <br> [Candace Savonen] - Course 3 <br> [Elizabeth Humphries] - Course 4 <br>|
 |Project Management| [Elizabeth Humphries] [Shasta Nicholson]|
 |Content Author| [Christopher Lo] [Jenny Wendle]|
 |Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi] [Jeff Leek]|
-|Content Director(s) |[Jeff Leek][Elizabeth Humphries] |
+|Content Director(s) |[Jeff Leek] [Elizabeth Humphries] |
 |Content Consultants | [Robert McDermott]|
 |**Production**||
 |Content Publisher(s)| Helped with publishing platform|
@@ -24,8 +24,8 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Technical Publishing Stylists|[Carrie Wright], [Ava Hoffman], [Candace Savonen]|
 |Package Developers ([ottrpal]) [Candace Savonen], [John Muschelli], [Carrie Wright]|
 |**Art and Design**||
-|Illustrator(s)| [Ava Hoffman][Candace Savonen] [Carrie Wright] [Elizabeth Humphries][Sitapriya Moorthi]|
-|Figure Artist(s)|[Ava Hoffman][Candace Savonen] [Carrie Wright] [Elizabeth Humphries][Sitapriya Moorthi]|
+|Illustrator(s)| [Ava Hoffman] [Candace Savonen] [Carrie Wright] [Elizabeth Humphries] [Sitapriya Moorthi]|
+|Figure Artist(s)|[Ava Hoffman] [Candace Savonen] [Carrie Wright] [Elizabeth Humphries] [Sitapriya Moorthi]|
 |**Funding**||
 |Funder(s)| Fred Hutchinson Cancer Center|
 |Funding Staff| [Shasta Nicholson] [Sandy Ombrek]|
