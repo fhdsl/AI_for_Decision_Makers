@@ -1,0 +1,116 @@
+
+- typeName: multipleChoice
+  prompt: What are examples of user agreements?
+  options:
+    - answer: Commercial agreements
+      isCorrect: false
+      feedback: This is one such example of user agreements but there is more
+    - answer: Enterprise agreements
+      isCorrect: false
+      feedback: This is one such example of user agreements but there is more
+    - answer: Intellectual agreements
+      isCorrect: false
+      feedback: Intellectual agreements were not something we described as an example of a user agreement
+    - answer: Both A and C
+      isCorrect: false
+      feedback: Intellectual agreements were not something we described as an example of a user agreement
+    - answer: Both A and B
+      isCorrect: true
+      feedback: Yes! These are both examples of user agreements
+    - answer: All of the above
+      isCorrect: false
+      feedback: Intellectual agreements were not something we described as an example of a user agreement
+
+- typeName: multipleChoice
+  prompt: Which of the following were NOT a topic we discussed that may be a part of an AI policy?
+  shuffleOptions: true
+  options:
+    - answer: Governance and Oversight
+      isCorrect: false
+      feedback: Education and Training was considered a part of effective AI policies
+    - answer: Education and Training
+      isCorrect: false
+      feedback: Education and Training was considered a part of effective AI policies
+    - answer: Pricing points for customers
+      isCorrect: true
+      feedback: This was not a part of an AI policy
+    - answer: Feedback and Review
+      isCorrect: false
+      feedback: Feedback and Review was considered a part of effective AI policies
+
+- typeName: multipleChoice
+  prompt: Which of the following are legitimate pieces of advice your should adhere to regarding AI policy?
+  options:
+    - answer: Always consult your legal council about the AI regulations that apply to you.
+      isCorrect: false
+      feedback: This is true, but there's more
+    - answer: It is not enough to build a policy, support systems need to be in place to support individuals in their ability to follow that policy.
+      isCorrect: false
+      feedback: This is true, but there's more
+    - answer: You should seek advice from a variety of experts and sources when building a comprehensive AI policy
+      isCorrect: false
+      feedback: This is true, but there's more
+    - answer: A and B are true
+      isCorrect: false
+      feedback: A and B are true, but there's more
+    - answer: B and C are true
+      isCorrect: false
+      feedback: B and C are true, but there's more
+    - answer: All of the above are true
+      isCorrect: true
+      feedback: Yes! All of these above are true statements!
+
+- typeName: multipleChoice
+  prompt: What is one concern around the use of copyrighted data to train AI models?
+  shuffleOptions: true
+  options:
+    - answer: The models may produce biased results
+      isCorrect: false
+      feedback: Bias is important to look out for but is not necessarily related to copyrighted data
+    - answer: The models may violate intellectual property rights
+      isCorrect: true
+      feedback: Correct, this has and will continue to be a concern
+    - answer: The models may be insecure
+      isCorrect: false
+      feedback: Security is important for but is not necessarily related to copyrighted data
+    - answer: The models will use too much computer processing power
+      isCorrect: false
+      feedback: Efficient computing is important but is not necessarily related to copyright data
+
+- typeName: multipleChoice
+  prompt: What does the text recommend to allow an AI policy to stay relevant as technology changes quickly?
+  shuffleOptions: true
+  options:
+    - answer: Update it daily
+      isCorrect: false
+      feedback: Daily would be a lot to do. This isn't what was recommended.
+    - answer: Make it a short-term policy only
+      isCorrect: false
+      feedback: This isn't what was recommended. What would happen after that policy expired?
+    - answer: Create it as an ongoing living document
+      isCorrect: true
+      feedback: Yes! Continue to modify and update the policy to better meet the changing needs and landscape of AI
+    - answer: Don't create a policy at all
+      isCorrect: false
+      feedback: This wouldn't help! Policy is needed!
+
+- typeName: multipleChoice
+  prompt: An effective AI policy...
+
+  shuffleOptions: true
+  options:
+    - answer: Is agile and readily adjusted as the landscape of technology changes
+      isCorrect: false
+      feedback: This is true, but there is more
+    - answer: Is accompanied by training, education and infrastructure
+      isCorrect: false
+      feedback: This is true, but there is more
+    - answer: Has been created by a team of experts weighing in
+      isCorrect: false
+      feedback: This is true, but there is more
+    - answer: Discusses how bias and discrimination is being monitored
+      isCorrect: false
+      feedback: This is true, but there is more
+    - answer: All of the above should be included with an effective AI policy!
+      isCorrect: true
+      feedback: Correct! All of the above are items that should be included with an effective AI policy!
