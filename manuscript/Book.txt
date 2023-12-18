@@ -53,6 +53,10 @@ Customized-Interfaces-for-AI.md
 VIDEO:-Evaluating-your-customized-AI-tool.md
 Evaluating-your-customized-AI-tool.md
 Introduction-to-AI-Policy.md
+Why-do-I-need-an-AI-policy?.md
+VIDEO-Why-do-I-need-an-AI-policy?.md
+Elements-of-an-AI-policy.md
+VIDEO-Elements-of-an-AI-policy.md
 Building-a-team-to-guide-your-AI-use.md
 VIDEO-Building-a-team-to-guide-your-AI-use.md
 AI-Acts,-Orders,-and-Policies.md
@@ -60,6 +64,6 @@ VIDEO-AI-Acts,-Orders,-and-Policies.md
 Other-Laws-That-Can-Apply-to-AI.md
 VIDEO-Existing-Laws-That-Apply-to-AI.md
 Considerations-for-creating-an-AI-Policy.md
-VIDEO-Title!.md
+VIDEO-Considerations-for-creating-an-AI-Policy.md
 About-the-Authors.md
 References.md
