@@ -5,6 +5,7 @@ bookdown::gitbook:
     before_body: assets/big-image_fhdasl.html
     after_body: assets/footer.html
   split_bib: true
+  number_sections: false
   highlight: tango
   config:
     toc:
