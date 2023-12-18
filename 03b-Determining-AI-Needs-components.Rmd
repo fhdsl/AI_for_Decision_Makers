@@ -25,7 +25,7 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 What makes the AI chatbots’ performance today so vastly improved from previous chatbots? Like those that resembled office supplies and helped us write documents? In this chapter we’ll discuss some generalities of how AI works and what makes an AI tool good.
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g1965a5f7f0a_0_44)
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g1965a5f7f0a_0_44")
 ```
 
 A good AI model is accurate – you need it to give answers that are correct or at least useful. They are also computationally efficient because we need them to give the answer back in a reasonable amount of time. We also don’t want to spend tons of money on the computation it takes for the chatbot to work.
