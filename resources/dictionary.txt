@@ -6,6 +6,7 @@ anonymize
 anonymization
 AnVIL
 auditability
+Autoencoders
 biometric
 Biometric
 BIPOC
@@ -38,6 +39,7 @@ deidentified
 deidentify
 deidentifying
 deliverables
+denoising
 Derma
 DevOps
 digesters
@@ -56,6 +58,7 @@ findable
 FLOPs
 funders
 fyi
+GANs
 GDSCN
 GH
 Github
@@ -123,4 +126,6 @@ under-diagnosed
 underserved
 useable
 UX
+VAEs
+Variational
 www
