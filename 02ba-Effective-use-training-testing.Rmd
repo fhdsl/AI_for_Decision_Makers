@@ -2,9 +2,6 @@
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
 ```
-# VIDEO Effective use of Training and Testing data
-
-https://docs.google.com/presentation/d/11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA/edit#slide=id.p
 
 # Effective use of Training and Testing data
 
