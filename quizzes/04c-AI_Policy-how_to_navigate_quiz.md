@@ -1,7 +1,19 @@
 
-{quiz, id: how_to_navigate, attempts: 10}
+{quiz, id: building_a_team, attempts: 10}
 
-## How to Navigate quiz
+## Building a team to guide your AI use quiz
 
+? True or false - The author recommends having only technical experts like data scientists and AI researchers on an AI oversight team.
+a) True
+B) False
+
+? Which of the following were not individuals listed as part of an AI team?
+
+a) Legal council
+b) Policy and governance analysts
+c) Data protection officers
+d) Ethicists and oversight board members
+e) Marketers
+f) Trainers and educators
 
 {/quiz}
