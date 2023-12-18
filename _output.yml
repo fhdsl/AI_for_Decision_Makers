@@ -4,7 +4,7 @@ bookdown::gitbook:
     in_header: GA_Script.Rhtml
     before_body: assets/big-image_fhdasl.html
     after_body: assets/footer.html
-  split_bib: false
+  split_bib: true
   highlight: tango
   config:
     toc:
