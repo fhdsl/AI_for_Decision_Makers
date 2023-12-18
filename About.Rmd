@@ -27,10 +27,12 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Illustrator(s)| [Ava Hoffman], [Candace Savonen], [Carrie Wright], [Elizabeth Humphries], [Sitapriya Moorthi]|
 |Figure Artist(s)|[Ava Hoffman] [Candace Savonen], [Carrie Wright], [Elizabeth Humphries], [Sitapriya Moorthi]|
 |**Funding**||
-|Funder(s)| [Fred Hutchinson Cancer Center] |
+|Funder(s)| The development of this course was supported by the National Cancer Institute (NCI) under Grant UE5CA254170.|
 |Funding Staff| [Shasta Nicholson], [Maleah O'Conner], [Sandy Ombrek]|
 
 &nbsp;
+
+**Tools used to create this course:**
 
 ```{r, echo = FALSE}
 devtools::session_info()
