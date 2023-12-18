@@ -86,7 +86,6 @@ tips-for-reducing-climate-impact
 transparency
 tips-for-being-transparent-in-your-use-of-ai
 summary-2
-video-effective-use-of-training-and-testing-data
 effective-use-of-training-and-testing-data
 population-and-sample
 training-data

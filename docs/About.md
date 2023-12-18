@@ -9,28 +9,30 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[Ava Hoffman] - Course 1 <br> [Carrie Wright] - Course 2 <br> [Candace Savonen] - Course 3 <br> [Elizabeth Humphries] - Course 4 <br>|
-|Project Management| [Elizabeth Humphries] [Shasta Nicholson]|
-|Content Author| [Christopher Lo] [Jenny Wendle]|
-|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi] [Jeff Leek]|
-|Content Director(s) |[Jeff Leek] [Elizabeth Humphries] |
-|Content Consultants | [Robert McDermott]|
+|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing An AI Policy <br>|
+|Project Management| [Elizabeth Humphries], [Shasta Nicholson]|
+|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html) |
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek]|
+|Content Director(s) |[Jeff Leek] , [Elizabeth Humphries] |
+|Content Consultants | [Robert McDermott], [Jenny Weddle], [Adina Mueller]|
 |**Production**||
-|Content Publisher(s)| Helped with publishing platform|
-|Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
+|Content Publisher(s)| [Shasta Nicholson]|
+|Content Publishing Reviewer(s)| [Ava Hoffman], [Carrie Wright], [Candace Savonen],[Elizabeth Humphries] |
 |**Technical**||
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright], [Ava Hoffman]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
 |Technical Publishing Stylists|[Carrie Wright], [Ava Hoffman], [Candace Savonen]|
-|Package Developers ([ottrpal]) [Candace Savonen], [John Muschelli], [Carrie Wright]|
+|Package Developers ([ottrpal]) | [Candace Savonen], [John Muschelli], [Carrie Wright]|
 |**Art and Design**||
-|Illustrator(s)| [Ava Hoffman] [Candace Savonen] [Carrie Wright] [Elizabeth Humphries] [Sitapriya Moorthi]|
-|Figure Artist(s)|[Ava Hoffman] [Candace Savonen] [Carrie Wright] [Elizabeth Humphries] [Sitapriya Moorthi]|
+|Illustrator(s)| [Ava Hoffman], [Candace Savonen], [Carrie Wright], [Elizabeth Humphries], [Sitapriya Moorthi]|
+|Figure Artist(s)|[Ava Hoffman] [Candace Savonen], [Carrie Wright], [Elizabeth Humphries], [Sitapriya Moorthi]|
 |**Funding**||
-|Funder(s)| Fred Hutchinson Cancer Center|
-|Funding Staff| [Shasta Nicholson] [Sandy Ombrek]|
+|Funder(s)| The development of this course was supported by the National Cancer Institute (NCI) under Grant UE5CA254170.|
+|Funding Staff| [Shasta Nicholson], [Maleah O'Conner], [Sandy Ombrek]|
 
 &nbsp;
+
+**Tools used to create this course:**
 
 
 ```
@@ -95,12 +97,22 @@ These credits are based on our [course contributors table guidelines](https://ww
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
 [Ava Hoffman]: https://www.avahoffman.com/
+[Jeff Leek]: https://jtleek.com/
 [Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b
 [Shasta Nicholson]: https://www.linkedin.com/in/shastanicholson
 [Sandy Ombrek]: https://www.linkedin.com/in/sandy-ormbrek-1410b113
+[Elizabeth Humphries]: https://www.linkedin.com/in/elizabeth-humphries-61202a103/
+[Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b/
+[Sitapriya Moorthi]: https://www.linkedin.com/in/sitapriyamoorthi/
+[Jenny Weddle]: https://hutchdatascience.org/ourteam/
+[Robert McDermott]: https://www.linkedin.com/in/robert-mcdermott-a77b9011/
+[Adina Mueller]: https://www.linkedin.com/in/adina-mueller-575aaa/
+[Maleah O'Conner]: https://hutchdatascience.org/ourteam/
+
 <!-- Links -->
 
 [ottrpal]: https://github.com/jhudsl/ottrpal
+[Fred Hutchinson Cancer Center]:https://www.fredhutch.org/
 
 <!-- Fill out this table using these instructions: https://github.com/jhudsl/OTTR_Template/wiki/How-to-give-credits
 
