@@ -41,6 +41,8 @@ deliverables
 Derma
 DevOps
 digesters
+Discriminative
+discriminative
 Dockerfile
 Dockerhub
 dropdown

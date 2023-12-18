@@ -41,6 +41,10 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 
 In 2017, Google engineers published a paper describing a type of neural network they called a **transformer model**. This model revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformer models are basically what drives generative AI models today.
 
+## Variational Autoencoders (VAEs)
+
+## Generative Adversarial Networks (GANs)
+
 ## Strengths and Weaknesses
 
 <div class = disclaimer>
