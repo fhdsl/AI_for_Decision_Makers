@@ -12,6 +12,7 @@ Biometric
 BIPOC
 Bloomberg
 Bookdown
+CCPA
 chatbot
 chatbots’
 chatGPT
@@ -59,6 +60,7 @@ FLOPs
 funders
 fyi
 GANs
+GDPR
 GDSCN
 GH
 Github
