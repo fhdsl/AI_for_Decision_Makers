@@ -9,12 +9,12 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: Exploring AI Possibilities <br> [Carrie Wright] - Course 2: Avoiding AI Harm <br> [Candace Savonen] - Course 3: Determining AI Needs <br> [Elizabeth Humphries] - Course 4: Developing An AI Policy <br>|
-|Project Management| [Elizabeth Humphries] [Shasta Nicholson]|
+|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing An AI Policy <br>|
+|Project Management| [Elizabeth Humphries], [Shasta Nicholson]|
 |Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html) |
-|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi] [Jeff Leek]|
-|Content Director(s) |[Jeff Leek] [Elizabeth Humphries] |
-|Content Consultants | [Robert McDermott] [Jenny Weddle] [Adina Mueller]|
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek]|
+|Content Director(s) |[Jeff Leek] , [Elizabeth Humphries] |
+|Content Consultants | [Robert McDermott], [Jenny Weddle], [Adina Mueller]|
 |**Production**||
 |Content Publisher(s)| [Shasta Nicholson]|
 |Content Publishing Reviewer(s)| [Ava Hoffman], [Carrie Wright], [Candace Savonen],[Elizabeth Humphries] |
