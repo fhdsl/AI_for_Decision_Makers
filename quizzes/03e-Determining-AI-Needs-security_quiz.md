@@ -9,7 +9,7 @@ B) Enabling use of protected data
 c) Improving user interfaces
 d) Adding new algorithms
 
-? Before using an AI service with protected data, users should:
+? Before using an AI service with protected data, users should?
 a) Accept the terms of service
 B) Consult legal experts
 c) Pay for a usage license

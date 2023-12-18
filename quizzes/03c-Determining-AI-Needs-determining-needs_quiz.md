@@ -29,9 +29,9 @@ D) All of the above
 
 ? As compared to using a prepackaged AI tool, building a custom solution from scratch will likely require?
 a) Less technical expertise
-b) Shorter development timeframes
+b) Shorter development time frames
 c) Lower overall budget
-D) More technical expertise and longer timeframes
+D) More technical expertise and longer time frames
 
 ? What resource might you seek out if you need to build a fully customizable AI solutions including trained models and custom deployment?
 a) Cogniflow
