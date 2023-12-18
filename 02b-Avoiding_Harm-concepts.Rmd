@@ -82,7 +82,7 @@ A new term in the medical field called [AI paternalism](https://www.technologyre
 
 ## Inappropriate Use
 
-There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgment by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future.
+There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgment by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future. 
 
 Some reasons why AI may not be appropriate for certain situation include:
 
@@ -91,11 +91,28 @@ Some reasons why AI may not be appropriate for certain situation include:
 - Humans are still better than AI at generalizing what they learn for new contexts.
 - Humans can better understand the consequences of discussions from a humanity standpoint.
 
-Some examples where it may be considered inappropriate for AI systems to be used include:
+Some examples where it may be considered inappropriate for AI systems to be used (even with human involvement) include:
 
 - In the justice system to determine if someone is guilty of a crime or to determine the punishment of someone found guilty of a crime.
 - It may be considered inappropriate for AI systems to be used in certain warfare circumstances.
 
+
+Additionally there are many contexts in which using AI without human intervention could be very problematic including:
+
+- Diagnosis of disease for patients - Delivering this news should likely come from a human. Secondly, the stakes for errors in the AI system could be very high. What if the system works poorly occasionally for certain individuals? What if the system starts behaving strangely? What if a patient with an unusual situation comes in that the AI system can't work well for?
+
+Even for seemingly benign uses, if humans do not intervene, it is possible that negative consequences could occur if the system starts working poorly or unusally.
+
+<div class = example>
+**Real-World Example**
+
+Uber drivers in India experienced issues with the facial recognition technology for logging into the App. This caused many drivers to get locked out of their accounts temporarily or permanently resulting in a reduction in their capacity to work and earn a living.
+
+Read more about this in this [article](https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/).
+
+
+
+</div>
 
 ### Tips for avoiding inappropriate uses
 
