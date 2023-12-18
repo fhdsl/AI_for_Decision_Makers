@@ -13,7 +13,7 @@ a) Legal council
 b) Policy and governance analysts
 c) Data protection officers
 d) Ethicists and oversight board members
-e) Marketers
+E) Marketers
 f) Trainers and educators
 
 {/quiz}

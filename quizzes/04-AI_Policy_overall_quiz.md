@@ -3,7 +3,6 @@
 
 ## AI Policy Overall quiz
 
-
 ? What are examples of user agreements?
 a) Commercial agreements
 b) Enterprise agreements
