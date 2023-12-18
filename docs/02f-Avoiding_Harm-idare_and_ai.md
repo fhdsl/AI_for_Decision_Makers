@@ -68,7 +68,7 @@ Those developing or augmenting models should also evaluate the training data and
 
 There is a common misconception that AI tools might make better decisions for humans because they are believed to not be biased like humans (@pethig_biased_2023). However since they are built by humans and trained on human data, they are also biased. It is possible that AI systems specifically trained to avoid bias, to be inclusive, to be anti-racist, and  for specific contexts may be helpful to enable a more neutral party, but that is generally not currently possible.
 
-AI should not be used to make or help make employment decisions about applicants or employees at this time. This includes recruitment, hiring, retention, promotions, transfers, performance monitoring, discipline, demotion, terminations, or other similar decisions. 
+We highly suggest caution with using AI to make or help make employment decisions about applicants or employees at this time. This includes recruitment, hiring, retention, promotions, transfers, performance monitoring, discipline, demotion, terminations, or other similar decisions. At a minimum, humans should be involved in the testing the AI system, evaluating the results of the AI system, and monitoring the system's behavior overtime. Experts of algorithm fairness should be consulted.
 
 ## More inclusive teams means better models
 
