@@ -8,6 +8,11 @@
 The concepts for ethical AI use are still highly debated as this is a rapidly evolving field.
 However, it is becoming apparent based on real-world situations that ethical consideration should occur in every stage of the process of development and use.
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
+
 ## Ethical Use Process
 Here is a proposed framework for using AI more ethically. This should involve active consideration at three stages: the inception of an idea, during usage, and after usage.
 
@@ -89,3 +94,6 @@ Consider the following after developing an AI tool:
 
 <img src="resources/images/02g-Avoiding_Harm-ethical_process_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2a75372534b_12_1.png" title="A schematic of the ethical process showing reflection at inception of an idea about if AI is useful or appropriate and consideration of the consequences of development and later use, then pre-development considerations such as the data source in terms of bias, accuracy, privacy, and copyright, as well as data size requirements to avoid excessive resource use. This is followed by development considerations including considering if methods are optimized for bias, security, privacy, and avoiding faulty hallucination responses and harmful responses as well as testing the tool for issues in bias, toxicity, and robustness of responses, and consideration of interpretability in design choices, this is followed by post development reflection involving deploying with transparency in describing how the tool works, checking for interpretability and if the tool works as expected, and continual auditing over time. " alt="A schematic of the ethical process showing reflection at inception of an idea about if AI is useful or appropriate and consideration of the consequences of development and later use, then pre-development considerations such as the data source in terms of bias, accuracy, privacy, and copyright, as well as data size requirements to avoid excessive resource use. This is followed by development considerations including considering if methods are optimized for bias, security, privacy, and avoiding faulty hallucination responses and harmful responses as well as testing the tool for issues in bias, toxicity, and robustness of responses, and consideration of interpretability in design choices, this is followed by post development reflection involving deploying with transparency in describing how the tool works, checking for interpretability and if the tool works as expected, and continual auditing over time. " width="100%" style="display: block; margin: auto;" />
 
+## Summary
+
+In summary, to use and develop AI ethically consideration for impact should be occur across the entire process from the stage of forming an idea, to planning, to active use or development, and afterwards. We hope these frameworks help you to consider your AI use and development more responsibly. 

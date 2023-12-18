@@ -1,0 +1,97 @@
+
+- typeName: multipleChoice
+  prompt: Which of the following is TRUE?
+
+  shuffleOptions: true
+  options:
+    - answer: Unintended harm is alright because it wasn't intended
+      isCorrect: false
+    - answer: AI systems are unbiased and should be used to address human biases
+      isCorrect: false
+    - answer: Evaluate new AI tools for biases throughout its development and use
+      isCorrect: true
+    - answer: AI tools are accessible and useful in an equitable sense
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What is one potential issue with using AI systems that lack interpretability?
+
+  shuffleOptions: true
+  options:
+    - answer: It can be unclear why the system made a certain decision
+      isCorrect: true
+    - answer: The systems always behave as expected
+      isCorrect: false
+    - answer: There are no risks associated with using them
+      isCorrect: false
+    - answer: They cannot be trusted for any applications
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: According to the material, what should be considered at every stage of AI system development and use?
+
+  shuffleOptions: true
+  options:
+    - answer: Funding sources
+      isCorrect: false
+    - answer: Model usage
+      isCorrect: false
+    - answer: Ethical implications
+      isCorrect: true
+    - answer: Marketing strategies
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What can help reduce issues with faulty AI responses?
+
+  shuffleOptions: true
+  options:
+    - answer: Never questioning the accuracy of AI responses
+      isCorrect: false
+    - answer: Relying completely on AI tools without human review
+      isCorrect: false
+    - answer: Assuming AI tools reflect current best practices
+      isCorrect: false
+    - answer: Cross-checking responses from multiple AI tools
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Why is transparency important when using AI systems?
+
+  shuffleOptions: true
+  options:
+    - answer: It builds user trust in the systems
+      isCorrect: false
+    - answer: It facilitates public monitoring and feedback
+      isCorrect: false
+    - answer: It enables better understanding of AI-assisted decisions
+      isCorrect: false
+    - answer: All of the above
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What should be done to mitigate algorithmic bias?
+
+  shuffleOptions: true
+  options:
+    - answer: Nothing, AI systems are inherently unbiased
+      isCorrect: false
+    - answer: Train models on more diverse and inclusive data
+      isCorrect: true
+    - answer: Disable safety checks that restrict harmful content
+      isCorrect: false
+    - answer: Rely completely on AI systems for decision-making
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What helps ensure user compliance to standards for AI use?
+  shuffleOptions: true
+  options:
+    - answer: Complex, frequently changing policies
+      isCorrect: false
+    - answer: Generic training materials
+      isCorrect: false
+    - answer: Self-education by users
+      isCorrect: false
+    - answer: Relevant training content
+      isCorrect: true

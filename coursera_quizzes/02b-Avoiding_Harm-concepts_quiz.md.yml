@@ -1,0 +1,42 @@
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT considered a major ethical consideration discussed in the material?
+
+  shuffleOptions: true
+  options:
+    - answer: Security and privacy issues
+      isCorrect: false
+    - answer: Climate impact
+      isCorrect: false
+    - answer: Efficiency of the AI project
+      isCorrect: true
+    - answer: Inadvertent harm
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What does the concept of "AI paternalism" refer to?
+
+  shuffleOptions: true
+  options:
+    - answer: Trusting an AI system over human judgment or patient experiences in healthcare
+      isCorrect: true
+    - answer: The use of AI systems as replacements for human parents
+      isCorrect: false
+    - answer: Regulations restricting the development of advanced AI systems
+      isCorrect: false
+    - answer: Biases inherent in AI systems against certain groups
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: According to the material, which of the following can help reduce potential harms from AI systems?
+
+  shuffleOptions: true
+  options:
+    - answer: Assuming AI systems will behave as expected in all situations
+      isCorrect: false
+    - answer: Implementing new AI solutions quickly without extensive testing
+      isCorrect: false
+    - answer: Avoiding transparency about AI system development
+      isCorrect: false
+    - answer: Involving diverse perspectives in discussions of intended uses
+      isCorrect: true

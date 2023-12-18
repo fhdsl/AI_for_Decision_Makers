@@ -2,9 +2,13 @@
 
 # AI Acts, Orders, and Policies
 
-With generative AI still new in many fields, from medicine to law, regulations are rapidly evolving. A landmark provisional deal on AI regulation was reached by the European Parliament and Council on December 8, 2023, with the [EU AI Act](https://artificialintelligenceact.eu/documents/)). These guidelines laid out in this document apply to AI regulation and use within the 27-member EU bloc, as well as to foreign companies that operate within the EU. It is likely the EU AI Act will guide regulations around the globe.
+A good AI policy should guide an organization on AI uses that adhere to the necessary laws and regulations. With generative AI still new in many fields, from medicine to law, regulations are rapidly evolving. A landmark provisional deal on AI regulation was reached by the European Parliament and Council on December 8, 2023, with the [EU AI Act](https://artificialintelligenceact.eu/documents/)). These guidelines laid out in this document apply to AI regulation and use within the 27-member EU bloc, as well as to foreign companies that operate within the EU. It is likely the EU AI Act will serve as a model for AI laws around the globe, for both individual countries and industries.
 
 Countries outside of the EU are drafting their own laws, orders, and standards surrounding AI use, so you and your employees will need to do some research on what it and is not allowed in your local area. **Always consult your legal council about the AI regulations that apply to you.**
+
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
 
 ## The EU AI Act
 

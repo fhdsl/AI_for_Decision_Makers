@@ -3,11 +3,15 @@
 
 This video discusses the components of AI tools and what constitutes a good AI model.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1Le4EqKaQKJskZDFrO0h2I0mP-s23C8UHFenhMeFpmu8/edit).
 
 # What are the components of AI?
+
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
 
 ## Learning objectives:
 
@@ -50,11 +54,11 @@ To address this gap in the model's knowledge, you might add supplementary traini
 
 ![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_273.png){width=100%}
 
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_216.png){width=100%}
 
 However, this added training data may help for the identification of green apples, but if given something similar to an apple but not -- say a pear. It may incorrectly identify a pear as an apple if it hasn't ALSO been trained on pears.
 
-![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_216.png){width=100%}
-
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a78463b3b0_50_34.png){width=100%}
 
 This may feel silly to you -- why couldn't it identify a pear -- but this is because you are a really well trained AI. (Actually just the I, you presumably aren't artificial). You've seen lots of fruit in your life -- you've collected a lot of training data on this task and have no problem identifying a pear from an apple.
 
@@ -79,18 +83,20 @@ Let's return to apples.
 
 With the above image, you don't need much time to look at that picture and know that that is an apple. You don't have to think about this for very long.
 
-![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_117.png){width=100%}
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a78463b3b0_50_45.png){width=100%}
 
 With the above image, you don't need much time to look at that picture and know that that is an apple. You don't have to think about this for very long. You didn't take in one piece of information at a time.
 
 This type of information processing is what neural networks are based on. Neural networks are when computers mimic how brains work to process information.
 
 
-![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_125.png){width=100%}
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_117.png){width=100%}
 
 Think about how you'd read the following paragraph:
 
 ![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_129.png){width=100%}
+
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_300.png){width=100%}
 
 **Did you read each word, in order from start to end?**
 
@@ -131,12 +137,18 @@ Without these recent advancements in attention mechanism algorithms, the large l
 
 In summary, a good AI model is accurate -- this is largely determine by its training data being high quality, relevant and properly processed.
 
-A good AI model is also computationally efficient. We need to use algorithms that can efficiently and properly process data.
+A good AI tool is also computationally efficient. We need to use algorithms that can efficiently and properly process data.
 
 ![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a3ef1dce0a_0_310.png){width=100%}
 
+Let’s talk about the process of an AI query in a general sense. If we give input like an image of an apple, the AI tool will observe that input. It will use its prior experience of training data to digest that input.
 
-In order to visualize this, we've made a fake machine learning machine to describe AI. AI models can take a lot of different forms and functions and this visual is merely a tool to understand generalities about components of AI. It is not meant to be a detailed representation of any given AI model.
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a61bc12ef8_0_0.png){width=100%}
+
+It will then formulate a response to return to us to tell us it’s conclusion. If it was trained properly, its returned response to us will be that it is indeed an apple.
+
+
+We can then visualized a "machine learning machine" to describe AI. AI models can take a lot of different forms and functions and this visual is merely a tool to understand generalities about components of AI. It is not meant to be a detailed representation of any given AI model.
 
 But we can discuss AI tools in terms of their:  
 
@@ -145,14 +157,14 @@ But we can discuss AI tools in terms of their:
 - *training data* - how was the mode trained? what information was it trained on?
 - *output* - what are we returning to the user of this AI tool?
 
-![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a61bc12ef8_0_0.png){width=100%}
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a8041f95c8_0_0.png){width=100%}
 
 Each of these components can get very complicated very quickly. Although we won't go through the details of these in this course, we will discuss practical aspects of these in terms of customization for AI needs.
 
 
 Large language models are one popular type of AI tool. So we can talk about the components of these models in the context of this visual.
 
-![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a678430d60_0_153.png){width=100%}
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a8041f95c8_0_20.png){width=100%}
 
 
 Large language models are one popular type of AI tool. So we can talk about the components of these models in the context of this visual. Tokens are units of a language (these might be words or phrases). Transformers are what organize tokens to find the meaning/context. Meanwhile to do this processing tokens are coded as Embeddings these are numerical representations of tokens. Encoders are what processes input text from a user. Meanwhile Decoders generate output text that is sent back to the user.
@@ -163,6 +175,6 @@ In summary:
 
 One more important point about AI models. Their training and training data is critical. You have likely seen and heard about many biased things that large language models have said. This is because the language they were trained on – the language of human beings in our society – was also very biased.
 
-![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a61bc12ef8_0_169.png){width=100%}
+![](03b-Determining-AI-Needs-components_files/figure-docx//1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA_g2a8041f95c8_0_89.png){width=100%}
 
 To summarize, for AI models can only be as good as their training. So garbage training data in means biased garbage as output.

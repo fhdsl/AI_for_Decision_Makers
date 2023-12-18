@@ -8,6 +8,10 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 # Evaluating your customized AI tool
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
 ## Learning objectives:
 
 - Understand the motivation behind evaluating your customized AI tool
@@ -25,10 +29,12 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1rdVYJyS7xLYDsoZw
 1. Evaluating your AI tool will help identify areas for improvement
 2. Evaluating your AI tool will demonstrate value to funders so you can actually make those improvements
 
-It's important to keep the pulse on your project as it is developing. But once you have a stable AI tool, its a good time to gather initial evaluations.
+
+It's important to keep the pulse on your project as it is developing. Ideally, you should be monitoring your eh I’s performance when it comes to bias ad performance throughout the project. But once you have a stable ah I tool, it is an especially good time to gather more evaluations.
+
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM/edit#slide=id.g2a6c15e7d80_0_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM/edit#slide=id.g1ed70280ce0_0_0")
 ```
 
 As a reminder, generally a good AI tool is accurate in that it gives output that is useful. It is also computationally efficient in that we won’t be able to actually deploy the tool if it is computationally costly or takes too long to run a query.
