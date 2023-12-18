@@ -9,11 +9,9 @@ B) To limit the capacity of AI systems to cause harm
 c) To standardize AI systems across Europe
 d) To tax companies using AI systems
 
-? Which of the following must developers provide for general purpose AI systems like GPT under the EU AI Act?
-a) A list of potential biases
-b) Documentation about the training data
-c) Monthly accuracy reports
-d) Cybersecurity audit reports
+? True or False - All open-source software is excluded from EU Act regulations
+a) True -- open source software is always exempt
+B) False -- high risk open source software applications are not exempt
 
 ? Which of these statements is true about the EU AI act?
 A) There are exceptions to the facial scraping ban that allow law enforcement and intelligence agencies to use AI applications for facial recognition purposes.

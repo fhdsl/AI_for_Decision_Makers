@@ -5,12 +5,16 @@
   options:
     - answer: Ideas for new inventions
       isCorrect: false
+      feedback: That isn't what copyright covers
     - answer: The exclusive right to publish or reproduce artistic material
       isCorrect: true
+      feedback: Yes! This is underneath copyright!
     - answer: Software code
       isCorrect: false
+      feedback: Software code is not underneath copyright
     - answer: Scientific discoveries
       isCorrect: false
+      feedback: Scientific discoveries are not underneath copyright
 
 - typeName: multipleChoice
   prompt: What type of information is covered under special data privacy protections?
@@ -18,20 +22,27 @@
   options:
     - answer: Social media posts
       isCorrect: false
+      feedback: Social media posts are not underneath data privacy protections
     - answer: Personal health information
       isCorrect: true
+      feedback: Yes! PHI is underneath data privacy protections!
     - answer: Public government reports
       isCorrect: false
+      feedback: Public government reports are not underneath data privacy protections
     - answer: News articles
       isCorrect: false
+      feedback: New articles are not underneath data privacy protections
 
 - typeName: multipleChoice
-  prompt: Who is most likely legally liable if an AI system was inherently flawed?
+  prompt: Who is most likely legally liable if an AI system was inherently flawed in its philosophy?
   shuffleOptions: true
   options:
     - answer: The end user of the AI system
       isCorrect: false
-    - answer: The developer of the AI algorithm
+      feedback: The end user didn't put the inherent flaw in the system
+    - answer: The developer of the open source training model used
       isCorrect: false
+      feedback: How a training model is used is not necessarily the original developers fault
     - answer: The designer or manufacturer of the system
       isCorrect: true
+      feedback: Yes. The designer or manufacterer of the AI system is likely liable for the inherent flaws.

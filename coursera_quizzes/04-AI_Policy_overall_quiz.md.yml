@@ -1,20 +1,25 @@
 
 - typeName: multipleChoice
   prompt: What are examples of user agreements?
-  shuffleOptions: true
   options:
     - answer: Commercial agreements
       isCorrect: false
+      feedback: This is one such example of user agreements but there is more
     - answer: Enterprise agreements
       isCorrect: false
+      feedback: This is one such example of user agreements but there is more
     - answer: Intellectual agreements
       isCorrect: false
+      feedback: Intellectual agreements were not something we described as an example of a user agreement
     - answer: Both A and C
       isCorrect: false
+      feedback: Intellectual agreements were not something we described as an example of a user agreement
     - answer: Both A and B
       isCorrect: true
+      feedback: Yes! These are both examples of user agreements
     - answer: All of the above
       isCorrect: false
+      feedback: Intellectual agreements were not something we described as an example of a user agreement
 
 - typeName: multipleChoice
   prompt: Which of the following were NOT a topic we discussed that may be a part of an AI policy?
@@ -22,19 +27,23 @@
   options:
     - answer: Governance and Oversight
       isCorrect: false
+      feedback: Education and Training was considered a part of effective AI policies
     - answer: Education and Training
       isCorrect: false
+      feedback: Education and Training was considered a part of effective AI policies
     - answer: Pricing points for customers
       isCorrect: true
+      feedback: This was not a part of an AI policy
     - answer: Feedback and Review
       isCorrect: false
+      feedback: Feedback and Review was considered a part of effective AI policies
 
 - typeName: multipleChoice
   prompt: Which of the following are legitimate pieces of advice your should adhere to regarding AI policy?
-  shuffleOptions: true
   options:
     - answer: Always consult your legal council about the AI regulations that apply to you.
       isCorrect: false
+      feedback: 
     - answer: It is not enough to build a policy, support systems need to be in place to support individuals in their ability to follow that policy.
       isCorrect: false
     - answer: You should seek advice from a variety of experts and sources when building a comprehensive AI policy

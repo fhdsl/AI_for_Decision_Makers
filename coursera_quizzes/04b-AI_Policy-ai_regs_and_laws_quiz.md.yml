@@ -5,25 +5,27 @@
   options:
     - answer: To ban all AI systems
       isCorrect: false
+      feedback: Incorrect, it does not ban all AI systems
     - answer: To limit the capacity of AI systems to cause harm
       isCorrect: true
+      feedback: Correct! THat is the goal of the EU's AI act
     - answer: To standardize AI systems across Europe
       isCorrect: false
+      feedback: It would be difficult and impractical to standardize AI systems at this point in time
     - answer: To tax companies using AI systems
       isCorrect: false
+      feedback: EU's AI act does not really concern itself with taxation
 
 - typeName: multipleChoice
-  prompt: Which of the following must developers provide for general purpose AI systems like GPT under the EU AI Act?
-  shuffleOptions: true
+  prompt: True or False - All open-source software is excluded from EU Act regulations
   options:
-    - answer: A list of potential biases
+    - answer: True -- open source software is always exempt
       isCorrect: false
-    - answer: Documentation about the training data
-      isCorrect: false
-    - answer: Monthly accuracy reports
-      isCorrect: false
-    - answer: Cybersecurity audit reports
-      isCorrect: false
+      feedback: There was an exception - go back and see the chapter
+    - answer: False -- high risk open source software applications are not exempt
+      isCorrect: true
+      feedback: Correct. High risk open source software are not exempt
+
 
 - typeName: multipleChoice
   prompt: Which of these statements is true about the EU AI act?
