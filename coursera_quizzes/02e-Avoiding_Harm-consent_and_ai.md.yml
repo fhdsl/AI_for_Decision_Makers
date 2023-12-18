@@ -1,0 +1,56 @@
+
+- typeName: multipleChoice
+  prompt: Why is obtaining meaningful consent tricky with AI systems?
+
+  shuffleOptions: true
+  options:
+    - answer: Users readily understand all the risks of providing their data
+      isCorrect: false
+    - answer: The risks associated with data collection are static and known
+      isCorrect: false
+    - answer: AI systems anonymize all collected data
+      isCorrect: false
+    - answer: The potential risks to users change dynamically over time
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Which of the following are concerns with data collection and AI?
+
+  shuffleOptions: true
+  options:
+    - answer: Accountability
+      isCorrect: false
+    - answer: Data persistence
+      isCorrect: false
+    - answer: Data reuse
+      isCorrect: false
+    - answer: All of the above
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Which of the following technologies has been an especially debated topic in relation to consent in the EU?
+
+  shuffleOptions: true
+  options:
+    - answer: Speech recognition
+      isCorrect: false
+    - answer: Live Facial recognition
+      isCorrect: true
+    - answer: Object detection
+      isCorrect: false
+    - answer: Machine translation
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What is data spillover?
+
+  shuffleOptions: true
+  options:
+    - answer: A situation where data collection happens accidentally for other individuals in collecting data for intended people
+      isCorrect: true
+    - answer: When datasets are too large that the AI system fails
+      isCorrect: false
+    - answer: When datasets are too large that too many resources are used to support computing
+      isCorrect: false
+    - answer: The deliberate collection of data not specified in an individual's consent agreement
+      isCorrect: false
