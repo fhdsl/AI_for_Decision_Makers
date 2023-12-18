@@ -161,10 +161,11 @@ Security and privacy are a major concern for AI usage. Here we discuss a few asp
 
 ### Use the right tool for the job
 
-There are two kinds of commercial AI tools (@nigro_ai_nodate):
+There are three kinds of commercial AI tools (@nigro_ai_nodate):
 
-- those that are designed for public general use
-- those that are designed private use with sensitive data
+- Consumer tools (likely not private/secure)
+- Enterprise tools (can be secure with the right legal agreements in place)
+- Open source tools (depends on where you use them and whether you control the computers they run on)
 
 Public commercial AI tools are often **not designed to protect users from unknowingly submitting prompts that include propriety are private information**. Different AI tools have different practices in terms of how they do or do not collect data about the prompts that people submit. They also have different practices in terms of if they reuse information from prompts to other users. Note that the AI system itself may not be trained on responses for how prompt data is collected or not. So asking the AI system may not give accurate answers.
 
@@ -189,12 +190,12 @@ It is important to follow legal and ethical guidance around the collection of da
 
 ### Tips for reducing security and privacy issues
 
-* Check that no sensitive data, such as Personal Identifiable Information (PII) or propriety information becomes public through prompts to commercial AI systems.
+* Check that no sensitive data, such as Personal Identifiable Information (PII) or propriety information becomes public through prompts to consumer AI systems or systems not designed or set up with the right legal agreements in place for sensitive data.
 * Consider purchasing a license for a private AI system if needed or create your own if you wish to work with sensitive data (seek expert guidance to determine if the AI systems are secure enough).
 * Promote for regulation of AI tools by voting for standards where possible.
-* Ask AI tools for help with security when using commercial tools, but to not rely on them alone. In some cases, commercial AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
+* Ask AI tools for help with security when using consumer tools, but to not rely on them alone. In some cases, consumer AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
 * Consult with an expert about data security if you want to design or use a AI tool that will regularly use private or propriety data.
-* Development of new tools should involve
+
 
 <div class = "query">
 Are there any possible data security or privacy issues associated with the plan you proposed?
