@@ -57,18 +57,18 @@
   options:
     - answer: Less technical expertise
       isCorrect: false
-    - answer: Shorter development timeframes
+    - answer: Shorter development time frames
       isCorrect: false
     - answer: Lower overall budget
       isCorrect: false
-    - answer: More technical expertise and longer timeframes
+    - answer: More technical expertise and longer time frames
       isCorrect: true
 
 - typeName: multipleChoice
   prompt: What resource might you seek out if you need to build a fully customizable AI solutions including trained models and custom deployment?
   shuffleOptions: true
   options:
-    - answer: CogniFlow
+    - answer: Cogniflow
       isCorrect: false
     - answer: PrivateAI
       isCorrect: false

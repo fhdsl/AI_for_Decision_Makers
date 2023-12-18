@@ -1,0 +1,40 @@
+
+- typeName: multipleChoice
+  prompt: When should ethical considerations occur according to the proposed framework?
+
+  shuffleOptions: true
+  options:
+    - answer: Only after an AI system is already in use
+      isCorrect: false
+    - answer: At the beginning of during development only
+      isCorrect: false
+    - answer: Just before an AI system is deployed
+      isCorrect: false
+    - answer: Throughout the entire process of development and use
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What is NOT a consideration when reflecting on AI use during the inception of an idea?
+  shuffleOptions: true
+  options:
+    - answer: What training datasets are a reasonable size
+      isCorrect: false
+    - answer: What would the impact be if the AI system performed poorly
+      isCorrect: false
+    - answer: Whether AI is actually appropriate for the use case
+      isCorrect: false
+    - answer: How you could be more efficient and implement faster
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What is needed after an AI system is launched according to the material?
+  shuffleOptions: true
+  options:
+    - answer: The system should not change after launch
+      isCorrect: false
+    - answer: Occasional spot checks for issues
+      isCorrect: false
+    - answer: Fixes only if users report problems
+      isCorrect: false
+    - answer: Continual audit for unexpected and problematic behaviors
+      isCorrect: true

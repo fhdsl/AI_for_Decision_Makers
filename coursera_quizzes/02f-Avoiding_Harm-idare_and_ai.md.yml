@@ -1,0 +1,53 @@
+
+- typeName: multipleChoice
+  prompt: What does the acronym IDARE stand for?
+
+  shuffleOptions: true
+  options:
+    - answer: Inclusion, Diversity, Anti-Racism, and Equity
+      isCorrect: true
+    - answer: Intelligence, Data, Algorithms, Research, Engineering
+      isCorrect: false
+    - answer: Interfaces, Developers, Administrators, Regulators, End-users
+      isCorrect: false
+    - answer: Identification, Development, Assessment, Regulation, Evaluation
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Why can bias occur in AI systems?
+  shuffleOptions: true
+  options:
+    - answer: Humans and human-created data are inherently unbiased
+      isCorrect: true
+    - answer: AI systems are intentionally designed to discriminate
+      isCorrect: false
+    - answer: The training data for AI systems is too diverse in representation
+      isCorrect: false
+    - answer: Bias only occurs when using unsupervised learning
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What example demonstrates an AI system perpetuating existing biases?
+  shuffleOptions: true
+  options:
+    - answer: An AI system beating a human at chess
+      isCorrect: false
+    - answer: AI-written articles discussing IDARE principles
+      isCorrect: false
+    - answer: Algorithms that help flag medical images for further review based on patient reported pain
+      isCorrect: false
+    - answer: Chatbots giving biased answers that lack diverse perspectives to users
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What does the material recommend regarding using AI for employment decisions?
+  shuffleOptions: true
+  options:
+    - answer: AI should be fully relied upon to make unbiased choices
+      isCorrect: false
+    - answer: Humans should have final say but AI can select a small number of resumes to evaluate without any potential bias issues
+      isCorrect: false
+    - answer: AI is not appropriate for use in employment decisions with our current systems
+      isCorrect: true
+    - answer: Guidelines are unnecessary as bias is no longer an issue
+      isCorrect: false
