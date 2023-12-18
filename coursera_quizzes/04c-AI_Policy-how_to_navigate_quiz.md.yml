@@ -1,0 +1,27 @@
+
+- typeName: multipleChoice
+  prompt: True or false - The author recommends having only technical experts like data scientists and AI researchers on an AI oversight team.
+  shuffleOptions: true
+  options:
+    - answer: True
+      isCorrect: false
+    - answer: False
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Which of the following were not individuals listed as part of an AI team?
+
+  shuffleOptions: true
+  options:
+    - answer: Legal council
+      isCorrect: false
+    - answer: Policy and governance analysts
+      isCorrect: false
+    - answer: Data protection officers
+      isCorrect: false
+    - answer: Ethicists and oversight board members
+      isCorrect: false
+    - answer: Marketers
+      isCorrect: true
+    - answer: Trainers and educators
+      isCorrect: false

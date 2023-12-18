@@ -1,0 +1,37 @@
+
+- typeName: multipleChoice
+  prompt: What does copyright protect?
+  shuffleOptions: true
+  options:
+    - answer: Ideas for new inventions
+      isCorrect: false
+    - answer: The exclusive right to publish or reproduce artistic material
+      isCorrect: true
+    - answer: Software code
+      isCorrect: false
+    - answer: Scientific discoveries
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What type of information is covered under special data privacy protections?
+  shuffleOptions: true
+  options:
+    - answer: Social media posts
+      isCorrect: false
+    - answer: Personal health information
+      isCorrect: true
+    - answer: Public government reports
+      isCorrect: false
+    - answer: News articles
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Who is most likely legally liable if an AI system was inherently flawed?
+  shuffleOptions: true
+  options:
+    - answer: The end user of the AI system
+      isCorrect: false
+    - answer: The developer of the AI algorithm
+      isCorrect: false
+    - answer: The designer or manufacturer of the system
+      isCorrect: true

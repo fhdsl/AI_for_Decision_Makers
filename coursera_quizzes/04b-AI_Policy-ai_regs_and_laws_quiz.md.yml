@@ -1,0 +1,37 @@
+
+- typeName: multipleChoice
+  prompt: What is the main goal of the EU's AI Act according to policymakers?
+  shuffleOptions: true
+  options:
+    - answer: To ban all AI systems
+      isCorrect: false
+    - answer: To limit the capacity of AI systems to cause harm
+      isCorrect: true
+    - answer: To standardize AI systems across Europe
+      isCorrect: false
+    - answer: To tax companies using AI systems
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following must developers provide for general purpose AI systems like GPT under the EU AI Act?
+  shuffleOptions: true
+  options:
+    - answer: A list of potential biases
+      isCorrect: false
+    - answer: Documentation about the training data
+      isCorrect: false
+    - answer: Monthly accuracy reports
+      isCorrect: false
+    - answer: Cybersecurity audit reports
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of these statements is true about the EU AI act?
+  shuffleOptions: true
+  options:
+    - answer: There are exceptions to the facial scraping ban that allow law enforcement and intelligence agencies to use AI applications for facial recognition purposes.
+      isCorrect: true
+    - answer: AI software for manipulative strategies like deepfakes and automated disinformation campaigns are allowed under certain conditions.
+      isCorrect: false
+    - answer: Companies do not need to disclose to customers if they are using AI tools.
+      isCorrect: false
