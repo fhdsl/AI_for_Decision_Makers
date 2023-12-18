@@ -209,8 +209,11 @@ introduction-to-ai-policy
 motivation-4
 target-audience-4
 curriculum-3
+why-do-i-need-an-ai-policy
+video-why-do-i-need-an-ai-policy
+elements-of-an-ai-policy
+video-elements-of-an-ai-policy
 building-a-team-to-guide-your-ai-use
-who-might-be-on-your-team
 video-building-a-team-to-guide-your-ai-use
 ai-acts-orders-and-policies
 the-eu-ai-act
