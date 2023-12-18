@@ -17,7 +17,7 @@ b) To more accurately evaluate model performance
 c) To fine-tune the model using a validation set
 D) Both a and b
 
-?According to the passage, what is the preferable way to partition data for machine learning?
+? According to the passage, what is the preferable way to partition data for machine learning?
 
 a) Use all data for training only
 b) Use some data for training and the rest for testing
