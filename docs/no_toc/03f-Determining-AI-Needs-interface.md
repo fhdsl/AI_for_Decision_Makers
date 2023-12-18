@@ -2,7 +2,7 @@
 
 This video discusses how to address custom interface needs for an AI tool.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g/edit).
 
@@ -53,7 +53,11 @@ Usability experts are going to be really helpful for carrying out this kind of n
 
 ## Premade AI tools
 
-Some services like [Cogniflow](https://www.cogniflow.ai/ai-playground) offer prepackaged AI services like chatbots that you can embed in your website or tool. This has the advantage of being minimal maintenance or software development knowledge needed. But as always, you generally don't have the ability to highly customize or finely tune these types of options. They generally are subscription services or pay for what you use.
+Some services like [Cogniflow](https://www.cogniflow.ai/ai-playground) and [OctoML](https://octoml.ai/) offer prepackaged AI services like chatbots that you can embed in your website or tool. This has the advantage of being minimal maintenance or software development knowledge needed. You generally don't always have the ability to highly customize these options.
+
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_328.png" width="100%" />
+
+OctoML also allows for customization and fine tuning of models should you need customized knowledge as well. OctoML is a pay for what you use service whereas Cogniflow is a subscription.
 
 <img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_328.png" width="100%" />
 
