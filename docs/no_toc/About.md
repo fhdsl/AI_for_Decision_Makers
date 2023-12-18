@@ -9,33 +9,26 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[FirstName LastName]|
-|Lecturer(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved| Delivered the course in some way - video or audio|
-|Content Author(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved | If any other authors besides lead instructor|
-|Content Contributor(s) (include section name/link in parentheses) - make new line if more than one section involved|  Wrote less than a chapter|
-|Content Editor(s)/Reviewer(s) | Checked your content|
-|Content Director(s) | Helped guide the content direction|
-|Content Consultants (include chapter name/link in parentheses or word "General") - make new line if more than one chapter involved | Gave high level advice on content|
-|Acknowledgments| Gave small assistance to content but not to the level of consulting |
+|Lead Content Instructor(s)|[Ava Hoffman][Candace Savonen] [Carrie Wright] [Elizabeth Humphries]|
+|Project Management| [Elizabeth Humphries] [Shasta Nicholson]|
+|Content Author| [Christopher Lo] [Jenny Wendle]|
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi] [Jeff Leek]|
+|Content Director(s) |[Jeff Leek][Elizabeth Humphries] |
+|Content Consultants | [Robert McDermott]|
 |**Production**||
 |Content Publisher(s)| Helped with publishing platform|
 |Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
 |**Technical**||
-|Course Publishing Engineer(s)| Helped with the code for the technical aspects related to the specific course generation|
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright], [Ava Hoffman]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
 |Technical Publishing Stylists|[Carrie Wright], [Ava Hoffman], [Candace Savonen]|
 |Package Developers ([ottrpal]) [Candace Savonen], [John Muschelli], [Carrie Wright]|
 |**Art and Design**||
-|Illustrator(s)| Created graphics for the course|
-|Figure Artist(s)| Created figures/plots for course|
-|Videographer(s)| Filmed videos|
-|Videography Editor(s)| Edited film|
-|Audiographer(s)| Recorded audio|
-|Audiography Editor(s)| Edited audio recordings|
+|Illustrator(s)| [Ava Hoffman][Candace Savonen] [Carrie Wright] [Elizabeth Humphries][Sitapriya Moorthi]|
+|Figure Artist(s)|[Ava Hoffman][Candace Savonen] [Carrie Wright] [Elizabeth Humphries][Sitapriya Moorthi]|
 |**Funding**||
-|Funder(s)| Institution/individual who funded course including grant number|
-|Funding Staff| Staff members who help with funding|
+|Funder(s)| Fred Hutchinson Cancer Center|
+|Funding Staff| [Shasta Nicholson] [Sandy Ombrek]|
 
 &nbsp;
 
@@ -112,12 +105,13 @@ These credits are based on our [course contributors table guidelines](https://ww
 
 <!-- Author information -->
 
-[FirstName LastName]: link to personal website
 [John Muschelli]: https://johnmuschelli.com/
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
 [Ava Hoffman]: https://www.avahoffman.com/
-
+[Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b
+[Shasta Nicholson]: https://www.linkedin.com/in/shastanicholson
+[Sandy Ombrek]: https://www.linkedin.com/in/sandy-ormbrek-1410b113
 <!-- Links -->
 
 [ottrpal]: https://github.com/jhudsl/ottrpal
