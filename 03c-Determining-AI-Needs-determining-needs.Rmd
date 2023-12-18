@@ -231,6 +231,9 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xC
 
 [Cogniflow](https://www.cogniflow.ai/ai-playground) is example of an AI tool that meets customized interface needs. It is a service that does not require code but has prepackaged AI tool solutions like chatbots and receipt digesters that can be readily deployed to a website. It is a subscription service but does not take much time to set up or maintain. This would not allow for much customization but it is a ready to go solution that would not necessitate hiring more staff.
 
+[OctoML](https://octoml.ai/pricing/) is a similar type of premade machine learning tool that is ready for usage in your own tool. But it does allow for more customization and model training than Cogniflow. They have premade training models that are appropriate for a lot of common use cases. 
+
+
 ### PrivateAI
 
 [PrivateAI](https://www.private-ai.com/pricing/#privategpt) is an example of an AI tool that meets customized security needs but not really other customizations. This services has security layers that allows you to use other commercial AI platforms with PII and PHI. It is HIPAA compliant and is a pay-by-use service. It also would not take much time to use and would not require additional time to use. Of course, due to the importance of keeping protected data protected, it should be confirmed that PrivateAI is an acceptable use based on any legal agreements.
