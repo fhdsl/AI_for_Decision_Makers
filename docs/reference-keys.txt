@@ -205,10 +205,11 @@ intro-5
 evaluating-accuracy-of-an-ai-model
 evaluating-computational-efficiency-of-an-ai-model
 evaluating-usability-of-an-ai-model
-introduction-to-ai-policy
+introduction-to-developing-an-ai-policy
 motivation-4
 target-audience-4
 curriculum-3
+learning-objectives-8
 why-do-i-need-an-ai-policy
 video-why-do-i-need-an-ai-policy
 elements-of-an-ai-policy
