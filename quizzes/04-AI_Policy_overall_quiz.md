@@ -25,7 +25,6 @@ d) A and B are true
 e) B and C are true
 F) All of the above are true
 
-
 ? What is one concern around the use of copyrighted data to train AI models?
 a) The models may produce biased results
 B) The models may violate intellectual property rights
@@ -44,6 +43,6 @@ a) Is agile and readily adjusted as the landscape of technology changes
 b) Is accompanied by training, education and infrastructure
 c) Has been created by a team of experts weighing in
 d) Discusses how bias and discrimination is being monitored
-E) All of the above should be included with an effective AI policy!x
+E) All of the above should be included with an effective AI policy!
 
 {/quiz}
