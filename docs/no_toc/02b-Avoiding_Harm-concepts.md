@@ -64,6 +64,8 @@ Therefore it is critical that we be considerate of the downstream consequences o
 
 While AI systems are useful, they **do not replace human strengths**. Humans remain far superior at generalizing concepts to new contexts (@sinz_engineering_2019).
 
+AI systems should be thought of as better computers as opposed to replacements for humans.
+
 Computer science is a field that has historically lacked diversity. It is critical that we support diverse new learners of computer science, as we will continue to need human involvement in the development and use of AI tools. This can help to ensure that more diverse perspectives are accounted for in our understanding of how these tools should be used responsibly.
 
 ### Tips for supporting human contributions
@@ -78,7 +80,7 @@ A new term in the medical field called [AI paternalism](https://www.technologyre
 
 ## Inappropriate Use
 
-There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgment by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future.
+There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgment by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future. 
 
 Some reasons why AI may not be appropriate for certain situation include:
 
@@ -87,11 +89,28 @@ Some reasons why AI may not be appropriate for certain situation include:
 - Humans are still better than AI at generalizing what they learn for new contexts.
 - Humans can better understand the consequences of discussions from a humanity standpoint.
 
-Some examples where it may be considered inappropriate for AI systems to be used include:
+Some examples where it may be considered inappropriate for AI systems to be used (even with human involvement) include:
 
 - In the justice system to determine if someone is guilty of a crime or to determine the punishment of someone found guilty of a crime.
 - It may be considered inappropriate for AI systems to be used in certain warfare circumstances.
 
+
+Additionally there are many contexts in which using AI without human intervention could be very problematic including:
+
+- Diagnosis of disease for patients - Delivering this news should likely come from a human. Secondly, the stakes for errors in the AI system could be very high. What if the system works poorly occasionally for certain individuals? What if the system starts behaving strangely? What if a patient with an unusual situation comes in that the AI system can't work well for?
+
+Even for seemingly benign uses, if humans do not intervene, it is possible that negative consequences could occur if the system starts working poorly or unusually.
+
+<div class = example>
+**Real-World Example**
+
+Uber drivers in India experienced issues with the facial recognition technology for logging into the App. This caused many drivers to get locked out of their accounts temporarily or permanently resulting in a reduction in their capacity to work and earn a living (@bansal_ubers_2022).
+
+Read more about this in this [article](https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/).
+
+
+
+</div>
 
 ### Tips for avoiding inappropriate uses
 
@@ -138,10 +157,11 @@ Security and privacy are a major concern for AI usage. Here we discuss a few asp
 
 ### Use the right tool for the job
 
-There are two kinds of commercial AI tools (@nigro_ai_nodate):
+There are three kinds of commercial AI tools (@nigro_ai_nodate):
 
-- those that are designed for public general use
-- those that are designed private use with sensitive data
+- Consumer tools (likely not private/secure)
+- Enterprise tools (can be secure with the right legal agreements in place)
+- Open source tools (depends on where you use them and whether you control the computers they run on)
 
 Public commercial AI tools are often **not designed to protect users from unknowingly submitting prompts that include propriety are private information**. Different AI tools have different practices in terms of how they do or do not collect data about the prompts that people submit. They also have different practices in terms of if they reuse information from prompts to other users. Note that the AI system itself may not be trained on responses for how prompt data is collected or not. So asking the AI system may not give accurate answers.
 
@@ -166,12 +186,12 @@ It is important to follow legal and ethical guidance around the collection of da
 
 ### Tips for reducing security and privacy issues
 
-* Check that no sensitive data, such as Personal Identifiable Information (PII) or propriety information becomes public through prompts to commercial AI systems.
+* Check that no sensitive data, such as Personal Identifiable Information (PII) or propriety information becomes public through prompts to consumer AI systems or systems not designed or set up with the right legal agreements in place for sensitive data.
 * Consider purchasing a license for a private AI system if needed or create your own if you wish to work with sensitive data (seek expert guidance to determine if the AI systems are secure enough).
 * Promote for regulation of AI tools by voting for standards where possible.
-* Ask AI tools for help with security when using commercial tools, but to not rely on them alone. In some cases, commercial AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
+* Ask AI tools for help with security when using consumer tools, but to not rely on them alone. In some cases, consumer AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
 * Consult with an expert about data security if you want to design or use a AI tool that will regularly use private or propriety data.
-* Development of new tools should involve
+
 
 <div class = "query">
 Are there any possible data security or privacy issues associated with the plan you proposed?
