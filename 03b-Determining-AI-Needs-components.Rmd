@@ -228,7 +228,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJ
 One more important point about AI models. Their training and training data is critical. You have likely seen and heard about many biased things that large language models have said. This is because the language they were trained on – the language of human beings in our society – was also very biased.
 
 ```{r, out.width = "100%", echo = FALSE}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a61bc12ef8_0_169")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit#slide=id.g2a8041f95c8_0_89")
 ```
 
 To summarize, for AI models can only be as good as their training. So garbage training data in means biased garbage as output.
