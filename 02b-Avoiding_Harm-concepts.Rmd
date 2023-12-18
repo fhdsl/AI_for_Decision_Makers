@@ -66,6 +66,8 @@ Therefore it is critical that we be considerate of the downstream consequences o
 
 While AI systems are useful, they **do not replace human strengths**. Humans remain far superior at generalizing concepts to new contexts (@sinz_engineering_2019).
 
+AI systems should be thought of as better computers as opposed to replacements for humans.
+
 Computer science is a field that has historically lacked diversity. It is critical that we support diverse new learners of computer science, as we will continue to need human involvement in the development and use of AI tools. This can help to ensure that more diverse perspectives are accounted for in our understanding of how these tools should be used responsibly.
 
 ### Tips for supporting human contributions
