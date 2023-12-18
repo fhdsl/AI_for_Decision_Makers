@@ -15,7 +15,7 @@ d) Data that is better determine how the model might work in other contexts
 a) To avoid overfitting the model to the training data
 b) To more accurately evaluate model performance
 c) To fine-tune the model using a validation set
-d) Both a and b
+D) Both a and b
 
 ? According to the passage, what is the preferable way to partition data for machine learning?
 
