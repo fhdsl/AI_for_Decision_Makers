@@ -526,7 +526,7 @@ div.csl-indent {
 </ul>
 <div id="prompt-engineering" class="section level3" number="33.3.1">
 <h3><span class="header-section-number">33.3.1</span> Prompt engineering</h3>
-<p>Sometimes its not the model who needs training, its the user.
+<p>Sometimes it’s not the model who needs training, it’s the user.
 AI models, just like humans, are not mind readers, and just as we all learned how to google, we also need to learn how to engineer prompts.</p>
 <p><img src="03d-Determining-AI-Needs-knowledge_files/figure-html/1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g2a62349c7d4_0_272.png" width="100%" /></p>
 <p><a href="https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering">Best practices for prompt engineering according to Google</a></p>
@@ -556,7 +556,11 @@ AI models, just like humans, are not mind readers, and just as we all learned ho
 <p>First some context around fine tuning.</p>
 <p>Let’s make a hiring analog. If you needed someone to fulfill a specialized education job, you wouldn’t train a baby who has almost no knowledge as a starting point. This would be unnecessarily time costly and inefficient. Instead, you find a person who has a lot of the training you need and then fine-tune their skills.</p>
 <p><img src="03d-Determining-AI-Needs-knowledge_files/figure-html/1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g1965a5f7f0a_0_44.png" width="100%" /></p>
-<p>That is the strategy of fine tuning. We aren’t going to create a model from scratch, instead we’re going to find one that has the training that <em>most closely</em> overlaps with our needs but we will provide them with additional training for our specific needs.</p>
+<p><img src="03d-Determining-AI-Needs-knowledge_files/figure-html/1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g2a62349c7d4_0_235.png" width="100%" /></p>
+<p>ChatGPT cost ~$100 million to create
+Training models from scratch requires an insane amount of data and computing costs
+It’s almost never where you will want to start.</p>
+<p>So instead we will use the strategy of fine tuning. We aren’t going to create a model from scratch, instead we’re going to find one that has the training that <em>most closely</em> overlaps with our needs but we will provide them with additional training for our specific needs.</p>
 <p>But fine tuning also might cost money, so before we jump to this strategy we need to check one more time whether we’ve surveyed the available models for their fitness of our project’s needs. Are you sure no other model works? if you’ve only tried ChatGPT go try other AI platforms. If an LLM is what you are looking for you can <a href="https://www.nature.com/articles/d41586-023-03023-4">read our paper for a summary</a>.</p>
 <p><img src="03d-Determining-AI-Needs-knowledge_files/figure-html/1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g2a646d7c3d3_0_7.png" width="100%" /></p>
 </div>
