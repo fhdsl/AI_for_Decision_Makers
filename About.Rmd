@@ -15,7 +15,6 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi] [Jeff Leek]|
 |Content Director(s) |[Jeff Leek][Elizabeth Humphries] |
 |Content Consultants | [Robert McDermott]|
-|Acknowledgments| Gave small assistance to content but not to the level of consulting |
 |**Production**||
 |Content Publisher(s)| Helped with publishing platform|
 |Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
@@ -45,7 +44,8 @@ devtools::session_info()
 [Carrie Wright]: https://carriewright11.github.io/
 [Ava Hoffman]: https://www.avahoffman.com/
 [Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b
-
+[Shasta Nicholson]: https://www.linkedin.com/in/shastanicholson
+[Sandy Ombrek]: https://www.linkedin.com/in/sandy-ormbrek-1410b113
 <!-- Links -->
 
 [ottrpal]: https://github.com/jhudsl/ottrpal
