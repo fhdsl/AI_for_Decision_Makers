@@ -55,7 +55,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 
 ### Large Language Model
 
-Large Language Models (LLMs) are a specific type of generative AI model, often built using the transformer architecture, that leverage a huge volume of language data. Examples include models like OpenAI's GPT (Generative Pre-trained Transformer) series. LLMs are trained on extensive text datasets and can generate coherent and contextually relevant text passages. You might be very familiar with LLMs, as they include super popular tools like [ChatGPT](https://chat.openai.com/), [Bard](https://bard.google.com/chat), [Claude Instant](https://poe.com/Claude-instant), and [LLama](https://ai.meta.com/llama/). 
+Large Language Models (LLMs) are a specific type of generative AI model, often built using the transformer architecture, that leverage a huge volume of language data. Examples include models like OpenAI's GPT (Generative Pre-trained Transformer) series. LLMs are trained on extensive text datasets and can generate coherent and contextually relevant text passages. You might be very familiar with LLMs, as they include super popular tools like [ChatGPT](https://chat.openai.com/), [Bard](https://bard.google.com/chat), [Claude Instant](https://poe.com/Claude-instant), and [Llama](https://ai.meta.com/llama/). 
 
 The process of interpreting a user prompt for a GPT model might go as follows:
 
@@ -105,14 +105,27 @@ Natural language processing has been used to summarize the abundance of text inf
 
 ## Strengths and Weaknesses
 
-\begin{table}[]
-\begin{tabular}{lll}
-                 & Strengths & Challenges \\
-Machine Learning &           &            \\
-Neural Networks  &           &            \\
-Deep Learning    &           &           
-\end{tabular}
-\end{table}
+<table class="striped">
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> mpg </th>
+   <th style="text-align:right;"> cyl </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Mazda RX4 </td>
+   <td style="text-align:right;"> 21 </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mazda RX4 Wag </td>
+   <td style="text-align:right;"> 21 </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+</tbody>
+</table>
 
 LLMS : There is not a lot of transparency into how LLMs make predictions, making it difficult to interpret the "why" behind certain outputs [@kasneci2023].
 

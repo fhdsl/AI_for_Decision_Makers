@@ -7,6 +7,7 @@ anonymization
 AnVIL
 auditability
 Autoencoders
+autoencoders
 biometric
 Biometric
 BIPOC
@@ -59,6 +60,7 @@ findable
 FLOPs
 funders
 fyi
+GAN
 GANs
 GDPR
 GDSCN
@@ -68,6 +70,7 @@ GitHub
 GPAI
 gpt
 GPT
+Headshots
 HIPAA
 HuggingFace
 idare
@@ -102,10 +105,12 @@ NHGRI
 NLP
 NPS
 OpenAI
+OpenAI's
 OctoML
 ottrpal
 Pandoc
 Perelman
+photorealistic
 PII
 pixelated
 pre
@@ -122,9 +127,11 @@ Samsung
 scORe
 skillsetes
 skillsets
+StyleGAN
 timeframes
 transformative
 Ubers
+Uber
 UE
 UE5
 under-diagnosed
@@ -133,4 +140,5 @@ useable
 UX
 VAEs
 Variational
+vectorization
 www
