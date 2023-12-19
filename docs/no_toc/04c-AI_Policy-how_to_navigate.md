@@ -1,25 +1,27 @@
 
 # Why do I need an AI policy?
 
-Big technological shifts always trigger a period of explosive growth where the technology and what's possible changes incredibly quickly. We're in that stage right now with AI systems. Each month regularly brings new opportunities and surprises, many of which we can't anticipate and require organizations to adapt quickly. Things are changing in ways both big and small. Some things will get a little better and some things will go wrong. However, adopting this new technology at the right time and in a way that minimizes mistakes and bad outcomes can make great things happen for your organization. It's a bit like catching the tail of a rocket ship that just being launched, but catching it in a way that doesn't like burn you to a crisp.
+Big technological shifts always trigger a period of explosive growth where the technology and what's possible changes incredibly quickly. We're in that stage right now with AI systems. 
 
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
-Thirty or so years ago, we had a similar technological shift with the advent of the Internet. At the time, using the Internet for common, everyday tasks was a big deal, and there was fear about how it would change how we work. Now, we have accepted the Internet as a way of life and it's a normal experience to look things up on Google or shop on the internet. In 30 years, AI systems will be the same.
+Everyone is curious, scared, and interested in AI. Chat GPT accumulated 100 million users in 2 months, which is faster than many other major apps. The future workforce is already regularly using AI and bans will not be practical nor effective. Over 40% of university students use ChatGPT for coursework. Thirty-nine percent of prospective students say they wouldn’t consider going to a college that banned Chat GPT and other LLMs.
 
-Tools like LLMs are increasingly popular, and it is unlikely that your organization will be able to completely ban their use. Instead, an AI policy that balances use of AI tools with safety and security measures is a must for organizations today.
+Each month regularly brings new opportunities and surprises, many of which we can’t anticipate and require organizations to adapt quickly. Things are changing in ways both big and small, making new capabilities feasible while also bringing to light new and unique concerns. However, adopting this new technology at the right time and in a way that minimizes mistakes and bad outcomes can make great things happen for your organization. It’s a bit like catching the tail of a rocket ship just being launched, but catching it in a way that doesn’t burn you to a crisp.
 
-For example, many AIs have a user agreement. Two possible types of user agreements are commercial agreements (which is what individual users generally have) and enterprise agreements (which is what organizations and institutions might have). The terms and conditions of enterprise agreements tend to be more stable over time and can be negotiated to include terms favorable to your organization, like your organization's data not being used as part of the AI's training data. 
+Thirty or so years ago, we had a similar technological shift with the advent of the Internet. At the time, using the Internet for common, everyday tasks was a big deal, and there was fear about how it would change how we work. Now, we have accepted the Internet as a way of life and it’s a normal experience to look things up on Google or shop on the internet. In 30 years, AI systems will be the same.
 
-If an employee uses an AI system as a single consumer, they will generally sign a consumer use agreement. Under a consumer agreement, your employee may have fewer legal protections than they would if they were operating under an enterprise agreement. Consumer agreements can change unexpectedly, which means you could be operating under a whole new set of circumstances month to month. Additionally, consumers do not have the same sort of negotiating power with consumer agreements, which means a single employee is unlikely to have the same sort of data protections that an institution might have. By negotiating an enterprise agreement, your organization has created a system in which employees and their actions are less likely to result in unintentional harm or data misuse.
+Employees will use AI and this will make them more effective. AI policies can balance their use with safety and security measures.
+
+
 
 # VIDEO Why do I need an AI policy?
 
 # Elements of an AI policy
 
-A good AI policy should be a living document that evolves as your company adapts to AI use. It should provide clear guidance and frameworks for developing, deploying, and using AI systems in a responsible and ethical manner. Having a policy in plan can provide an extra level of security for your organization and employees.
+A good AI policy should be a living document that evolves as your company adapts to AI use. As AI tools advance, so should the policy surrounding them. It should provide clear guidance and frameworks for developing, deploying, and using AI systems in a responsible and ethical manner. Having a policy in place that is well communicated can provide an extra level of security for your organization and employees.
 
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
@@ -49,32 +51,32 @@ In general, a policy might have sections devoted to the following topics:
 
 # Building a team to guide your AI use
 
-As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws, regulations, and computational resources is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving landscape should be one of your top priorities as a leader.
+**AI Policy is a teamwork endeavor**. Experts from many different fields need to come together to bring the latest updates. As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws, regulations, and computational resources is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving landscape should be one of your top priorities as a leader.
 
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
-There are multiple possible roles that you could fill, depending on what your organization's AI needs and uses are. Having representation from technical, policy and social science backgrounds helps ensure a multidisciplinary, holistic approach to building and overseeing responsible AI.
+There are multiple possible roles that you could fill, depending on your organization's AI needs and uses. Having representation from technical, policy and social science backgrounds helps ensure a multidisciplinary, holistic approach to building and overseeing responsible AI.
 
 **This list is a starting point for you when deciding what sort of roles you need for your own team and is not written in any particular order.** This is not an exhaustive list of all possible experts that you can gather. You should consult with your legal council, board members, and other oversight staff in order to properly address your own specialized needs.
 
-1. _Legal council_ that understands AI and the nuances of the rapidly changing laws can advise on regulations relevant to your organization. 
+1. _Legal counsel_ that understands AI and the nuances of the rapidly changing laws can advise on regulations relevant to your organization. 
 
 1. _Policy and governance analysts_ can research and draft internal policies on transparency, auditability, harm mitigation, and appropriate AI uses. They can also advise and assist with compliance.
 
-1. _Data protection officers_ who can aid with implementation privacy-by-design principles and handling personally identifiable information legally and securely are especially important for organizations that deal with personal data.
+1. _Data protection officers_ who can aid with implementing privacy-by-design principles and handling personally identifiable information legally and securely are especially important for organizations that deal with personal data.
 
-1. _Ethicists and oversight board members_ are experts who can provide guidance on ethical issues and review systems for potential biases, risks, and policy compliance.
+1. _Ethicists_ are experts who can provide guidance on ethical issues and review systems for potential biases, risks, and policy compliance.
 
 1. _Trainers and educators_ can create and run programs aimed at keeping all employees aware of responsibilities in developing and using AI respectfully and in compliance with AI policies and regulations.
 
-1. _Institutional Review Board members_ are experts who review research studies (both before a study begins and while it is ongoing) involving human participants. Their job is to make sure researchers are protecting the welfare, rights, and privacy of human subjects. Institutional review boards are especially important for organizations involved in any human research that uses AI.
+1. _Oversight committee members_ are experts who review research studies (both before a study begins and while it is ongoing). Their job is to make sure researchers are protecting the welfare, rights, and privacy of research subjects. Oversight committees like institutional review boards are especially important for organizations involved in any human research that uses AI.
 
 1. _Technical experts_ understand how to design, build, and deploy AI models. They can also offer advice on the algorithms, data, and computational infrastructure your organization might need.  They might be AI or machine learning experts, data scientists, DevOps engineers, cloud architects, or systems engineers.
 
 1. _Information security architects_ are vital for identifying and mitigating the security risks associated with AI systems. They can provide advice on data privacy measures, security weak points, and incident response plans.
 
-The specific roles and their required skillsets will vary depending on the size, industry, and AI maturity of the company. However, having a balanced team with both technical and strategic expertise is key to successfully implementing AI policies in your organization. Remember, effective communication and collaboration between these roles is crucial for a successful AI implementation.
+The specific roles and their required skillsets will vary depending on the size, industry, and AI maturity of the company. Having a balanced team with both technical and strategic expertise is key to successfully implementing AI policies in your organization. Remember, effective communication and collaboration between these roles is crucial for a successful AI implementation.
 
 # VIDEO Building a team to guide your AI use
