@@ -1,0 +1,13 @@
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+The health care industry is an example of an industry where the speed of technology development has led to gaps in regulation. The U.S. Food and Drug Administration (FDA) regulates AI-enabled medical devices and software used in disease prevention, diagnosis, and treatment. However, there are serious concerns about how the adequacy of current regulation, and many other AI-enabled technologies that may have clinical applications fall out of the scope of FDA regulation. Other federal agencies, such as the Health and Human Services Office of Civil Rights, have important roles in the oversight of some aspects of AI use in health care, but their authority is limited. Additionally, there are existing federal and state laws and regulations, such as the Health Insurance Portability and Accountability Act (HIPAA), that impact the use and development of AI. This patchwork landscape of federal and state authority and existing laws has led the American Medical Association (AMA) to advocate for a “whole government” approach to implement a comprehensive set of policies to ensure that “the benefits of AI in health care are maximized while potential harms are minimized.”
+
+The AMA and health care leaders have highlighted the importance of specialized expertise in the oversight and adoption of AI products in health care delivery and operations. For example, Dr. Nigam Shah and colleagues call for the medical community to take the lead in defining how LLMs are trained and developed:
+
+>   By not asking how the intended medical use can shape the training of LLMs and the chatbots or other applications they power, technology companies are deciding what is right for medicine.
+
+The medical community should actively shape the development of AI-enabled technologies by advocating for clinically-informed standards for the training of AI, and for the evaluation of the value of AI in real-world health care settings. At an institutional level, specialized clinical expertise is required to create policies that align AI adoption with standards for health care delivery. And in-depth knowledge of U.S. health insurance system is required to understand how complexity and lack of standardization in this landscape may impact AI adoption in clinical operations. In summary, health care leaders and the medical community need to play an active role in the development of new AI regulations and policy.
+
+
