@@ -3,21 +3,21 @@ ottrpal::set_knitr_image_path()
 ```
 # Why do I need an AI policy?
 
-Big technological shifts always trigger a period of explosive growth where the technology and what's possible changes incredibly quickly. We're in that stage right now with AI systems. Everyone is curious, scared, and interested in AI. ChatGPT accumulated 100 million uses in 2 months, which was much faster than many other major apps. The future workforce is using AI and bans will not be effective. Over 40% of university students use ChatGPT for coursework. Thirty-nine percent of prospective students say they wouldn’t consider going to a college that banned ChatGPT and other LLMs.
-
-Each month regularly brings new opportunities and surprises, many of which we can't anticipate and require organizations to adapt quickly. Things are changing in ways both big and small. Some things will get a little better and some things will go wrong. However, adopting this new technology at the right time and in a way that minimizes mistakes and bad outcomes can make great things happen for your organization. It's a bit like catching the tail of a rocket ship that just being launched, but catching it in a way that doesn't like burn you to a crisp.
+Big technological shifts always trigger a period of explosive growth where the technology and what's possible changes incredibly quickly. We're in that stage right now with AI systems. 
 
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>
 
-Thirty or so years ago, we had a similar technological shift with the advent of the Internet. At the time, using the Internet for common, everyday tasks was a big deal, and there was fear about how it would change how we work. Now, we have accepted the Internet as a way of life and it's a normal experience to look things up on Google or shop on the internet. In 30 years, AI systems will be the same.
+Everyone is curious, scared, and interested in AI. Chat GPT accumulated 100 million users in 2 months, which is faster than many other major apps. The future workforce is using AI and bans will not be effective. Over 40% of university students use ChatGPT for coursework. Thirty-nine percent of prospective students say they wouldn’t consider going to a college that banned Chat GPT and other LLMs. 
 
-By negotiating an things like enterprise agreements, your organization has created a system in which employees and their actions are less likely to result in unintentional harm or data misuse. Employees will use AI and this will make them more effective. AI policies can balance their use with safety and security measures.
+Each month regularly brings new opportunities and surprises, many of which we can’t anticipate and require organizations to adapt quickly. Things are changing in ways both big and small. Some things will get a little better and some things will go wrong. However, adopting this new technology at the right time and in a way that minimizes mistakes and bad outcomes can make great things happen for your organization. It’s a bit like catching the tail of a rocket ship just being launched, but catching it in a way that doesn’t burn you to a crisp.
 
-For example, many AIs have a user agreement. Two possible types of user agreements are commercial agreements (which is what individual users generally have) and enterprise agreements (which is what organizations and institutions might have). The terms and conditions of enterprise agreements tend to be more stable over time and can be negotiated to include terms favorable to your organization, like your organization's data not being used as part of the AI's training data. 
+Thirty or so years ago, we had a similar technological shift with the advent of the Internet. At the time, using the Internet for common, everyday tasks was a big deal, and there was fear about how it would change how we work. Now, we have accepted the Internet as a way of life and it’s a normal experience to look things up on Google or shop on the internet. In 30 years, AI systems will be the same.
 
-If an employee uses an AI system as a single consumer, they will generally sign a consumer use agreement. Under a consumer agreement, your employee may have fewer legal protections than they would if they were operating under an enterprise agreement. Consumer agreements can change unexpectedly, which means you could be operating under a whole new set of circumstances month to month. Additionally, consumers do not have the same sort of negotiating power with consumer agreements, which means a single employee is unlikely to have the same sort of data protections that an institution might have. By negotiating an enterprise agreement, your organization has created a system in which employees and their actions are less likely to result in unintentional harm or data misuse.
+Employees will use AI and this will make them more effective. AI policies can balance their use with safety and security measures.
+
+
 
 # VIDEO Why do I need an AI policy?
 
