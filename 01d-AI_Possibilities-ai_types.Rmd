@@ -35,7 +35,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 
 ## Generative AI
 
-Artifical Intelligence exploded in the early 2020s due to advancements in **Generative AI**, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, and more. Let's break down some of the following terms related to generative AI.
+Artificial Intelligence exploded in the early 2020s due to advancements in **Generative AI**, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, and more. Let's break down some of the following terms related to generative AI.
 
 ### Transformer Model
 
