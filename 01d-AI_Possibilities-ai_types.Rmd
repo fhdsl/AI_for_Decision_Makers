@@ -39,13 +39,21 @@ Artificial Intelligence exploded in the early 2020s due to advancements in **Gen
 
 ### Transformer Model
 
-In 2017, Google engineers published a paper describing a type of neural network they called a **transformer model**. This model revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformer models are basically what drives generative AI models today.
+In 2017, Google engineers published a paper, "Attention is all you need", describing a type of neural network they called a **transformer model** [@vaswani2017]. Transformer architecture has revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformer models are a key feature of what drives generative AI models today, and have allowed huge leaps forward in language understanding and image processing [@ay2022efficient]. 
+
+The transformer architecture uses something called **self-attention** to figure out how important different parts of a sentence are when making predictions. This helps the model understand how words relate to each other in a sentence, regardless of their order in the sentence. 
 
 ### Large Language Model
+
+Large input data
 
 ### Variational Autoencoders (VAEs)
 
 ### Generative Adversarial Networks (GANs)
+
+### Diffusion Model
+
+
 
 ## Natural Language Processing
 
