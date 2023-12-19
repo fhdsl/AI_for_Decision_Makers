@@ -11,41 +11,55 @@ We've learned a bit about how AI works. However there are many different types o
 
 ## Machine Learning 
 
-**Machine learning** is broad concept describing how computers learn from looking at lots of examples. Imagine you are learning to tell the difference between apples and oranges. Someone first has to show you examples and say, "This is an apple, and this is an orange." Similarly, machine learning approaches need examples of input data that is "labeled" with the correct output. The goal of machine learning is making useful or accurate predictions. Machine learning includes simpler approaches like regression, and more complicated approaches like deep learning (see below).
+**Machine learning** is broad concept describing how computers learn from looking at lots of examples. Imagine you are learning to tell the difference between apples and oranges. Someone first has to show you examples and say, "This is an apple, and this is an orange." Similarly, machine learning approaches need examples of input data that is "labeled" with the correct output. The goal of machine learning is making useful or accurate predictions. Machine learning includes simpler approaches like regression, and more complicated approaches like deep learning.
 
-## Neural Networks
+Below are a few examples of machine learning methods. 
+
+### Neural Networks
 
 **Neural networks** are a specific class of algorithms within machine learning. Neural networks mimic the way data is transferred between neurons in the brain.
 
 Neural networks organize data into layers, starting with an "input layer" of raw data. Data is then transferred to the next layer, called a "hidden" layer. The hidden layer combines the raw data in many ways to create levels of abstraction. You can think of an image that is very pixelated becoming more clear. Finally, results are produced in an "output layer".
 
-Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. Google uses a neural network to power its search algorithm [@ibm2023].
+Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. [Google](https://about.google/) uses a neural network to power its search algorithm [@ibm2023]. Neural networks also do a pretty good job of recognizing human handwritten digits 
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a694e3cce9_0_0")
 ```
 
-## Deep Learning
+### Deep Learning
 
 **Deep learning** refers to neural networks with multiple intermediate "hidden" layers. A neural network with 2+ hidden layers could be considered a deep learning system [@ibm2023]. The advantage of deep learning is that these approaches cluster data automatically, and can detect abstraction or patterns that we might not know ahead of time. This is especially useful for complicated data, like unstructured text or images.
 
-## Natural Language Processing
-
-**Natural language processing**, or NLP, deals with interpreting text and extracting relevant information and insights. It can also categorize and organize the documents themselves. For example, NLP could help read the contents of documents online and decide whether they are patents or journal articles. These documents could then be indexed in [Google Scholar](https://scholar.google.com/). Many NLP approaches use deep learning [@wikiNLP]
+[Google Translate](https://translate.google.com/) has used deep learning to accurately translate text since 2016 [@Turner2016]. However, generative AI methods started being incorporated in the 2020s [@Gu2023].
 
 ## Generative AI
 
-## Large Language Model
+Artifical Intelligence exploded in the early 2020s due to advancements in **Generative AI**, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, and more. Let's break down some of the following terms related to generative AI.
 
-## Transformer Model
+### Transformer Model
 
 In 2017, Google engineers published a paper describing a type of neural network they called a **transformer model**. This model revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformer models are basically what drives generative AI models today.
 
-## Variational Autoencoders (VAEs)
+### Large Language Model
 
-## Generative Adversarial Networks (GANs)
+### Variational Autoencoders (VAEs)
+
+### Generative Adversarial Networks (GANs)
+
+## Natural Language Processing
+
+**Natural language processing**, or NLP, deals with interpreting text and extracting relevant information and insights. It is a field of study rather than a type of algorithm. Typically, these systems look at huge volumes of text data to understand the relationship among words, parts of words, or sentences.
+
+Natural language processing can also categorize and organize the documents themselves. For example, NLP could help read the contents of documents online and decide whether they are patents or journal articles. These documents could then be indexed in [Google Scholar](https://scholar.google.com/). 
+
+Initially, NLP was accelerated by techniques such as word vectorization [@odsc2023]. In short, this makes it easier for computers to understand that the words "apple" and "orange" (both fruits) are more closely related than "apple" and "planet" (perhaps both round, but that's less important). Many NLP approaches also use deep learning [@wikiNLP]. Increasingly, generative AI is part of natural language processing [@odsc2023] .
+
+Natural language processing has been used to summarize the abundance of text information available in electronic health records. For example, healthcare practitioners showed that detecting evidence and information in records could improve treatment and quality of care for patients with diabetes [@turchin2021]. 
 
 ## Strengths and Weaknesses
+
+
 
 <div class = disclaimer>
 `r config::get("disclaimer")`
