@@ -33,13 +33,17 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 
 [Google Translate](https://translate.google.com/) has used deep learning to accurately translate text since 2016 [@Turner2016]. However, generative AI methods started being incorporated in the 2020s [@Gu2023].
 
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a7d2be0b8f_0_434")
+```
+
 ## Generative AI
 
 Artificial Intelligence exploded in the early 2020s due to advancements in **Generative AI**, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, simulated data, and more. Let's break down some of the following terms related to generative AI.
 
 ### Transformer Models and Architecture
 
-In 2017, Google engineers published a paper, "Attention is all you need", describing a type of neural network they called a **transformer** [@vaswani2017]. Transformer architecture has revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformers are a key feature of what drives generative AI models today, and have allowed huge leaps forward in language understanding and image processing [@ay2022efficient]. 
+In 2017, Google engineers published a paper, "Attention is all you need", describing a type of neural network they called a **transformer** [@vaswani2017]. Transformer architecture has revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformers are a key feature of what drives generative AI models today, and have allowed huge leaps forward in language understanding and image processing [@tay2022efficient]. 
 
 The transformer architecture uses something called **self-attention** to figure out how important different parts of a sentence are when making predictions. This helps the model understand how words relate to each other in a sentence, regardless of their order in the sentence. 
 
@@ -51,7 +55,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 
 ### Large Language Model
 
-Large Language Models (LLMs) are a specific type of generative AI model, often built using the transformer architecture, that leverage a huge volume of language data. Examples include models like OpenAI's GPT (Generative Pre-trained Transformer) series. LLMs are trained on extensive text datasets and can generate coherent and contextually relevant text passages.
+Large Language Models (LLMs) are a specific type of generative AI model, often built using the transformer architecture, that leverage a huge volume of language data. Examples include models like OpenAI's GPT (Generative Pre-trained Transformer) series. LLMs are trained on extensive text datasets and can generate coherent and contextually relevant text passages. You might be very familiar with LLMs, as they include super popular tools like [ChatGPT](https://chat.openai.com/), [Bard](https://bard.google.com/chat), [Claude Instant](https://poe.com/Claude-instant), and [LLama](https://ai.meta.com/llama/). 
 
 The process of interpreting a user prompt for a GPT model might go as follows:
 
@@ -69,13 +73,25 @@ The process of interpreting a user prompt for a GPT model might go as follows:
 ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a7d2be0b8f_0_170")
 ```
 
+### Diffusion Model
+
+Diffusion models are a type of **deep generative model**. They are particularly powerful when it comes to image generation, but can also be used for other generative AI applications, like video generation and molecule design [@yang2023]. The approach behind diffusion models is that they add more and more random noise to images (the "diffusion" process). Noise is then removed to generate the most "likely" novel outputs. The key feature of these models is the denoising process.
+
+A very popular diffusion model is used by [Stable Diffusion](https://stability.ai/) for real-time text-to-image generation.
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a7d2be0b8f_0_339")
+```
+
 ### Variational Autoencoders (VAEs)
+
+Variational autoencoders are a type of **deep generative model**. Variational autoencoders emerged slightly earlier than diffusion models [@kingma2013]. Like diffusion models, they work with data that is noisy and not perfect. Variational autoencoders are trained and generate outputs differently, however. They detect essential features or patterns within inputs and condense them in a more concise and abstract form. This differs from diffusion models, which focus on the process of cleaning up noisy data to make it look like new images, text, etc.
 
 ### Generative Adversarial Networks (GANs)
 
-### Diffusion Model
+Generative adversarial networks are a type of **deep generative model**. While the end goals are similar (new generated content), GANs differ in their training and objective. Generative Adversarial Networks work like two computers competing with each other. The first component, the "generator", creates data, while the second, the "discriminator", determines if the sample is realistic. Imagine two professionals, one artist specializing in artwork forgery, and one a detective specializing in forgery detection. If they are constantly competing, they will both get better at their respective specialty!
 
-
+The website *This Person Does Not Exist* (https://thispersondoesnotexist.com/) creates photorealistic headshots of imaginary people using a GAN called StyleGAN2 [@karras2020].
 
 ## Natural Language Processing
 
@@ -88,6 +104,15 @@ Initially, NLP was accelerated by techniques such as word vectorization [@odsc20
 Natural language processing has been used to summarize the abundance of text information available in electronic health records. For example, healthcare practitioners showed that detecting evidence and information in records could improve treatment and quality of care for patients with diabetes [@turchin2021]. 
 
 ## Strengths and Weaknesses
+
+\begin{table}[]
+\begin{tabular}{lll}
+                 & Strengths & Challenges \\
+Machine Learning &           &            \\
+Neural Networks  &           &            \\
+Deep Learning    &           &           
+\end{tabular}
+\end{table}
 
 LLMS : There is not a lot of transparency into how LLMs make predictions, making it difficult to interpret the "why" behind certain outputs [@kasneci2023].
 
