@@ -50,7 +50,38 @@ Some individual industries have already begun adopting policies about generative
 
 Some countries have also begun creating policies for specific industries and fields. For example, the US recently released an Executive Order about creating [healthcare-specific AI policies](https://www.whitehouse.gov/briefing-room/blog/2023/12/14/delivering-on-the-promise-of-ai-to-improve-health-outcomes/).
 
-### Mississippi AI Institute
+### Education-specific policies
+
+For students and educators, generative AI's capacity in writing, problem solving, and conducting research has upended the goals and evaluations of our education system. For instance, ChatGPT 4 has been able to generate college-level essays to earn passing grades at Harvard with minimal prompting for various subjects (https://www.slowboring.com/p/chatgpt-goes-to-harvard). Many educational institutions reacted with various policies and adaptations, first to protect the current educational environment, then to consider adapting to generative AI's capacity. 
+
+In the first few months after ChatGPT was released, many schools and universities placed red-tape restrictions on the use of AI in education. The two largest public school systems in the country, New York City Public Schools and Los Angeles Public Schools, put a ban on the use of ChatGPT in any school work, claming that any use of ChatGPT counted as plagiarism. (https://www.nytimes.com/2023/08/24/business/schools-chatgpt-chatbot-bans.html) Many universities also followed with similar policies. However, educators soon realized that most students embraced generative AI, ranging from ChatGPT to writing-specific AI assistants,  despite the ban, for most assignments (https://www.chronicle.com/article/im-a-student-you-have-no-idea-how-much-were-using-chatgpt, https://www.washingtonpost.com/opinions/2023/12/12/ai-chatgpt-universities-learning/). Furthermore, enforcement to bar AI from students, such as using AI detection software, or banning AI from school networks, created disparities in stduents. For instance, teachers noticed that AI detection software biased against the writings of non-native English learners (https://www.washingtonpost.com/opinions/2023/12/12/ai-chatgpt-universities-learning), and children from wealthy families can get access to AI outside through personal smartphones or computers (https://www.nytimes.com/2023/08/24/business/schools-chatgpt-chatbot-bans.html). 
+
+With these lessons, some educational systems started to embrace the role of AI in students' lives, and are starting to explore various policies. New York City Public School and Los Angeles Public Schools quietly rolled back their ban, and so did many universities (https://www.nytimes.com/2023/08/24/business/schools-chatgpt-chatbot-bans.html). Groups of educators have come together to give guidelines and resources on how to teach with the use of AI, such as the Mississippi AI Institute (https://mississippi.ai/institute/), MIT's Daily-AI cirriculum (https://raise.mit.edu/daily/), and Gettysburg College's Center for Creative Teaching and Learning (https://genai.sites.gettysburg.edu/). 
+
+Each educational institution and classroom is adapting to AI differently, and the Mississippi AI Institute suggested that there are some common questions to consider(https://blog.mississippi.ai/ai-should-revolutionize-teaching-but-not-in-the-way-you-think):
+
+-   How are we inviting students to demonstrate their knowledge, and is writing the only (or the best) way to do that? 
+    
+    -   For instance, some universities have encouraged the use of in-class assignments, handwritten papers, group work and oral exams (https://www.nytimes.com/2023/01/16/technology/chatgpt-artificial-intelligence-universities.html).
+
+-   What are our (new) assignment goals? And (how) might generative AI help or hinder students in reaching those goals?
+
+    -   Some educators want to use AI to help students get over early brainstorming hurdles, and want students to focus on deeper critical thinking problems (https://www.washingtonpost.com/opinions/2023/12/12/ai-chatgpt-universities-learning).
+
+    -   Many educators have started to develop AI literacy and "critical computing" curriculums to teach students how to use AI effectively and critically (https://www.nytimes.com/2023/02/06/technology/chatgpt-schools-teachers-ai-ethics.html).
+
+-   If we’re asking students to do something that AI can do with equal facility, is it still worth asking students to do? And if so, why? 
+    
+    -   Educators will need to think about what aspects of their lesson goals will be automated in the future, and what are critical and creative skills that students need to hone in on. 
+
+-   If we think students will use AI to circumvent learning, why would they want to do that? How can we create conditions that motivate students to learn for themselves? 
+
+    - Educators have started to teach young students the limits of AI creativity and what kind of bias is embedded in AI models, which has led students to think more critically about use of AI (https://www.nytimes.com/2023/02/06/technology/chatgpt-schools-teachers-ai-ethics.html). 
+
+-   What structural conditions would need to change in order for AI to empower, rather than threaten, teachers and learners? How can we create those conditions? 
+
+    - Some teachers have started to actively learn how their students use AI, and are using AI to assist with writing their teaching curriculum (https://www.nytimes.com/2023/08/24/business/schools-chatgpt-chatbot-bans.html). 
+
 
 ### US Federal Drug Administration
 
