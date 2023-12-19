@@ -21,7 +21,7 @@ Below are a few examples of machine learning methods.
 
 Neural networks organize data into layers, starting with an "input layer" of raw data. Data is then transferred to the next layer, called a "hidden" layer. The hidden layer combines the raw data in many ways to create levels of abstraction. You can think of an image that is very pixelated becoming more clear. Finally, results are produced in an "output layer".
 
-Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. [Google](https://about.google/) uses a neural network to power its search algorithm [@ibm2023]. Neural networks also do a pretty good job of recognizing human handwritten digits 
+Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. [Google](https://about.google/) uses a neural network to power its search algorithm [@ibm2023]. Neural networks also do a pretty good job of recognizing human handwritten digits. 
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a694e3cce9_0_0")
@@ -53,7 +53,7 @@ In 2017, Google engineers published a paper describing a type of neural network 
 
 Natural language processing can also categorize and organize the documents themselves. For example, NLP could help read the contents of documents online and decide whether they are patents or journal articles. These documents could then be indexed in [Google Scholar](https://scholar.google.com/). 
 
-Initially, NLP was accelerated by techniques such as word vectorization [@odsc2023]. In short, this makes it easier for computers to understand that the words "apple" and "orange" (both fruits) are more closely related than "apple" and "planet" (perhaps both round, but that's less important). Many NLP approaches also use deep learning [@wikiNLP]. Increasingly, generative AI is part of natural language processing [@odsc2023] .
+Initially, NLP was accelerated by techniques such as word vectorization [@odsc2023]. In short, this makes it easier for computers to understand that the words "apple" and "orange" (both fruits) are more closely related than "apple" and "planet" (perhaps both round, but that's less important). Many NLP approaches also use deep learning [@wikiNLP]. Increasingly, generative AI is part of natural language processing [@odsc2023].
 
 Natural language processing has been used to summarize the abundance of text information available in electronic health records. For example, healthcare practitioners showed that detecting evidence and information in records could improve treatment and quality of care for patients with diabetes [@turchin2021]. 
 
