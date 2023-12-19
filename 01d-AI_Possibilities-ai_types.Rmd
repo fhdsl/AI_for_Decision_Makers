@@ -35,17 +35,39 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 
 ## Generative AI
 
-Artificial Intelligence exploded in the early 2020s due to advancements in **Generative AI**, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, and more. Let's break down some of the following terms related to generative AI.
+Artificial Intelligence exploded in the early 2020s due to advancements in **Generative AI**, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, simulated data, and more. Let's break down some of the following terms related to generative AI.
 
-### Transformer Model
+### Transformer Models and Architecture
 
-In 2017, Google engineers published a paper, "Attention is all you need", describing a type of neural network they called a **transformer model** [@vaswani2017]. Transformer architecture has revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformer models are a key feature of what drives generative AI models today, and have allowed huge leaps forward in language understanding and image processing [@ay2022efficient]. 
+In 2017, Google engineers published a paper, "Attention is all you need", describing a type of neural network they called a **transformer** [@vaswani2017]. Transformer architecture has revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformers are a key feature of what drives generative AI models today, and have allowed huge leaps forward in language understanding and image processing [@ay2022efficient]. 
 
 The transformer architecture uses something called **self-attention** to figure out how important different parts of a sentence are when making predictions. This helps the model understand how words relate to each other in a sentence, regardless of their order in the sentence. 
 
+Do we say transformer model or transformer architecture? Transformer architecture refers to the overall design, or "transformers" generally speaking. We use the term "transformer model" when dealing with a specific example, such as the GPT (Generative Pre-trained Transformer) model.
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a7d2be0b8f_0_6")
+```
+
 ### Large Language Model
 
-Large input data
+Large Language Models (LLMs) are a specific type of generative AI model, often built using the transformer architecture, that leverage a huge volume of language data. Examples include models like OpenAI's GPT (Generative Pre-trained Transformer) series. LLMs are trained on extensive text datasets and can generate coherent and contextually relevant text passages.
+
+The process of interpreting a user prompt for a GPT model might go as follows:
+
+1. A user provides a prompt, such as "Describe a nice vacation for winter time."
+
+1. The encoder translates words into machine-relevant values such as numerical vectors. It also captures semantic relationships.
+
+1. The transformer weighs different parts of the input for better understanding.
+
+1. The hidden layers of the neural network further decipher complex patterns and representations.
+
+1. Decoders generate the output that the user sees.
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a7d2be0b8f_0_170")
+```
 
 ### Variational Autoencoders (VAEs)
 
@@ -67,7 +89,7 @@ Natural language processing has been used to summarize the abundance of text inf
 
 ## Strengths and Weaknesses
 
-
+LLMS : There is not a lot of transparency into how LLMs make predictions, making it difficult to interpret the "why" behind certain outputs [@kasneci2023].
 
 <div class = disclaimer>
 `r config::get("disclaimer")`
