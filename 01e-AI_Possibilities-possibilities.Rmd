@@ -11,7 +11,7 @@ You can find the Google Slides for this video [here](https://docs.google.com/pre
 
 <!-- What is possible with AI? What’s still fantasy? -->
 
-AI is opening up many possible pathways in many different fields. Let's explore several of the general ways in which AI can be used today.
+Artificial Intelligence is opening up many possible pathways in many different fields. Let's explore several of the general ways in which AI can be used today.
 
 ## Advancements in Text Mining
 
@@ -88,7 +88,7 @@ Let's see some of these in practice. Take for example this email to a colleague 
 <div class = query>
 Can you help me transform this email into a more understanding and constructive one?
 
-Subject: RE: Proposal Revisions (ARE YOU KIDDING ME?!)
+**Subject: RE: Proposal Revisions (ARE YOU KIDDING ME?!)**
 
 Hi Ben,
 
@@ -103,6 +103,25 @@ Sincerely (not really),
 Alex
 </div>
 
+Here is the response:
+
+<div class = ai_response>
+**Subject: Proposal Revisions - Discussion Needed**
+
+Hi Ben,
+
+Thanks for sending over your revisions to the proposal. I appreciate your taking the time to add your perspective.
+
+I do see some areas where our ideas diverge, and I think it would be helpful to discuss them further to ensure we present a unified front to the client. For example, I noticed your revisions to [mention specific section(s)]. While I understand your point about [mention specific reason behind Ben's revision], I was originally thinking of [explain your rationale briefly].
+
+Similarly, there are a few formatting choices in [mention specific sections] that might benefit from further refinement. Perhaps we could brainstorm some ways to improve visual clarity while maintaining consistency with the client's branding guidelines.
+
+Would you be free for a quick chat sometime this afternoon to discuss these points and find a solution that incorporates both our strengths? I believe that collaborating on this will lead to a stronger proposal overall.
+
+Best,
+
+Alex
+</div>
 
 
 # VIDEO What Is Possible
