@@ -140,13 +140,15 @@ This is considered AI. Social media algorithms, like Instagram's, make recommend
 
 The definition of artificial intelligence (AI) has shifted over time. We use the three part framework of data, algorithms, and interfaces to describe AI applications. You will need to consider specific technologies and whether they meet the criteria for being classified as AI using this framework. Adaptability and training with new data are key factors to keep in mind as we move further in the course.
 
-# AI Case Studies
-
-The following are case studies that can help us conceptualize AI in the real world.
-
+<br>
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>
+
+
+# AI Case Studies
+
+The following are case studies that can help us conceptualize AI in the real world.
 
 ## Amazon Recommendations
 
@@ -194,6 +196,7 @@ The US Federal Reserve has researched the idea of using pre-trained large langua
 
 A concern of using pre-trained large language models is that the data sources used for model training are not known, so the financial institution may be using data that is not in line with its policy. Also, a potential risk of using large language models that perform similarly is the convergence of predictions. If large language models make very similar predictions, banks would act similarly and make similar policies, which may lead to financial instability [@omfif2023]. 
 
+<br>
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>

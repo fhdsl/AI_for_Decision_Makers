@@ -175,6 +175,7 @@ In our skin cancer detection example, an AI system required lots of data labeled
 
 Since the early 2020s, generative AI has exploded in popularity, assisted by transformer and diffusion models, among other advancements. These technologies have allowed AI to excel at creating new content, by recognizing deeper context and patterns.
 
+<br>
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>

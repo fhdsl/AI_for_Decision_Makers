@@ -105,22 +105,34 @@ Natural language processing has been used to summarize the abundance of text inf
 
 ## Strengths and Weaknesses
 
+Here is a summary of some strengths and weaknesses of different concepts in AI. These are handy to keep in mind as you are making decisions about what kind of AI to use in your workplace.
+
 <table class="striped">
  <thead>
   <tr>
    <th style="text-align:left;">   </th>
-   <th style="text-align:right;"> mpg </th>
-   <th style="text-align:right;"> cyl </th>
+   <th style="text-align:right;"> Strengths </th>
+   <th style="text-align:right;"> Challenges </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> Mazda RX4 </td>
-   <td style="text-align:right;"> 21 </td>
-   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> Machine Learning </td>
+   <td style="text-align:right;"> 
+      Accurate predictions based on learning from labeled examples <br> 
+      Includes a large variety of approaches, including computationally cheap ones
+   </td>
+   <td style="text-align:right;"> Some approaches require extensive volumes of labeled data </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Mazda RX4 Wag </td>
+   <td style="text-align:left;"> Neural Networks </td>
+   <td style="text-align:right;"> Great for recognizing intricate patterns in data <br>
+   Automatically discover important features in data
+   </td>
+   <td style="text-align:right;"> Require large datasets <br> computationally intensive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Deep Learning </td>
    <td style="text-align:right;"> 21 </td>
    <td style="text-align:right;"> 6 </td>
   </tr>
@@ -129,6 +141,10 @@ Natural language processing has been used to summarize the abundance of text inf
 
 LLMS : There is not a lot of transparency into how LLMs make predictions, making it difficult to interpret the "why" behind certain outputs [@kasneci2023].
 
+## Summary
+
+
+<br>
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>
