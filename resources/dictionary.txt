@@ -1,7 +1,6 @@
 ai
 Ai
 AI
-Alki
 analytics
 anonymize
 anonymization
@@ -23,7 +22,6 @@ chatGPT's
 ChatGPT's
 CIO
 Cogniflow
-Convolutional
 Coursera
 css
 curation
@@ -52,8 +50,6 @@ discriminative
 Dockerfile
 Dockerhub
 dropdown
-Duwamish
-əl
 Embeddings
 Ethicists
 EU's
@@ -75,7 +71,6 @@ GPAI
 gpt
 GPT
 Headshots
-headshots
 HIPAA
 HuggingFace
 idare
@@ -125,19 +120,15 @@ premade
 Premade
 PrivateAI
 programmatically
-README
 regs
 relIabiliTy
 reproducibility
 rollout
 Samsung
 scORe
-siˈætəl
 skillsetes
 skillsets
 StyleGAN
-Suquamish
-th
 timeframes
 transformative
 Ubers
@@ -150,6 +141,5 @@ useable
 UX
 VAEs
 Variational
-variational
 vectorization
 www
