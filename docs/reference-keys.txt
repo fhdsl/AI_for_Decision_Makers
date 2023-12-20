@@ -227,8 +227,8 @@ video-considerations-for-creating-an-ai-policy
 ai-acts-orders-and-policies
 the-eu-ai-act
 industry-specific-policies
-mississippi-ai-institute
-us-federal-drug-administration
+education
+healthcare
 video-ai-acts-orders-and-policies
 other-laws-that-can-apply-to-ai
 intellectual-property
