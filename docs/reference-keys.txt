@@ -24,7 +24,10 @@ examples-of-ai-in-the-real-world
 discussion-is-it-ai
 summary
 ai-case-studies
-amazon-recommendations
+amazons-recommendation-system
+collaborative-filtering
+compressed-representation-and-autoencoders
+active-research
 financial-forecasting
 categorizing-businesses
 incorporating-new-predictors-for-forecasting

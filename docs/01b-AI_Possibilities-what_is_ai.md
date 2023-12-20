@@ -134,13 +134,52 @@ The definition of artificial intelligence (AI) has shifted over time. We use the
 
 The following are case studies that can help us conceptualize AI in the real world.
 
-## Amazon Recommendations
+### Amazon's Recommendation System
 
-Amazon's recommendation engine uses AI algorithms to analyze user behavior and past purchases, providing personalized product recommendations. This enhances the shopping experience, increases customer engagement, and drives sales.
+Amazon's recommendation system uses AI algorithms to analyze user behavior and past purchases, providing personalized product recommendations. This enhances the shopping experience, increases customer engagement, and drives sales. 
 
-TODO: Text here.
+Let’s look at the history of how Amazon’s recommendation algorithm is designed and how it has improved over the years.
 
-## Financial Forecasting
+#### Collaborative Filtering
+
+![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//13U93pHO64Q7X1Sv6uu7WyKyhCeDpMhRi57EROjZD4v4_g2a6aa979cb6_0_1.png){width=100%}
+
+In the early 2000’s, Amazon’s recommendation system was based on a method called “collaborative filtering”. The term comes from the fact that the method tries to predict a customer’s buying habits based on other similar customers in the marketplace. 
+
+Here is how it worked: The history of a customer on all items in the marketplace is stored as a large numerical list. Given a customer’s purchasing history list, the collaborative filtering algorithm looks for similar customers with similar purchasing patterns via a similarity score. The algorithm makes product recommendations based on their these similar customers’ top purchases. This is called customer-based collaborative filtering. 
+
+However, this recommendation process was not particularly efficient: computing the similarity score between all customers was slow, and this had to be done regularly, as customers purchasing habits changed regularly. The system was not very stable. @sarwar2001item
+
+
+![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//13U93pHO64Q7X1Sv6uu7WyKyhCeDpMhRi57EROjZD4v4_g2a6aa979cb6_0_36.png){width=100%}
+
+As the number of Amazon users grew faster than the number of marketplace products, scientists thought about creating more stability by looking at the purchasing history of a product by customers instead. This is called item-based collaborative filtering. Given a customer’s recently purchased items, this new algorithm finds items that have a similar purchasing pattern, and recommend it to the customer. 
+
+A product’s purchasing history by all customers did not change quickly, so computing the similarity between all products did not have to be done regularly. This system was much more stable. @amazon-recommendation-history
+
+#### Compressed representation and Autoencoders
+
+As the number of customers and items grew for Amazon, scientists still scrambled to deal with the scale of the problem. For instance, to compare the similarity of two items, a computer would have to compare a two lists each consisting of millions of customers. Perhaps, each item’s purchasing probability can be described more compactly.
+
+A modern way of finding this compact representation of an item’s purchase history is using a type of neural network called Autoencoders. 
+
+
+![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//13U93pHO64Q7X1Sv6uu7WyKyhCeDpMhRi57EROjZD4v4_g2a6aa979cb6_0_70.png){width=100%}
+
+Autoencoders takes an item’s history, which consists of millions of customers, and tries to map it to a smaller representation. This is called the “encoder” step. To make sure that this representation is accurate, the Autoencoder then maps the representation back to its original, uncompressed state. This is called the “decoder” step. A good Autoencoder must “encode” and “decode” effectively.
+
+Once the Autoencoder is well-built, every item’s purchase history is represented compactly in via the “encoded” step. When it’s time to compare two item’s similarity, the computer only has to deal with two lists with much smaller sizes. This leads to much more efficient computing. @amazon-recommendation-history
+
+#### Active Research
+
+There are still many active areas of research to improve recommendation systems!
+
+For instance, the order of purchase should be considered. A customer is likely to buy a smartphone, then buy a phone case, but not the other way around. Scientists have started to explore modeling items using a network, and using arrows between items to represent the likely purchase order. @amazon-gnn-recommendation
+
+Also, the purchase time between items gives important context for how related they are. Two books purchased five months apart are less relevant than two books purchased within hours apart. Scientists have started to pay close attention to purchase time to improve their recommendation system. @linden2003two
+
+
+### Financial Forecasting
 
 In this case study, we will look at how artificial intelligence has been utilized in governmental financial services. National banks, such as the Federal Reserve of United States and the European Central bank of the European Union, have started to explore how Artificial Intelligence can be used for data mining and economic forecast prediction. 
 
@@ -148,11 +187,9 @@ There are many uses of AI for improving financial institutions, each with potent
 
 For instance, if a financial institution takes a high-risk prediction seriously, such as predicting a financial crisis or a large recession, then it would have huge impact on a bank’s policy and allows the bank to act early. However, many financial institutions are hesitant to take action based on artificial intelligence predictions because the prediction is for a high-risk situation. If the prediction is not accurate then there can be severe consequences. Additionally, data on rare events such as financial crises are not abundant, so researchers worry that there is not enough data to train accurate models [@nelson2023].
 
-Many banks prefer to pilot AI for low-risk, repeated predictions, in which the events are common and there is a lot of data to train the model on.
+Many banks prefer to pilot AI for low-risk, repeated predictions, in which the events are common and there is a lot of data to train the model on. Let’s look at a few examples that illustrate the potential benefits and risks of artificial intelligence for improving financial institutions.
 
-Let’s look at a few examples that illustrate the potential benefits and risks of artificial intelligence for improving financial institutions.
-
-### Categorizing Businesses
+#### Categorizing Businesses
 
 ![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_58.png){width=100%}
 
@@ -160,13 +197,13 @@ An important task in analysis of economic data is to classify business by instit
 
 Text-based analysis and machine learning classifiers, which are all considered AI models, help reduce this manual curation time. An AI model would extract important keywords and classify into an appropriate financial sector, such as “non-profits”, “small business”, or “government”. This would be a low-risk use of AI, as one could easily validate the result to the true financial sector.
 
-### Incorporating new predictors for forecasting
+#### Incorporating new predictors for forecasting
 
 ![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_70.png){width=100%}
 
 Banks are considering expanding upon existing traditional economic models to bring in a wider data sources, such as pulling in social media feeds as an indicator of public sentiment. The National bank of France has started to use social media information to estimate the public perception of inflation. The Malaysian national bank has started to incorporate new articles into its financial model of gross domestic product estimation. However, the use of these new data sources may may raise questions about government oversight of social media and public domain information [@omfif2023]. 
 
-### Using Large Language Models to predict inflation
+#### Using Large Language Models to predict inflation
 
 ![](resources/images/01b-AI_Possibilities-what_is_ai_files/figure-docx//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_14.png){width=100%}
 
