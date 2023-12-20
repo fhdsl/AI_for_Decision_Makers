@@ -39,23 +39,29 @@ Text mining can be used for:
 
 A simplified example of text mining can be seen here with [ChatGPT](https://chat.openai.com/). We will provide some information from the [Wikipedia article for the city of Seattle](https://en.wikipedia.org/wiki/Seattle) and ask the large language model to extract only relevant statistics related to population growth.
 
-> Seattle (/siˈætəl/ ⓘ see-AT-əl) is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2022 population of 749,256[10] it is the most populous city in both the state of Washington and the Pacific Northwest region of North America, and the 18th most populous city in the United States. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States.[11] Its growth rate of 21.1% between 2010 and 2020 made it one of the country's fastest-growing large cities.[12]
+<div class = query>
+Can you extract relevant statistics from this Wikipedia passage related to population growth?
 
-> Seattle is situated on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington. It is the northernmost major city in the United States, located about 100 miles (160 km) south of the Canadian border. A major gateway for trade with East Asia, the Port of Seattle is the fourth-largest port in North America in terms of container handling as of 2021.[13]
+Seattle (/siˈætəl/ ⓘ see-AT-əl) is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2022 population of 749,256[10] it is the most populous city in both the state of Washington and the Pacific Northwest region of North America, and the 18th most populous city in the United States. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States.[11] Its growth rate of 21.1% between 2010 and 2020 made it one of the country's fastest-growing large cities.[12]
 
-> The Seattle area has been inhabited by Native Americans (such as the Duwamish, who had at least 17 villages around Elliot Bay) for at least 4,000 years before the first permanent European settlers.[14] Arthur A. Denny and his group of travelers, subsequently known as the Denny Party, arrived from Illinois via Portland, Oregon, on the schooner Exact at Alki Point on November 13, 1851.[15] The settlement was moved to the eastern shore of Elliott Bay in 1852 and named "Seattle" in honor of Chief Seattle, a prominent 19th-century leader of the local Duwamish and Suquamish tribes. Seattle currently has high populations of Native Americans alongside Americans with strong Asian, African, European, and Scandinavian ancestry, and hosts the fifth-largest LGBT community in the U.S.[16]
+Seattle is situated on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington. It is the northernmost major city in the United States, located about 100 miles (160 km) south of the Canadian border. A major gateway for trade with East Asia, the Port of Seattle is the fourth-largest port in North America in terms of container handling as of 2021.[13]
+
+The Seattle area has been inhabited by Native Americans (such as the Duwamish, who had at least 17 villages around Elliot Bay) for at least 4,000 years before the first permanent European settlers.[14] Arthur A. Denny and his group of travelers, subsequently known as the Denny Party, arrived from Illinois via Portland, Oregon, on the schooner Exact at Alki Point on November 13, 1851.[15] The settlement was moved to the eastern shore of Elliott Bay in 1852 and named "Seattle" in honor of Chief Seattle, a prominent 19th-century leader of the local Duwamish and Suquamish tribes. Seattle currently has high populations of Native Americans alongside Americans with strong Asian, African, European, and Scandinavian ancestry, and hosts the fifth-largest LGBT community in the U.S.[16]
+</div>
 
 Here is the response:
 
-> Certainly! Here are the relevant statistics extracted from the provided passage related to population growth:
+<div class = ai_response>
+Certainly! Here are the relevant statistics extracted from the provided passage related to population growth:
 
-> 1. Population Growth Rate (2010-2020): The growth rate of Seattle between 2010 and 2020 was 21.1%, making it one of the country's fastest-growing large cities.[12]
+1. Population Growth Rate (2010-2020): The growth rate of Seattle between 2010 and 2020 was 21.1%, making it one of the country's fastest-growing large cities.[12]
 
-> 2. Current Population (2022): The population of Seattle in 2022 is reported to be 749,256.[10]
+1. Current Population (2022): The population of Seattle in 2022 is reported to be 749,256.[10]
 
-> 3. Metropolitan Area Population: The population of the Seattle metropolitan area is 4.02 million, making it the 15th-largest in the United States.[11]
+1. Metropolitan Area Population: The population of the Seattle metropolitan area is 4.02 million, making it the 15th-largest in the United States.[11]
 
-> These statistics highlight the significant population growth of Seattle over the specified time period, positioning it as one of the fastest-growing large cities in the United States.
+These statistics highlight the significant population growth of Seattle over the specified time period, positioning it as one of the fastest-growing large cities in the United States.
+</div>
 
 In reality, you might be providing a much larger volume of data or be looking for more nuanced information.
 
