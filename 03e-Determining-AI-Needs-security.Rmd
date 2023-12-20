@@ -1,6 +1,16 @@
+# VIDEO: Customized Security for AI
+
+This video discusses how to address custom security needs for an AI tool.
+
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
+
+You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c/edit).
 
 # Customized Security for AI
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
 
 ## Learning objectives:
 

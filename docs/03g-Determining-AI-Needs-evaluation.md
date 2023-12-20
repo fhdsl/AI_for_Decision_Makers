@@ -1,6 +1,16 @@
+# VIDEO: Evaluating your customized AI tool
+
+This video discusses how to evaluate your customized AI tool.
+
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM/edit). -->
 
 # Evaluating your customized AI tool
 
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
 
 ## Learning objectives:
 
@@ -17,9 +27,11 @@ Evaluating a software tool is critical. This is for multiple reasons that feed i
 1. Evaluating your AI tool will help identify areas for improvement
 2. Evaluating your AI tool will demonstrate value to funders so you can actually make those improvements
 
-It's important to keep the pulse on your project as it is developing. But once you have a stable AI tool, its a good time to gather initial evaluations.
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_0.png){width=100%}
+It's important to keep the pulse on your project as it is developing. Ideally, you should be monitoring your eh I’s performance when it comes to bias ad performance throughout the project. But once you have a stable ah I tool, it is an especially good time to gather more evaluations.
+
+
+![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g1ed70280ce0_0_0.png){width=100%}
 
 As a reminder, generally a good AI tool is accurate in that it gives output that is useful. It is also computationally efficient in that we won’t be able to actually deploy the tool if it is computationally costly or takes too long to run a query.
 

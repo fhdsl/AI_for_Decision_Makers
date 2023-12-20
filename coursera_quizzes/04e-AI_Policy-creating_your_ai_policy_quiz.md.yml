@@ -1,0 +1,39 @@
+
+- typeName: multipleChoice
+  prompt: According to the text, what should an AI policy support system include in addition to the policy itself?
+  shuffleOptions: true
+  options:
+    - answer: Guidelines on best practices only
+      isCorrect: false
+    - answer: Infrastructure to handle AI only
+      isCorrect: false
+    - answer: Training materials only
+      isCorrect: false
+    - answer: Guidelines, infrastructure, and training materials
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Who should be involved in creating a comprehensive AI policy?
+  shuffleOptions: true
+  options:
+    - answer: Chief Data Officer's office only
+      isCorrect: false
+    - answer: IT department only
+      isCorrect: false
+    - answer: Legal department only
+      isCorrect: false
+    - answer: Representatives from legal, IT, compliance, governance, diversity offices, etc.
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: What should training on an AI policy focus on?
+  shuffleOptions: true
+  options:
+    - answer: Explaining every detail of the policy
+      isCorrect: false
+    - answer: Outlining the key points to consider and detailing who they should consult for guidance
+      isCorrect: true
+    - answer: Punishments for non-compliance
+      isCorrect: false
+    - answer: Using scare tactics about AI going wrong
+      isCorrect: false

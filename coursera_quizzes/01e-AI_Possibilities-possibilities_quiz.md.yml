@@ -1,0 +1,13 @@
+
+- typeName: multipleChoice
+  prompt: Here is a sample question?
+  shuffleOptions: true
+  options:
+    - answer: Correct Answer
+      isCorrect: true
+    - answer: Incorrect
+      isCorrect: false
+    - answer: Incorrect
+      isCorrect: false
+    - answer: Incorrect
+      isCorrect: false

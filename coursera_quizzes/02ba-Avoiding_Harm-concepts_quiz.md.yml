@@ -1,0 +1,42 @@
+
+- typeName: multipleChoice
+  prompt: Which of the following best describes the training data?
+
+  shuffleOptions: true
+  options:
+    - answer: Data used to initially train the machine learning model
+      isCorrect: true
+    - answer: Data used to fine-tune and improve the machine learning model
+      isCorrect: false
+    - answer: Data used to evaluate the performance of the machine learning model
+      isCorrect: false
+    - answer: Data that is better determine how the model might work in other contexts
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Why is it important to have independent training and testing datasets?
+
+  shuffleOptions: true
+  options:
+    - answer: To avoid overfitting the model to the training data
+      isCorrect: false
+    - answer: To more accurately evaluate model performance
+      isCorrect: false
+    - answer: To fine-tune the model using a validation set
+      isCorrect: false
+    - answer: Both a and b
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: According to the passage, what is the preferable way to partition data for machine learning?
+
+  shuffleOptions: true
+  options:
+    - answer: Use all data for training only
+      isCorrect: false
+    - answer: Use some data for training and the rest for testing
+      isCorrect: false
+    - answer: Use some data for training, some for validation, and the rest for testing
+      isCorrect: true
+    - answer: There is no preferred way, any partitioning is acceptable
+      isCorrect: false

@@ -34,6 +34,10 @@ We think understanding AI is essential for executives. It helps today's leaders 
 
 1. **Communication with Tech Teams:** Executives and managers benefit from understanding AI event if they aren't building tech, as it helps them effectively communicate with their technical teams. This can mean more effective collaboration and improved alignment between teams or departments.
 
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
 ## Target Audience  
 
 This specialization is intended for executives, decision-makers, and business leaders across industries, including executives in C-suite positions, managers, and directors. Our goal is for these learners to understand the strategic applications of AI and machine learning in driving innovation, improving operations, creating supportive working environments, and gaining an innovative edge. 
@@ -47,3 +51,4 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/13QC5DTLefV5AIUd_
 ## Curriculum  
 
 The course covers...
+

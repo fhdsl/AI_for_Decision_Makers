@@ -235,6 +235,7 @@ jobs:
         run: |
           git remote set-url origin https://${GH_PAT}@github.com/${GITHUB_REPOSITORY}
           git fetch origin
+          git add --force coursera_quizzes/*
           git add --force manuscript/*
           git add --force resources/*
           git add --force docs/*

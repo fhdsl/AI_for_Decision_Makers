@@ -9,35 +9,30 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[FirstName LastName]|
-|Lecturer(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved| Delivered the course in some way - video or audio|
-|Content Author(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved | If any other authors besides lead instructor|
-|Content Contributor(s) (include section name/link in parentheses) - make new line if more than one section involved|  Wrote less than a chapter|
-|Content Editor(s)/Reviewer(s) | Checked your content|
-|Content Director(s) | Helped guide the content direction|
-|Content Consultants (include chapter name/link in parentheses or word "General") - make new line if more than one chapter involved | Gave high level advice on content|
-|Acknowledgments| Gave small assistance to content but not to the level of consulting |
+|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing An AI Policy <br>|
+|Project Management| [Elizabeth Humphries], [Shasta Nicholson]|
+|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html) |
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek]|
+|Content Director(s) |[Jeff Leek] , [Elizabeth Humphries] |
+|Content Consultants | [Robert McDermott], [Jenny Weddle], [Adina Mueller]|
 |**Production**||
-|Content Publisher(s)| Helped with publishing platform|
-|Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
+|Content Publisher(s)| [Shasta Nicholson]|
+|Content Publishing Reviewer(s)| [Ava Hoffman], [Carrie Wright], [Candace Savonen],[Elizabeth Humphries] |
 |**Technical**||
-|Course Publishing Engineer(s)| Helped with the code for the technical aspects related to the specific course generation|
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright], [Ava Hoffman]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
 |Technical Publishing Stylists|[Carrie Wright], [Ava Hoffman], [Candace Savonen]|
-|Package Developers ([ottrpal]) [Candace Savonen], [John Muschelli], [Carrie Wright]|
+|Package Developers ([ottrpal]) | [Candace Savonen], [John Muschelli], [Carrie Wright]|
 |**Art and Design**||
-|Illustrator(s)| Created graphics for the course|
-|Figure Artist(s)| Created figures/plots for course|
-|Videographer(s)| Filmed videos|
-|Videography Editor(s)| Edited film|
-|Audiographer(s)| Recorded audio|
-|Audiography Editor(s)| Edited audio recordings|
+|Illustrator(s)| [Ava Hoffman], [Candace Savonen], [Carrie Wright], [Elizabeth Humphries], [Sitapriya Moorthi]|
+|Figure Artist(s)|[Ava Hoffman] [Candace Savonen], [Carrie Wright], [Elizabeth Humphries], [Sitapriya Moorthi]|
 |**Funding**||
-|Funder(s)| Institution/individual who funded course including grant number|
-|Funding Staff| Staff members who help with funding|
+|Funder(s)| The development of this course was supported by the National Cancer Institute (NCI) under Grant UE5CA254170.|
+|Funding Staff| [Shasta Nicholson], [Maleah O'Conner], [Sandy Ombrek]|
 
 &nbsp;
+
+**Tools used to create this course:**
 
 
 ```
@@ -51,7 +46,7 @@ These credits are based on our [course contributors table guidelines](https://ww
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2023-12-15                  
+##  date     2023-12-20                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version date       lib source                            
@@ -98,15 +93,26 @@ These credits are based on our [course contributors table guidelines](https://ww
 
 <!-- Author information -->
 
-[FirstName LastName]: link to personal website
 [John Muschelli]: https://johnmuschelli.com/
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
 [Ava Hoffman]: https://www.avahoffman.com/
+[Jeff Leek]: https://jtleek.com/
+[Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b
+[Shasta Nicholson]: https://www.linkedin.com/in/shastanicholson
+[Sandy Ombrek]: https://www.linkedin.com/in/sandy-ormbrek-1410b113
+[Elizabeth Humphries]: https://www.linkedin.com/in/elizabeth-humphries-61202a103/
+[Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b/
+[Sitapriya Moorthi]: https://www.linkedin.com/in/sitapriyamoorthi/
+[Jenny Weddle]: https://hutchdatascience.org/ourteam/
+[Robert McDermott]: https://www.linkedin.com/in/robert-mcdermott-a77b9011/
+[Adina Mueller]: https://www.linkedin.com/in/adina-mueller-575aaa/
+[Maleah O'Conner]: https://hutchdatascience.org/ourteam/
 
 <!-- Links -->
 
 [ottrpal]: https://github.com/jhudsl/ottrpal
+[Fred Hutchinson Cancer Center]:https://www.fredhutch.org/
 
 <!-- Fill out this table using these instructions: https://github.com/jhudsl/OTTR_Template/wiki/How-to-give-credits
 
