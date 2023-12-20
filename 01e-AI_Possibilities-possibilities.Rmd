@@ -11,7 +11,7 @@ You can find the Google Slides for this video [here](https://docs.google.com/pre
 
 <!-- What is possible with AI? What’s still fantasy? -->
 
-Artifical Intelligence is opening up many possible pathways in many different fields. Let's explore several of the general ways in which AI can be used today.
+Artificial Intelligence is opening up many possible pathways in many different fields. Let's explore several of the general ways in which AI can be used today.
 
 ## Advancements in Text Mining
 
@@ -44,7 +44,7 @@ A simplified example of text mining can be seen here with [ChatGPT](https://chat
 <div class = query>
 Can you extract relevant statistics from this Wikipedia passage related to population growth?
 
-Seattle (/siˈætəl/ ⓘ see-AT-əl) is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2022 population of 749,256[10] it is the most populous city in both the state of Washington and the Pacific Northwest region of North America, and the 18th most populous city in the United States. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States.[11] Its growth rate of 21.1% between 2010 and 2020 made it one of the country's fastest-growing large cities.[12]
+Seattle is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2022 population of 749,256[10] it is the most populous city in both the state of Washington and the Pacific Northwest region of North America, and the 18th most populous city in the United States. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States.[11] Its growth rate of 21.1% between 2010 and 2020 made it one of the country's fastest-growing large cities.[12]
 
 Seattle is situated on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington. It is the northernmost major city in the United States, located about 100 miles (160 km) south of the Canadian border. A major gateway for trade with East Asia, the Port of Seattle is the fourth-largest port in North America in terms of container handling as of 2021.[13]
 
@@ -145,7 +145,7 @@ Here are some examples of using AI to automate tasks:
 
 1. Generating meeting notes automatically
 
-1. Getting suggestions for ways to de-identify clinical data
+1. Getting suggestions for ways to deidentify clinical data
 
 1. Generating audio from text for a video voiceover
 
