@@ -165,6 +165,12 @@ Here is a summary of some strengths and weaknesses of different concepts in AI. 
 
 ## Summary
 
+Neural Networks and Deep Neural Network Learning are both key components of today’s AI. They function like human brains for advanced pattern recognition. Deep Neural Networks are a critical component of generative AI.
+
+Transformer architecture is central to many of today’s Large Language Models and allows for rapid processing of context in text.
+
+Diffusion models adjust noise to generate new content, such as images.
+
 
 <br>
 <div class = disclaimer>
