@@ -27,7 +27,7 @@
 About-this-Course.md
 VIDEO-Summary-of-This-Course.md
 Introduction.md
-Introduction-to-AI-Possibilities.md
+Introduction-to-Exploring-AI-Possibilities.md
 VIDEO-What-Is-AI.md
 What-Is-Artificial-Intelligence.md
 AI-Case-Studies.md
