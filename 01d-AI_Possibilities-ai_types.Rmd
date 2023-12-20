@@ -119,27 +119,49 @@ Here is a summary of some strengths and weaknesses of different concepts in AI. 
   <tr>
    <td style="text-align:left;"> Machine Learning </td>
    <td style="text-align:right;"> 
-      Accurate predictions based on learning from labeled examples <br> 
-      Includes a large variety of approaches, including computationally cheap ones
+      Makes accurate predictions based on learning from labeled examples; includes a large variety of approaches, including computationally cheap ones
    </td>
-   <td style="text-align:right;"> Some approaches require extensive volumes of labeled data </td>
+   <td style="text-align:right;"> 
+      Extensive volumes of labeled data might be needed
+   </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Neural Networks </td>
-   <td style="text-align:right;"> Great for recognizing intricate patterns in data <br>
-   Automatically discover important features in data
+   <td style="text-align:right;"> 
+      Great for recognizing intricate patterns in data; automatically discovers important features in data
    </td>
-   <td style="text-align:right;"> Require large datasets <br> computationally intensive </td>
+   <td style="text-align:right;"> 
+      Require large datasets; can be computationally intensive   
+   </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Deep Learning </td>
-   <td style="text-align:right;"> 21 </td>
-   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:right;"> 
+      Captures complex representations of data, enhancing performance in tasks like image and speech recognition     </td>
+   <td style="text-align:right;"> 
+      Require large datasets; computationally intensive; difficult for humans to interpret reasoning behind outputs ("black box"), which raises ethical concerns
+   </td>
   </tr>
-</tbody>
+  <tr>
+   <td style="text-align:left;"> Transformer and Large Language Models </td>
+   <td style="text-align:right;"> 
+      Self-attention mechanism enables understanding of context efficiently, pivotal for language understanding and generation
+   </td>
+   <td style="text-align:right;"> 
+      Very computationally intensive; difficult for humans to interpret reasoning behind outputs ("black box") 
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Diffusion Models </td>
+   <td style="text-align:right;"> 
+      Great for image generation due to the denoising score matching approach.
+   </td>
+   <td style="text-align:right;"> 
+      Very computationally intensive; might only work well for a specific task (e.g., image generation)
+   </td>
+  </tr>
+</tbody>  
 </table>
-
-LLMS : There is not a lot of transparency into how LLMs make predictions, making it difficult to interpret the "why" behind certain outputs [@kasneci2023].
 
 ## Summary
 
