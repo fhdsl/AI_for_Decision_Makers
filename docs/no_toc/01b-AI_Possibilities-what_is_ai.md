@@ -3,7 +3,7 @@
 
 # VIDEO What Is AI
 
-TODO: Slides here: https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g2a162964683_1_0
+You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g2a162964683_1_0).
 
 # What Is Artificial Intelligence
 
@@ -28,7 +28,7 @@ For instance, 20 years ago, the idea of an email spam checker was new. People we
 We often look at human intelligence the same way. For example, many years ago, only a few people knew how to use the internet. These people might have been considered extremely talented and intelligent. Now, the massive growth of online resources and social media mean that fluent internet use is almost required!
 
 <div class = "dictionary">
-**Artificial General Intelligence (AGI)**: A type of artificial intelligence that can understand, learn, and apply knowledge across a wide range of tasks, similar to the broad cognitive abilities of a human being. It represents the aspiration for machines to have versatile intelligence rather than focusing on specific, narrow domains. Check out **Types of AI** to learn more.
+**Artificial General Intelligence (AGI)**: A type of artificial intelligence that can understand, learn, and apply knowledge across a wide range of tasks, similar to the broad cognitive abilities of a human being. It represents the aspiration for machines to have versatile intelligence rather than focusing on specific, narrow domains. Check out the following lessons to learn more.
 </div>
 
 ## Our AI Definition
@@ -124,13 +124,15 @@ This is considered AI. Social media algorithms, like Instagram's, make recommend
 
 The definition of artificial intelligence (AI) has shifted over time. We use the three part framework of data, algorithms, and interfaces to describe AI applications. You will need to consider specific technologies and whether they meet the criteria for being classified as AI using this framework. Adaptability and training with new data are key factors to keep in mind as we move further in the course.
 
-# AI Case Studies
-
-The following are case studies that can help us conceptualize AI in the real world.
-
+<br>
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
+
+
+# AI Case Studies
+
+The following are case studies that can help us conceptualize AI in the real world.
 
 ## Amazon Recommendations
 
@@ -172,6 +174,7 @@ The US Federal Reserve has researched the idea of using pre-trained large langua
 
 A concern of using pre-trained large language models is that the data sources used for model training are not known, so the financial institution may be using data that is not in line with its policy. Also, a potential risk of using large language models that perform similarly is the convergence of predictions. If large language models make very similar predictions, banks would act similarly and make similar policies, which may lead to financial instability [@omfif2023]. 
 
+<br>
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
