@@ -1,6 +1,6 @@
 ---
-title: "How AI Works"
-subtitle: "AI Made Easy for Decision Makers"
+title: "AI for Decision Makers"
+subtitle: ""
 date: "`r format(Sys.time(), '%B, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -29,8 +29,8 @@ This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" spec
 * Introduction
 * Course 1: AI Possibilities
 * Course 2: Avoiding AI Harm
-* Course 3: Establishing AI Infrastructure
-* Course 4: AI Policy
+* Course 3: Determining AI Needs
+* Course 4: Developing AI Policy
 
 <div class = disclaimer>
 `r config::get("disclaimer")`
