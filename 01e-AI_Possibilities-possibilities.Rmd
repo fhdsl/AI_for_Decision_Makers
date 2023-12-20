@@ -83,9 +83,26 @@ Here are some examples of using AI to modify or generate text:
 
 1. Summarizing legal documents in a way that is readable to broader audiences with less familiarity with legal jargon
 
-Let's see some of these in practice. Take for example this email to a colleague that is really frustrating you right now.
+Let's see some of these in practice. Take for example this email to a colleague that is really frustrating you right now. You might ask [Bard](https://bard.google.com/) to help you make it more constructive and empathetic.
 
-> 
+<div class = query>
+Can you help me transform this email into a more understanding and constructive one?
+
+Subject: RE: Proposal Revisions (ARE YOU KIDDING ME?!)
+
+Hi Ben,
+
+I just read your revisions to the proposal and frankly, it's an insult to my intelligence and hard work. Did you even bother to skim the original document? Half your changes are nonsensical and the other half seem like you were just trying to sound fancy.
+
+This project is riding on my expertise. If you want your name anywhere near this proposal, you'd better come up with something actually useful, not just reword my sentences. And don't even get me started on the formatting...
+
+I expect a complete rewrite by tomorrow morning, and this time, make sure it's actually worthy of presenting to the client. Don't waste my time or theirs.
+
+Sincerely (not really),
+
+Alex
+</div>
+
 
 
 # VIDEO What Is Possible
