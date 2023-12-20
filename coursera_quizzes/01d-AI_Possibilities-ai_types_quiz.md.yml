@@ -1,13 +1,70 @@
 
 - typeName: multipleChoice
-  prompt: Here is a sample question?
+  prompt: According to the passage, what is the key difference between a neural network and a deep learning system?
+
   shuffleOptions: true
   options:
-    - answer: Correct Answer
+    - answer: Neural networks have only one hidden layer while deep learning systems have two or more hidden layers.
       isCorrect: true
-    - answer: Incorrect
+    - answer: Deep learning systems cluster data automatically while neural networks require manual data clustering.
       isCorrect: false
-    - answer: Incorrect
+    - answer: Neural networks are not a type of algorithm while deep learning is.
       isCorrect: false
-    - answer: Incorrect
+    - answer: There is no difference described.
       isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What type of deep generative model works by adding and then removing random noise from inputs like images?
+
+  shuffleOptions: true
+  options:
+    - answer: variational autoencoders
+      isCorrect: false
+    - answer: generative adversarial networks
+      isCorrect: false
+    - answer: diffusion models
+      isCorrect: true
+    - answer: transformers
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: When was the transformer architecture first introduced?
+
+  shuffleOptions: true
+  options:
+    - answer: 2000
+      isCorrect: false
+    - answer: 2007
+      isCorrect: false
+    - answer: 2017
+      isCorrect: true
+    - answer: 2023
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT listed as a key component of today's AI according to the summary?
+
+  shuffleOptions: true
+  options:
+    - answer: transformer architecture
+      isCorrect: false
+    - answer: diffusion models
+      isCorrect: false
+    - answer: random forests
+      isCorrect: true
+    - answer: deep neural networks
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which best describes Natural Language Processing (NLP)?
+
+  shuffleOptions: true
+  options:
+    - answer: a model
+      isCorrect: false
+    - answer: an architecture
+      isCorrect: false
+    - answer: an interface
+      isCorrect: false
+    - answer: a field of study
+      isCorrect: true
