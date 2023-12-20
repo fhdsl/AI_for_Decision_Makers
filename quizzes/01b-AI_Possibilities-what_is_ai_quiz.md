@@ -3,8 +3,8 @@
 
 ## What is AI Quiz
 
-? What causes algorithms to transition from being considered AI to not being AI over time?
-a) As a public we generally get used to it
+? What causes algorithms to no longer be considered AI over time?
+A) As a public we generally get used to it
 b) They can no longer adapt to new information
 c) These algorithms get worse as time goes on
 d) They focus too narrowly
@@ -15,6 +15,12 @@ a) Predefined computations
 B) Statistical algorithms
 c) Expert curation
 d) Hardware interfaces
+
+? Which is not a part of our AI framework?
+a) Interface
+b) Datasets
+C) Automation
+d) Algorithms
 
 ? Which smartphone capability involves AI models?
 
