@@ -123,6 +123,11 @@ Best,
 Alex
 </div>
 
+We all have our moments of frustration, but AI can help us be better colleagues. By asking Bard to transform this email, we can prevent an uncomfortable and hurtful work situation. 
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2641ae2cc7f_0_181")
+```
 
 # VIDEO What Is Possible
 
