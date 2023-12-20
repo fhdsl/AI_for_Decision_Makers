@@ -31,7 +31,7 @@ b) diffusion models
 C) random forests
 d) deep neural networks
 
-? Which best describes "Natural Language Processing (NLP)?
+? Which best describes Natural Language Processing (NLP)?
 
 a) a model
 b) an architecture
