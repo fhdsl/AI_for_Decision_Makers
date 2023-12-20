@@ -37,6 +37,8 @@ Text mining can be used for:
 
 1. Mining extensive technical or financial documents to identify relevant sections more easily 
 
+### Extracting Population Statistics
+
 A simplified example of text mining can be seen here with [ChatGPT](https://chat.openai.com/). We will provide some information from the [Wikipedia article for the city of Seattle](https://en.wikipedia.org/wiki/Seattle) and ask the large language model to extract only relevant statistics related to population growth.
 
 <div class = query>
@@ -83,7 +85,9 @@ Here are some examples of using AI to modify or generate text:
 
 1. Summarizing legal documents in a way that is readable to broader audiences with less familiarity with legal jargon
 
-Let's see some of these in practice. Take for example this email to a colleague that is really frustrating you right now. You might ask [Bard](https://bard.google.com/) to help you make it more constructive and empathetic.
+### Transforming an Angry Email
+
+Let's see this in practice. Take for example this email to a colleague that is really frustrating you right now. You might ask [Bard](https://bard.google.com/) to help you make it more constructive and empathetic.
 
 <div class = query>
 Can you help me transform this email into a more understanding and constructive one?
@@ -127,6 +131,32 @@ We all have our moments of frustration, but AI can help us be better colleagues.
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2641ae2cc7f_0_181")
+```
+
+## Automating Tedious Processes
+
+Generative AI can help tackle repetitive processes. You can think of it like an automation assistant. It can be especially useful for automating work that requires conversion of content from one form to another, for example text-to-speech, image-to-text, and so on.
+
+### Examples
+
+Here are some examples of using AI to automate tasks:
+
+1. Writing a draft of code annotations to help you annotate code
+
+1. Generating meeting notes automatically
+
+1. Getting suggestions for ways to de-identify clinical data
+
+1. Generating audio from text for a video voiceover
+
+1. Converting physician dictations from a patient visit to text format
+
+### Meeting Note Takers
+
+No one likes to attend a meeting, only to forget what was being discussed. Fortunately, many AI note takers have entered our world recently. The online meeting platform [Zoom](https://www.zoom.com/) has an "AI assistant" that can summarize meetings [@zoom2023]. Companies like [fireflies.ai](https://fireflies.ai/about-us) and [Otter.ai](https://otter.ai/) also offer similar functionality, recording meeting notes, offering summaries, capturing action items, and more.
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2641ae2cc7f_0_255")
 ```
 
 # VIDEO What Is Possible
