@@ -26,7 +26,7 @@ This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" spec
 * Course 1: AI Possibilities
 * Course 2: Avoiding AI Harm
 * Course 3: Determining AI Needs
-* Course 4: Developing an AI Policy
+* Course 4: Developing AI Policy
 
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
