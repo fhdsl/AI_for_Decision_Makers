@@ -25,10 +25,10 @@ rmd_files: ["index.Rmd",
             "03f-Determining-AI-Needs-interface.Rmd",
             "03g-Determining-AI-Needs-evaluation.Rmd",
             "04a-AI_Policy-intro.Rmd",
-            "04b-AI_Policy-how_to_navigate.Rmd",
+            "04c-AI_Policy-how_to_navigate.Rmd",
+             "04e-AI_Policy-creating_your_ai_policy.Rmd",
             "04b-AI_Policy-ai_regs_and_laws.Rmd",
-            "04c-AI_Policy-data_laws.Rmd",
-            "04e-AI_Policy-creating_your_ai_policy.Rmd",
+            "04d-AI_Policy-data_laws.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
