@@ -3,22 +3,159 @@
 
 # VIDEO Real Life Possibilities
 
-What type of AI for specific possibilities - case studies
+You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit?usp=sharing).
 
-# What Is Possible
+# What AI Makes Possible
 
-What is possible with AI? What’s still fantasy?
+<!-- What is possible with AI? What’s still fantasy? -->
 
-<!-- ## Motivation -->
+Artificial Intelligence is opening up many possible pathways in many different fields. It has allowed:
 
+1. Advancements in text mining
 
-<!-- ## Target Audience   -->
+1. More accurate text modification and generation
 
-<!-- The course is intended for ... -->
+1. Automation of tedious tasks
 
-<!-- ## Curriculum   -->
+Let's explore several broad ways in which AI can be used today.
 
-<!-- The course covers... -->
+## Advancements in Text Mining
+
+**Text mining** is the process of extracting meaningful insights, patterns, and knowledge from unstructured textual data. This data could include articles, documents, emails, social media posts, business records, policy records, and more. This data is digested by a computer into a structured format for analysis, allowing for the discovery of hidden patterns, relationships, and / or summary information.
+
+Historically, mining for relevant text had to follow rule-based or statistical methods that required a lot of human oversight. Generative AI has led to many advancements in text mining. Some of these include:
+
+1. **Contextual Understanding**: Generative AI, especially transformer models, has improved contextual understanding in text mining. AI can consider relationships between words in a sentence more effectively using the self-attention mechanisms available as part of transformers. This results in more accurate extraction of context-dependent information.
+
+1. **Text Completion and Generation**: Generative AI allows for the completion of partial or missing text. In text mining, this capability is useful for handling incomplete or noisy data, improving the overall quality of mined information.
+
+1. **Domain-Specific Language Generation**: Generative AI can be fine-tuned for domain-specific language generation. This is particularly beneficial in industries where specialized terminology or jargon is prevalent. By training generative models on domain-specific data, text mining models can better adapt to the nuances of the industry or discipline in general.
+
+![](resources/images/01e-AI_Possibilities-possibilities_files/figure-docx//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_111.png){width=100%}
+
+### Examples
+
+Text mining can be used for:
+
+1. Mining clinical patient notes to identify patients with similar symptoms
+
+1. Mining extensive technical or financial documents to identify relevant sections more easily 
+
+### Extracting Population Statistics
+
+A simplified example of text mining can be seen here with [ChatGPT](https://chat.openai.com/). We will provide some information from the [Wikipedia article for the city of Seattle](https://en.wikipedia.org/wiki/Seattle) and ask the large language model to extract only relevant statistics related to population growth.
+
+<div class = query>
+Can you extract relevant statistics from this Wikipedia passage related to population growth?
+
+Seattle is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2022 population of 749,256[10] it is the most populous city in both the state of Washington and the Pacific Northwest region of North America, and the 18th most populous city in the United States. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States.[11] Its growth rate of 21.1% between 2010 and 2020 made it one of the country's fastest-growing large cities.[12]
+
+Seattle is situated on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington. It is the northernmost major city in the United States, located about 100 miles (160 km) south of the Canadian border. A major gateway for trade with East Asia, the Port of Seattle is the fourth-largest port in North America in terms of container handling as of 2021.[13]
+
+The Seattle area has been inhabited by Native Americans (such as the Duwamish, who had at least 17 villages around Elliot Bay) for at least 4,000 years before the first permanent European settlers.[14] Arthur A. Denny and his group of travelers, subsequently known as the Denny Party, arrived from Illinois via Portland, Oregon, on the schooner Exact at Alki Point on November 13, 1851.[15] The settlement was moved to the eastern shore of Elliott Bay in 1852 and named "Seattle" in honor of Chief Seattle, a prominent 19th-century leader of the local Duwamish and Suquamish tribes. Seattle currently has high populations of Native Americans alongside Americans with strong Asian, African, European, and Scandinavian ancestry, and hosts the fifth-largest LGBT community in the U.S.[16]
+</div>
+
+Here is the response:
+
+<div class = ai_response>
+Certainly! Here are the relevant statistics extracted from the provided passage related to population growth:
+
+1. Population Growth Rate (2010-2020): The growth rate of Seattle between 2010 and 2020 was 21.1%, making it one of the country's fastest-growing large cities.[12]
+
+1. Current Population (2022): The population of Seattle in 2022 is reported to be 749,256.[10]
+
+1. Metropolitan Area Population: The population of the Seattle metropolitan area is 4.02 million, making it the 15th-largest in the United States.[11]
+
+These statistics highlight the significant population growth of Seattle over the specified time period, positioning it as one of the fastest-growing large cities in the United States.
+</div>
+
+In reality, you might be providing a much larger volume of data or be looking for more nuanced information.
+
+![](resources/images/01e-AI_Possibilities-possibilities_files/figure-docx//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_140.png){width=100%}
+
+## Modifying and Generating Text
+
+Generative AI in the form of Large language Models like [ChatGPT](https://chat.openai.com/) and [Claude](https://poe.com/Claude-instant) can be especially useful for modifying and generating text. This could mean changing the tone of a piece of writing, creating summaries based on text data input, or making writing more understandable to different audiences.
+
+### Examples
+
+Here are some examples of using AI to modify or generate text:
+
+1. Altering an email to be more empathetic
+
+1. Summarizing multiple files within a project to make a project summary - For example, a README file across many code scripts for software development
+
+1. Summarizing legal documents in a way that is readable to broader audiences with less familiarity with legal jargon
+
+### Transforming an Angry Email
+
+Let's see this in practice. Take for example this email to a colleague that is really frustrating you right now. You might ask [Bard](https://bard.google.com/) to help you make it more constructive and empathetic.
+
+<div class = query>
+Can you help me transform this email into a more understanding and constructive one?
+
+**Subject: RE: Proposal Revisions (ARE YOU KIDDING ME?!)**
+
+Hi Ben,
+
+I just read your revisions to the proposal and frankly, it's an insult to my intelligence and hard work. Did you even bother to skim the original document? Half your changes are nonsensical and the other half seem like you were just trying to sound fancy.
+
+This project is riding on my expertise. If you want your name anywhere near this proposal, you'd better come up with something actually useful, not just reword my sentences. And don't even get me started on the formatting...
+
+I expect a complete rewrite by tomorrow morning, and this time, make sure it's actually worthy of presenting to the client. Don't waste my time or theirs.
+
+Sincerely (not really),
+
+Alex
+</div>
+
+Here is the response:
+
+<div class = ai_response>
+**Subject: Proposal Revisions - Discussion Needed**
+
+Hi Ben,
+
+Thanks for sending over your revisions to the proposal. I appreciate your taking the time to add your perspective.
+
+I do see some areas where our ideas diverge, and I think it would be helpful to discuss them further to ensure we present a unified front to the client. For example, I noticed your revisions to [mention specific section(s)]. While I understand your point about [mention specific reason behind Ben's revision], I was originally thinking of [explain your rationale briefly].
+
+Similarly, there are a few formatting choices in [mention specific sections] that might benefit from further refinement. Perhaps we could brainstorm some ways to improve visual clarity while maintaining consistency with the client's branding guidelines.
+
+Would you be free for a quick chat sometime this afternoon to discuss these points and find a solution that incorporates both our strengths? I believe that collaborating on this will lead to a stronger proposal overall.
+
+Best,
+
+Alex
+</div>
+
+We all have our moments of frustration, but AI can help us be better colleagues. By asking Bard to transform this email, we can prevent an uncomfortable and hurtful work situation. 
+
+![](resources/images/01e-AI_Possibilities-possibilities_files/figure-docx//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_181.png){width=100%}
+
+## Automating Tedious Processes
+
+Generative AI can help tackle repetitive processes. You can think of it like an automation assistant. It can be especially useful for automating work that requires conversion of content from one form to another, for example text-to-speech, image-to-text, and so on.
+
+### Examples
+
+Here are some examples of using AI to automate tasks:
+
+1. Writing a draft of code annotations to help you annotate code
+
+1. Generating meeting notes automatically
+
+1. Getting suggestions for ways to deidentify clinical data
+
+1. Generating audio from text for a video voiceover
+
+1. Converting physician dictations from a patient visit to text format
+
+### Meeting Note Takers
+
+No one likes to attend a meeting, only to forget what was being discussed. Fortunately, many AI note takers have entered our world recently. The online meeting platform [Zoom](https://www.zoom.com/) has an "AI assistant" that can summarize meetings [@zoom2023]. Companies like [fireflies.ai](https://fireflies.ai/about-us) and [Otter.ai](https://otter.ai/) also offer similar functionality, recording meeting notes, offering summaries, capturing action items, and more.
+
+![](resources/images/01e-AI_Possibilities-possibilities_files/figure-docx//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_255.png){width=100%}
 
 # VIDEO What Is Possible
 

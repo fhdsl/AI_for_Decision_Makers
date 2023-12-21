@@ -57,7 +57,16 @@ natural-language-processing
 strengths-and-weaknesses
 summary-2
 video-real-life-possibilities
-what-is-possible
+what-ai-makes-possible
+advancements-in-text-mining
+examples
+extracting-population-statistics
+modifying-and-generating-text
+examples-1
+transforming-an-angry-email
+automating-tedious-processes
+examples-2
+meeting-note-takers
 video-what-is-possible
 video-what-is-not-possible
 ground-rules-for-ai
