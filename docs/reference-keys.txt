@@ -226,7 +226,7 @@ video-why-do-i-need-an-ai-policy
 elements-of-an-ai-policy
 video-elements-of-an-ai-policy
 building-an-ai-advisory-team
-video-building-a-team-to-guide-your-ai-use
+video-building-an-ai-advisory-team
 considerations-for-creating-an-ai-policy
 an-ai-policy-alone-is-not-enough
 get-lots-of-voices-weighing-in-from-the-beginning
