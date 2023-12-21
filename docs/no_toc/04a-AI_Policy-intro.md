@@ -3,7 +3,7 @@
 
 
 
-# Introduction
+# Introduction to Developing AI Policy
 
 This course is intended to equip you with the knowledge you need to develop an effective AI policy for your organization.
 
