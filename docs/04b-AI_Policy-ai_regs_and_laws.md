@@ -4,6 +4,8 @@
 
 A good AI policy should guide an organization on AI uses that adhere to the necessary laws and regulations. With generative AI still new in many fields, from medicine to law, regulations are rapidly evolving. A landmark provisional deal on AI regulation was reached by the European Parliament and Council on December 8, 2023, with the [EU AI Act](https://artificialintelligenceact.eu/documents/)). These guidelines laid out in this document apply to AI regulation and use within the 27-member EU bloc, as well as to foreign companies that operate within the EU. It is likely the EU AI Act will serve as a model for AI laws around the globe, for both individual countries and industries.
 
+![](resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-docx//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g1965a5f7f0a_0_44.png){width=100%}
+
 Countries outside of the EU are drafting their own laws, orders, and standards surrounding AI use, so you and your employees will need to do some research on what it and is not allowed in your local area. **Always consult your legal council about the AI regulations that apply to you.**
 
 <div class = disclaimer>
@@ -13,6 +15,8 @@ Countries outside of the EU are drafting their own laws, orders, and standards s
 ## The EU AI Act
 
 According to EU policymakers involved in writing the AI Act, the goal of the Act is to regulate AI in order to limit its capacity to cause harm. The political agreement covers the use of AI in biometric surveillance (such as facial recognition), as well as guidance on regulations for LLMs. The EU AI Act divides AI-based products into levels based on how much risk each product might pose to things like data privacy and protection. Higher-risk products with a greater capacity to cause harm face more stringent rules and regulations. Most current AI uses (like systems that make recommendations) will not fall into this higher-risk category.
+
+![](resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-docx//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_gcf1264c749_0_135.png){width=100%}
 
 Final details are still being worked out, but we do know several important aspects of this Act.
 
@@ -46,7 +50,12 @@ More information about the EU's AI Act can be found in these sources.
 
 Some individual industries have already begun adopting policies about generative AI. They may also have long-standing policies in place about the use of other forms of AI, like machine learning. Some countries have also begun creating policies for specific industries and fields. When in doubt, always check with the experts within your organization about what AI policies exist for your industry.
 
-### Education
+![](resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-docx//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g2a84ae71e54_0_67.png){width=100%}
+# Case Studies
+
+AI regulations and policies are continuing to evolve as people adapt to the use of AI. Let's look at some real-life examples.
+
+## Education
 
 For students and educators, generative AI's capacity in writing, problem solving, and conducting research has upended the goals and evaluations of our education system. For instance, ChatGPT 4 has been able to generate college-level essays to earn passing grades at Harvard with minimal prompting for various subjects @slowboring. Many educational institutions reacted with various policies and adaptations; first to protect the current educational environment, then to consider adapting to generative AI's capacity. 
 
@@ -68,7 +77,7 @@ Each educational institution and classroom is adapting to AI differently. The Mi
 -   _What structural conditions would need to change in order for AI to empower, rather than threaten, teachers and learners? How can we create those conditions?_  Some teachers have started to actively learn how their students use AI, and are using AI to assist with writing their teaching curriculum @nytimes-technology1.
 
 
-### Healthcare
+## Healthcare
 
 The health care industry is an example of an industry where the speed of technology development has led to gaps in regulation, and the US recently released an Executive Order about creating [healthcare-specific AI policies](https://www.whitehouse.gov/briefing-room/blog/2023/12/14/delivering-on-the-promise-of-ai-to-improve-health-outcomes/). 
 The U.S. Food and Drug Administration (FDA) regulates AI-enabled medical devices and software used in disease prevention, diagnosis, and treatment. However, there are serious concerns about the adequacy of current regulation, and many other AI-enabled technologies that may have clinical applications fall out of the scope of FDA regulation. Other federal agencies, such as the Health and Human Services Office of Civil Rights, have important roles in the oversight of some aspects of AI use in health care, but their authority is limited. Additionally, there are existing federal and state laws and regulations, such as the Health Insurance Portability and Accountability Act (HIPAA), that impact the use and development of AI. This patchwork landscape of federal and state authority and existing laws has led the American Medical Association (AMA) to advocate for a “whole government” approach to implement a comprehensive set of policies to ensure that “the benefits of AI in health care are maximized while potential harms are minimized.”
