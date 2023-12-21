@@ -11,8 +11,8 @@ These credits are based on our [course contributors table guidelines](https://ww
 |**Pedagogy**||
 |Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing AI Policy <br>|
 |Project Management| [Elizabeth Humphries], [Shasta Nicholson]|
-|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html), [Developing AI Policy - Education case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#education) <br> [Monica Gerber] - [[Developing AI Policy - Healthcare case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#healthcare) |
-|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek], [Amy Paguirigan], [Jennifer Weddle], [Christopher Lo]|
+|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html), [Developing AI Policy - Education case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#education) <br> [Monica Gerber] - [Developing AI Policy - Healthcare case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#healthcare) |
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek], [Amy Paguirigan], [Jenny Weddle], [Christopher Lo]|
 |Content Director(s) |[Jeff Leek] , [Elizabeth Humphries] |
 |Content Consultants | [Robert McDermott], [Jenny Weddle], [Adina Mueller]|
 |**Production**||
