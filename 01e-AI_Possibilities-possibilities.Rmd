@@ -83,6 +83,10 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4Er
 
 Generative AI in the form of Large language Models like [ChatGPT](https://chat.openai.com/) and [Claude](https://poe.com/Claude-instant) can be especially useful for modifying and generating text. This could mean changing the tone of a piece of writing, creating summaries based on text data input, or making writing more understandable to different audiences.
 
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2a0731d95f1_0_44")
+```
+
 ### Examples
 
 Here are some examples of using AI to modify or generate text:
@@ -145,6 +149,10 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4Er
 
 Generative AI can help tackle repetitive processes. You can think of it like an automation assistant. It can be especially useful for automating work that requires conversion of content from one form to another, for example text-to-speech, image-to-text, and so on.
 
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2641ae2cc7f_0_209")
+```
+
 ### Examples
 
 Here are some examples of using AI to automate tasks:
@@ -165,6 +173,24 @@ No one likes to attend a meeting, only to forget what was being discussed. Fortu
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2641ae2cc7f_0_255")
+```
+
+## Idea Generation
+
+Generative AI can provide templates or scaffolds. In other words, AI can get the creative juices flowing and make it easier to start new content. AI can also help synthesize data to suggest possible new relationships.
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2641ae2cc7f_0_255")
+```
+
+### Diabetes Gene Hypotheses
+
+The Diabetes Data and Hypothesis Hub (D2H2, https://d2h2.maayanlab.cloud/) was created to make it easier for biomedical researchers to access and use data related to diabetes [@marino2023]. The Hub incorporated a GPT-style chatbot that allows users to ask questions in plain terms about their data analysis needs.
+
+D2H2 also has the ability to generate hypotheses. It randomly selects gene sets related to existing gene activation signatures and compares them with gene sets found in published articles. The AI provides ideas about possible explanations for the similarities between these gene sets.
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2a8ebbd3748_0_28")
 ```
 
 # VIDEO What Is Possible
