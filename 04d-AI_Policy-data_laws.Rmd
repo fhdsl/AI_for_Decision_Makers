@@ -3,7 +3,7 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# Other Laws That Can Apply to AI
+# Other laws to consider
 
 While countries and jurisdictions are developing ans passing laws that specifically deal with AI, there are also existing laws around data that should be considered when creating an AI policy. Which ones you should consider will vary based on your organization and sector, but broadly include regulations about intellectual property, data privacy and protection, and liability.
 
