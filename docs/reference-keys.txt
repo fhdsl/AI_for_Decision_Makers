@@ -216,7 +216,7 @@ why-do-i-need-an-ai-policy
 video-why-do-i-need-an-ai-policy
 elements-of-an-ai-policy
 video-elements-of-an-ai-policy
-building-a-team-to-guide-your-ai-use
+building-an-ai-advisory-team
 video-building-a-team-to-guide-your-ai-use
 considerations-for-creating-an-ai-policy
 an-ai-policy-alone-is-not-enough
@@ -230,7 +230,7 @@ industry-specific-policies
 education
 healthcare
 video-ai-acts-orders-and-policies
-other-laws-that-can-apply-to-ai
+other-laws-to-consider
 intellectual-property
 data-privacy-and-information-security
 liability
