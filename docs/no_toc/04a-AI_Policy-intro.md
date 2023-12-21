@@ -1,9 +1,9 @@
 
-# (PART\*) Developing an AI Policy {-}
+# (PART\*) Developing AI Policy {-}
 
 
 
-# Introduction to Developing an AI Policy
+# Introduction
 
 This course is intended to equip you with the knowledge you need to develop an effective AI policy for your organization.
 
