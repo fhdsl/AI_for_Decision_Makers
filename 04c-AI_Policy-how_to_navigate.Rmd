@@ -51,7 +51,7 @@ In general, a policy might have sections devoted to the following topics:
 
 # VIDEO Elements of an AI policy
 
-# Building a team to guide your AI use
+# Building an AI advisory team
 
 **AI Policy is a teamwork endeavor**. Experts from many different fields need to come together to bring the latest updates. As someone in charge of making sure your organization is using AI wisely and properly, staying up-to-date on the laws, regulations, and computational resources is vital. It's also something that is really difficult to do alone. Building a team of individuals that can help you confidently navigate the evolving landscape should be one of your top priorities as a leader.
 
