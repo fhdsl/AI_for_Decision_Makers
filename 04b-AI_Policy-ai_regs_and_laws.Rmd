@@ -2,7 +2,7 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# AI acts, orders, and policies
+# AI acts, orders, and regulations
 
 A good AI policy should guide an organization on AI uses that adhere to the necessary laws and regulations. With generative AI still new in many fields, from medicine to law, regulations are rapidly evolving. A landmark provisional deal on AI regulation was reached by the European Parliament and Council on December 8, 2023, with the [EU AI Act](https://artificialintelligenceact.eu/documents/)). These guidelines laid out in this document apply to AI regulation and use within the 27-member EU bloc, as well as to foreign companies that operate within the EU. It is likely the EU AI Act will serve as a model for AI laws around the globe, for both individual countries and industries.
 
