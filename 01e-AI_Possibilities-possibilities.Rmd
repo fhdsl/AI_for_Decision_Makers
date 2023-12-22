@@ -315,6 +315,7 @@ Here is the response:
 Here is a toy time series dataset tracking individuals, time points, and coffee consumption:
 
 ```{r echo = FALSE}
+isntall.package("kableExtra")
 library(kableExtra)
 data.frame(
   ID = c(rep(1:3, each = 3)),
