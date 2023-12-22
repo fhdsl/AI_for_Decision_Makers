@@ -3,7 +3,7 @@
 
 Big technological shifts always trigger a period of explosive growth where the technology and what's possible changes incredibly quickly. We're in that stage right now with AI systems. Everyone is curious, scared, and interested in AI. Chat GPT accumulated 100 million users in 2 months, which is faster than many other major apps. 
 
-![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1LWHYGtstIn8gTzGBJpffycHbh2DDrogmYregm_MGZD8_g2a847b11aec_3_2.png){width=100%}
+<img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1LWHYGtstIn8gTzGBJpffycHbh2DDrogmYregm_MGZD8_g2a847b11aec_3_2.png" width="100%" />
 
 The future workforce is already regularly using AI and bans will not be practical nor effective. Over 40% of university students use ChatGPT for coursework. Thirty-nine percent of prospective students say they wouldn’t consider going to a college that banned Chat GPT and other LLMs.
 
@@ -15,11 +15,11 @@ The future workforce is already regularly using AI and bans will not be practica
 
 Each month regularly brings new opportunities and surprises, many of which we can’t anticipate and require organizations to adapt quickly. Everyone is using AI, but no one really knows how to use it properly. The rapid changes are making new capabilities feasible while also bringing to light new and unique concerns. However, adopting this new technology at the right time and in a way that minimizes mistakes and bad outcomes can make great things happen for your organization. It’s a bit like catching the tail of a rocket ship just being launched, but catching it in a way that doesn’t burn you to a crisp.
 
-![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1LWHYGtstIn8gTzGBJpffycHbh2DDrogmYregm_MGZD8_g2642a7f2d76_1_30.png){width=100%}
+<img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1LWHYGtstIn8gTzGBJpffycHbh2DDrogmYregm_MGZD8_g2642a7f2d76_1_30.png" width="100%" />
 
 New technology adoption is scary, and while caution is advisable, all-out bans are not practical. Thirty or so years ago, we had a similar technological shift with the advent of the Internet. At the time, using the Internet for common, everyday tasks was a big deal, and there was fear about how it would change how we work. Now, we have accepted the Internet as a way of life and it’s a normal experience to look things up on Google or shop on the internet. In 30 years, AI systems will be the same.
 
-![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1LWHYGtstIn8gTzGBJpffycHbh2DDrogmYregm_MGZD8_gcf1264c749_0_135.png){width=100%}
+<img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1LWHYGtstIn8gTzGBJpffycHbh2DDrogmYregm_MGZD8_gcf1264c749_0_135.png" width="100%" />
 
 
 
@@ -31,7 +31,7 @@ Employees will use AI and this will make them more effective. Thoughtful AI poli
 
 A good AI policy should be a living document that evolves as your company adapts to AI use.
 
-![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1C7TykleNSbPkaiJBJeCbxYte5sWWZ8J3uixt9RMyiWg_g2a0db34665a_0_6.png){width=100%}
+<img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1C7TykleNSbPkaiJBJeCbxYte5sWWZ8J3uixt9RMyiWg_g2a0db34665a_0_6.png" width="100%" />
 
 As AI tools advance, so should the policy surrounding them. It should provide clear guidance and frameworks for developing, deploying, and using AI systems in a responsible and ethical manner. Having a policy in place that is well communicated can provide an extra level of security for your organization and employees.
 
@@ -43,7 +43,7 @@ When writing an AI policy, you might consider whether asynchronous collaboration
 
 In general, a policy might have sections devoted to the following topics:
 
-![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1C7TykleNSbPkaiJBJeCbxYte5sWWZ8J3uixt9RMyiWg_gcf1264c749_0_135.png){width=100%}
+<img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1C7TykleNSbPkaiJBJeCbxYte5sWWZ8J3uixt9RMyiWg_gcf1264c749_0_135.png" width="100%" />
 
 1. _Purpose and Scope_. In this section, you might define what your organization's goals and plans for AI use, as well as what types of AI systems the policy will cover. This section might also contain definitions of specific terms, like what your organization considers AI or generative AI. A purpose and scope section can ensure everyone is aligned and avoid ambiguity.
 
@@ -75,7 +75,7 @@ There are multiple possible roles that you could fill, depending on your organiz
 
 **This list is a starting point for you when deciding what sort of roles you need for your own team and is not written in any particular order.** This is not an exhaustive list of all possible experts that you can gather. You should consult with your legal council, board members, and other oversight staff in order to properly address your own specialized needs.
 
-![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1H3ppNjSW6OU25Z44MZWMtl1R_MH8BT-roJxiiH5Rlyk_g2a83edd52b2_0_160.png){width=100%}
+<img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1H3ppNjSW6OU25Z44MZWMtl1R_MH8BT-roJxiiH5Rlyk_g2a83edd52b2_0_160.png" width="100%" />
 
 1. _Legal counsel_ that understands AI and the nuances of the rapidly changing laws can advise on regulations relevant to your organization. 
 
@@ -95,6 +95,6 @@ There are multiple possible roles that you could fill, depending on your organiz
 
 The specific roles and their required skillsets will vary depending on the size, industry, and AI maturity of the company. Having a balanced team with both technical and strategic expertise is key to successfully implementing AI policies in your organization. Remember, effective communication and collaboration between these roles is crucial for a successful AI implementation.
 
-![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1H3ppNjSW6OU25Z44MZWMtl1R_MH8BT-roJxiiH5Rlyk_g2a83edd52b2_0_214.png){width=100%}
+<img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1H3ppNjSW6OU25Z44MZWMtl1R_MH8BT-roJxiiH5Rlyk_g2a83edd52b2_0_214.png" width="100%" />
 
 # VIDEO Building an AI advisory team
