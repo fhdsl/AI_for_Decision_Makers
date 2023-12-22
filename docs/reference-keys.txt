@@ -77,14 +77,14 @@ target-audience-2
 curriculum-2
 learning-objectives-1
 societal-impact
-ethics-codes
+guidelines-for-responsible-development-and-use-of-ai.
 major-ethical-considerations
 intentional-and-inadvertent-harm
 tips-for-avoiding-inadvertent-harm
 replacing-humans-and-human-autonomy
 tips-for-supporting-human-contributions
-inappropriate-use
-tips-for-avoiding-inappropriate-uses
+inappropriate-use-and-lack-of-oversight
+tips-for-avoiding-inappropriate-uses-and-lack-of-oversight
 bias-perpetuation-and-disparities
 tips-for-avoiding-bias
 security-and-privacy-issues
