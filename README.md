@@ -8,7 +8,15 @@ If you would like to contribute to this course material, take a look at the [OTT
 
 ## About this course
 
-This course introduces learners to the basics of what AI is, what it can and cannot do, how AI and transformer models work, and what are some ground rules for using AI successfully. This is the first course in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
+This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" specialization on Coursera.
+
+## Specialization Sections 
+
+* Introduction
+* Course 1: AI Possibilities
+* Course 2: Avoiding AI Harm
+* Course 3: Determining AI Needs
+* Course 4: Developing an AI Policy
 
 ## Encountering problems?
 

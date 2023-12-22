@@ -1,24 +1,24 @@
 
-# (PART\*) AI Possibilities {-}
+# (PART\*) Exploring AI Possibilities {-}
 
 
 
-# Introduction to AI Possibilities
+# Introduction to Exploring AI Possibilities
 
 ## Introduction
 
 This course aims to help decision makers and leaders understand artificial intelligence (AI) at a strategic level. Not everyone will write an AI algorithm, and that is okay! Our rapidly evolving AI landscape means that we need executives and managers who know the essential information to make informed decisions and use AI for good. This course specifically focuses on the essentials of what AI is and what it makes possible, to better harmonize expectations and reality in the workplace.
 
 
-### Motivation
+## Motivation
 
 This course will help you with your understanding of AI, helping you make strategic decision and cultivate a business environment that embraces the benefits of AI, while understanding its limitations and risks.
 
-### Target Audience
+## Target Audience
 
 This course is targeted toward industry and non-profit leaders and decision makers.
 
-### Curriculum Summary
+## Curriculum
 
 In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, learn about different types of AI, and set some ground rules for minimizing the harms and maximizing the benefits of AI.
 
@@ -31,7 +31,7 @@ This course will cover:
 - What is possible with AI
 - Ground rules for using AI for good
 
-### Learning Objectives
+## Learning Objectives
 
 We will learn how to:
 
@@ -41,6 +41,7 @@ We will learn how to:
 - Detail ground rules for using AI ethically
 - Identify possibilities for using AI while understanding its limitations
 
+<br>
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>

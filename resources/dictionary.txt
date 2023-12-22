@@ -1,12 +1,14 @@
 ai
 Ai
 AI
+Alki
 analytics
 anonymize
 anonymization
 AnVIL
 auditability
 Autoencoders
+autoencoders
 biometric
 Biometric
 BIPOC
@@ -21,6 +23,7 @@ chatGPT's
 ChatGPT's
 CIO
 Cogniflow
+Convolutional
 Coursera
 css
 curation
@@ -49,6 +52,7 @@ discriminative
 Dockerfile
 Dockerhub
 dropdown
+Duwamish
 Embeddings
 Ethicists
 EU's
@@ -59,6 +63,7 @@ findable
 FLOPs
 funders
 fyi
+GAN
 GANs
 GDPR
 GDSCN
@@ -68,6 +73,8 @@ GitHub
 GPAI
 gpt
 GPT
+Headshots
+headshots
 HIPAA
 HuggingFace
 idare
@@ -99,13 +106,16 @@ MOdel
 MonsterAPI
 NCI
 NHGRI
+Nigam
 NLP
 NPS
 OpenAI
+OpenAI's
 OctoML
 ottrpal
 Pandoc
 Perelman
+photorealistic
 PII
 pixelated
 pre
@@ -114,6 +124,7 @@ premade
 Premade
 PrivateAI
 programmatically
+README
 regs
 relIabiliTy
 reproducibility
@@ -122,9 +133,13 @@ Samsung
 scORe
 skillsetes
 skillsets
+StyleGAN
+Suquamish
+th
 timeframes
 transformative
 Ubers
+Uber
 UE
 UE5
 under-diagnosed
@@ -133,4 +148,7 @@ useable
 UX
 VAEs
 Variational
+variational
+vectorization
+voiceover
 www

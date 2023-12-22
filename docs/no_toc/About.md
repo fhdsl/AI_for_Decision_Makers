@@ -9,10 +9,10 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing An AI Policy <br>|
+|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing AI Policy <br>|
 |Project Management| [Elizabeth Humphries], [Shasta Nicholson]|
-|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html) |
-|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek]|
+|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html), [Developing AI Policy - Education case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#education) <br> [Monica Gerber] - [Developing AI Policy - Healthcare case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#healthcare) |
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek], [Amy Paguirigan], [Jenny Weddle], [Christopher Lo]|
 |Content Director(s) |[Jeff Leek] , [Elizabeth Humphries] |
 |Content Consultants | [Robert McDermott], [Jenny Weddle], [Adina Mueller]|
 |**Production**||
@@ -46,7 +46,7 @@ These credits are based on our [course contributors table guidelines](https://ww
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2023-12-19                  
+##  date     2023-12-22                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version date       lib source                            
@@ -122,6 +122,8 @@ These credits are based on our [course contributors table guidelines](https://ww
 [Robert McDermott]: https://www.linkedin.com/in/robert-mcdermott-a77b9011/
 [Adina Mueller]: https://www.linkedin.com/in/adina-mueller-575aaa/
 [Maleah O'Conner]: https://hutchdatascience.org/ourteam/
+[Monica Gerber]: https://www.monicagerber.com/
+[Amy Paguirigan]: https://amypag.com/
 
 <!-- Links -->
 

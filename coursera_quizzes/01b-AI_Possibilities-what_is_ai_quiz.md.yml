@@ -1,0 +1,70 @@
+
+- typeName: multipleChoice
+  prompt: What causes algorithms to no longer be considered AI over time?
+
+  shuffleOptions: true
+  options:
+    - answer: As a public we generally get used to it
+      isCorrect: true
+    - answer: They can no longer adapt to new information
+      isCorrect: false
+    - answer: These algorithms get worse as time goes on
+      isCorrect: false
+    - answer: They focus too narrowly
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: What allows an AI model to take new data and make decisions?
+
+  shuffleOptions: true
+  options:
+    - answer: Predefined computations
+      isCorrect: false
+    - answer: Statistical algorithms
+      isCorrect: true
+    - answer: Expert curation
+      isCorrect: false
+    - answer: Hardware interfaces
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which is not a part of our AI framework?
+
+  shuffleOptions: true
+  options:
+    - answer: Interface
+      isCorrect: false
+    - answer: Datasets
+      isCorrect: false
+    - answer: Automation
+      isCorrect: true
+    - answer: Algorithms
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which smartphone capability involves AI models?
+
+  shuffleOptions: true
+  options:
+    - answer: Text message storage
+      isCorrect: false
+    - answer: Motion tracking
+      isCorrect: false
+    - answer: Voice assistants
+      isCorrect: true
+    - answer: Operating system
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Why are traditional calculators not considered AI?
+
+  shuffleOptions: true
+  options:
+    - answer: They lack adaptable algorithms
+      isCorrect: true
+    - answer: They do not store much data
+      isCorrect: false
+    - answer: They have limited interfaces
+      isCorrect: false
+    - answer: They are not integrated devices
+      isCorrect: false
