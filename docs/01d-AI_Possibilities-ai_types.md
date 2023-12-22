@@ -166,3 +166,16 @@ Diffusion models adjust noise to generate new content, such as images.
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
+
+# DISCUSSION AI Types
+
+<div class = reflection>
+1. Discuss some of the strengths and weaknesses of different AI techniques covered in the chapter. When might certain approaches be preferable over others given the available data or task?
+
+1. Reflect on the different definitions and terminology covered regarding AI types. What stood out to you? What questions do you still have?
+</div>
+
+<br>
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
