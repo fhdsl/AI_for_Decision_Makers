@@ -113,7 +113,16 @@ As we can see from the examples above, there are many instances of technology th
 
 1. [Global Plastic Watch](https://globalplasticwatch.org/about) uses satellite imagery and artificial intelligence to detect and monitor plastic waste sites globally.
 
-### DISCUSSION Is It AI
+## Summary
+
+The definition of artificial intelligence (AI) has shifted over time. We use the three part framework of data, algorithms, and interfaces to describe AI applications. You will need to consider specific technologies and whether they meet the criteria for being classified as AI using this framework. Adaptability and training with new data are key factors to keep in mind as we move further in the course.
+
+<br>
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
+
+# DISCUSSION Is It AI
 
 Consider the following examples. Are they examples of AI? Why or why not? Click to expand and see the answer.
 
@@ -135,10 +144,6 @@ While the core functionality of speed cameras relies on sensor technology and pr
 This is considered AI. Social media algorithms, like Instagram's, make recommendations based on user behavior. For example, if you spend a lot of time viewing a page that was recommended, the system interprets that as positive feedback and will make similar recommendations. Typically, these recommendations get better over time as the user generates more user-specific data. You supply data through your behaviors, the algorithm gets trained, and you interact with the suggestions via the app.
 
 </details>
-
-## Summary
-
-The definition of artificial intelligence (AI) has shifted over time. We use the three part framework of data, algorithms, and interfaces to describe AI applications. You will need to consider specific technologies and whether they meet the criteria for being classified as AI using this framework. Adaptability and training with new data are key factors to keep in mind as we move further in the course.
 
 <br>
 <div class = disclaimer>

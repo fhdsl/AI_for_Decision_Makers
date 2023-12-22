@@ -179,3 +179,16 @@ Since the early 2020s, generative AI has exploded in popularity, assisted by tra
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>
+
+# DISCUSSION How AI Works
+
+<div class = reflection>
+1. Compare and contrast discriminative vs generative AI. When might each approach be most useful? What are some benefits and limitations of each?
+
+1. Early detection of diseases like skin cancer using AI could help save lives. What challenges or limitations might exist in real-world applications of such a system? How could the interface be designed with care, transparency and privacy in mind?
+</div>
+
+<br>
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
