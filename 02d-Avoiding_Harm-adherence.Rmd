@@ -140,7 +140,7 @@ Here is a summary of all the tips we suggested:
 
 * Disclose when you use AI tools to create content.
 * Be aware that AI systems may behave in unexpected ways. Implement new AI solutions slowly to account for the unexpected. Test those systems and try to better understand how they work in different contexts.
-* Adhere to copyright restrictions for use of data and content created by AI systems.
+* Adhere to restrictions for use of data and content created by AI systems where possible, citing the AI system itself  and learning how the tool obtained permission for use can help reduce risk.
 * Cross-check content from AI tools by using multiple AI tools and checking for consistent results over time. Check that each tool meets the privacy and security restrictions that you need.
 * Emphasize training and education about AI and recognize that best practices will evolve as the technology evolves.
 
