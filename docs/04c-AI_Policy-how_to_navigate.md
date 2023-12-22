@@ -75,6 +75,8 @@ There are multiple possible roles that you could fill, depending on your organiz
 
 **This list is a starting point for you when deciding what sort of roles you need for your own team and is not written in any particular order.** This is not an exhaustive list of all possible experts that you can gather. You should consult with your legal council, board members, and other oversight staff in order to properly address your own specialized needs.
 
+![](resources/images/04c-AI_Policy-how_to_navigate_files/figure-docx//1H3ppNjSW6OU25Z44MZWMtl1R_MH8BT-roJxiiH5Rlyk_g2a83edd52b2_0_160.png){width=100%}
+
 1. _Legal counsel_ that understands AI and the nuances of the rapidly changing laws can advise on regulations relevant to your organization. 
 
 1. _Policy and governance analysts_ can research and draft internal policies on transparency, auditability, harm mitigation, and appropriate AI uses. They can also advise and assist with compliance.

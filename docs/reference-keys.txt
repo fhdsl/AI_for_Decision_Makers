@@ -245,5 +245,5 @@ intellectual-property
 data-privacy-and-information-security
 liability
 who-can-tell-you-about-your-particular-legal-concerns
-video-existing-laws-that-apply-to-ai
+video-other-laws-to-consider
 references
