@@ -48,12 +48,26 @@ See here for addition info: https://ieeexplore.ieee.org/abstract/document/867851
 
 ## Check for Allowed Use
 
-When AI systems are trained on data, they may also learn and incorporate copyrighted information. This means that AI-generated content could potentially infringe on the copyright of the original author. For example, if an AI system is trained on a code written by a human programmer, the AI system could generate code that is identical to or similar to the code from that author. If the AI system then uses this code without permission from the original author, this could constitute copyright infringement.
+When AI systems are trained on data, they may also learn and incorporate copyrighted information or protected intellectual property. This means that AI-generated content could potentially infringe on the copyright or protection of trademarks or patents of the original author. For more extreme examples, if an AI system is trained on an essay or art or  in some cases even code written by a human, the AI system could generate responses that are identical to or very similar to that of the original author, which some AI tools have done. Regardless, even training AI tools on copyrighted information where the responses are still relatively different, if the AI system uses this content without permission from the original author, this could constitute copyright or trademark infringement @brittain_more_2023.
 
-Similarly, AI systems could potentially infringe on intellectual property rights by using code that is protected by trademarks or patents. For example, if an AI system is trained on a training manual that contains code that is protected by a trademark, the AI system could generate code that is identical to or similar to the code in the training manual. If the AI system then uses this code without permission from the trademark owner, this could constitute trademark infringement.
+<div class = example>
+
+Open AI is facing lawsuits about using writing from several authors to train ChatGPT without permission from the authors. While this poses legal questions, it also poses ethical questions about the use of these tools and what it means for the people who created content that helped train AI tools. How can we properly give credit to such individuals?
+
+The [lawsuits](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/) are summarized by @brittain_more_2023:
+
+> The lawsuit is at least the third proposed copyright-infringement class action filed by authors against Microsoft-backed OpenAI. Companies, including Microsoft (MSFT.O), Meta Platforms (META.O) and Stability AI, have also been sued by copyright owners over the use of their work in AI training
+
+> The new San Francisco lawsuit said that works like books, plays and articles are particularly valuable for ChatGPT's training as the "best examples of high-quality, long form writing."
+
+> OpenAI and other companies have argued that AI training makes fair use of copyrighted material scraped from the internet.
+
+> The lawsuit requested an unspecified amount of money damages and an order blocking OpenAI's "unlawful and unfair business practices."
+
+</div>
 
 <div class =reflection>
-The same is true for music, art, poetry etc. AI poses questions about how we define art and if AI will reduce the opportunities for employment for human artists. See [here](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/) for an interesting discussion, in which it is argued that AI may enhance our capacity to create art. This will be an important topic for society to consider.
+AI poses questions about how we define art and if AI will reduce the opportunities for employment for human artists. See [here](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/) for an interesting discussion, in which it is argued that AI may enhance our capacity to create art. This will be an important topic for society to consider.
 
 </div>
 
@@ -126,7 +140,7 @@ Here is a summary of all the tips we suggested:
 
 * Disclose when you use AI tools to create content.
 * Be aware that AI systems may behave in unexpected ways. Implement new AI solutions slowly to account for the unexpected. Test those systems and try to better understand how they work in different contexts.
-* Adhere to copyright restrictions for use of data and content created by AI systems.
+* Adhere to restrictions for use of data and content created by AI systems where possible, citing the AI system itself  and learning how the tool obtained permission for use can help reduce risk.
 * Cross-check content from AI tools by using multiple AI tools and checking for consistent results over time. Check that each tool meets the privacy and security restrictions that you need.
 * Emphasize training and education about AI and recognize that best practices will evolve as the technology evolves.
 
