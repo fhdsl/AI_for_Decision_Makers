@@ -17,7 +17,7 @@ B) Providing potential hypotheses for gene-disease relationships
 c) Annotating a textbook
 d) Cleaning data for analysis
 
-?Which of the following is an example of using AI for planning and organizing?
+? Which of the following is an example of using AI for planning and organizing?
 
 a) Generating code for a software project
 b) Translating legal documents
