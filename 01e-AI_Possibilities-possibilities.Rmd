@@ -194,7 +194,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4Er
 Generative AI can provide templates or scaffolds. In other words, AI can get the creative juices flowing and make it easier to start new content. AI can also help synthesize data to suggest possible new relationships.
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2641ae2cc7f_0_255")
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2a8ebbd3748_0_0")
 ```
 
 ### Diabetes Gene Hypotheses
