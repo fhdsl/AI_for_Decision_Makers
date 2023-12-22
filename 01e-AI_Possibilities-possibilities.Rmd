@@ -193,6 +193,95 @@ D2H2 also has the ability to generate hypotheses. It randomly selects gene sets 
 ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2a8ebbd3748_0_28")
 ```
 
+## Planning and Organizing
+
+You can use generative AI to suggest and break down ways to accomplish a task based on prior task planning. In other words, it can generate a template for events or projects. For example, it can:
+
+1. Plan the agenda for a conference or meeting
+
+1. Plan and assign roles for a new project task list.
+
+### Meeting Agendas
+
+Let's imagine we are in a leadership role at a research institution. Soon, the institution will be unveiling a new genomic research coordinating center, but we need to make sure the whole executive suite is on board. Let's see how a large language model might give us a starting point for the meeting agenda:
+
+<div class = query>
+Can you provide a sample agenda for an executive meeting, where the goal is to reveal a new genomic research coordinating center at our institution?
+</div>
+
+Here is the response:
+
+<div class = ai_response>
+Executive Meeting Agenda - Unveiling the New Genomic Research Coordinating Center
+
+Meeting Date: [Date]
+
+Meeting Time: [Time]
+
+Meeting Location: [Location]
+
+Attendees: [List executive team members and other key stakeholders]
+
+1. Introduction & Welcome (5 minutes)
+
+    - Welcome by [Host/Chair]
+    - Brief overview of meeting goals and agenda
+
+2. Genomic Research Landscape & Challenges (10 minutes)
+
+    - Presentation by [Speaker]: State of the art in genomic research
+    - Current challenges in coordination and collaboration
+    - Economic and societal impact of advancements in genomics
+
+3. Introducing the New Genomic Research Coordinating Center (20 minutes)
+
+    - Presentation by [Center Director]: Center's mission, vision, and core values
+    - Key services and capabilities offered by the center
+    - How the center addresses existing challenges and fosters collaboration
+    - Examples of ongoing or planned research initiatives
+
+4. Center Operations & Budget (15 minutes)
+
+    - Presentation by [Center Administrator]: Funding sources and budget allocation
+    - Staffing plan and key personnel introductions
+    - Technology infrastructure and resources
+    - Partnerships and collaborations with external institutions
+
+5. Open Discussion & Q&A (20 minutes)
+
+    - Encourage executives to ask questions and seek clarification
+    - Address any concerns or potential roadblocks
+    - Gather feedback and suggestions for the center's future
+
+6. Next Steps & Action Items (10 minutes)
+
+    - Summarize key takeaways and action items
+    - Assign clear responsibilities and timelines for next steps
+    - Outline communication plan for broader institutional announcement
+
+7. Closing Remarks (5 minutes)
+
+    - Express gratitude for executive support and engagement
+    - Reiterate the center's potential impact and contributions
+    - Positive outlook on the future of genomic research at the institution
+
+Optional Items:
+
+    - Depending on time constraints, you may consider adding a brief tour of the center facilities or including short demos of key technologies.
+    - Prepare handouts with key information about the center, including contact details and resources.
+    - Consider a light breakfast or refreshments to encourage engagement and networking.
+
+Remember to adjust the agenda based on your specific needs and priorities. The key is to ensure a clear, concise, and informative presentation of the new center, while also addressing any potential concerns and fostering enthusiasm among the executive team.
+
+I hope this sample agenda helps you prepare for a successful meeting!
+</div>
+
+The above gives us a good place to start, so we aren't staring at a blank page. Of course, it's important to tailor responses to meet your needs. However, this could get us started, ensuring that we use time in the meeting effectively.
+
+As long as the information is not sensitive or proprietary, you could also give the large language model more context. This will help it tailor the response better.
+
+
+
 # VIDEO What Is Possible
 
 # VIDEO What Is NOT Possible
