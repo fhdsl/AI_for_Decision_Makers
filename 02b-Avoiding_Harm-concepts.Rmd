@@ -119,7 +119,8 @@ Read more about this in this [article](https://www.technologyreview.com/2022/12/
 
 ### Tips for avoiding inappropriate uses and lack of oversight
 
-* Stay up-to-date on current laws, practices, and standards for your field, as well as up-to-date on the news for how others have experienced their use of AI.
+* Stay up-to-date on current laws, practices, and standards for your field, especially for high-risk uses.
+* Stay up-to-date on the news for how others have experienced their use of AI.
 * Stay involved in discussions about appropriate uses for AI, particularly for policy.
 * Begin using AI slowly and iteratively to allow time to determine the appropriateness of the use. Some issues will only be discovered after some experience.
 * Involve a diverse group of individuals in discussions of intended uses to better account for a variety of perspectives.
