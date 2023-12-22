@@ -236,6 +236,7 @@ video-considerations-for-creating-an-ai-policy
 ai-acts-orders-and-regulations
 the-eu-ai-act
 industry-specific-policies
+case-studies
 education
 healthcare
 video-ai-acts-orders-and-policies
