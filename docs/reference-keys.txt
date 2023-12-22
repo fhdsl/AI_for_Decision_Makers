@@ -28,8 +28,8 @@ smartphones
 calculators
 computer-programs
 examples-of-ai-in-the-real-world
-discussion-is-it-ai
 summary
+discussion-is-it-ai
 video-how-ai-works
 how-ai-works
 early-warning-for-skin-cancer
@@ -43,6 +43,7 @@ understanding-the-ai-spring
 transformer-models
 diffusion-models
 summary-1
+discussion-how-ai-works
 video-different-types-of-ai
 demystifying-types-of-ai
 machine-learning
@@ -57,6 +58,7 @@ generative-adversarial-networks-gans
 natural-language-processing
 strengths-and-weaknesses
 summary-2
+discussion-ai-types
 video-real-life-possibilities
 what-ai-makes-possible
 advancements-in-text-mining
@@ -75,6 +77,7 @@ meeting-agendas
 synthetic-data-generation
 text-to-speech-to-text
 interactive-help
+discussion-ai-possibilities
 ground-rules-for-ai
 video-knowing-the-ground-rules
 ai-possibilities-case-studies
