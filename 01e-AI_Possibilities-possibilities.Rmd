@@ -93,6 +93,8 @@ Here are some examples of using AI to modify or generate text:
 
 1. Altering an email to be more empathetic
 
+1. Translating text into another language, otherwise known as **machine translation**
+
 1. Summarizing multiple files within a project to make a project summary - For example, a README file across many code scripts for software development
 
 1. Summarizing legal documents in a way that is readable to broader audiences with less familiarity with legal jargon
@@ -271,6 +273,10 @@ Optional Items:
     - Prepare handouts with key information about the center, including contact details and resources.
     - Consider a light breakfast or refreshments to encourage engagement and networking.
 
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2a8ebbd3748_0_53")
+```
+
 Remember to adjust the agenda based on your specific needs and priorities. The key is to ensure a clear, concise, and informative presentation of the new center, while also addressing any potential concerns and fostering enthusiasm among the executive team.
 
 I hope this sample agenda helps you prepare for a successful meeting!
@@ -280,11 +286,54 @@ The above gives us a good place to start, so we aren't staring at a blank page. 
 
 As long as the information is not sensitive or proprietary, you could also give the large language model more context. This will help it tailor the response better.
 
+## Synthetic Data Generation
 
+For more technical needs, AI can help generate synthetic data to experiment with. For example, it can help with sparse data, propose/test models for data that does not yet exist, or generate toy data for development and testing.
 
-# VIDEO What Is Possible
+We might be interested in who drinks the most coffee in the office, but we don't have data yet. Before interviewing all of our colleagues, we might want to test that we can actually do the analysis.
 
-# VIDEO What Is NOT Possible
+<div class = query>
+Can you create a toy time series dataset where we track individuals, timepoints, and coffee consumption?
+</div>
+
+Here is the response:
+
+<div class = ai_response>
+Here is a toy time series dataset tracking individuals, timepoints, and coffee consumption:
+
+ID   Timepoint  Coffee_cups  
+1        1            2   
+1        2            3  
+1        3            1    
+2        1            4  
+2        2            2   
+2        3            3  
+3        1            1  
+3        2            0  
+3        3            2 
+
+This tracks 3 individuals over 3 timepoints (days) and their daily coffee consumption in cups. Individual 1 drank 2 cups on day 1, 3 cups on day 2, and 1 cup on day 3. Individual 2 drank 4 cups on day 1, 2 cups on day 2, and 3 cups on day 3. Individual 3 drank 1 cup on day 1, 0 cups on day 2, and 2 cups on day 3.
+</div>
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2a8ebbd3748_0_87")
+```
+
+## Text to Speech to Text
+
+Generative AI is great at converting text to realistic sounding speech. It can also listen to you dictate and convert that speech into text. Many of the EHY EYE tools that do this are commercial and cost money. For example, companies like [Eleven Labs](https://elevenlabs.io/), [Natural Reader](https://www.naturalreaders.com/online/), and [Speechify](https://speechify.com/) will read text to you, but typically cost money to use.
+
+Both Text-to-Speech, and Speech-to-Text models benefit from specific training. This is because there are likely to be acronyms and jargon specific to your industry or institution. 
+
+```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit#slide=id.g2a8ebbd3748_0_103")
+```
+
+## Interactive Help
+
+Finally, we think AI is a great tool for interactive help and debugging, espcially for programming. If you want to learn more about how this works, check out our other course AI for Efficient Programming on [Coursera](https://www.coursera.org/learn/ai-for-software-development/) and [on the web](https://hutchdatascience.org/AI_for_Efficient_Programming/online).
+
+<!-- # VIDEO What Is NOT Possible -->
 
 <div class = disclaimer>
 `r config::get("disclaimer")`
