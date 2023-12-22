@@ -11,13 +11,25 @@ You can find the Google Slides for this video [here](https://docs.google.com/pre
 
 <!-- What is possible with AI? What’s still fantasy? -->
 
-Artificial Intelligence is opening up many possible pathways in many different fields. It has allowed:
+Artificial Intelligence is opening up many possible pathways in many different fields. 
+
+It has allowed:
 
 1. Advancements in text mining
 
 1. More accurate text modification and generation
 
 1. Automation of tedious tasks
+
+1. Idea generation
+
+1. Planning and organizing
+
+1. Synthetic data generation
+
+1. Text-to-speech and back
+
+1. Interactive help and debugging
 
 Let's explore several broad ways in which AI can be used today.
 
