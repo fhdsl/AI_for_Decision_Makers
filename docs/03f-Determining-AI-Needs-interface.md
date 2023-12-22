@@ -22,23 +22,23 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 Sometimes you need the power of AI underneath the hood of your own website/app. There are multiple strategies you can employ to achieve this.
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a0db34665a_0_6.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a0db34665a_0_6.png" width="100%" />
 
 In this scenario, you need to have your website or app that has its own interface. Interfaces are how people will use your app. There's two main interface types that are most common: GUIs and Command line
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_4.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_4.png" width="100%" />
 - `GUI` - stands for "Graphics user interface" -- it's the most widely used. Here users point and click buttons to tell a computer and its software what they'd like to do.
 - `Command line` - generally for software that is for individuals with more technical expertise and comfort with programming. In this interface, users type commands in order to perform tasks
 
 In this scenario we could maintain all of the same machinery but merely have a different platform where our users arrive.
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_519.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_519.png" width="100%" />
 
 ## General strategies for custom interfaces
 
 There are multiple strategies for empowering your website or app with an AI model or tool. These are arranged in order from lowest to highest investment.
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_165.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_165.png" width="100%" />
 
 - Embed premade AI tools in your app - There are prepackaged solutions for standard AI tools that you might want for your website. These are subscription services but require minimal expertise to employ.
 - Use an API (Application programming interface) underneath the hood of your app -- an increasing number of LLMs and other AI tools have APIs available. APIs allow one to access a website or tool programmatically. This means that you can build your tool in such a way that underneath the hood it is powered by an AI tool.
@@ -47,7 +47,7 @@ There are multiple strategies for empowering your website or app with an AI mode
 Usability experts are going to be really helpful for carrying out this kind of need. Interface designs can make or break a tool’s usability and hence popularity!
 
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a6bf36de90_0_0.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a6bf36de90_0_0.png" width="100%" />
 
 ## Examples of AI customized interface strategies
 
@@ -55,27 +55,27 @@ Usability experts are going to be really helpful for carrying out this kind of n
 
 Some services like [Cogniflow](https://www.cogniflow.ai/ai-playground) and [OctoML](https://octoml.ai/) offer prepackaged AI services like chatbots that you can embed in your website or tool. This has the advantage of being minimal maintenance or software development knowledge needed. You generally don't always have the ability to highly customize these options.
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_328.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_328.png" width="100%" />
 
 OctoML also allows for customization and fine tuning of models should you need customized knowledge as well. OctoML is a pay for what you use service whereas Cogniflow is a subscription.
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_328.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_328.png" width="100%" />
 
 ## AI tool APIs
 
 Pre-package tools may only have certain options…
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_511.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_511.png" width="100%" />
 
 In contrast, APIs can be very powerful and allow you to incorporate all the power of an AI tool into your website/app. They also free you team from having to do as much back end development. Although not all AI tools have API access, an increasing number of them are developing this as an option.
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_336.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_336.png" width="100%" />
 
 Currently [ChatGPT's API](https://openai.com/pricing) is the most well developed for LLM (it appears at the time of writing this) but of course it requires a higher cost subscription plan. [Bard may have a beta version of their API](https://medium.com/@novita_ai/how-to-use-google-bard-api-57a14d95bfa3) being further developed and released. Other types of AI models (not LLMs) often have API access as well like [Google Cloud's speech to text API](https://cloud.google.com/speech-to-text).
 
 ## Custom builds
 
-![](03f-Determining-AI-Needs-interface_files/figure-docx//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_515.png){width=100%}
+<img src="03f-Determining-AI-Needs-interface_files/figure-html//1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g_g2a672011b50_0_515.png" width="100%" />
 
 If you need more than a custom interface but also custom knowledge, security you, or handling you will likely need to build custom AI solutions – again this requires more staff expertise
 
