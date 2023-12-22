@@ -314,7 +314,7 @@ Here is the response:
 <div class = ai_response>
 Here is a toy time series dataset tracking individuals, time points, and coffee consumption:
 
-```{r echo = FALSE, warning = FALSE}
+```{r echo = FALSE, warning = FALSE, message = FALSE}
 install.packages("kableExtra")
 library(kableExtra)
 data.frame(
