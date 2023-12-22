@@ -353,3 +353,16 @@ Finally, we think AI is a great tool for interactive help and debugging, especia
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>
+
+# DISCUSSION AI Possibilities
+
+<div class = reflection>
+1. How could the various applications of AI discussed help improve life in your industry/field of work or personal life? Are there any specific problems they could help address?
+
+1. Do you see any risks or downsides to organizations and individuals becoming overly reliant on automated tools and AI assistants? How should we strive for a healthy human-AI relationship?
+</div>
+
+<br>
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
