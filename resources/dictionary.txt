@@ -104,9 +104,11 @@ Meta's
 Midjourney
 MOdel
 MonsterAPI
+MSFT
 NCI
 NHGRI
 Nigam
+NIST
 NLP
 NPS
 OpenAI

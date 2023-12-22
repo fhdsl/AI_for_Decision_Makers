@@ -3,7 +3,7 @@
 
 # VIDEO How AI Works
 
-You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I/edit#slide=id.g263e06ef889_36_397).
+You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I/edit?usp=sharing).
 
 # How AI Works
 

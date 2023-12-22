@@ -3,7 +3,7 @@
 
 # VIDEO What Is AI
 
-You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g2a162964683_1_0).
+You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit?usp=sharing).
 
 # What Is Artificial Intelligence
 

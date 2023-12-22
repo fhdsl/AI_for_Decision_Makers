@@ -14,13 +14,16 @@ There is the potential for AI to dramatically influence society. It is our respo
 </div>
 
 
-## Ethics Codes
+## Guidelines for Responsible Development and Use of AI.
 
-There are a few current major codes of ethics for AI: 
+There are a few current major codes for the responsible use and development of AI: 
 
 - United States [Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 - United States [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+- [United States National Institute of Standards and Technology (NIST): AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - European Commission [Ethics Guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
+- [European Union AI Act](https://artificialintelligenceact.eu/the-act/)
+- [United Kingdom National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy)
 - The  Institute of Electrical and Electronics Engineers (IEEE) [Ethically Aligned Design Version 2](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf)
 
 
@@ -32,7 +35,7 @@ In this chapter we will discuss the some of the major ethical considerations in 
 
 1) **Intentional and Inadvertent Harm** - Data and technology intended to serve one purpose may be reused by others for unintended purposes. How do we prevent intentional harm?
 1) **Replacing Humans and Human autonomy** - AI tools can help humans, but they are not a replacement. Humans are still much better at generalizing their knowledge to other contexts and human oversight is required (@sinz_engineering_2019).
-1) **Inappropriate Use** - There are situations in which using AI might not be appropriate now or in the future.
+1) **Inappropriate Use and Lack of Oversight** - There are situations in which using AI might not be appropriate now or in the future. A lack of human monitoring and oversight can result in harm.
 1) **Bias Perpetuation and Disparities** - AI models are built on data and code that were created by biased humans, thus bias can be further perpetuated by using AI tools. In some cases bias can even be exaggerated. This combined with differences in access may exacerbate disparities.
 1) **Security and Privacy Issues** - Data for AI systems should be collected in an ethical manner that is mindful of the rights of the individuals the data comes from. Data around usage of those tools should also be collected in an ethical manner. Commercial tool usage with proprietary or private data, code, text, images or other files may result in leaked data not only to the developers of the commercial tool, but potentially also to other users.
 1) **Climate Impact** - As we continue to use more and more data and computing power, we need to be ever more mindful of how we generate the electricity to store and perform our computations. 
@@ -78,7 +81,7 @@ Computer science is a field that has historically lacked diversity. It is critic
 A new term in the medical field called [AI paternalism](https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/) describes the concept that doctors (and others) may trust AI over their own judgment or the experiences of the patients they treat. This has already been shown to be a problem with earlier AI systems intended to help distinguish patient groups. Not all humans will necessarily fit the expectations of the AI model if it is not very good at predicting edge cases [@AI_paternalism]. Therefore, in all fields it is important for us to not forget our value as humans in our understanding of the world.
 </div>
 
-## Inappropriate Use
+## Inappropriate Use and Lack of Oversight
 
 There are situations in which we may, as a society, not want an automated response. There may even be situations in which we do not want to bias our own human judgment by that of an AI system. There may be other situations where the efficiency of AI may also be considered inappropriate. While many of these topics are still under debate and AI technology continues to improve, we challenge the readers to consider such cases given what is currently possible and what may be possible in the future. 
 
@@ -112,9 +115,10 @@ Read more about this in this [article](https://www.technologyreview.com/2022/12/
 
 </div>
 
-### Tips for avoiding inappropriate uses
+### Tips for avoiding inappropriate uses and lack of oversight
 
-* Stay up-to-date on current practices and standards for your field, as well as up-to-date on the news for how others have experienced their use of AI.
+* Stay up-to-date on current laws, practices, and standards for your field, especially for high-risk uses.
+* Stay up-to-date on the news for how others have experienced their use of AI.
 * Stay involved in discussions about appropriate uses for AI, particularly for policy.
 * Begin using AI slowly and iteratively to allow time to determine the appropriateness of the use. Some issues will only be discovered after some experience.
 * Involve a diverse group of individuals in discussions of intended uses to better account for a variety of perspectives.

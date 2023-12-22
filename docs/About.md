@@ -9,12 +9,12 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing An AI Policy <br>|
+|Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing AI Policy <br>|
 |Project Management| [Elizabeth Humphries], [Shasta Nicholson]|
-|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html) |
-|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek]|
+|Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html), [Developing AI Policy - Education case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#education) <br> [Monica Gerber] - [Developing AI Policy - Healthcare case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#healthcare) |
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeffrey Leek], [Amy Paguirigan], [Jenny Weddle], [Christopher Lo]|
 |Content Director(s) |[Jeff Leek] , [Elizabeth Humphries] |
-|Content Consultants | [Robert McDermott], [Jenny Weddle], [Adina Mueller]|
+|Content Consultants | [Robert McDermott], [Jennifer Weddle], [Adina Mueller]|
 |**Production**||
 |Content Publisher(s)| [Shasta Nicholson]|
 |Content Publishing Reviewer(s)| [Ava Hoffman], [Carrie Wright], [Candace Savonen],[Elizabeth Humphries] |
@@ -46,7 +46,7 @@ These credits are based on our [course contributors table guidelines](https://ww
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2023-12-20                  
+##  date     2023-12-22                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version date       lib source                            
@@ -97,17 +97,19 @@ These credits are based on our [course contributors table guidelines](https://ww
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
 [Ava Hoffman]: https://www.avahoffman.com/
-[Jeff Leek]: https://jtleek.com/
+[Jeffrey Leek]: https://jtleek.com/
 [Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b
 [Shasta Nicholson]: https://www.linkedin.com/in/shastanicholson
 [Sandy Ombrek]: https://www.linkedin.com/in/sandy-ormbrek-1410b113
 [Elizabeth Humphries]: https://www.linkedin.com/in/elizabeth-humphries-61202a103/
 [Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b/
 [Sitapriya Moorthi]: https://www.linkedin.com/in/sitapriyamoorthi/
-[Jenny Weddle]: https://hutchdatascience.org/ourteam/
+[Jennifer Weddle]: https://hutchdatascience.org/ourteam/
 [Robert McDermott]: https://www.linkedin.com/in/robert-mcdermott-a77b9011/
 [Adina Mueller]: https://www.linkedin.com/in/adina-mueller-575aaa/
 [Maleah O'Conner]: https://hutchdatascience.org/ourteam/
+[Monica Gerber]: https://www.monicagerber.com/
+[Amy Paguirigan]: https://amypag.com/
 
 <!-- Links -->
 
