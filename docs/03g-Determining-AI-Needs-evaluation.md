@@ -22,7 +22,7 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 Evaluating a software tool is critical. This is for multiple reasons that feed into each other.  
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g2a0db34665a_0_6.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1rdVYJyS7xLYDsoZwC99VyQSnnaKelUnsVG4j2rHWjFA_g2a0db34665a_0_6.png" width="100%" />
 
 1. Evaluating your AI tool will help identify areas for improvement
 2. Evaluating your AI tool will demonstrate value to funders so you can actually make those improvements
@@ -31,11 +31,11 @@ Evaluating a software tool is critical. This is for multiple reasons that feed i
 It's important to keep the pulse on your project as it is developing. Ideally, you should be monitoring your eh I’s performance when it comes to bias ad performance throughout the project. But once you have a stable ah I tool, it is an especially good time to gather more evaluations.
 
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g1ed70280ce0_0_0.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g1ed70280ce0_0_0.png" width="100%" />
 
 As a reminder, generally a good AI tool is accurate in that it gives output that is useful. It is also computationally efficient in that we won’t be able to actually deploy the tool if it is computationally costly or takes too long to run a query.
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_176.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_176.png" width="100%" />
 
 But for the purposes of evaluation, we’re going to add one more point of evaluation which is a good AI tool is usable. Even if you do not have “users” in the traditional sense; you are designing your tool only for within your team or organization, you will still need it to be functionally usable by the individuals you have intended to use it. Otherwise the fact that it is accurate and computationally efficient will be irrelevant if no one can experience that accuracy and efficiency.
 
@@ -46,7 +46,7 @@ How you evaluate the accuracy of your AI model will be highly dependent on what 
 
 Secondly your evaluation strategies will dependent on what your goals are – how do you define success for your AI tool? What was your original goals for this AI tool? Are they meeting those goals?
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_400.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_400.png" width="100%" />
 
 LLM chatbots can be a bit tricky to evaluate accuracy -- how do you know if the response it gave a user was what the user was looking for? But there's a number of options and groups who are working on establishing methods and standards for LLM evaluation.
 
@@ -57,7 +57,7 @@ LLM chatbots can be a bit tricky to evaluate accuracy -- how do you know if the 
 - [GLUE Benchmark](https://gluebenchmark.com/)
 - [Measuring Massive Multitask Language Understanding](https://github.com/hendrycks/test)  
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_329.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_329.png" width="100%" />
 
 
 ## Evaluating Computational Efficiency of an AI model
@@ -67,7 +67,7 @@ Evaluating computational efficiency is important not only for the amount of time
 Besides being shocked by your computing bill each month, there's more fore thinking ways you can keep tabs on your computational efficiency.
 
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_329.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_329.png" width="100%" />
 
 Examples of metrics you may consider collecting:  
 
@@ -79,7 +79,7 @@ Examples of metrics you may consider collecting:
 
 Usability and user experience (UX) experts are highly valuable to have on staff. But whether or not you have the funds for an expert is UX to be on staff, more informal user testing is more helpful than no testing at all!
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_387.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_387.png" width="100%" />
 
 Here's a very quick overview of what a usability testing workflow might look like:
 
@@ -94,7 +94,7 @@ Here's a very quick overview of what a usability testing workflow might look lik
 
 There's many ways to obtain user feedback, and surveys, and interface analytics.
 
-![](03g-Determining-AI-Needs-evaluation_files/figure-docx//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_329.png){width=100%}
+<img src="03g-Determining-AI-Needs-evaluation_files/figure-html//1ucUX_guHTpuFipcdMKgi_8BGKNzLYtntobyEqZYdDFM_g2a6c15e7d80_0_329.png" width="100%" />
 Some examples of metrics you may want to collect:
 
 - Success rate - how many users were able to successfully complete the task?

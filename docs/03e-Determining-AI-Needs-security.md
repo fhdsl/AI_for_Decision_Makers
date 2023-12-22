@@ -23,17 +23,17 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 Customized security needs are perhaps one of the largest barriers keeping individuals in certain fields from using AI tools to their full potential. There are many legitimate reasons commercial AI tools cannot and should not be used with protected data.
 
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_175.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_175.png" width="100%" />
 
 Commercial AI products do not have data use agreements. They do not have to tell you what they do with your data. And if you work with protected data types that generally means you can't use them.
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_179.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_179.png" width="100%" />
 
 Not all data types are safe to share for a variety of reasons. To protect patients or customers, Personal Identifiable Information (PII) Protected Health Information (PHI) cannot be used with online AI services or shared with others. Controlled Unclassified Information is another type of protected data that may be related to national security matters.
 
 But protected data projects could highly benefit from AI!
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_361.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_361.png" width="100%" />
 
 - AI analysis tools as helpful diagnostic aids for use with health data, imaging data, genomic data.
 - AI chatbots as an aid for financial or health guidance for patients or customers.
@@ -41,7 +41,7 @@ But protected data projects could highly benefit from AI!
 
 Protected data might be useful as training data for a problem and/or patients or customers may want to input data into a secure AI tool.
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_0.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_0.png" width="100%" />
 
 <div class = "warning">
 
@@ -53,7 +53,7 @@ Protected data might be useful as training data for a problem and/or patients or
 
 Before we dive into AI related solutions, it's a good idea that we remind ourselves of some of the best practices for data privacy
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g1ed48fdd461_0_6.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g1ed48fdd461_0_6.png" width="100%" />
 
 - Fewest individuals have access to the data as possible
 - Least privileges as needed to complete a task. This is known as the "principles of least privilege".
@@ -64,7 +64,7 @@ Before we dive into AI related solutions, it's a good idea that we remind oursel
 
 Solutions exist for AI tools for protected data -- some require more careful planning thought and expertise. Here we have ordered these example strategies in order of least to most investment.
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_187.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_187.png" width="100%" />
 Whenever possible consult data security and legal experts to be sure that you are not exposing patients or customers' data and risking their privacy or finances.
 
 - Use AI services that keep data private -- some AI tools have specialized tools that allow you to keep data private. Be sure to carefully read their terms of use to gain an understanding of how they keep the data secure. Consult security
@@ -77,7 +77,7 @@ Whether you have an AI service perform this or you do it yourself (or both) ther
 
 In summary, here's just a few of the techniques that can help make data sharing HIPAA compliant.
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g1ed48fdd461_0_17.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g1ed48fdd461_0_17.png" width="100%" />
 
 - Data Aggregation - summarize values to a higher level of grouping
 - Data Masking - Replace data with symbols
@@ -86,7 +86,7 @@ In summary, here's just a few of the techniques that can help make data sharing 
 
 To further understand what this looks like, here's an example of how these techniques might look with a toy dataset
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2fb980df1e9a8f06_0.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2fb980df1e9a8f06_0.png" width="100%" />
 
 In this toy example will illustrate roughly how a given technique may obscure the original data in the top row. This can give you a sense that some types of data are better for certain types of obscuring methods than others. But this also depends on what your goals for your AI project are.
 
@@ -95,7 +95,7 @@ Keep in mind that data anonymization may be more difficult with smaller datasets
 The strategy you choose should definitely include these two questions:
 
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g1ed48fdd461_0_24.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g1ed48fdd461_0_24.png" width="100%" />
 
 1) What protected items are included in your data
 2) Your goals with said data with AI -- what is the minimum amount of information you could include in the AI model or input in order to achieve the desired goals?
@@ -104,7 +104,7 @@ The strategy you choose should definitely include these two questions:
 
 In the table below we show three examples illustrating example strategies for using AI tools with protected data. These examples are in the order of least to most amount of technical expertise needed to implement.
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_352.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_352.png" width="100%" />
 
 ### PrivateAI
 
@@ -122,4 +122,4 @@ In the table below we show three examples illustrating example strategies for us
 
 As opposed to other types of AI customizations, the strategies we've discussed in this chapter are the most imperative that you get cleared through the proper channels before deploying (if you do this incorrectly it may be illegal). It is a matter of privacy and safety for patients/customers that you get this right. So it makes sent to check with your in-house experts like institutional review boards and data security experts!
 
-![](03e-Determining-AI-Needs-security_files/figure-docx//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_183.png){width=100%}
+<img src="03e-Determining-AI-Needs-security_files/figure-html//1tv-hol-c_IWBRu7RcPVaSBrxXVOMBRQdDQR3RJDZ20c_g2a642e30eae_0_183.png" width="100%" />

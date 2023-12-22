@@ -106,7 +106,7 @@ What assumptions were made in creating this content?
 
 
 
-![](resources/images/02c-Avoiding_Harm-algorithms_files/figure-docx//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_157.png){width=100%}
+<img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_157.png" title="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." alt="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." width="100%" style="display: block; margin: auto;" />
 
 
 

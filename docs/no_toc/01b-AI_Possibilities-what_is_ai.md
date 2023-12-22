@@ -41,7 +41,7 @@ At its core, AI is about problem solving [@fogel2022]. But how does it do this? 
 
 1. **Interface**: AI needs a physical interface or software for the trained algorithm to receive a data input and execute the human-like task in the real world. For example, you might interface with a chatbot in your web browser.
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g2a64e94b13a_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_178.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 As an example, consider Amazon Echo’s voice control device [@wikiECHO]. The data set consists of customer voices talking to Amazon Echo or other devices. The algorithm predicts what a new customer voice is asking it to do. Given human voice request, it may set a kitchen timer. Lastly, the interface, is a physical device with a microphone, speaker, and computer software running the algorithm and accessing the data. It is the part that will interact with humans.
 
@@ -51,7 +51,7 @@ Let's look at a few of examples. We can then decide whether or not the examples 
 
 ### Smartphones
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_185.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
 The name "smartphone" implies these devices are making decisions and are powered by AI. Let's consider our three criteria:
 
@@ -65,7 +65,7 @@ While there are some features on smartphones that are powered by AI models, like
 
 ### Calculators
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_8.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_193.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
 Many of us use basic calculators, as you might find in Microsoft Excel, every day. AI also makes many calculations. Is it just a scaled-up calculator?
 
@@ -79,7 +79,7 @@ Traditional calculators are not considered AI, because everything they can do is
 
 ### Computer Programs
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g263dd3c9316_30_15.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_200.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
 Like calculators, computers follow set procedures for problem solving and computation. Everyday computers use these procedures to help automate repetitive tasks and save time. However, this isn't generally considered AI, because the computer's algorithms aren't being trained with new data you supply. AI systems exhibit the ability to adapt and handle new inputs for tasks that might be more complicated.
 
@@ -123,56 +123,6 @@ This is considered AI. Social media algorithms, like Instagram's, make recommend
 ## Summary
 
 The definition of artificial intelligence (AI) has shifted over time. We use the three part framework of data, algorithms, and interfaces to describe AI applications. You will need to consider specific technologies and whether they meet the criteria for being classified as AI using this framework. Adaptability and training with new data are key factors to keep in mind as we move further in the course.
-
-<br>
-<div class = disclaimer>
-**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
-</div>
-
-
-# AI Case Studies
-
-The following are case studies that can help us conceptualize AI in the real world.
-
-## Amazon Recommendations
-
-Amazon's recommendation engine uses AI algorithms to analyze user behavior and past purchases, providing personalized product recommendations. This enhances the shopping experience, increases customer engagement, and drives sales.
-
-TODO: Text here.
-
-## Financial Forecasting
-
-In this case study, we will look at how artificial intelligence has been utilized in governmental financial services. National banks, such as the Federal Reserve of United States and the European Central bank of the European Union, have started to explore how Artificial Intelligence can be used for data mining and economic forecast prediction. 
-
-There are many uses of AI for improving financial institutions, each with potential benefits and risks. Most financial institutions weigh the benefits and risks carefully before implementation.
-
-For instance, if a financial institution takes a high-risk prediction seriously, such as predicting a financial crisis or a large recession, then it would have huge impact on a bank’s policy and allows the bank to act early. However, many financial institutions are hesitant to take action based on artificial intelligence predictions because the prediction is for a high-risk situation. If the prediction is not accurate then there can be severe consequences. Additionally, data on rare events such as financial crises are not abundant, so researchers worry that there is not enough data to train accurate models [@nelson2023].
-
-Many banks prefer to pilot AI for low-risk, repeated predictions, in which the events are common and there is a lot of data to train the model on.
-
-Let’s look at a few examples that illustrate the potential benefits and risks of artificial intelligence for improving financial institutions.
-
-### Categorizing Businesses
-
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_58.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
-
-An important task in analysis of economic data is to classify business by institutional sector. For instance, given 10 million legal entities in the European Union, they need to be classified by financial sector to conduct downstream analysis. In the past, classifying legal entities was curated by expert knowledge [@moufakkir2023].
-
-Text-based analysis and machine learning classifiers, which are all considered AI models, help reduce this manual curation time. An AI model would extract important keywords and classify into an appropriate financial sector, such as “non-profits”, “small business”, or “government”. This would be a low-risk use of AI, as one could easily validate the result to the true financial sector.
-
-### Incorporating new predictors for forecasting
-
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_70.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
-
-Banks are considering expanding upon existing traditional economic models to bring in a wider data sources, such as pulling in social media feeds as an indicator of public sentiment. The National bank of France has started to use social media information to estimate the public perception of inflation. The Malaysian national bank has started to incorporate new articles into its financial model of gross domestic product estimation. However, the use of these new data sources may may raise questions about government oversight of social media and public domain information [@omfif2023]. 
-
-### Using Large Language Models to predict inflation
-
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_14.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
-
-The US Federal Reserve has researched the idea of using pre-trained large language models from Google to make inflation predictions. Usually, inflation is predicted from the Survey of Professional Forecasters, which pools forecasts from a range of financial forecasts and experts. When compared to the true inflation rate, the researchers found that the large language models performed slightly better than the Survey of Professional Forecasters [@stlouisfed2023].
-
-A concern of using pre-trained large language models is that the data sources used for model training are not known, so the financial institution may be using data that is not in line with its policy. Also, a potential risk of using large language models that perform similarly is the convergence of predictions. If large language models make very similar predictions, banks would act similarly and make similar policies, which may lead to financial instability [@omfif2023]. 
 
 <br>
 <div class = disclaimer>

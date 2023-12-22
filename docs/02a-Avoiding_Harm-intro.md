@@ -13,7 +13,7 @@ Some of this content was adapted from our course on [AI for Efficient Programmin
 
 The use of artificial intelligence (AI) and in particular, generative AI, has raised a number of ethical concerns. We will highlight several current concerns, however please be aware that this is a dynamic field and the possible implications of this technology is continuing to develop. It is critical that society continue to evaluate and predict what the consequences of the use of AI will be, so that we can try to mitigate harmful effects.
 
-![](resources/images/02a-Avoiding_Harm-intro_files/figure-docx//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_0.png){width=100%}
+<img src="resources/images/02a-Avoiding_Harm-intro_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_0.png" title="A cartoon of a robot thinking and text that says 'How can we use AI responsibly'." alt="A cartoon of a robot thinking and text that says 'How can we use AI responsibly'." width="100%" style="display: block; margin: auto;" />
 
 ## Target Audience  
 
