@@ -73,6 +73,7 @@ VIDEO-Building-an-AI-advisory-team.md
 Considerations-for-creating-an-AI-Policy.md
 VIDEO-Considerations-for-creating-an-AI-Policy.md
 AI-acts,-orders,-and-regulations.md
+Case-Studies.md
 VIDEO-AI-acts,-orders,-and-policies.md
 Other-laws-to-consider.md
 VIDEO-Existing-Laws-That-Apply-to-AI.md
