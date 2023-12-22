@@ -50,7 +50,7 @@ At its core, AI is about problem solving [@fogel2022]. But how does it do this? 
 1. **Interface**: AI needs a physical interface or software for the trained algorithm to receive a data input and execute the human-like task in the real world. For example, you might interface with a chatbot in your web browser.
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '100%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g2a64e94b13a_0_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E/edit#slide=id.g2a972176106_0_178")
 ```
 
 As an example, consider Amazon Echo’s voice control device [@wikiECHO]. The data set consists of customer voices talking to Amazon Echo or other devices. The algorithm predicts what a new customer voice is asking it to do. Given human voice request, it may set a kitchen timer. Lastly, the interface, is a physical device with a microphone, speaker, and computer software running the algorithm and accessing the data. It is the part that will interact with humans.
@@ -62,7 +62,7 @@ Let's look at a few of examples. We can then decide whether or not the examples 
 ### Smartphones
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '70%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g263dd3c9316_30_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E/edit#slide=id.g2a972176106_0_185")
 ```
 
 The name "smartphone" implies these devices are making decisions and are powered by AI. Let's consider our three criteria:
@@ -78,7 +78,7 @@ While there are some features on smartphones that are powered by AI models, like
 ### Calculators
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '70%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g263dd3c9316_30_8")
+ottrpal::include_slide("https://docs.google.com/presentation/d/10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E/edit#slide=id.g2a972176106_0_193")
 ```
 
 Many of us use basic calculators, as you might find in Microsoft Excel, every day. AI also makes many calculations. Is it just a scaled-up calculator?
@@ -94,7 +94,7 @@ Traditional calculators are not considered AI, because everything they can do is
 ### Computer Programs
 
 ```{r, echo=FALSE, fig.alt='CAPTION HERE', out.width = '70%', fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c/edit#slide=id.g263dd3c9316_30_15")
+ottrpal::include_slide("https://docs.google.com/presentation/d/10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E/edit#slide=id.g2a972176106_0_200")
 ```
 
 Like calculators, computers follow set procedures for problem solving and computation. Everyday computers use these procedures to help automate repetitive tasks and save time. However, this isn't generally considered AI, because the computer's algorithms aren't being trained with new data you supply. AI systems exhibit the ability to adapt and handle new inputs for tasks that might be more complicated.
