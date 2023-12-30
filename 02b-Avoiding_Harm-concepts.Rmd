@@ -42,7 +42,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9
 In this chapter we will discuss the some of the major ethical considerations in terms of possible societal consequences for the use or development of AI tools:
 
 1) **Intentional and Inadvertent Harm** - Data and technology intended to serve one purpose may be reused by others for unintended purposes. How do we prevent intentional harm?
-1) **Replacing Humans and Human autonomy** - AI tools can help humans, but they are not a replacement. Humans are still much better at generalizing their knowledge to other contexts and human oversight is required (@sinz_engineering_2019). Also studies suggests that humans value content and objects created by humans more than that of AI when it relates to abstract thought or unique work (@bellaiche_humans_2023, @granulo_preference_2021).
+1) **Replacing Humans** - AI tools can help humans, but they are not a replacement. Humans are still much better at generalizing their knowledge to other contexts (@sinz_engineering_2019). Also studies suggests that humans value content and objects created by humans more than that of AI when it relates to abstract thought or unique work (@bellaiche_humans_2023, @granulo_preference_2021).
 1) **Inappropriate Use and Lack of Oversight** - There are situations in which using AI might not be appropriate now or in the future. A lack of human monitoring and oversight can result in harm.
 1) **Bias Perpetuation and Disparities** - AI models are built on data and code that were created by biased humans, thus bias can be further perpetuated by using AI tools. In some cases bias can even be exaggerated. This combined with differences in access may exacerbate disparities.
 1) **Security and Privacy Issues** - Data for AI systems should be collected in an ethical manner that is mindful of the rights of the individuals the data comes from. Data around usage of those tools should also be collected in an ethical manner. Commercial tool usage with proprietary or private data, code, text, images or other files may result in leaked data not only to the developers of the commercial tool, but potentially also to other users.
@@ -71,13 +71,43 @@ Therefore it is critical that we be considerate of the downstream consequences o
 * Consider how the content, data, or newly developed AI tool might be used by others.
 * Continually audit any new AI tools.
 
-## Replacing Humans and Human Autonomy
+## Replacing Humans
 
 While AI systems are useful, they **do not replace human strengths**. Humans remain far superior at generalizing concepts to new contexts (@sinz_engineering_2019).
 
 AI systems should be thought of as better computers as opposed to replacements for humans.
 
-Computer science is a field that has historically lacked diversity. It is critical that we support diverse new learners of computer science, as we will continue to need human involvement in the development and use of AI tools. This can help to ensure that more diverse perspectives are accounted for in our understanding of how these tools should be used responsibly.
+While there are some contexts in which human labor has already been replaced by robotics and AI, studies show that humans tend to prefer human-made goods when those goods are not strictly functional (@bellaiche_humans_2023, @granulo_preference_2021). 
+It has been proposed that there will be radical shifts in the way that humans work in many fields including health care, banking, retail, security, and more (@selenko_artificial_2022). Yet we need to implement changes gradually to allow for time to better understand the consequences and mindfully consider how such changes impact human employment and well-being. 
+
+@selenko_artificial_2022 have proposed a [framework](https://journals.sagepub.com/doi/full/10.1177/09637214221091823) for considering the impact of AI usage on human workers to promote benefit and avoid harm. It suggests considering usage in a few different ways: AI for complementing work, AI for replacing tasks, and AI for generating new tasks. It suggests considering how such usages might reduce tedious or dangerous work, while also preserving work-related benefits such as self-esteem, belonging, and perceived meaningfulness. See [here](https://journals.sagepub.com/doi/full/10.1177/09637214221091823) for the article. 
+
+
+
+
+
+
+
+<div class = example >
+AI might become much more prominent in the **field of journalism** and may help deliver more rapidly, deliver news from dangerous locations, and possibly even create content less biased politically or otherwise if the models are specifically trained to be objective (@latar_robot_2015). Yet, larger usage of AI in journalism also poses additional risks of misinformation, infiltration by outsiders, and a lack of human values if the usage lacks appropriate and sufficient human oversight.  
+
+
+> "robot journalist story writers will have instant
+access to new insights and information, and their new ability to compose the story andpublish it in seconds may cause human journalists to become obsolete. This is
+alarming, as no robot journalists can replace human journalists as the guardians of
+democracy and human rights." (@latar_robot_2015)
+
+> "This potential threat to the profession of human journalism is viewed by some
+optimistic journalists merely as another tool that will free them of the necessity to
+conduct costly and, at times, dangerous investigations. The robot journalists will
+provide them, so the optimists hope, with an automated draft for a story that they willedit and enrich with their in-depth analysis, their perspectives and their narrative talents. 
+
+> The more pessimistic journalists view the new robot journalists as a real threat
+to their livelihood and style of working and living.
+
+</div>
+
+Computer science is a field that has historically lacked diversity. It is also critical that we support diverse new learners of computer science, as we will continue to need human involvement in the development and use of AI tools. This can help to ensure that more diverse perspectives are accounted for in our understanding of how these tools should be used responsibly.
 
 ### Tips for supporting human contributions
 
