@@ -210,13 +210,23 @@ In the flip side, AI has the potential if used wisely, to reduce health inequiti
 
 ### Tips for avoiding bias
 
+For decision makers about AI users:
+
 * Be aware of the biases in the data that is used to train AI systems.
+* Check what data was used to train the AI tools that you use where possible. Tools that are more transparent are likely more ethically developed. 
+* Check if the developers of the AI tools you are using were/are considerate of bias issues in their development where possible. Tools that are more transparent are likely more ethically developed. 
+* Consider the possible outcomes of the use of content created by AI tools. Consider if the content could possibly be used in a manner that will result in discrimination.
+
+For decision makers about AI developers:
+
 * Check for possible biases within data used to train new AI tools.
   - Are there harmful data values? Examples could include discriminatory and false associations.
   - Are the data adequately inclusive? Examples could include a lack of data about certain ethnic or gender groups or disabled individuals, which could result in code that does not adequately consider these groups, ignores them all together, or makes false associations.
   - Are the data of high enough quality?  Examples could include data that is false about certain individuals.
 * Evaluate the code for new AI tools for biases as it is developed. Check if any of the criteria for weighting certain data values over others are rooted in bias.
-* Consider the possible outcomes of the use of content created by AI tools. Consider if the content could possibly be used in a manner that will result in discrimination.
+* Continually audit the code for potentially biased responses. Potentially seek expert help. 
+* Be transparent with users about potential bias risks.
+* Consider the possible outcomes of the use of content created by newly developed AI tools. Consider if the content could possibly be used in a manner that will result in discrimination.
 
 See @belenguer_ai_2022 for more guidance. We also encourage you to check out the following video for a classic example of bias in AI:
 
