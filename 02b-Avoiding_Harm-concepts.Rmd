@@ -113,7 +113,7 @@ Computer science is a field that has historically lacked diversity. It is also c
 
 * Avoid thinking that content by AI tools must be better than that created by humans, as this is not true (@sinz_engineering_2019).
 * Recall that humans wrote the code to create these AI tools and that the data used to train these AI tools also came from humans. Many of the large commercial AI tools were trained on websites and other content from the internet.
-* Be transparent where possible about when you do or do not use AI tools, give credit to the humans involved as much as possible.
+* Be transparent where possible about **when you do or do not use AI tools**, give credit to the humans involved as much as possible.
 
 <div Class = ethics>
 A new term in the medical field called [AI paternalism](https://www.technologyreview.com/2023/04/21/1071921/ai-is-infiltrating-health-care-we-shouldnt-let-it-make-decisions/) describes the concept that doctors (and others) may trust AI over their own judgment or the experiences of the patients they treat. This has already been shown to be a problem with earlier AI systems intended to help distinguish patient groups. Not all humans will necessarily fit the expectations of the AI model if it is not very good at predicting edge cases [@AI_paternalism]. Therefore, in all fields it is important for us to not forget our value as humans in our understanding of the world.
