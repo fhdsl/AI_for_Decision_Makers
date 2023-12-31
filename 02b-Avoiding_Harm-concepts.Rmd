@@ -32,7 +32,7 @@ There are currently several guidelines for the responsible use and development o
 As this is an emerging technology, more guidelines will be developed and updated as the technology evolves. When you read this, more guideline and updates are likely to be available. It is important to be aware of the current ethical guidelines and regulations for your respective field.
 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "A cartoon of a robot thinking and text that says 'How can we use AI responsibly'."}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "A cartoon of a robot reading'."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_0")
 ```
 
@@ -66,6 +66,10 @@ Perhaps you or your company develop an AI tool that helps to identify individual
 
 Therefore it is critical that we be considerate of the downstream consequences of what we create and what might happen if that technology or data was used for other purposes.
 
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "A robot thinking'."}
+ottrpal::include_slide("hhttps://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_6")
+```
+
 ### Tips for avoiding inadvertent harm
 
 * Consider how the content, data, or newly developed AI tool might be used by others.
@@ -73,7 +77,7 @@ Therefore it is critical that we be considerate of the downstream consequences o
 
 ## Replacing Humans
 
-While AI systems are useful, they **do not replace human strengths**. Humans remain far superior at generalizing concepts to new contexts (@sinz_engineering_2019).
+While AI systems are useful, they **do not replace human strengths**. While AI systems are good at synthesizing lots of data, humans remain far superior at generalizing concepts to new contexts (@sinz_engineering_2019).
 
 AI systems should be thought of as better computers as opposed to replacements for humans.
 
@@ -81,10 +85,6 @@ While there are some contexts in which human labor has already been replaced by 
 It has been proposed that there will be radical shifts in the way that humans work in many fields including health care, banking, retail, security, and more (@selenko_artificial_2022). Yet we need to implement changes gradually to allow for time to better understand the consequences and mindfully consider how such changes impact human employment and well-being. 
 
 @selenko_artificial_2022 have proposed a [framework](https://journals.sagepub.com/doi/full/10.1177/09637214221091823) for considering the impact of AI usage on human workers to promote benefit and avoid harm. It suggests considering usage in a few different ways: AI for complementing work, AI for replacing tasks, and AI for generating new tasks. It suggests considering how such usages might reduce tedious or dangerous work, while also preserving work-related benefits such as self-esteem, belonging, and perceived meaningfulness. See [here](https://journals.sagepub.com/doi/full/10.1177/09637214221091823) for the article. 
-
-
-
-
 
 
 
@@ -127,7 +127,7 @@ Some reasons why AI may not be appropriate for certain situation include:
 
 - Despite the common misconception that AI systems have clearer judgment than humans, they are in fact typically just as prone to bias and sometimes even exacerbate bias (@pethig_biased_2023).  There are some very mindful researchers working on these issues in specific contexts and making progress where AI may actually improve on human judgment, but generally speaking AI systems are currently typically biased and reflective of human judgment but in a more limited manner based on the context in which they have been trained.
 - AI systems can behave in unexpected ways (@gichoya_ai_2022).
-- Humans are still better than AI at generalizing what they learn for new contexts.
+- Humans are still better than AI at generalizing what they learn for new contexts (@sinz_engineering_2019).
 - Humans can better understand the consequences of discussions from a humanity standpoint.
 
 Some examples where it may be considered inappropriate for AI systems to be used (even with human involvement) include:
