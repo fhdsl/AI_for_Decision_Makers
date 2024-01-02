@@ -15,6 +15,13 @@ Humans are biased, therefore data from text written by humans is often also bias
 
 To better understand your own personal bias, consider taking a test at https://implicit.harvard.edu/. 
 
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image of a mosaic robot"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_97")
+```
+
+
+
 It is nearly impossible to create a training dataset that is free from all possible bias and include all possible example data, so by necessity the data used to train AI systems are generally biased in some way and lack data about people across the full spectrum of backgrounds and life experiences. This can lead to AI-created products that cause discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations. Our goal is to create and use AI systems that are as inclusive and unbiased as possible while also keeping in mind that the system is not perfect. 
 
 To learn more about how AI algorithms become biased, see https://www.criticalracedigitalstudies.com/peoplesguide. 
@@ -93,6 +100,11 @@ We highly suggest caution with using AI to make or help make employment decision
 ## More inclusive teams means better models
 
 It is vital that teams hired for the development, auditing or testing of AI tools be as inclusive as possible and should follow the current best IDARE practices for standards for hiring standards. This will help to ensure that different perspectives and concerns are considered. 
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An artistic image of a face that looks like it is being scanned for facial recognition."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_48")
+```
+
 
  
 ## Access
