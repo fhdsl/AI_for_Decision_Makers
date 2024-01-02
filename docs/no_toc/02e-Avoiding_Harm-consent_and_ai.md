@@ -7,7 +7,6 @@
 Much of the world is developing data privacy regulations, as many individuals value their right to better control how others can collect and store data about them (@chaaya_privacy_2021).
 
 
-
 While data collection concerns have been increasing up for years, AI systems present new challenges (@pearce_beware_2021; @tucker_privacy_2018):
 
 - **Accountability** - It is more difficult to determine who is accountable at times when separate parties may collect versus redistribute data, versus use data (@hao_deleting_2021)
@@ -52,6 +51,27 @@ It has been argued that there are possible uses that should be exempt, such as l
 See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-facial-recognition-raises-concerns/) to learn more about this debate.
 
 <div>
+
+<img src="resources/images/02e-Avoiding_Harm-consent_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_57.png" title="An artistic image of a face that looks like it is being scanned for facial recognition." alt="An artistic image of a face that looks like it is being scanned for facial recognition." width="100%" style="display: block; margin: auto;" />
+
+
+### Tips to encourage responsible consent practices
+
+For decision makers about AI users:
+
+- Emphasize education about consent practices
+- Stay up-to-date on current issues related to consent.
+- Encourage usage of tools that are transparent about using responsible consent practices.
+- Encourage users to be careful what data they upload or allow AI tools to use.
+
+
+For decision makers about AI developers:
+
+- Emphasize education of AI developers about consent considerations, guidelines, and regulations. 
+- Stay up-to-date on current issues related to consent.
+- Be considerate of the data that you use for AI tools and how it was collected and if individuals consented to the collection and distribution of the data
+- Be transparent with users about what consent practices were used for the data utilized by the tool.
+- Be transparent with users about what may happen with their responses if they are being collected. 
 
 ## Summary
 
