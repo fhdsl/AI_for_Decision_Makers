@@ -12,9 +12,9 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Lead Content Instructor(s)|[Ava Hoffman] - Course 1: <br> Exploring AI Possibilities <br> [Carrie Wright] - Course 2: <br> Avoiding AI Harm <br> [Candace Savonen] - Course 3: <br> Determining AI Needs <br> [Elizabeth Humphries] - Course 4:<br>  Developing AI Policy <br>|
 |Project Management| [Elizabeth Humphries], [Shasta Nicholson]|
 |Content Author| [Christopher Lo] - [Avoiding AI Harm - Effective Use of Training and Testing Data](https://hutchdatascience.org/AI_for_Decision_Makers/effective-use-of-training-and-testing-data.html), [Developing AI Policy - Education case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#education) <br> [Monica Gerber] - [Developing AI Policy - Healthcare case study](https://hutchdatascience.org/AI_for_Decision_Makers/ai-acts-orders-and-regulations.html#healthcare) |
-|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeff Leek], [Amy Paguirigan], [Jenny Weddle], [Christopher Lo]|
+|Content Editor(s)/Reviewer(s) | [Sitapriya Moorthi], [Jeffrey Leek], [Amy Paguirigan], [Jenny Weddle], [Christopher Lo]|
 |Content Director(s) |[Jeff Leek] , [Elizabeth Humphries] |
-|Content Consultants | [Robert McDermott], [Jenny Weddle], [Adina Mueller]|
+|Content Consultants | [Robert McDermott], [Jennifer Weddle], [Adina Mueller]|
 |**Production**||
 |Content Publisher(s)| [Shasta Nicholson]|
 |Content Publishing Reviewer(s)| [Ava Hoffman], [Carrie Wright], [Candace Savonen],[Elizabeth Humphries] |
@@ -52,6 +52,7 @@ These credits are based on our [course contributors table guidelines](https://ww
 ##  package     * version date       lib source                            
 ##  assertthat    0.2.1   2019-03-21 [1] RSPM (R 4.0.5)                    
 ##  bookdown      0.24    2023-03-28 [1] Github (rstudio/bookdown@88bc4ea) 
+##  bslib         0.4.2   2022-12-16 [1] CRAN (R 4.0.2)                    
 ##  cachem        1.0.7   2023-02-24 [1] CRAN (R 4.0.2)                    
 ##  callr         3.5.0   2020-10-08 [1] RSPM (R 4.0.2)                    
 ##  cli           3.6.1   2023-03-23 [1] CRAN (R 4.0.2)                    
@@ -65,6 +66,8 @@ These credits are based on our [course contributors table guidelines](https://ww
 ##  fs            1.5.0   2020-07-31 [1] RSPM (R 4.0.3)                    
 ##  glue          1.4.2   2020-08-27 [1] RSPM (R 4.0.5)                    
 ##  htmltools     0.5.5   2023-03-23 [1] CRAN (R 4.0.2)                    
+##  jquerylib     0.1.4   2021-04-26 [1] CRAN (R 4.0.2)                    
+##  jsonlite      1.7.1   2020-09-07 [1] RSPM (R 4.0.2)                    
 ##  knitr         1.33    2023-03-28 [1] Github (yihui/knitr@a1052d1)      
 ##  magrittr      2.0.3   2022-03-30 [1] CRAN (R 4.0.2)                    
 ##  memoise       2.0.1   2021-11-26 [1] CRAN (R 4.0.2)                    
@@ -78,6 +81,7 @@ These credits are based on our [course contributors table guidelines](https://ww
 ##  rlang         1.1.0   2023-03-14 [1] CRAN (R 4.0.2)                    
 ##  rmarkdown     2.10    2023-03-28 [1] Github (rstudio/rmarkdown@02d3c25)
 ##  rprojroot     2.0.3   2022-04-02 [1] CRAN (R 4.0.2)                    
+##  sass          0.4.5   2023-01-24 [1] CRAN (R 4.0.2)                    
 ##  sessioninfo   1.1.1   2018-11-05 [1] RSPM (R 4.0.3)                    
 ##  stringi       1.5.3   2020-09-09 [1] RSPM (R 4.0.3)                    
 ##  stringr       1.4.0   2019-02-10 [1] RSPM (R 4.0.3)                    
@@ -97,14 +101,14 @@ These credits are based on our [course contributors table guidelines](https://ww
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
 [Ava Hoffman]: https://www.avahoffman.com/
-[Jeff Leek]: https://jtleek.com/
+[Jeffrey Leek]: https://jtleek.com/
 [Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b
 [Shasta Nicholson]: https://www.linkedin.com/in/shastanicholson
 [Sandy Ombrek]: https://www.linkedin.com/in/sandy-ormbrek-1410b113
 [Elizabeth Humphries]: https://www.linkedin.com/in/elizabeth-humphries-61202a103/
 [Christopher Lo]: https://www.linkedin.com/in/christopher-lo-23316221b/
 [Sitapriya Moorthi]: https://www.linkedin.com/in/sitapriyamoorthi/
-[Jenny Weddle]: https://hutchdatascience.org/ourteam/
+[Jennifer Weddle]: https://hutchdatascience.org/ourteam/
 [Robert McDermott]: https://www.linkedin.com/in/robert-mcdermott-a77b9011/
 [Adina Mueller]: https://www.linkedin.com/in/adina-mueller-575aaa/
 [Maleah O'Conner]: https://hutchdatascience.org/ourteam/

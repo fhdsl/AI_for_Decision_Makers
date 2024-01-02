@@ -4,7 +4,7 @@
 
 A good AI policy should guide an organization on AI uses that adhere to the necessary laws and regulations. With generative AI still new in many fields, from medicine to law, regulations are rapidly evolving. A landmark provisional deal on AI regulation was reached by the European Parliament and Council on December 8, 2023, with the [EU AI Act](https://artificialintelligenceact.eu/documents/)). These guidelines laid out in this document apply to AI regulation and use within the 27-member EU bloc, as well as to foreign companies that operate within the EU. It is likely the EU AI Act will serve as a model for AI laws around the globe, for both individual countries and industries.
 
-![](resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-docx//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g1965a5f7f0a_0_44.png){width=100%}
+<img src="resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-html//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g1965a5f7f0a_0_44.png" width="100%" />
 
 Countries outside of the EU are drafting their own laws, orders, and standards surrounding AI use, so you and your employees will need to do some research on what it and is not allowed in your local area. **Always consult your legal council about the AI regulations that apply to you.**
 
@@ -16,7 +16,7 @@ Countries outside of the EU are drafting their own laws, orders, and standards s
 
 According to EU policymakers involved in writing the AI Act, the goal of the Act is to regulate AI in order to limit its capacity to cause harm. The political agreement covers the use of AI in biometric surveillance (such as facial recognition), as well as guidance on regulations for LLMs. The EU AI Act divides AI-based products into levels based on how much risk each product might pose to things like data privacy and protection. Higher-risk products with a greater capacity to cause harm face more stringent rules and regulations. Most current AI uses (like systems that make recommendations) will not fall into this higher-risk category.
 
-![](resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-docx//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_gcf1264c749_0_135.png){width=100%}
+<img src="resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-html//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_gcf1264c749_0_135.png" width="100%" />
 
 Final details are still being worked out, but we do know several important aspects of this Act.
 
@@ -50,7 +50,7 @@ More information about the EU's AI Act can be found in these sources.
 
 Some individual industries have already begun adopting policies about generative AI. They may also have long-standing policies in place about the use of other forms of AI, like machine learning. Some countries have also begun creating policies for specific industries and fields. When in doubt, always check with the experts within your organization about what AI policies exist for your industry.
 
-![](resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-docx//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g2a84ae71e54_0_67.png){width=100%}
+<img src="resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-html//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g2a84ae71e54_0_67.png" width="100%" />
 
 # Case Studies
 

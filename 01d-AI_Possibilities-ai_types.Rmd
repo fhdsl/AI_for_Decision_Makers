@@ -178,3 +178,16 @@ Diffusion models adjust noise to generate new content, such as images.
 <div class = disclaimer>
 `r config::get("disclaimer")`
 </div>
+
+# DISCUSSION AI Types
+
+<div class = reflection>
+1. Discuss some of the strengths and weaknesses of different AI techniques covered in the chapter. When might certain approaches be preferable over others given the available data or task?
+
+1. Reflect on the different definitions and terminology covered regarding AI types. What stood out to you? What questions do you still have?
+</div>
+
+<br>
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>

@@ -1,13 +1,70 @@
 
 - typeName: multipleChoice
-  prompt: Here is a sample question?
+  prompt: What capability allows AI to complete partial or missing text in documents?
+
   shuffleOptions: true
   options:
-    - answer: Correct Answer
+    - answer: Contextual understanding
+      isCorrect: false
+    - answer: Text completion and generation
+      isCorrect: false
+    - answer: Domain-specific language generation
+      isCorrect: false
+    - answer: All of the above
       isCorrect: true
-    - answer: Incorrect
+
+- typeName: multipleChoice
+  prompt: Which of the following is an example of using AI for idea generation?
+
+  shuffleOptions: true
+  options:
+    - answer: Summarizing a dissertation
       isCorrect: false
-    - answer: Incorrect
+    - answer: Providing potential hypotheses for gene-disease relationships
+      isCorrect: true
+    - answer: Annotating a textbook
       isCorrect: false
-    - answer: Incorrect
+    - answer: Cleaning data for analysis
       isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is an example of using AI for planning and organizing?
+
+  shuffleOptions: true
+  options:
+    - answer: Generating code for a software project
+      isCorrect: false
+    - answer: Translating legal documents
+      isCorrect: false
+    - answer: Creating an agenda for a business meeting
+      isCorrect: true
+    - answer: Correcting grammar errors in a paper
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is an example of using AI to modify or generate text?
+
+  shuffleOptions: true
+  options:
+    - answer: Altering an email to be more empathetic
+      isCorrect: false
+    - answer: Translating text into another language
+      isCorrect: false
+    - answer: Summarizing legal documents for broader audiences
+      isCorrect: false
+    - answer: All of the above
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: In which sector might domain-specific language generation be particularly beneficial for text mining models?
+
+  shuffleOptions: true
+  options:
+    - answer: Healthcare
+      isCorrect: false
+    - answer: Law
+      isCorrect: false
+    - answer: Academia
+      isCorrect: false
+    - answer: In any industry using specialized terminology or jargon
+      isCorrect: true

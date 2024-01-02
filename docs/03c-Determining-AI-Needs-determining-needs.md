@@ -26,14 +26,14 @@ A project that is ill defined is doomed to fail or worse be a chronic headache a
 
 In this chapter we will describe the questions and considerations you should contemplate while planning for an AI project. The first of such considerations is basic: What are your goals and uses cases and how are these use cases something that is not currently achievable by currently existing other products?
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_418.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_418.png" width="100%" />
 
 Please take a moment now to jot down answers to the above questions for your project's goals.
 
 
 Let’s return to our oversimplified machine learning machine to discuss our possible case categories.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_198.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_198.png" width="100%" />
 
 Recall that we've described AI tools as having the following:
 
@@ -56,7 +56,7 @@ However, these are increasingly doable needs to address. There are a growing num
 
 Perhaps the most common AI need is customized knowledge. This means that existing AI tools are not properly trained for the use case. Perhaps the input is domain specific and the training data or training methods have not adequately prepared existing models to provide useful output.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_231.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_231.png" width="100%" />
 
 Perhaps the output of existing AI models is incorrect, not useful or even harmful. This means some better training is needed in order to meet your AI needs.
 
@@ -65,7 +65,7 @@ Perhaps the output of existing AI models is incorrect, not useful or even harmfu
 Many field have data that could benefit from AI tools but may be dealing with data that is private and needs protection. It is highly dangerous and probably illegal in many cases to share protected data with commercial AI platforms. So customized security solutions for AI tools is not an uncommon use case.
 
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_256.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_256.png" width="100%" />
 
 This doesn't mean protected data can't be used with AI tools, but it does mean the AI solutions involved with projects with protected data need to be very carefully planned and constructed. And respective experts should be consulted about these solutions to make sure patients or customer's data is being kept safe!
 
@@ -73,7 +73,7 @@ This doesn't mean protected data can't be used with AI tools, but it does mean t
 
 Perhaps your project could benefit from the power of AI but you need to do this automatically or you need your users to access AI tools from a customized interface.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_24.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_24.png" width="100%" />
 
 This *may* be the most straightforward of the AI needs. An increasing number of AI tools have APIs available that can be used underneath the hood of your AI project.
 
@@ -87,13 +87,13 @@ Lastly, if none of the above describe your customized needs; you may want to con
 
 Don't let the glitter of AI commit you and your team to a project that is ill defined!
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_142.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_142.png" width="100%" />
 
 Carefully consider what the project truly needs. Which of these needs are non negotiable versus "nice to have"? Note that if you are working with protected data, protecting this data is never negotiable, but other customized needs may be.  
 
 Below is a very general breakdown of what types of solutions will likely be a part of your AI project based on what needs you've identified.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_374.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_374.png" width="100%" />
 
 For each type of need there is often a continuum of solutions that require less to more investment that we will discuss examples of in the upcoming chapters.
 
@@ -105,7 +105,7 @@ For each type of need there is often a continuum of solutions that require less 
 
 As with most management decisions, it's never as simple as deciding what the project needs, its also necessary to evaluate what expertise, resources, and time you have available to you and your team.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_189.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_189.png" width="100%" />
 
 **You need to evaluate:**  
 1. the technical expertise you have available to you
@@ -118,13 +118,13 @@ What technical expertise you have available on your team?
 If you do not have the expertise needed for your strategy, will you be able to use funds to hire someone who does? Can you involve a collaborator who has a team with complementary technical expertise to what your team provides? You also need to consider possible staff turnover if you are in an academic institution or other system where this is expected. Staff turnovers will make software development projects take longer even if the knowledge transfer between staff is optimized.
 
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_131.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_131.png" width="100%" />
 
 The more customization needs your project will need, the more you will need more technical expertise support on your team. Lone developer situations are not ideal; team work is better for development.
 
 In this table we describe what kinds of technical expertise you will likely need on your team based on what kinds of customization AI needs your project entails. Keep in mind you can likely minimize these staffing needs if you pay for products that are prepackaged. Prepackaged products (which we will discuss in future chapters) generally require less expertise but will not allow you the same freedom for more granular customization.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_91.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_91.png" width="100%" />
 
 - For knowledge needs, you will likely require a team who is comfortable with data handling techniques. It will also be ideal if they have a certain knowledge of machine learning algorithms.
 - For security needs, it’s likely you will need someone comfortable with back end development and secure computing. Depending on your strategies with this need, it would also be good if you have a front end developer’s help.
@@ -137,7 +137,7 @@ Funding needs for AI projects is not necessarily straightforward. there are a nu
 
 Two major categories of costs include **computing** and **staffing**
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_461.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_461.png" width="100%" />
 #### Computing costs
 
 AI projects can be costly. And this is true whether you use a "prepackaged" AI solution or build one from scratch.
@@ -150,11 +150,11 @@ It is a good idea to estimate your computing costs before you begin your project
 - Given the answers to the above, how many users would you be able to accommodate for a given for a given day/month/year? -- expect the best/worst case scenario of your tool being massively popular!
 - Will users being paying for this service? Will the rate at which they pay cover your computing and staffing costs?
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_541.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_541.png" width="100%" />
 
 Whether you build "from scratch" or borrow commercial AI tools, you will likely not be able to avoid computing costs. Keep in mind that for certain levels of usage [it may not actually be more cost effective to run your own computing infrastructure.](https://lajavaness.medium.com/llm-large-language-model-cost-analysis-d5022bb43e9e)
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_541.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g1ed2b5c8ee1_0_541.png" width="100%" />
 
 In this computing cost analysis graph from La Javaness R&D, they demonstrated how after a certain level of usage it is actually more cost effective to outsource infrastructure to ChatGPT's API instead of building their own model and hosting it themselves.
 
@@ -173,7 +173,7 @@ It's not just about developers. Ideally you would also have:
 
 Time is a resource. For the purposes of your AI tool project goals, you should assess how much time you have. When determining how you will meet your AI strategy needs is how quickly you need these AI needs to be met.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_101.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_101.png" width="100%" />
 
 - How quickly does this need to be ready? And what is determining that deadline? Can these deadlines be pushed?
 - How long does this AI tool need to be maintained?
@@ -189,7 +189,7 @@ These example project strategies are in the order of least to most resource and 
 
 In the left most column is described what kinds of customizations are able to be made given the described strategy.
 
-![](03c-Determining-AI-Needs-determining-needs_files/figure-docx//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_150.png){width=100%}
+<img src="03c-Determining-AI-Needs-determining-needs_files/figure-html//1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4_g2a6104c5b4d_0_150.png" width="100%" />
 
 - In the example column we have links to resources and platforms that would be a central point or product for this strategy.
 - The technical expertise column describes vaguely how much technical expertise in house you would need to deploy the example strategy.

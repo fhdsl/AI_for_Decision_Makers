@@ -13,19 +13,19 @@ Even if we are sure that the sample is representative of the population, a diffe
 
 There are many other sources of unfairness in model development - see @baker_algorithmic_2022. 
 
-![](resources/images/02ba-Effective-use-training-testing_files/figure-docx//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_0.png){width=100%}
+<img src="resources/images/02ba-Effective-use-training-testing_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_0.png" title="An image showing a larger circle indicating the population of all photos of all dogs in the world and a smaller circle within that circle depicting a sample of 1000 dog photos'." alt="An image showing a larger circle indicating the population of all photos of all dogs in the world and a smaller circle within that circle depicting a sample of 1000 dog photos'." width="100%" style="display: block; margin: auto;" />
 
 
 ## Training data
 
-![](resources/images/02ba-Effective-use-training-testing_files/figure-docx//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_22.png){width=100%}
+<img src="resources/images/02ba-Effective-use-training-testing_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_22.png" title="An image of possible training data of photos of different dog breeds'." alt="An image of possible training data of photos of different dog breeds'." width="100%" style="display: block; margin: auto;" />
 
 
 The above image depicts some of our samples for building an artificial intelligence model to classify dog photographs based on their breeds. Each dog photograph has a corresponding label that gives the correct dog breed, and the goal of the model training process is to have the artificial intelligence model learn the association between photograph and dog breed label. For now, we will use *all of our samples for training the model*. The data we use for model training is called the **training data**. Then, once the model is trained and has learned the association between photograph and dog breed, the model will be able make new predictions: given a new dog image without its breed label, the model will make a prediction of what its breed label is. 
 
 ## Testing data
 
-![](resources/images/02ba-Effective-use-training-testing_files/figure-docx//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_28.png){width=100%}
+<img src="resources/images/02ba-Effective-use-training-testing_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_28.png" title="An image of possible testing data of photos of different dog breeds, including 3 of the exact images shown in the training data'." alt="An image of possible testing data of photos of different dog breeds, including 3 of the exact images shown in the training data'." width="100%" style="display: block; margin: auto;" />
 
 
 To evaluate how well this model is good as predicting dog breeds from dog images, we need to use some of our samples to evaluate our model. The samples being used for model evaluation is called the **testing data**. For instance, suppose we used these four images to score our model. We give it to our trained model without the true breed label, and then the model makes a prediction on the breed. Then we compare the predicted breed label with the true label to compute the model accuracy. 
@@ -34,24 +34,24 @@ To evaluate how well this model is good as predicting dog breeds from dog images
 ## Evaluation
 
 
-![](resources/images/02ba-Effective-use-training-testing_files/figure-docx//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_38.png){width=100%}
+<img src="resources/images/02ba-Effective-use-training-testing_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_38.png" title="An image of possible testing data of photos of different dog breeds, including 4 of the images show in the training data and the accuracy value of 74%." alt="An image of possible testing data of photos of different dog breeds, including 4 of the images show in the training data and the accuracy value of 74%." width="100%" style="display: block; margin: auto;" />
 
 Suppose we get 3 out of 4 breed predictions correct. That would be an accuracy of 75 percent.
 
 ## Proper separation of Training and Testing data
 
-![](resources/images/02ba-Effective-use-training-testing_files/figure-docx//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_57.png){width=100%}
+<img src="resources/images/02ba-Effective-use-training-testing_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_57.png" title="An of the dog photos showing that the testing and training data had the same images." alt="An of the dog photos showing that the testing and training data had the same images." width="100%" style="display: block; margin: auto;" />
 
 
 However, we have inflated our model evaluation accuracy. The samples we used for model evaluation were also used for model training! Our training and testing data are not independent of each other. Why is this a problem? When we train a model, the model will naturally perform well on the training data, because the model has seen it before. This is called **Overfitting**. In real life, when the dog breed image labeling system is deployed, the model would not be seeing any dog images it has seen in the training data. Our model evaluation accuracy is likely too high because it is evaluated on data it was trained on. 
 
 
-![](resources/images/02ba-Effective-use-training-testing_files/figure-docx//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_65.png){width=100%}
+<img src="resources/images/02ba-Effective-use-training-testing_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_65.png" title="An image showing that the testing and training dataset should be separate from one another, so 4 images used for testing are now not included in the training set." alt="An image showing that the testing and training dataset should be separate from one another, so 4 images used for testing are now not included in the training set." width="100%" style="display: block; margin: auto;" />
 
 Let’s fix this. Given a sample, we split it into two independent groups for training and testing. We use the training data for training the model, and we use the testing data for evaluating the model. They don’t overlap. 
 
 
-![](resources/images/02ba-Effective-use-training-testing_files/figure-docx//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_75.png){width=100%}
+<img src="resources/images/02ba-Effective-use-training-testing_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_75.png" title="An image that the accuracy with this independent test set is now 50%." alt="An image that the accuracy with this independent test set is now 50%." width="100%" style="display: block; margin: auto;" />
 
 When we evaluate our model under this division of training and testing data, our accuracy will look a bit lower compared to our first scenario, but that is more realistic of what happens in the real world. Our model evaluation needs to be a simulation of what happens when we deploy our model into the real world! 
 

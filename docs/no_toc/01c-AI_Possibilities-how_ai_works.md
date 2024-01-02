@@ -47,7 +47,7 @@ The tech industry's lack of diversity contributes to these issues, often leading
 Large Language Models (LLMs), which we will cover later, are great examples of using high quantity and quality of data. Think about how much text information is freely available on the internet! Throughout the internet, we're much more likely to see the phrase "cancer is a disease" than "cancer is a computer program". Many LLMs are trained on sources like [Wikipedia](https://www.wikipedia.org/), which are typically grammatically sound and informative, leading to higher quality output.
 
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2a3877ab699_0_79.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_1_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 <div class = "ethics"> 
 It is **essential** that you and your team think critically about data sources. Many companies releasing generative AI systems have come under fire for training these systems on data that doesn't belong to them [@Walsh2023]. Individual people also have a right to data privacy. No personal data should be used without permission, even if that data could be interesting or useful.  
@@ -154,6 +154,19 @@ Like transformers, diffusion models are useful for generative AI, particularly i
 In our skin cancer detection example, an AI system required lots of data labeled with information ("cancer" or "not cancer"). An algorithm looked for patterns between these two groups and then provided the results via an interface. This AI is an example of discriminative AI. 
 
 Since the early 2020s, generative AI has exploded in popularity, assisted by transformer and diffusion models, among other advancements. These technologies have allowed AI to excel at creating new content, by recognizing deeper context and patterns.
+
+<br>
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
+# DISCUSSION How AI Works
+
+<div class = reflection>
+1. Compare and contrast discriminative vs generative AI. When might each approach be most useful? What are some benefits and limitations of each?
+
+1. Early detection of diseases like skin cancer using AI could help save lives. What challenges or limitations might exist in real-world applications of such a system? How could the interface be designed with care, transparency and privacy in mind?
+</div>
 
 <br>
 <div class = disclaimer>

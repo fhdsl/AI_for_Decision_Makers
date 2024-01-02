@@ -1,13 +1,168 @@
 
 - typeName: multipleChoice
-  prompt: Here is a sample question?
+  prompt: According to the course, AI systems today can be described as.. ?
+
   shuffleOptions: true
   options:
-    - answer: Correct Answer
+    - answer: Narrowly focused on specific tasks
       isCorrect: true
-    - answer: Incorrect
+    - answer: Able to perform any intellectual task like humans
       isCorrect: false
-    - answer: Incorrect
+    - answer: Limited to only supervised learning problems
       isCorrect: false
-    - answer: Incorrect
+    - answer: Fully self-aware and able to make completely independent decisions
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: which of the following is NOT a criterion for something to be considered AI?
+
+  shuffleOptions: true
+  options:
+    - answer: It must demonstrate adaptability and training with new data.
+      isCorrect: false
+    - answer: It must have an algorithm trained on a dataset.
+      isCorrect: false
+    - answer: It must have a physical interface.
+      isCorrect: false
+    - answer: It must perform only predefined tasks without adaptation.
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Which is not a part of our AI framework?
+
+  shuffleOptions: true
+  options:
+    - answer: Interface
+      isCorrect: false
+    - answer: Datasets
+      isCorrect: false
+    - answer: Efficiency
+      isCorrect: true
+    - answer: Algorithms
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is an example of generative AI?
+
+  shuffleOptions: true
+  options:
+    - answer: Facial recognition software
+      isCorrect: false
+    - answer: A spam filtering system
+      isCorrect: false
+    - answer: An AI-generated painting created from a text prompt
+      isCorrect: true
+    - answer: An AI that detects cancerous skin lesions
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which type of model is especially useful for text generation?
+
+  shuffleOptions: true
+  options:
+    - answer: Diffusion models
+      isCorrect: false
+    - answer: Convolutional neural networks
+      isCorrect: false
+    - answer: Transformer models
+      isCorrect: true
+    - answer: Recurrent neural networks
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which is an important consideration when developing AI interfaces?
+
+  shuffleOptions: true
+  options:
+    - answer: Ensuring high prediction accuracy
+      isCorrect: false
+    - answer: Notifying users of serious medical risks
+      isCorrect: false
+    - answer: Protecting privacy of user-submitted data
+      isCorrect: true
+    - answer: Maximizing data collection from users
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of these is an example of an AI system powered by natural language processing?
+
+  shuffleOptions: true
+  options:
+    - answer: Google Translate
+      isCorrect: true
+    - answer: Stable Diffusion
+      isCorrect: false
+    - answer: This Person Does Not Exist
+      isCorrect: false
+    - answer: Summarizing patient records with diabetes
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which type of AI model is central to advances in language understanding and generation?
+
+  shuffleOptions: true
+  options:
+    - answer: Natural language models
+      isCorrect: false
+    - answer: Transformer models
+      isCorrect: true
+    - answer: Generative adversarial networks
+      isCorrect: false
+    - answer: Diffusion models
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Why is deep learning especially useful for complicated data like images and text?
+
+  shuffleOptions: true
+  options:
+    - answer: It allows the model to automatically detect abstract patterns.
+      isCorrect: true
+    - answer: It uses a simple architecture that is computationally inexpensive.
+      isCorrect: false
+    - answer: It requires small amounts of training data.
+      isCorrect: false
+    - answer: It does not require human judgement and supervision.
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is an example of using AI for text mining?
+
+  shuffleOptions: true
+  options:
+    - answer: Summarizing legal documents
+      isCorrect: true
+    - answer: Planning a conference agenda
+      isCorrect: false
+    - answer: Generating synthetic data
+      isCorrect: false
+    - answer: Modifying an angry email
+      isCorrect: false
+
+- typeName: multipleChoice
+  prompt: An example of using AI for automation would be..?
+
+  shuffleOptions: true
+  options:
+    - answer: Writing full research project proposals
+      isCorrect: false
+    - answer: Testing models using sparse, unstructured data
+      isCorrect: false
+    - answer: All of the above
+      isCorrect: false
+    - answer: Converting physician dictations to text format
+      isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Why can idea generation with AI help spark new ideas and creativity?
+
+  shuffleOptions: true
+  options:
+    - answer: Models never identify connections in data
+      isCorrect: false
+    - answer: It provides a starting point or scaffold for brainstorming
+      isCorrect: true
+    - answer: AI creative output is more consistent than humans
+      isCorrect: false
+    - answer: AI surpasses human intellectual capacity for insights
       isCorrect: false

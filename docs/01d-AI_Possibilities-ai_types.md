@@ -23,7 +23,7 @@ Neural networks organize data into layers, starting with an "input layer" of raw
 
 Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. [Google](https://about.google/) uses a neural network to power its search algorithm [@ibm2023]. Neural networks also do a pretty good job of recognizing human handwritten digits. 
 
-![](resources/images/01d-AI_Possibilities-ai_types_files/figure-docx//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png){width=100%}
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Deep Learning
 
@@ -31,7 +31,7 @@ Neural networks often require large amounts of labeled data for training, and th
 
 [Google Translate](https://translate.google.com/) has used deep learning to accurately translate text since 2016 [@Turner2016]. However, generative AI methods started being incorporated in the 2020s [@Gu2023].
 
-![](resources/images/01d-AI_Possibilities-ai_types_files/figure-docx//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_434.png){width=100%}
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_434.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Generative AI
 
@@ -45,7 +45,7 @@ The transformer architecture uses something called **self-attention** to figure 
 
 Do we say transformer model or transformer architecture? Transformer architecture refers to the overall design, or "transformers" generally speaking. We use the term "transformer model" when dealing with a specific example, such as the GPT (Generative Pre-trained Transformer) model.
 
-![](resources/images/01d-AI_Possibilities-ai_types_files/figure-docx//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_6.png){width=100%}
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_6.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Large Language Model
 
@@ -63,7 +63,7 @@ The process of interpreting a user prompt for a GPT model might go as follows:
 
 1. Decoders generate the output that the user sees.
 
-![](resources/images/01d-AI_Possibilities-ai_types_files/figure-docx//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_170.png){width=100%}
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_170.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Diffusion Model
 
@@ -71,7 +71,7 @@ Diffusion models are a type of **deep generative model**. They are particularly 
 
 A very popular diffusion model is used by [Stable Diffusion](https://stability.ai/) for real-time text-to-image generation.
 
-![](resources/images/01d-AI_Possibilities-ai_types_files/figure-docx//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_339.png){width=100%}
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_339.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Variational Autoencoders (VAEs)
 
@@ -161,6 +161,19 @@ Transformer architecture is central to many of today’s Large Language Models a
 
 Diffusion models adjust noise to generate new content, such as images.
 
+
+<br>
+<div class = disclaimer>
+**Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
+</div>
+
+# DISCUSSION AI Types
+
+<div class = reflection>
+1. Discuss some of the strengths and weaknesses of different AI techniques covered in the chapter. When might certain approaches be preferable over others given the available data or task?
+
+1. Reflect on the different definitions and terminology covered regarding AI types. What stood out to you? What questions do you still have?
+</div>
 
 <br>
 <div class = disclaimer>
