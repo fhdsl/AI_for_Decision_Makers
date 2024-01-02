@@ -31,12 +31,16 @@ Introduction-to-Exploring-AI-Possibilities.md
 VIDEO-Introduction-to-Exploring-AI-Possibilities.md
 VIDEO-What-Is-AI.md
 What-Is-Artificial-Intelligence.md
+DISCUSSION-Is-It-AI.md
 VIDEO-How-AI-Works.md
 How-AI-Works.md
+DISCUSSION-How-AI-Works.md
 VIDEO-Different-Types-of-AI.md
 Demystifying-Types-of-AI.md
+DISCUSSION-AI-Types.md
 VIDEO-Real-Life-Possibilities.md
 What-AI-Makes-Possible.md
+DISCUSSION-AI-Possibilities.md
 Ground-Rules-for-AI.md
 VIDEO-Knowing-the-Ground-Rules.md
 AI-Possibilities-Case-Studies.md
