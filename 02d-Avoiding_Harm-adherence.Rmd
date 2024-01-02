@@ -109,12 +109,16 @@ Only using one AI tool can increase the risk of the ethical issues discussed. Fo
 
 ### Tips for using multiple AI tools
 
-
+For decision makers about AI users:
 
 - Check that each tool you are using meets the privacy and security restrictions that you need.
 - Utilize platforms that make it easier to use multiple AI tools, such as https://poe.com/, which as access to many tools, or [Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/), which actually has a feature to send the same prompt to multiple tools automatically, including for more advanced usage in the development of models based on modifying existing foundation models.
 - Evaluate the results of the same prompt multiple times with the same tool to see how consistent it is overtime. 
 - Use slightly different prompts to see how the response may change with the same tool.
+- Consider if using tools that work with different types of data maybe helpful for answering the same question.
+
+For decision makers about AI developers:
+
 - Consider if using different types of data maybe helpful for answering the same question.
 
 
