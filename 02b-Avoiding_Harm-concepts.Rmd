@@ -273,11 +273,18 @@ It is important to follow legal and ethical guidance around the collection of da
 
 ### Tips for reducing security and privacy issues
 
+For decision makers about AI users:
+
 * Check that no sensitive data, such as Personal Identifiable Information (PII) or propriety information becomes public through prompts to consumer AI systems or systems not designed or set up with the right legal agreements in place for sensitive data.
 * Consider purchasing a license for a private AI system if needed or create your own if you wish to work with sensitive data (seek expert guidance to determine if the AI systems are secure enough).
-* Promote for regulation of AI tools by voting for standards where possible.
 * Ask AI tools for help with security when using consumer tools, but to not rely on them alone. In some cases, consumer AI tools will even provide little guidance about who developed the tool and what data it was trained on, regardless of what happens to the prompts and if they are collected and maintained in a secure way.
+* Promote regulation of AI tools by voting for standards where possible.
+
+For decision makers about AI developers:
+
 * Consult with an expert about data security if you want to design or use a AI tool that will regularly use private or propriety data.
+* Be clear with users about the limitations and security risks associated with tools that you develop.
+* Promote regulation of AI tools by voting for standards where possible.
 
 
 <div class = "query">
@@ -287,13 +294,36 @@ Are there any possible data security or privacy issues associated with the plan 
 
 ## Climate Impact
 
-The data storage and computing resources needed for AI could exacerbate climate challenges (@bender_dangers_2021).
+
+AI can help humans to innovate ways to improve efficiency and to devise strategies to help mitigate climate issues (@jansen_climate_2023; @cowls_ai_2023). Importantly this needs to be done in a manner with social justice in mind, as often those that have the least resources deal with climate issues are also the most likely to be impacted (@jansen_climate_2023; @bender_dangers_2021). 
+
+A few organizations are working on supporting the use of AI for climate crises mitigation uses such as:
+
+- AI for the Plane: https://www.aifortheplanet.org/en 
+- Climate Change AI (CCAI): https://www.climatechange.ai/about 
+
+
+However, AI also poses a number of climate risks (@bender_dangers_2021; @hulick_training_2021; @jansen_climate_2023; @cowls_ai_2023) .
+
+1) The data storage and computing resources needed for the development of AI tools could exacerbate climate challenges (@bender_dangers_2021)
+2) If not designed carefully, AI could also spread false solutions for climate crises  or promote inefficient practices (@jansen_climate_2023). 
+3) Differences in access to AI technologies may exacerbate social inequities related to climate (@hulick_training_2021)
 
 ## Tips for reducing climate impact
 
-- Thoughtful planning to efficiently modify existing models as opposed to unnecessarily creating new models from scratch is needed. 
+For decision makers about AI users:
+
+- Where possible use tools that are transparent about resource usage and that identify how they have attempted to improve efficiency
+
+
+For decision makers about AI developers:
+
+- Modify existing models as opposed to unnecessarily creating new models from scratch where possible.
+- Avoid using models with datasets that are unnecessarily large (@bender_dangers_2021)
 - Solutions such as [federated learning](https://research.ibm.com/blog/what-is-federated-learning), where AI models are iteratively trained in multiple locations using data at those locations, instead of collectively sharing the data to create more massive datasets can help [reduce](https://www.cam.ac.uk/research/news/can-federated-learning-save-the-world.) the required resources and also help preserve data privacy and security.
-- Avoid using models with datasets that unnecessarily large (@bender_dangers_2021)
+- Use [emerging tools and guidelines](https://upcommons.upc.edu/handle/2117/393798) to estimate and monitor the resource usage involved in training models (@castano_fernandez_greenability_2023).
+- Be transparent about resources used to train models (@castano_fernandez_greenability_2023).
+- Utilize data storage and computing options that are designed to be more environmentally conscious options, such as solar or wind power generated electricity.
 
 ## Transparency
 
