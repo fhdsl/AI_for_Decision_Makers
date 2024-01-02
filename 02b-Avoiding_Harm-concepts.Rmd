@@ -296,6 +296,7 @@ For decision makers about AI developers:
 
 
 <div class = "query">
+**Possible Generative AI Prompt:**
 Are there any possible data security or privacy issues associated with the plan you proposed?
 </div>
 

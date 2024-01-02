@@ -41,10 +41,12 @@ For decision makers about AI users:
 * Ask the AI tools to help you, but do not rely on them alone.
 
 <div class = "query">
+**Possible Generative AI Prompt:**
 What are the possible downstream uses of this content?
 </div>
 
 <div class = "query">
+**Possible Generative AI Prompt:**
 What are some possible negative consequences of using this content?
 </div>
 
@@ -76,6 +78,7 @@ For decision makers about AI users:
 
  
  <div class = query>
+**Possible Generative AI Prompt:**
 Can you explain how you generated this response?
 </div>
  
@@ -119,10 +122,12 @@ For decision makers about AI users:
 * Ask the AI tools for extra information about if there are any potential limitations or weaknesses in the responses, but keep in mind that the tool may not be aware of issues and therefore human review is required. The information provided by the tool can however be a helpful starting point.
 
 <div class = query>
+**Possible Generative AI Prompt:**
 Are there any limitations associated with this response?
 </div>
 
 <div class = query>
+**Possible Generative AI Prompt:**
 What assumptions were made in creating this content?
 </div>
 

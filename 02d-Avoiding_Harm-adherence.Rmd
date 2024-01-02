@@ -108,6 +108,7 @@ For decision makers about AI developers:
 
 
 <div class = "query">
+**Possible Generative AI Prompt:**
 Did this content use any content from others that I can cite?
 </div>
 

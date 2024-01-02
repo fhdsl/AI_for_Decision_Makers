@@ -76,6 +76,7 @@ For decision makers about AI users:
 
 
 :::{.query}
+**Possible Generative AI Prompt:**
 Why did you assume that the individual was male?
 :::
 
