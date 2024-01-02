@@ -29,9 +29,21 @@ This also gives you time to correspond with legal, equity, security, etc. expert
 
 ### Tips for starting slow
 
+For decision makers about AI users:
+
  * Consider an early adopters program to evaluate usage.
+ * Educate early users about the limitations of AI.
+ * Consider using AI first for more specific purposes.
  * Consult with experts about potential unforeseen challenges.
  * Continue to assess and evaluate AI systems over time.
+
+
+For decision makers about AI developers:
+
+ * Consider developing tools for more simple specific tasks, rather than broad difficult tasks.
+ * Cosider giving potential users guidance about using the tool for simpler tasks at first.
+ * Continue to assess and evaluate AI systems over time.
+
  
 <div class = example>
 
@@ -72,6 +84,7 @@ AI poses questions about how we define art and if AI will reduce the opportuniti
 </div>
 
 ### Tips for checking for allowed use
+
 
 * Be transparent about what AI tools you use to write your code. 
 * Obtain permission from the copyright holders of any content that you use to train an AI system. Only use content that has been licensed for use.
