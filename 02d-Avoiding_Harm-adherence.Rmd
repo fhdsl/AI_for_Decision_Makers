@@ -86,10 +86,16 @@ AI poses questions about how we define art and if AI will reduce the opportuniti
 ### Tips for checking for allowed use
 
 
-* Be transparent about what AI tools you use to write your code. 
+For decision makers about AI users:
+
+* Be transparent about what AI tools you use to create content. 
+* Ask the AI tools if the content it helped generate used any content that you can cite.
+
+For decision makers about AI developers:
+
 * Obtain permission from the copyright holders of any content that you use to train an AI system. Only use content that has been licensed for use.
 * Cite all content that you can.
-* Ask the AI tools if the content it helped generate used any content that you can cite.
+
 
 <div class = "query">
 Did this content use any content from others that I can cite?
@@ -102,6 +108,8 @@ Did this content use any content from others that I can cite?
 Only using one AI tool can increase the risk of the ethical issues discussed. For example, it may be easier to determine if a tool incorrect about a response if we see that a variety of tools have different answers to the same prompt. Secondly, as our technology evolves, some tools may perform better than others at specific tasks. It is also necessary to check responses over time with the same tool, to verify that a result is even consistent from the same tool.
 
 ### Tips for using multiple AI tools
+
+
 
 - Check that each tool you are using meets the privacy and security restrictions that you need.
 - Utilize platforms that make it easier to use multiple AI tools, such as https://poe.com/, which as access to many tools, or [Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/), which actually has a feature to send the same prompt to multiple tools automatically, including for more advanced usage in the development of models based on modifying existing foundation models.
