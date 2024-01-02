@@ -17,7 +17,7 @@ The use of artificial intelligence (AI) and in particular, generative AI, has ra
 
 ## Target Audience  
 
-This course is intended for leaders who might make decisions about AI at nonprofits, in industry, or academia. 
+This course is intended for leaders who might make decisions about AI at nonprofits, in industry, or academia. They may have an interest to use or develop AI tools.
 
 ## Curriculum
 

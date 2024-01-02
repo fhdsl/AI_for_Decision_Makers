@@ -4,6 +4,7 @@ exm:unlabeled-div-3
 exm:unlabeled-div-4
 exm:unlabeled-div-5
 exm:unlabeled-div-6
+exm:unlabeled-div-7
 specialization-sections
 available-course-formats
 video-summary-of-this-course
@@ -95,7 +96,7 @@ guidelines-for-responsible-development-and-use-of-ai.
 major-ethical-considerations
 intentional-and-inadvertent-harm
 tips-for-avoiding-inadvertent-harm
-replacing-humans-and-human-autonomy
+replacing-humans
 tips-for-supporting-human-contributions
 inappropriate-use-and-lack-of-oversight
 tips-for-avoiding-inappropriate-uses-and-lack-of-oversight
@@ -109,7 +110,7 @@ tips-for-reducing-security-and-privacy-issues
 climate-impact
 tips-for-reducing-climate-impact
 transparency
-tips-for-being-transparent-in-your-use-of-ai
+tips-for-being-transparent
 summary-3
 effective-use-of-training-and-testing-data
 population-and-sample
@@ -138,13 +139,14 @@ educate-yourself-and-others
 tips-to-educate-yourself-and-others
 summary-5
 consent-and-ai
+tips-to-encourage-responsible-consent-practices
 summary-6
 idare-and-ai
 ai-is-biased
 examples-of-ai-bias
 amazons-resume-system-was-biased-against-women
 x-ray-studies-show-ai-surprises
-mitigation
+tips-for-mitigating-bias
 be-extremely-careful-using-ai-for-decisions
 more-inclusive-teams-means-better-models
 access
