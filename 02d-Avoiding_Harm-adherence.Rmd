@@ -148,11 +148,21 @@ As a result, the Italian Data Protection Authority has banned ChatGPT, while Ger
 
 ### Tips to educate yourself and others
 
+For decision makers about AI users:
 
-* Emphasize the importance of training and education
+* Emphasize the importance of training and education.
 * Recognize that general AI literacy to better understand how AI works, can help individuals use AI more responsibly.
-* Seek existing education content made by experts that can possibly be modified for your use case
+* Seek existing education content made by experts that can possibly be modified for your use case.
 * Consider how often people will need to be reminded about best practices. Should training be required regularly? Should individuals receive reminders about best practices especially in contexts in which they might use AI tools.
+* Make your best practices easily findable and help point people to the right individuals to ask for guidance.
+* Recognize that best practices for AI will likely change frequently in the near future as the technology evolves, education content should be updated accordingly.
+
+For decision makers about AI developers:
+
+* Emphasize the importance of training and education.
+* Recognize that more AI literacy to better understand security, privacy, bias, climate impact and more can help individuals develop AI more responsibly.
+* Seek existing education content made by experts that can possibly be modified for your use case.
+* Consider how often people will need to be reminded about best practices. Should training be required regularly? Should individuals receive reminders about best practices especially in contexts in which they might develop AI tools.
 * Make your best practices easily findable and help point people to the right individuals to ask for guidance.
 * Recognize that best practices for AI will likely change frequently in the near future as the technology evolves, education content should be updated accordingly.
 
