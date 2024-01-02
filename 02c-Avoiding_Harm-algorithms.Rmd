@@ -37,11 +37,6 @@ For decision makers about AI users:
 * Consider how the content might be used by others unintended purposes.
 * Ask the AI tools to help you, but do not rely on them alone.
 
-For decision makers about AI developers:
-
-* If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as [Amazon Bedrock](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/) have tools for evaluating [toxicity](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f) to test for harmful responses. Although such systems can be helpful to automatically test, evaluation should also be done directly by humans.
-* Consider how the content from AI tools that you design might be used by others for unintended purposes.
-
 <div class = "query">
 What are the possible downstream uses of this content?
 </div>
@@ -49,6 +44,13 @@ What are the possible downstream uses of this content?
 <div class = "query">
 What are some possible negative consequences of using this content?
 </div>
+
+For decision makers about AI developers:
+
+* If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as [Amazon Bedrock](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/) have tools for evaluating [toxicity](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f) to test for harmful responses. Although such systems can be helpful to automatically test, evaluation should also be done directly by humans.
+* Consider how the content from AI tools that you design might be used by others for unintended purposes.
+* Monitor your tools for unusal and harmful responses.
+
 
 
 ## Lack of Interpretability
@@ -63,13 +65,24 @@ This could result in negative consequences, such as for example reliance on a sy
 
 ### Tips for avoiding a lack of interpretability
 
+For decision makers about AI users:
+
  * Content should be reviewed by those experienced in the given field.
- * Ask AI tools to help you understand the how it got to the response that it did, but get expert assistance where needed.
- * New AI tools should be designed with interpretability in mind.
+ * Ask AI tools to help you understand how it got to the response that it did, but get expert assistance where needed.
+ * Always consider how an AI system derived a decision if the decision is being used for something that impacts humans
+
  
-<div class = query>
+ <div class = query>
 Can you explain how you generated this response?
 </div>
+ 
+For decision makers about AI developers:
+
+ * New AI tools should be designed with interpretability in mind, simpler models may make it easier to interpret results.
+ * Responses from new tools should be reviewed by those experienced in the given field.
+ * Provide transparency to users about how new AI tools generally create responses.
+ 
+
 
 ## Misinformation and Faulty Responses
 
