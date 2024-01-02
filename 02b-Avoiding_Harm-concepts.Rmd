@@ -336,9 +336,16 @@ This transparency is important for people to understand how decisions are made u
 It also better helps us to understand what AI systems may need to be fixed or adapted if there are issues.
 
 
-### Tips for being transparent in your use of AI
+### Tips for being transparent
+
+For decision makers about AI users:
 
 - Where possible include the AI tool and version that you may be using and why so people can trace back where decisions or content came from
+- Use tools that are transparent about what data was used where possible
+
+
+For decision makers about AI developers:
+
 - Providing information about what training data was or methods used to develop new AI models can help people to better understand why it is working in a particular
 
 
