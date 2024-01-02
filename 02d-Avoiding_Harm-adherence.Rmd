@@ -27,6 +27,10 @@ Launching large projects using AI before you get a chance to test them could lea
 
 This also gives you time to correspond with legal, equity, security, etc. experts about the risks of your AI use. 
 
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image of a small robot."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_27")
+```
+
 ### Tips for starting slow
 
 For decision makers about AI users:
@@ -61,6 +65,12 @@ See here for addition info: https://ieeexplore.ieee.org/abstract/document/867851
 ## Check for Allowed Use
 
 When AI systems are trained on data, they may also learn and incorporate copyrighted information or protected intellectual property. This means that AI-generated content could potentially infringe on the copyright or protection of trademarks or patents of the original author. For more extreme examples, if an AI system is trained on an essay or art or  in some cases even code written by a human, the AI system could generate responses that are identical to or very similar to that of the original author, which some AI tools have done. Regardless, even training AI tools on copyrighted information where the responses are still relatively different, if the AI system uses this content without permission from the original author, this could constitute copyright or trademark infringement @brittain_more_2023.
+
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image of a robot checking lists on a bicycle."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_38")
+```
+
 
 <div class = example>
 
@@ -107,6 +117,11 @@ Did this content use any content from others that I can cite?
 
 Only using one AI tool can increase the risk of the ethical issues discussed. For example, it may be easier to determine if a tool incorrect about a response if we see that a variety of tools have different answers to the same prompt. Secondly, as our technology evolves, some tools may perform better than others at specific tasks. It is also necessary to check responses over time with the same tool, to verify that a result is even consistent from the same tool.
 
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image of a several different robots."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_22")
+```
+
 ### Tips for using multiple AI tools
 
 For decision makers about AI users:
@@ -129,6 +144,11 @@ There are many studies indicating that individuals typically want to comply with
 Properly educating those you wish to comply with standards, can better ensure that compliance actually happens.
 
 It is especially helpful if training materials are developed to be especially relevant to the actually potential uses by the individuals receiving training and if the training includes enough fundamentals so that individuals understand why policies are in place.
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An image of a robot teaching at a chalkboard."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_32")
+```
+
 
 <div class = "example">
 
