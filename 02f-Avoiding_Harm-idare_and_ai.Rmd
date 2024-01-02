@@ -15,6 +15,13 @@ Humans are biased, therefore data from text written by humans is often also bias
 
 To better understand your own personal bias, consider taking a test at https://implicit.harvard.edu/. 
 
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image of a mosaic robot"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_97")
+```
+
+
+
 It is nearly impossible to create a training dataset that is free from all possible bias and include all possible example data, so by necessity the data used to train AI systems are generally biased in some way and lack data about people across the full spectrum of backgrounds and life experiences. This can lead to AI-created products that cause discrimination, abuse, or neglect for certain groups of people, such as those with certain ethnic or cultural backgrounds, genders, ages, sexuality, capabilities, religions or other group affiliations. Our goal is to create and use AI systems that are as inclusive and unbiased as possible while also keeping in mind that the system is not perfect. 
 
 To learn more about how AI algorithms become biased, see https://www.criticalracedigitalstudies.com/peoplesguide. 
@@ -53,10 +60,19 @@ A magazine article describing this work stated:
 
 > In this case, researchers were training the models based on physician reports of pain, and since doctors are less likely to believe marginalized people when they report pain, this algorithm replicated this bias. When a team of computer scientists at the University of California, Berkeley, tweaked the algorithm to factor in patient pain reports rather than a physician’s, however, they eliminated that racial bias, paving the way for more equitable treatment of osteoarthritis." (@Arnold_23)
 
-## Mitigation
+### Tips for Mitigating Bias
 
-When working with AI systems, users should actively identify any potential biases used in the training data for a particular AI system. In particular, the user should look for harmful data, such as discriminatory and false associations included in the training dataset, as well as verify whether the training data is adequately inclusive for your needs. A lack of data about certain ethnic or gender groups or disabled individuals could result in a product that does not adequately consider these groups, ignores them all together, or makes false associations. Where possible, users of commercial AI tools should ask prompts in a manner that includes concern for equity and inclusion, they should use tools that are transparent about what training data was used and limitations of this data, and they should always question the responses from the tool for possible bias. 
+AI tools with training data that lacks data about certain ethnic or gender groups or disabled individuals could result in responses that do not adequately consider these groups, ignores them all together, or makes false associations.
 
+
+For decision makers about AI users:
+
+- Where possible, use tools that are transparent about what training data was used and limitations of this data and actively evaluate the data for bias including:
+    - if the dataset includes any harmful data, such as discriminatory and false associations
+    - if training data is adequately inclusive for the given needs
+- Where possible, users of commercial AI tools should ask prompts in a manner that includes concern for equity and inclusion
+- Always question the responses from the tool for possible bias. Obtain expert review where possible. 
+- Start slowly if rolling out the usage of new AI tools and continue to monitor used AI tools for bias.
 
 
 :::{.query}
@@ -64,7 +80,16 @@ Why did you assume that the individual was male?
 :::
 
 
-Those developing or augmenting models should also evaluate the training data and the model for biases and false associations as it is being developed instead of waiting to test the product after creation is finished. This includes verifying that the product works properly for potential use cases from a variety of ethnic, gender, ability, socioeconomic, language, and educational backgrounds. When possible, the user should also augment the training dataset with data from groups that are missing or underrepresented in the original training dataset. 
+For decision makers about AI developers:
+
+- Be careful to use datasets that do not contain harmful data, such as discriminatory and false associations.
+- Use datasets that adequately inclusive for the given needs.
+- evaluate the training data and the model for biases and false associations as it is being developed instead of waiting to test the product after creation is finished.
+- Verifying that the product works properly for potential use cases from a variety of ethnic, gender, ability, socioeconomic, language, and educational backgrounds.
+- When possible, the developers should also augment the training dataset with data from groups that are missing or underrepresented in the original training dataset.
+- Potentially consider creating different models for different populations to obtain better performance for different groups of people. However, be careful to be inclusive in the creation of such models. 
+- Seek expert evaluation of your tools for bias.
+- Be transparent about possible bias or dataset limitations to users.
 
 ## Be extremely careful using AI for decisions
 
@@ -75,6 +100,11 @@ We highly suggest caution with using AI to make or help make employment decision
 ## More inclusive teams means better models
 
 It is vital that teams hired for the development, auditing or testing of AI tools be as inclusive as possible and should follow the current best IDARE practices for standards for hiring standards. This will help to ensure that different perspectives and concerns are considered. 
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An artistic image of a face that looks like it is being scanned for facial recognition."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_48")
+```
+
 
  
 ## Access
