@@ -54,6 +54,11 @@ See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-f
 
 <div>
 
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "An artistic image of a face that looks like it is being scanned for facial recognition."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g2aaead717c1_8_57")
+```
+
+
 ### Tips to encourage responsible consent practices
 
 For decision makers about AI users:
