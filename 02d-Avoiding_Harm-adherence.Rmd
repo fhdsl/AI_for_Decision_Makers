@@ -120,7 +120,7 @@ For decision makers about AI users:
 For decision makers about AI developers:
 
 - Consider if using different types of data maybe helpful for answering the same question.
-
+- Consider promoting your tool on platforms that allow users to work with multiple AI tools.
 
 ## Educate Yourself and Others
 
