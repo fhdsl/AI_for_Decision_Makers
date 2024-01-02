@@ -52,7 +52,7 @@ For decision makers about AI developers:
 
 * If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as [Amazon Bedrock](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/) have tools for evaluating [toxicity](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f) to test for harmful responses. Although such systems can be helpful to automatically test, evaluation should also be done directly by humans.
 * Consider how the content from AI tools that you design might be used by others for unintended purposes.
-* Monitor your tools for unusal and harmful responses.
+* Monitor your tools for unusual and harmful responses.
 
 
 

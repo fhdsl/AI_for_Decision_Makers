@@ -107,14 +107,14 @@ AI might become much more prominent in the **field of journalism** and may help 
 
 
 > "robot journalist story writers will have instant
-access to new insights and information, and their new ability to compose the story andpublish it in seconds may cause human journalists to become obsolete. This is
+access to new insights and information, and their new ability to compose the story and publish it in seconds may cause human journalists to become obsolete. This is
 alarming, as no robot journalists can replace human journalists as the guardians of
 democracy and human rights." (@latar_robot_2015)
 
 > "This potential threat to the profession of human journalism is viewed by some
 optimistic journalists merely as another tool that will free them of the necessity to
 conduct costly and, at times, dangerous investigations. The robot journalists will
-provide them, so the optimists hope, with an automated draft for a story that they willedit and enrich with their in-depth analysis, their perspectives and their narrative talents. 
+provide them, so the optimists hope, with an automated draft for a story that they will edit and enrich with their in-depth analysis, their perspectives and their narrative talents. 
 
 > The more pessimistic journalists view the new robot journalists as a real threat
 to their livelihood and style of working and living.
@@ -198,7 +198,7 @@ For decision makers about AI developers:
 * Seek outside expert opinion whenever you are unsure about your AI development plans.
 * Consider AI alternatives if something doesn't feel right.
 * Design tools with safeguards to stop users from requesting harmful or irresponsible uses.
-* Design tools with responses that may ask users to be more considertate in the usage of the tool.
+* Design tools with responses that may ask users to be more considerate in the usage of the tool.
 
 ## Bias Perpetuation and Disparities
 

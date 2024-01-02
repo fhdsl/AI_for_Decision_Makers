@@ -87,7 +87,7 @@ For decision makers about AI developers:
 - evaluate the training data and the model for biases and false associations as it is being developed instead of waiting to test the product after creation is finished.
 - Verifying that the product works properly for potential use cases from a variety of ethnic, gender, ability, socioeconomic, language, and educational backgrounds.
 - When possible, the developers should also augment the training dataset with data from groups that are missing or underrepresented in the original training dataset.
-- Potentially consider creating different models for different populations to obtain better performance for differnt groups of people. However, be careful to be inclusive in the creation of such models. 
+- Potentially consider creating different models for different populations to obtain better performance for different groups of people. However, be careful to be inclusive in the creation of such models. 
 - Seek expert evaluation of your tools for bias.
 - Be transparent about possible bias or dataset limitations to users.
 

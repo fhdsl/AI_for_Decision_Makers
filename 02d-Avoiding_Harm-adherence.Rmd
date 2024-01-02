@@ -45,7 +45,7 @@ For decision makers about AI users:
 For decision makers about AI developers:
 
  * Consider developing tools for more simple specific tasks, rather than broad difficult tasks.
- * Cosider giving potential users guidance about using the tool for simpler tasks at first.
+ * Consider giving potential users guidance about using the tool for simpler tasks at first.
  * Continue to assess and evaluate AI systems over time.
 
  
