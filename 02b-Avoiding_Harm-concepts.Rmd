@@ -9,7 +9,7 @@ ottrpal::set_knitr_image_path()
 
 # Societal Impact
 
-There is the potential for AI to dramatically influence society. It is our responsibility to be proactively think about what uses and impacts we consider to be useful and appropriate and those we consider harmful and inappropriate. 
+There is the potential for AI to dramatically influence society. It is our responsibility to proactively think about what uses and impacts we consider to be useful and appropriate and those we consider harmful and inappropriate. 
 
 <div class = disclaimer>
 `r config::get("disclaimer")`
