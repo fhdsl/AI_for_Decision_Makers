@@ -206,7 +206,7 @@ As a result, the Italian Data Protection Authority has banned ChatGPT, while Ger
 
 </div>
 
-We have also included an optional section for new developers about considerations for testing and training data to ensure accurate assessment of performance.
+We have also included an optional section for new developers about considerations for testing and training data to ensure accurate assessment of performance. 
 
 <details> <summary> Effective use of Training and Testing data </summary>
 
