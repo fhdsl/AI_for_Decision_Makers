@@ -57,21 +57,28 @@ See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-f
 
 ### Tips to encourage responsible consent practices
 
-For decision makers about AI users:
+
+<div class = foruse>
+**For decision makers about AI use:**
 
 - Emphasize education about consent practices
 - Stay up-to-date on current issues related to consent.
 - Encourage usage of tools that are transparent about using responsible consent practices.
 - Encourage users to be careful what data they upload or allow AI tools to use.
 
+</div>
+<br>
 
-For decision makers about AI developers:
+<div class = fordev>
+**For decision makers about AI development:**
 
 - Emphasize education of AI developers about consent considerations, guidelines, and regulations. 
 - Stay up-to-date on current issues related to consent.
 - Be considerate of the data that you use for AI tools and how it was collected and if individuals consented to the collection and distribution of the data
 - Be transparent with users about what consent practices were used for the data utilized by the tool.
 - Be transparent with users about what may happen with their responses if they are being collected. 
+
+</div>
 
 ## Summary
 

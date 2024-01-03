@@ -70,3 +70,11 @@ div.fordev{
   border-style: solid;
   outline: 15px solid #FFFFFF;
 }
+
+div.clickexpand{
+  padding: 1em;
+  margin: 1em 0;
+  background-size: 70px;
+  background-position: 15px center;
+  background-color: #e8ebee;
+}
