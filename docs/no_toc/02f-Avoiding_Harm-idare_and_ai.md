@@ -61,7 +61,8 @@ A magazine article describing this work stated:
 AI tools with training data that lacks data about certain ethnic or gender groups or disabled individuals could result in responses that do not adequately consider these groups, ignores them all together, or makes false associations.
 
 
-For decision makers about AI users:
+<div class = foruse>
+**For decision makers about AI use:**
 
 - Where possible, use tools that are transparent about what training data was used and limitations of this data and actively evaluate the data for bias including:
     - if the dataset includes any harmful data, such as discriminatory and false associations
@@ -72,11 +73,15 @@ For decision makers about AI users:
 
 
 :::{.query}
+**Possible Generative AI Prompt:**
 Why did you assume that the individual was male?
 :::
 
+</div>
+<br>
 
-For decision makers about AI developers:
+<div class = fordev>
+**For decision makers about AI development:**
 
 - Be careful to use datasets that do not contain harmful data, such as discriminatory and false associations.
 - Use datasets that adequately inclusive for the given needs.
@@ -87,6 +92,7 @@ For decision makers about AI developers:
 - Seek expert evaluation of your tools for bias.
 - Be transparent about possible bias or dataset limitations to users.
 
+</div>
 ## Be extremely careful using AI for decisions
 
 There is a common misconception that AI tools might make better decisions for humans because they are believed to not be biased like humans (@pethig_biased_2023). However since they are built by humans and trained on human data, they are also biased. It is possible that AI systems specifically trained to avoid bias, to be inclusive, to be anti-racist, and  for specific contexts may be helpful to enable a more neutral party, but that is generally not currently possible.

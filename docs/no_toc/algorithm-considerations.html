@@ -29,7 +29,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="assets/dasl_favicon.ico" type="image/x-icon" />
-<link rel="prev" href="effective-use-of-training-and-testing-data.html"/>
+<link rel="prev" href="societal-impact.html"/>
 <link rel="next" href="adherence-practices.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -275,16 +275,6 @@ div.csl-indent {
 <li class="chapter" data-level="" data-path="societal-impact.html"><a href="societal-impact.html#tips-for-being-transparent"><i class="fa fa-check"></i>Tips for being transparent</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="societal-impact.html"><a href="societal-impact.html#summary-3"><i class="fa fa-check"></i>Summary</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html"><i class="fa fa-check"></i>Effective use of Training and Testing data</a>
-<ul>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#population-and-sample"><i class="fa fa-check"></i>Population and sample</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#training-data"><i class="fa fa-check"></i>Training data</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#testing-data"><i class="fa fa-check"></i>Testing data</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#evaluation"><i class="fa fa-check"></i>Evaluation</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#proper-separation-of-training-and-testing-data"><i class="fa fa-check"></i>Proper separation of Training and Testing data</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#validation"><i class="fa fa-check"></i>Validation</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#conclusions"><i class="fa fa-check"></i>Conclusions</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html"><i class="fa fa-check"></i>Algorithm considerations</a>
 <ul>
@@ -549,7 +539,8 @@ div.csl-indent {
 <p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_93.png" title="Image of a mosaic robot." alt="Image of a mosaic robot." width="100%" style="display: block; margin: auto;" /></p>
 <div id="tips-for-avoiding-the-creation-of-harmful-content" class="section level3">
 <h3>Tips for avoiding the creation of harmful content</h3>
-<p>For decision makers about AI users:</p>
+<div class="foruse">
+<p><strong>For decision makers about AI use:</strong></p>
 <ul>
 <li>Be careful about what commercial tools you employ, they should be transparent about what they do to avoid harm.</li>
 <li>Be careful about the context in which you might have people use AI - will they know how to use it responsibly?</li>
@@ -558,17 +549,23 @@ div.csl-indent {
 <li>Ask the AI tools to help you, but do not rely on them alone.</li>
 </ul>
 <div class="query">
-<p>What are the possible downstream uses of this content?</p>
+<p><strong>Possible Generative AI Prompt:</strong>
+What are the possible downstream uses of this content?</p>
 </div>
 <div class="query">
-<p>What are some possible negative consequences of using this content?</p>
+<p><strong>Possible Generative AI Prompt:</strong>
+What are some possible negative consequences of using this content?</p>
 </div>
-<p>For decision makers about AI developers:</p>
+</div>
+<p><br></p>
+<div class="fordev">
+<p><strong>For decision makers about AI development:</strong></p>
 <ul>
 <li>If designing a system, ensure that best practices are employed to avoid harmful responses. This should be done during the design process and should the system should also be regularly evaluated. Some development systems such as <a href="https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/">Amazon Bedrock</a> have tools for evaluating <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">toxicity</a> to test for harmful responses. Although such systems can be helpful to automatically test, evaluation should also be done directly by humans.</li>
 <li>Consider how the content from AI tools that you design might be used by others for unintended purposes.</li>
 <li>Monitor your tools for unusual and harmful responses.</li>
 </ul>
+</div>
 </div>
 </div>
 <div id="lack-of-interpretability" class="section level2">
@@ -578,20 +575,26 @@ div.csl-indent {
 <p>This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions.</p>
 <div id="tips-for-avoiding-a-lack-of-interpretability" class="section level3">
 <h3>Tips for avoiding a lack of interpretability</h3>
-<p>For decision makers about AI users:</p>
+<div class="foruse">
+<p><strong>For decision makers about AI use:</strong></p>
 <ul>
 <li>Content should be reviewed by those experienced in the given field.</li>
 <li>Ask AI tools to help you understand how it got to the response that it did, but get expert assistance where needed.</li>
 <li>Always consider how an AI system derived a decision if the decision is being used for something that impacts humans</li>
 </ul>
 <div class="query">
-<p>Can you explain how you generated this response?</p>
+<p><strong>Possible Generative AI Prompt:</strong>
+Can you explain how you generated this response?</p>
 </div>
-<p>For decision makers about AI developers:</p>
+</div>
+<br>
+<div class = fordev>
+<p><strong>For decision makers about AI developers:</strong></p>
 <ul>
 <li>New AI tools should be designed with interpretability in mind, simpler models may make it easier to interpret results.</li>
 <li>Responses from new tools should be reviewed by those experienced in the given field.</li>
-<li>Provide transparency to users about how new AI tools generally create responses.</li>
+<li>Provide transparency to users about how new AI tools generally create responses.
+</div></li>
 </ul>
 </div>
 </div>
@@ -610,7 +613,8 @@ div.csl-indent {
 <p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_88.png" title="image of a robot writing." alt="image of a robot writing." width="100%" style="display: block; margin: auto;" /></p>
 <div id="tips-for-reducing-misinformation-faulty-responses" class="section level3">
 <h3>Tips for reducing misinformation &amp; faulty responses</h3>
-<p>For decision makers about AI users:</p>
+<div class="foruse">
+<p><strong>For decision makers about AI use:</strong></p>
 <ul>
 <li>Be aware that some AI tools currently make up false information based on artifacts of the algorithm called hallucinations or based on false information in the training data.</li>
 <li>Do not assume that the content generated by AI is real or correct.</li>
@@ -619,17 +623,24 @@ div.csl-indent {
 <li>Ask the AI tools for extra information about if there are any potential limitations or weaknesses in the responses, but keep in mind that the tool may not be aware of issues and therefore human review is required. The information provided by the tool can however be a helpful starting point.</li>
 </ul>
 <div class="query">
-<p>Are there any limitations associated with this response?</p>
+<p><strong>Possible Generative AI Prompt:</strong>
+Are there any limitations associated with this response?</p>
 </div>
 <div class="query">
-<p>What assumptions were made in creating this content?</p>
+<p><strong>Possible Generative AI Prompt:</strong>
+What assumptions were made in creating this content?</p>
 </div>
-<p>For decision makers about AI developers:</p>
+</div>
+<p><br></p>
+<div class="fordev">
+<p><strong>For decision makers about AI development:</strong></p>
 <ul>
 <li>Monitor newly developed tools for accuracy</li>
 <li>Be transparent with users about the limitations of the tool</li>
 <li>Consider training generative AI tools to have responses that are transparent about limitations of the tool.</li>
 </ul>
+</div>
+<p><br></p>
 <div class="example">
 <p><span id="exm:unlabeled-div-3" class="example"><strong>Example 3  </strong></span><strong>Real World Example</strong></p>
 <p><a href="https://stackoverflow.com/">Stack Overflow</a>, a popular community-based website where programmers help one another, has (at the time of writing this) temporarily <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned">banned</a> users from answering questions with AI-generated code. This is because users were posting incorrect answers to questions. It is important to follow policies like this (as you may face removal from the community). This policy goes to show that you really need to check the code that you get from AI models. While they are currently helpful tools, they do not know everything.</p>
@@ -679,7 +690,7 @@ Nikulski, Julia. 2021. <span>“Toxicity in <span>AI</span> <span>Text</span> <s
           </div>
         </div>
       </div>
-<a href="effective-use-of-training-and-testing-data.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="societal-impact.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 <a href="adherence-practices.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
