@@ -42,11 +42,31 @@ div.ai_response {
 
 
 div.disclaimer{
-  content:'The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.';
   padding: 1em;
   margin: 1em 0;
   min-height: 120px;
   border: 4px #000000;
   border-style: solid;
   outline: 5px solid #ffb808;
+}
+
+div.foruse{
+  padding: 1em;
+  margin: 1em 0;
+  background-size: 70px;
+  background-position: 15px center;
+  border: 4px #0b7899;
+  border-style: solid;
+  outline: 15px solid #FFFFFF;
+}
+
+
+div.fordev{
+  padding: 1em;
+  margin: 1em 0;
+  background-size: 70px;
+  background-position: 15px center;
+  border: 4px #ffb808;
+  border-style: solid;
+  outline: 15px solid #FFFFFF;
 }

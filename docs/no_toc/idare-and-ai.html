@@ -276,16 +276,6 @@ div.csl-indent {
 </ul></li>
 <li class="chapter" data-level="" data-path="societal-impact.html"><a href="societal-impact.html#summary-3"><i class="fa fa-check"></i>Summary</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html"><i class="fa fa-check"></i>Effective use of Training and Testing data</a>
-<ul>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#population-and-sample"><i class="fa fa-check"></i>Population and sample</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#training-data"><i class="fa fa-check"></i>Training data</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#testing-data"><i class="fa fa-check"></i>Testing data</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#evaluation"><i class="fa fa-check"></i>Evaluation</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#proper-separation-of-training-and-testing-data"><i class="fa fa-check"></i>Proper separation of Training and Testing data</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#validation"><i class="fa fa-check"></i>Validation</a></li>
-<li class="chapter" data-level="" data-path="effective-use-of-training-and-testing-data.html"><a href="effective-use-of-training-and-testing-data.html#conclusions"><i class="fa fa-check"></i>Conclusions</a></li>
-</ul></li>
 <li class="chapter" data-level="" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html"><i class="fa fa-check"></i>Algorithm considerations</a>
 <ul>
 <li class="chapter" data-level="" data-path="algorithm-considerations.html"><a href="algorithm-considerations.html#harmful-or-toxic-responses"><i class="fa fa-check"></i>Harmful or Toxic Responses</a>
@@ -568,7 +558,8 @@ div.csl-indent {
 <div id="tips-for-mitigating-bias" class="section level3">
 <h3>Tips for Mitigating Bias</h3>
 <p>AI tools with training data that lacks data about certain ethnic or gender groups or disabled individuals could result in responses that do not adequately consider these groups, ignores them all together, or makes false associations.</p>
-<p>For decision makers about AI users:</p>
+<div class="foruse">
+<p><strong>For decision makers about AI use:</strong></p>
 <ul>
 <li>Where possible, use tools that are transparent about what training data was used and limitations of this data and actively evaluate the data for bias including:
 <ul>
@@ -580,9 +571,13 @@ div.csl-indent {
 <li>Start slowly if rolling out the usage of new AI tools and continue to monitor used AI tools for bias.</li>
 </ul>
 <div class="query">
-<p>Why did you assume that the individual was male?</p>
+<p><strong>Possible Generative AI Prompt:</strong>
+Why did you assume that the individual was male?</p>
 </div>
-<p>For decision makers about AI developers:</p>
+</div>
+<p><br></p>
+<div class="fordev">
+<p><strong>For decision makers about AI development:</strong></p>
 <ul>
 <li>Be careful to use datasets that do not contain harmful data, such as discriminatory and false associations.</li>
 <li>Use datasets that adequately inclusive for the given needs.</li>
@@ -593,6 +588,7 @@ div.csl-indent {
 <li>Seek expert evaluation of your tools for bias.</li>
 <li>Be transparent about possible bias or dataset limitations to users.</li>
 </ul>
+</div>
 </div>
 </div>
 <div id="be-extremely-careful-using-ai-for-decisions" class="section level2">
