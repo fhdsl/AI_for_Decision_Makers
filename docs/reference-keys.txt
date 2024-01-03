@@ -112,14 +112,6 @@ tips-for-reducing-climate-impact
 transparency
 tips-for-being-transparent
 summary-3
-effective-use-of-training-and-testing-data
-population-and-sample
-training-data
-testing-data
-evaluation
-proper-separation-of-training-and-testing-data
-validation
-conclusions
 algorithm-considerations
 harmful-or-toxic-responses
 tips-for-avoiding-the-creation-of-harmful-content
