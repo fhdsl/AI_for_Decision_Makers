@@ -30,7 +30,7 @@ This course provides a brief introduction about ethical concepts to be aware of 
 The course will cover:
 
 - Possible societal impacts of AI 
-- Guidelines for using AI training and testing data
+- Guidelines for using AI training and testing data (optional)
 - Concerns to be aware of for AI algorithms
 - Strategies to adhere to AI codes of ethics
 - Concepts for consent with AI
@@ -46,7 +46,6 @@ We will demonstrate how to:
 - Explain why AI should be thought of as a better computer, not a human replacement
 - Discuss the potential benefits of being transparent about the use of AI tools
 - Recognize real-world examples of AI usage that has resulted in ethical debate
-- Explain the necessity for independent test sets for AI models
 - Identify possible mitigation strategies for major ethical concerns with regard to the algorithms underlying AI tools
 - Describe practices that can help you to adhere to more responsible AI use and development
 - Identify concepts and strategies for promoting social justice in AI use and development
