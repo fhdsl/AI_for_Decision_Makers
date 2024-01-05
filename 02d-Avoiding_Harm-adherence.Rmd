@@ -208,7 +208,7 @@ As a result, the Italian Data Protection Authority has banned ChatGPT, while Ger
 
 We have also included an optional section for new developers about considerations for testing and training data to ensure accurate assessment of performance.
 
-<details> <summary> Effective use of Training and Testing data </summary>
+<details> <summary> Effective use of Training and Testing data</summary>
 
 <div class = clickexpand>
 In the previous chapters, we started to think about the ethics of using representative data for building our AI model. In this chapter we will see that even if our data is inclusive and represents our population of interest, issues can still happen if the data is mishandled during the AI model building process. Let's take a look at how that can happen.
