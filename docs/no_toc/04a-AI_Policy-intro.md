@@ -9,7 +9,7 @@ This course is intended to equip you with the knowledge you need to develop an e
 
 ## Motivation
 
-AI tools are already changing how we work, and they will continue to do so for years. Over the next few years, we're likely going to see AI used in ways we've never imagined and are not anticipating. This course guide your organization to adopt AI in a way that's not unethical, illegal, or wrong? This course empowers you to make informed decisions and confidently create an AI policy that matches your organizational goals.
+AI tools are already changing how we work, and they will continue to do so for years. Over the next few years, we're likely going to see AI used in ways we've never imagined and are not anticipating. This course empowers you to make informed decisions and confidently create an AI policy that matches your organizational goals.
 
 ## Target Audience  
 
