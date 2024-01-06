@@ -51,6 +51,7 @@ More information about the EU's AI Act can be found in these sources.
 Some individual industries have already begun adopting policies about generative AI. They may also have long-standing policies in place about the use of other forms of AI, like machine learning. Some countries have also begun creating policies for specific industries and fields. When in doubt, always check with the experts within your organization about what AI policies exist for your industry.
 
 <img src="resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-html//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g2a84ae71e54_0_67.png" width="100%" />
+We'll discuss some specific examples of how different industries are approaching AI regulation in the next section.
 
 # Case Studies
 
