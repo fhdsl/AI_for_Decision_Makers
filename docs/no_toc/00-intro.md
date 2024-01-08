@@ -3,7 +3,7 @@
 
 
 
-# VIDEO Summary of This Course
+# VIDEO Summary of This Course {.unlisted .unnumbered}
 
 # Introduction
 
@@ -42,7 +42,5 @@ We also believe that learning is a life-long process. This specialization is tar
 
 <img src="resources/images/00-intro_files/figure-html//13QC5DTLefV5AIUd_3QPW42D-Zf2Yf6tgrJivIf7jbaQ_g2a3e68cb5a3_0_16.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
-## Curriculum  
 
-The course covers...
 
