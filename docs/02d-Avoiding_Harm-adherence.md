@@ -105,7 +105,7 @@ Did this content use any content from others that I can cite?
 
 <div class = fordev>
 
-**For decision makers about AI developement:**
+**For decision makers about AI development:**
 
 * Obtain permission from the copyright holders of any content that you use to train an AI system. Only use content that has been licensed for use.
 * Cite all content that you can.
