@@ -23,7 +23,7 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 ## Motivation
 
-There are a ever increasing number of options, strategies and solutions for integrating AI solutions into a project. It can feel overwhelming to understand what these options entail let alone understand how to decide what solution best fits a use case.
+There are an ever increasing number of options, strategies and solutions for integrating AI solutions into a project. It can feel overwhelming to understand what these options entail let alone understand how to decide what solution best fits a use case.
 
 In this course we aim to give individuals the basic info they need to make basic plans for integrating AI tools into their project.
 
