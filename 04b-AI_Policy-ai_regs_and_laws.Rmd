@@ -59,6 +59,7 @@ Some individual industries have already begun adopting policies about generative
 ```{r, out.width = "100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM/edit#slide=id.g2a84ae71e54_0_67")
 ```
+We'll discuss some specific examples of how different industries are approaching AI regulation in the next section.
 
 # Case Studies
 
