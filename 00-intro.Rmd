@@ -5,7 +5,7 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# VIDEO Summary of This Course
+# VIDEO Summary of This Course {.unlisted .unnumbered}
 
 # Introduction
 
@@ -48,7 +48,5 @@ We also believe that learning is a life-long process. This specialization is tar
 ottrpal::include_slide("https://docs.google.com/presentation/d/13QC5DTLefV5AIUd_3QPW42D-Zf2Yf6tgrJivIf7jbaQ/edit#slide=id.g2a3e68cb5a3_0_16")
 ```
 
-## Curriculum  
 
-The course covers...
 
