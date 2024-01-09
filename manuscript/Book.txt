@@ -25,7 +25,6 @@
 04d-AI_Policy-data_laws_quiz.md
 04e-AI_Policy-creating_your_ai_policy_quiz.md
 About-this-Course.md
-VIDEO-Summary-of-This-Course.md
 Introduction.md
 Introduction-to-Exploring-AI-Possibilities.md
 VIDEO-Introduction-to-Exploring-AI-Possibilities.md
