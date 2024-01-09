@@ -39,9 +39,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a7d2be0b8f_0_434")
 ```
 
-<div class = "notice">
-**A note about supervised and unsupervised learning**
-
+<div class = "dictionary">
 Many of the machine learning approaches we're discussing here are **supervised learning** approaches. This means that data is labeled in predefined categories. An example could be "spam" or "not spam" labels attached to a data set of emails.
 
 Sometimes, we are more interested in discovering variation, regardless of how we describe, or label, the data. This is called **unsupervised learning**. An example of this approach could be clustering human cells based on what kind of genes they have turned on. We don't know what type of cells they are necessarily, but can group them based on their behavior.
