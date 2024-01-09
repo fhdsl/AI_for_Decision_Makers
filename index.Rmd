@@ -28,7 +28,7 @@ This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" spec
 ## Specialization Sections 
 
 * Introduction
-* Course 1: AI Possibilities
+* Course 1: Exploring AI Possibilities
 * Course 2: Avoiding AI Harm
 * Course 3: Determining AI Needs
 * Course 4: Developing AI Policy
