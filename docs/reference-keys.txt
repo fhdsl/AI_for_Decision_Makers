@@ -17,7 +17,6 @@ motivation-1
 target-audience-1
 curriculum
 learning-objectives
-video-introduction-to-exploring-ai-possibilities
 video-what-is-ai
 what-is-artificial-intelligence
 specific-and-general-intelligence
@@ -79,7 +78,6 @@ text-to-speech-to-text
 interactive-help
 discussion-ai-possibilities
 ground-rules-for-ai
-video-knowing-the-ground-rules
 ai-possibilities-case-studies
 financial-forecasting
 categorizing-businesses
