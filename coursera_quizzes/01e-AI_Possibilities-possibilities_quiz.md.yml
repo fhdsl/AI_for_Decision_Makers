@@ -68,3 +68,16 @@
       isCorrect: false
     - answer: In any industry using specialized terminology or jargon
       isCorrect: true
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT a ground rule for responsible AI?
+  shuffleOptions: true
+  options:
+    - answer: Recognize guidelines
+      isCorrect: false
+    - answer: Act as fast as possible
+      isCorrect: true
+    - answer: Acknowledge AI's limitations
+      isCorrect: false
+    - answer: Promote equitable access
+      isCorrect: false
