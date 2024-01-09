@@ -87,4 +87,11 @@ B) It provides a starting point or scaffold for brainstorming
 c) AI creative output is more consistent than humans
 d) AI surpasses human intellectual capacity for insights
 
+? Which of the following is NOT a ground rule for responsible AI?
+
+a) Recognize guidelines
+b) Acknowledge AI's limitations
+c) Promote equitable access
+D) Always submit sensitive data for best accuracy 
+
 {/quiz}
