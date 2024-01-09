@@ -39,7 +39,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsC
 ottrpal::include_slide("https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit#slide=id.g2a7d2be0b8f_0_434")
 ```
 
-<div class = note>
+<div class = "notice">
 **A note about supervised and unsupervised learning**
 
 Many of the machine learning approaches we're discussing here are **supervised learning** approaches. This means that data is labeled in predefined categories. An example could be "spam" or "not spam" labels attached to a data set of emails.
