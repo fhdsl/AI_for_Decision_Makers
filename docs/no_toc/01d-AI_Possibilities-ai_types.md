@@ -33,6 +33,12 @@ Neural networks often require large amounts of labeled data for training, and th
 
 <img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_434.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
+<div class = "dictionary">
+Many of the machine learning approaches we're discussing here are **supervised learning** approaches. This means that data is labeled in predefined categories. An example could be "spam" or "not spam" labels attached to a data set of emails.
+
+Sometimes, we are more interested in discovering variation, regardless of how we describe, or label, the data. This is called **unsupervised learning**. An example of this approach could be clustering human cells based on what kind of genes they have turned on. We don't know what type of cells they are necessarily, but can group them based on their behavior.
+</div>
+
 ## Generative AI
 
 Artificial Intelligence exploded in the early 2020s due to advancements in **Generative AI**, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, simulated data, and more. Let's break down some of the following terms related to generative AI.
