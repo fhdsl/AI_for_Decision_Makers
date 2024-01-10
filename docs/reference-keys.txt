@@ -8,18 +8,15 @@ exm:unlabeled-div-7
 exm:unlabeled-div-8
 specialization-sections
 available-course-formats
-video-summary-of-this-course
 introduction
 motivation
 target-audience
-curriculum
 introduction-to-exploring-ai-possibilities
 introduction-1
 motivation-1
 target-audience-1
-curriculum-1
+curriculum
 learning-objectives
-video-introduction-to-exploring-ai-possibilities
 video-what-is-ai
 what-is-artificial-intelligence
 specific-and-general-intelligence
@@ -81,7 +78,6 @@ text-to-speech-to-text
 interactive-help
 discussion-ai-possibilities
 ground-rules-for-ai
-video-knowing-the-ground-rules
 ai-possibilities-case-studies
 financial-forecasting
 categorizing-businesses
@@ -90,7 +86,7 @@ using-large-language-models-to-predict-inflation
 introduction-to-avoiding-ai-harm
 motivation-2
 target-audience-2
-curriculum-2
+curriculum-1
 learning-objectives-1
 societal-impact
 guidelines-for-responsible-development-and-use-of-ai.
@@ -159,7 +155,7 @@ video-introduction-to-determining-ai-needs-video
 introduction-to-determining-ai-needs
 motivation-3
 target-audience-3
-curriculum-3
+curriculum-2
 video-what-are-the-components-of-ai
 what-are-the-components-of-ai
 learning-objectives-2
@@ -228,7 +224,7 @@ evaluating-usability-of-an-ai-model
 introduction-to-developing-ai-policy
 motivation-4
 target-audience-4
-curriculum-4
+curriculum-3
 learning-objectives-8
 why-do-i-need-an-ai-policy
 video-why-do-i-need-an-ai-policy

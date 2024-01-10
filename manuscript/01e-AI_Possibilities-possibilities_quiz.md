@@ -38,4 +38,10 @@ b) Law
 c) Academia
 D) In any industry using specialized terminology or jargon
 
+? Which of the following is NOT a ground rule for responsible AI?
+a) Recognize guidelines
+B) Act as fast as possible
+c) Acknowledge AI's limitations
+d) Promote equitable access
+
 {/quiz}

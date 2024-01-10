@@ -166,3 +166,17 @@
       isCorrect: false
     - answer: AI surpasses human intellectual capacity for insights
       isCorrect: false
+
+- typeName: multipleChoice
+  prompt: Which of the following is NOT a ground rule for responsible AI?
+
+  shuffleOptions: true
+  options:
+    - answer: Recognize guidelines
+      isCorrect: false
+    - answer: Acknowledge AI's limitations
+      isCorrect: false
+    - answer: Promote equitable access
+      isCorrect: false
+    - answer: Always submit sensitive data for best accuracy
+      isCorrect: true

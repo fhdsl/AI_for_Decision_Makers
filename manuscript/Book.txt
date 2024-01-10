@@ -3,7 +3,6 @@
 01c-AI_Possibilities-how_ai_works_quiz.md
 01d-AI_Possibilities-ai_types_quiz.md
 01e-AI_Possibilities-possibilities_quiz.md
-01f-AI_Possibilities-ground_rules_quiz.md
 02a-Avoiding_Harm-Overall_quiz.md
 02b-Avoiding_Harm-concepts_quiz.md
 02ba-Avoiding_Harm-concepts_quiz.md
@@ -25,10 +24,8 @@
 04d-AI_Policy-data_laws_quiz.md
 04e-AI_Policy-creating_your_ai_policy_quiz.md
 About-this-Course.md
-VIDEO-Summary-of-This-Course.md
 Introduction.md
 Introduction-to-Exploring-AI-Possibilities.md
-VIDEO-Introduction-to-Exploring-AI-Possibilities.md
 VIDEO-What-Is-AI.md
 What-Is-Artificial-Intelligence.md
 DISCUSSION-Is-It-AI.md
@@ -42,7 +39,6 @@ VIDEO-Real-Life-Possibilities.md
 What-AI-Makes-Possible.md
 DISCUSSION-AI-Possibilities.md
 Ground-Rules-for-AI.md
-VIDEO-Knowing-the-Ground-Rules.md
 AI-Possibilities-Case-Studies.md
 Introduction-to-Avoiding-AI-Harm.md
 Societal-Impact.md
