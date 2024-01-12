@@ -44,6 +44,6 @@ We will learn how to:
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
-# VIDEO Introduction to Exploring AI Possibilities {.unlisted .unnumbered}
+<!-- # VIDEO Introduction to Exploring AI Possibilities {.unlisted .unnumbered} -->
 
-You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit?usp=sharing).
+<!-- You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit?usp=sharing). -->

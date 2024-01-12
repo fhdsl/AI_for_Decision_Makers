@@ -3,7 +3,7 @@
 
 
 
-# VIDEO Summary of This Course {.unlisted .unnumbered}
+<!-- # VIDEO Summary of This Course {.unlisted .unnumbered} -->
 
 # Introduction
 
