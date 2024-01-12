@@ -33,10 +33,6 @@ This is the series of courses in Fred Hutch DaSL's "AI for Decision Makers" spec
 * Course 3: Determining AI Needs
 * Course 4: Developing AI Policy
 
-<div class = disclaimer>
-`r config::get("disclaimer")`
-</div>
-
 ## Available course formats
 
 This course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.
@@ -46,3 +42,7 @@ This course is available in multiple formats which allows you to take it in the 
 - This course can be taken on [Coursera for certification here](LINK HERE) (but it is not available for free on Coursera).
 - Our courses are open source, you can find the [source material for this course on GitHub](LINK HERE).
 
+<br>
+<div class = disclaimer>
+`r config::get("disclaimer")`
+</div>
