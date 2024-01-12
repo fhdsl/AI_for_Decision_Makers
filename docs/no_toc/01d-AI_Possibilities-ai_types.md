@@ -1,9 +1,9 @@
 
 
 
-# VIDEO Different Types of AI
+<!-- # VIDEO Different Types of AI -->
 
-You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit?usp=sharing).
+<!-- You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU/edit?usp=sharing). -->
 
 # Demystifying Types of AI
 

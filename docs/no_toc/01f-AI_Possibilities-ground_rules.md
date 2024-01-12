@@ -33,7 +33,7 @@ The rapidly changing AI landscape has brought unexpected ethical challenges. To 
 
 To learn more about how to responsibly use and develop AI, check out the following minicourse about Avoiding AI harm.
 
-# VIDEO Knowing the Ground Rules {.unlisted .unnumbered}
+<!-- # VIDEO Knowing the Ground Rules {.unlisted .unnumbered} -->
 
 <br>
 <div class = disclaimer>
