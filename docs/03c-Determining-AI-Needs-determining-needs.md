@@ -1,10 +1,10 @@
-# VIDEO: Determining your AI needs
+<!-- # VIDEO: Determining your AI needs -->
 
-This video describes how to determine what custom AI needs your project has.  
+<!-- This video describes how to determine what custom AI needs your project has.   -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> -->
 
-You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4/edit).
+<!-- You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1GgsDe7dYA91RY_xCbcDRzSPGuxIMXnyHPbzL1h57pE4/edit). -->
 
 # Determining your AI needs
 

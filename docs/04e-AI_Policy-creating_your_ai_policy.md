@@ -44,4 +44,4 @@ Good AI policies are most effective when they are easy for people to follow. Thi
 In situations like these, one way to approach training is to focus on major points people should consider, clearly outline the steps people can take to do the right thing, and identify who people can approach when they have questions. Many people may not solidly know the answers to all questions, but the right people can help you find the answer. Training people how to loop in the proper people, and to ask for help from the very beginning, might save them stress later.
 
 
-# VIDEO Considerations for creating an AI Policy
+<!-- # VIDEO Considerations for creating an AI Policy -->
