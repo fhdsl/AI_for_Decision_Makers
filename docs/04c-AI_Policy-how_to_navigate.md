@@ -25,7 +25,7 @@ New technology adoption is scary, and while caution is advisable, all-out bans a
 
 Employees will use AI and this will make them more effective. Thoughtful AI policies can balance your employees' use with safety and security measures.
 
-# VIDEO Why do I need an AI policy?
+<!-- # VIDEO Why do I need an AI policy? -->
 
 # Elements of an AI policy
 
@@ -61,7 +61,7 @@ In general, a policy might have sections devoted to the following topics:
 
 1. _Feedback and Review_. In this section, you can establish a mechanism for regularly reviewing and updating the AI policy as technology and best practices evolve. You may also want to implement procedures for employees to give feedback about AI issues or concerns within your organization.
 
-# VIDEO Elements of an AI policy
+<!-- # VIDEO Elements of an AI policy -->
 
 # Building an AI advisory team
 
@@ -97,4 +97,4 @@ The specific roles and their required skillsets will vary depending on the size,
 
 <img src="resources/images/04c-AI_Policy-how_to_navigate_files/figure-html//1H3ppNjSW6OU25Z44MZWMtl1R_MH8BT-roJxiiH5Rlyk_g2a83edd52b2_0_214.png" width="100%" />
 
-# VIDEO Building an AI advisory team
+<!-- # VIDEO Building an AI advisory team -->
