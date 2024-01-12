@@ -99,4 +99,4 @@ The AMA and health care leaders have highlighted the importance of specialized e
 
 The medical community should actively shape the development of AI-enabled technologies by advocating for clinically-informed standards for the training of AI, and for the evaluation of the value of AI in real-world health care settings. At an institutional level, specialized clinical expertise is required to create policies that align AI adoption with standards for health care delivery. And in-depth knowledge of U.S. health insurance system is required to understand how complexity and lack of standardization in this landscape may impact AI adoption in clinical operations (schulman2023). In summary, health care leaders and the medical community need to play an active role in the development of new AI regulations and policy.
 
-# VIDEO AI acts, orders, and policies
+<!-- # VIDEO AI acts, orders, and policies -->
