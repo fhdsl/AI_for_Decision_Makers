@@ -61,4 +61,4 @@ The issue of whose fault it is when an AI system fails (and thus who is responsi
 As a general rule of thumb: **when in doubt, talk to your legal counsel!** They can offer you the best advice for your organization and your situation.  The information in this course is **ONLY** meant as starting point for you as you create AI guidelines for your organization. You can also seek guidance from your governance and compliance experts.
 
 
-# VIDEO Other laws to consider
+<!-- # VIDEO Other laws to consider -->
