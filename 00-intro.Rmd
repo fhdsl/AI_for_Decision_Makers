@@ -32,7 +32,7 @@ We think understanding AI is essential for executives. It helps today's leaders 
 
 1. **Data-Driven Decision Culture:** Leaders can promote a data-driven decision-making culture within their organizations, using AI insights to inform strategic planning, understand their teams better, and improve other key business functions.
 
-1. **Communication with Tech Teams:** Executives and managers benefit from understanding AI event if they aren't building tech, as it helps them effectively communicate with their technical teams. This can mean more effective collaboration and improved alignment between teams or departments.
+1. **Communication with Tech Teams:** Executives and managers benefit from understanding AI even if they aren't building tech, as it helps them effectively communicate with their technical teams. This can mean more effective collaboration and improved alignment between teams or departments.
 
 <div class = disclaimer>
 `r config::get("disclaimer")`
