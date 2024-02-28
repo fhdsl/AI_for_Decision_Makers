@@ -84,7 +84,7 @@ ottrpal::include_slide("hhttps://docs.google.com/presentation/d/1L6-8DWn028c1o0p
 <div class = fordev>
 **For decision makers about AI development:**
 
-* Consider newly developed AI tools might be used by others.
+* Consider how newly developed AI tools might be used by others.
 * Continually audit AI tools to look for unexpected and potentially harmful or biased behavior.
 * Be transparent with users about the limitations of the tool and the data used to train the tool.
 * Caution potential users about any potential negative consequences of use
