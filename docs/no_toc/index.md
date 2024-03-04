@@ -1,14 +1,14 @@
 ---
 title: "AI for Decision Makers"
 subtitle: ""
-date: "February, 2024"
+date: "March, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Description about Course/Book."
-favicon: assets/dasl_favicon.ico
+favicon: assets/favicon.ico
 always_allow_html: true
 output:
     bookdown::html_document2:
