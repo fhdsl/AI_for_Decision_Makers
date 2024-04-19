@@ -1,7 +1,7 @@
 ---
 title: "AI for Decision Makers"
 subtitle: ""
-date: "March, 2024"
+date: "April, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
