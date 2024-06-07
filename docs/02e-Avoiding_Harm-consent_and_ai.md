@@ -52,7 +52,7 @@ See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-f
 
 </div>
 
-<img src="resources/images/02e-Avoiding_Harm-consent_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_57.png" title="An artistic image of a face that looks like it is being scanned for facial recognition." alt="An artistic image of a face that looks like it is being scanned for facial recognition." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02e-Avoiding_Harm-consent_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_57.png" alt="An artistic image of a face that looks like it is being scanned for facial recognition." width="100%" style="display: block; margin: auto;" />
 
 
 ### Tips to encourage responsible consent practices

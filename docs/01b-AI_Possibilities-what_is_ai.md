@@ -9,13 +9,13 @@
 
 The term "artificial intelligence", or AI, often makes people envision humanoid robots. For some of us, this prompts concerns about their ability to outsmart us. The notion of robots passing tests that blur the line between human and machine, often depicted in science fiction, adds to these worries, particularly when considering the potential for AI systems to act in self-interest and make decisions independently.
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g2a68fa11a90_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g2a68fa11a90_0_0.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Specific and General Intelligence
 
 Currently, no AI system can perform all the intellectual tasks that a human can. This is an active area of research, specifically into what's called **artificial general intelligence**. We aren't there yet. Currently, artificial intelligence systems are optimized to perform a specific task well, but not for general, multi-purpose tasks. For example, the AI application for recognizing voices can not be directly applied to drive cars, and vice versa. Similarly, a language translation app could not recognize images, and vice versa.
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_gcf1264c749_0_130.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_gcf1264c749_0_130.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Shifting Goalposts
 
@@ -23,7 +23,7 @@ Defining what AI is can be tricky because what experts consider to be AI changes
 
 For instance, 20 years ago, the idea of an email spam checker was new. People were surprised that an algorithm could identify junk email accurately, and called it “artificial intelligence”. Since this type of algorithm has become so common, it is no longer called "artificial intelligence". This transition happened because we no longer think it is surprising that computers can filter spam messages. Because it is not learning something new and surprising, it is no longer considered intelligent.
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g2a162964683_1_176.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//1-Mm-Vym3xdtB8xLRHR24jNCLSbNgFHw6N62iJrYe63c_g2a162964683_1_176.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 We often look at human intelligence the same way. For example, many years ago, only a few people knew how to use the internet. These people might have been considered extremely talented and intelligent. Now, the massive growth of online resources and social media mean that fluent internet use is almost required!
 
@@ -41,7 +41,7 @@ At its core, AI is about problem solving [@fogel2022]. But how does it do this? 
 
 1. **Interface**: AI needs a physical interface or software for the trained algorithm to receive a data input and execute the human-like task in the real world. For example, you might interface with a chatbot in your web browser.
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_178.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_178.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 As an example, consider Amazon Echo’s voice control device [@wikiECHO]. The data set consists of customer voices talking to Amazon Echo or other devices. The algorithm predicts what a new customer voice is asking it to do. Given human voice request, it may set a kitchen timer. Lastly, the interface, is a physical device with a microphone, speaker, and computer software running the algorithm and accessing the data. It is the part that will interact with humans.
 
@@ -51,7 +51,7 @@ Let's look at a few of examples. We can then decide whether or not the examples 
 
 ### Smartphones
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_185.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_185.png" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
 The name "smartphone" implies these devices are making decisions and are powered by AI. Let's consider our three criteria:
 
@@ -65,7 +65,7 @@ While there are some features on smartphones that are powered by AI models, like
 
 ### Calculators
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_193.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_193.png" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
 Many of us use basic calculators, as you might find in Microsoft Excel, every day. AI also makes many calculations. Is it just a scaled-up calculator?
 
@@ -79,7 +79,7 @@ Traditional calculators are not considered AI, because everything they can do is
 
 ### Computer Programs
 
-<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_200.png" title="CAPTION HERE" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
+<img src="resources/images/01b-AI_Possibilities-what_is_ai_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_0_200.png" alt="CAPTION HERE" width="70%" style="display: block; margin: auto;" />
 
 Like calculators, computers follow set procedures for problem solving and computation. Everyday computers use these procedures to help automate repetitive tasks and save time. However, this isn't generally considered AI, because the computer's algorithms aren't being trained with new data you supply. AI systems exhibit the ability to adapt and handle new inputs for tasks that might be more complicated.
 

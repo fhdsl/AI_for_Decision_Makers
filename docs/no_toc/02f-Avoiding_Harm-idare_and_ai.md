@@ -14,7 +14,7 @@ Humans are biased, therefore data from text written by humans is often also bias
 To better understand your own personal bias, consider taking a test at https://implicit.harvard.edu/. 
 
 
-<img src="resources/images/02f-Avoiding_Harm-idare_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_97.png" title="Image of a mosaic robot" alt="Image of a mosaic robot" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02f-Avoiding_Harm-idare_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_97.png" alt="Image of a mosaic robot" width="100%" style="display: block; margin: auto;" />
 
 
 
@@ -103,7 +103,7 @@ We highly suggest caution with using AI to make or help make employment decision
 
 It is vital that teams hired for the development, auditing or testing of AI tools be as inclusive as possible and should follow the current best IDARE practices for standards for hiring standards. This will help to ensure that different perspectives and concerns are considered. 
 
-<img src="resources/images/02f-Avoiding_Harm-idare_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_48.png" title="An artistic image of a face that looks like it is being scanned for facial recognition." alt="An artistic image of a face that looks like it is being scanned for facial recognition." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02f-Avoiding_Harm-idare_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_48.png" alt="An artistic image of a face that looks like it is being scanned for facial recognition." width="100%" style="display: block; margin: auto;" />
 
 
  

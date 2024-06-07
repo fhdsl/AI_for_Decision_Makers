@@ -28,7 +28,7 @@ Dr. D could make future diagnoses based on this single data point, but these dia
 
 Like Dr. D, AI will get better at finding the right patterns with more data. In order to train an AI algorithm to detect possible skin cancer, we'll first want to gather as many pictures of normal and cancerous skin as we can. This is the **raw data** [@Leek2017].
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_153.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_153.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### What Is Data
 
@@ -47,7 +47,7 @@ The tech industry's lack of diversity contributes to these issues, often leading
 Large Language Models (LLMs), which we will cover later, are great examples of using high quantity and quality of data. Think about how much text information is freely available on the internet! Throughout the internet, we're much more likely to see the phrase "cancer is a disease" than "cancer is a computer program". Many LLMs are trained on sources like [Wikipedia](https://www.wikipedia.org/), which are typically grammatically sound and informative, leading to higher quality output.
 
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_1_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_1_0.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 <div class = "ethics"> 
 It is **essential** that you and your team think critically about data sources. Many companies releasing generative AI systems have come under fire for training these systems on data that doesn't belong to them [@Walsh2023]. Individual people also have a right to data privacy. No personal data should be used without permission, even if that data could be interesting or useful.  
@@ -60,7 +60,7 @@ It's important to remember that AI systems need specific instructions to start d
 
 Once data is labeled, either "cancer" or "not cancer", we can use it to train the algorithm in the next step. This data is aptly called **training data**.
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_318.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_318.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Understanding the Algorithm
 
@@ -78,7 +78,7 @@ As an example, here is a very simple algorithm with one feature (spot perimeter)
 
 1. If the perimeter of the spot is not circular, label the image "cancer".
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_474.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_474.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Testing the Algorithm
 
@@ -92,7 +92,7 @@ After setting up and quantifying the features, we want to make sure the AI is ac
 
 Humans play a big part in what kind of scores are acceptable when producing outputs. With cancer screening, we might be very worried about missing a real instance of cancer. Therefore, we might tell the AI to score false negatives more harshly than false positives.
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_360.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_360.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Interfacing with AI
 
@@ -102,7 +102,7 @@ Finally, AI would not work without an interface. This is where we can get creati
 
 - Telling people they might have cancer could be very upsetting for them. Our interface should provide supporting resources and clear disclaimers about its abilities.
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_397.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_397.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Understanding the AI Spring
 
@@ -129,7 +129,7 @@ However, let's imagine we wanted AI to generate examples of skin cancer. If the 
 **Discriminative AI**: Tells things apart or makes decisions based on what it has learned.
 </div>
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_9.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_9.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 We'll talk next about some generative AI models which have made recent breakthroughs possible.
 
@@ -141,13 +141,13 @@ Take for example this paragraph from the Wikipedia entry for skin cancer. A tran
 
 > More than 90% of cases are caused by exposure to ultraviolet radiation from the Sun.[4] This exposure increases the risk of all three main types of skin cancer.[4] Exposure has increased, partly due to a thinner ozone layer. Tanning beds are another common source of ultraviolet radiation. For melanomas and basal-cell cancers, exposure during childhood is particularly harmful. For squamous-cell skin cancers, total exposure, irrespective of when it occurs, is more important. Between 20% and 30% of melanomas develop from moles.[6] People with lighter skin are at higher risk as are those with poor immune function such as from medications or HIV/AIDS. Diagnosis is by biopsy.
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_28.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_28.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Diffusion Models
 
 Like transformers, diffusion models are useful for generative AI, particularly image generation. The key to diffusion models is that they have a lot of training in how to fill in the blanks. The model starts with many "noisy" images (imagine a photo with lots of holes or black spots) and tries to reproduce the original image. This process is called "denoising score matching". It then uses this training to generate entirely new content.
 
-<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_41.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html//1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_41.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Summary
 

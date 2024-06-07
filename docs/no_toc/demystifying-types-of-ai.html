@@ -6,11 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Demystifying Types of AI | AI for Decision Makers</title>
   <meta name="description" content="Description about Course/Book." />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.39.1 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Demystifying Types of AI | AI for Decision Makers" />
   <meta property="og:type" content="book" />
-  
   
   <meta property="og:description" content="Description about Course/Book." />
   
@@ -31,7 +30,6 @@
   <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
 <link rel="prev" href="discussion-how-ai-works.html"/>
 <link rel="next" href="discussion-ai-types.html"/>
-<script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -49,8 +47,9 @@
 
 
 
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
@@ -69,6 +68,10 @@
 
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 <style type="text/css">
 /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
 div.csl-bib-body { }
@@ -501,43 +504,43 @@ div.csl-indent {
 <div class="hero-image-container"> 
   <img class= "hero-image" src="assets/dasl_thin_main_image.png">
 </div>
-<div id="demystifying-types-of-ai" class="section level1">
-<h1>Demystifying Types of AI</h1>
+<div id="demystifying-types-of-ai" class="section level1 hasAnchor">
+<h1>Demystifying Types of AI<a href="demystifying-types-of-ai.html#demystifying-types-of-ai" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>We’ve learned a bit about how AI works. However there are many different types of AI with different combinations of data, algorithms, and interfaces. There are also general terms that are important to know. Let’s explore some of these below.</p>
-<div id="machine-learning" class="section level2">
-<h2>Machine Learning</h2>
+<div id="machine-learning" class="section level2 hasAnchor">
+<h2>Machine Learning<a href="demystifying-types-of-ai.html#machine-learning" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p><strong>Machine learning</strong> is broad concept describing how computers learn from looking at lots of examples. Imagine you are learning to tell the difference between apples and oranges. Someone first has to show you examples and say, “This is an apple, and this is an orange.” Similarly, machine learning approaches need examples of input data that is “labeled” with the correct output. The goal of machine learning is making useful or accurate predictions. Machine learning includes simpler approaches like regression, and more complicated approaches like deep learning.</p>
 <p>Below are a few examples of machine learning methods.</p>
-<div id="neural-networks" class="section level3">
-<h3>Neural Networks</h3>
+<div id="neural-networks" class="section level3 hasAnchor">
+<h3>Neural Networks<a href="demystifying-types-of-ai.html#neural-networks" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p><strong>Neural networks</strong> are a specific class of algorithms within machine learning. Neural networks mimic the way data is transferred between neurons in the brain.</p>
 <p>Neural networks organize data into layers, starting with an “input layer” of raw data. Data is then transferred to the next layer, called a “hidden” layer. The hidden layer combines the raw data in many ways to create levels of abstraction. You can think of an image that is very pixelated becoming more clear. Finally, results are produced in an “output layer”.</p>
-<p>Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. <a href="https://about.google/">Google</a> uses a neural network to power its search algorithm <span class="citation">(<a href="#ref-ibm2023" role="doc-biblioref">AI Team 2023</a>)</span>. Neural networks also do a pretty good job of recognizing human handwritten digits.</p>
-<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p>Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. <a href="https://about.google/">Google</a> uses a neural network to power its search algorithm <span class="citation">(<a href="#ref-ibm2023">AI Team 2023</a>)</span>. Neural networks also do a pretty good job of recognizing human handwritten digits.</p>
+<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
-<div id="deep-learning" class="section level3">
-<h3>Deep Learning</h3>
-<p><strong>Deep learning</strong> refers to neural networks with multiple intermediate “hidden” layers. A neural network with 2+ hidden layers could be considered a deep learning system <span class="citation">(<a href="#ref-ibm2023" role="doc-biblioref">AI Team 2023</a>)</span>. The advantage of deep learning is that these approaches cluster data automatically, and can detect abstraction or patterns that we might not know ahead of time. This is especially useful for complicated data, like unstructured text or images.</p>
-<p><a href="https://translate.google.com/">Google Translate</a> has used deep learning to accurately translate text since 2016 <span class="citation">(<a href="#ref-Turner2016" role="doc-biblioref">Turner 2016</a>)</span>. However, generative AI methods started being incorporated in the 2020s <span class="citation">(<a href="#ref-Gu2023" role="doc-biblioref">Gu 2023</a>)</span>.</p>
-<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_434.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<div id="deep-learning" class="section level3 hasAnchor">
+<h3>Deep Learning<a href="demystifying-types-of-ai.html#deep-learning" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><strong>Deep learning</strong> refers to neural networks with multiple intermediate “hidden” layers. A neural network with 2+ hidden layers could be considered a deep learning system <span class="citation">(<a href="#ref-ibm2023">AI Team 2023</a>)</span>. The advantage of deep learning is that these approaches cluster data automatically, and can detect abstraction or patterns that we might not know ahead of time. This is especially useful for complicated data, like unstructured text or images.</p>
+<p><a href="https://translate.google.com/">Google Translate</a> has used deep learning to accurately translate text since 2016 <span class="citation">(<a href="#ref-Turner2016">Turner 2016</a>)</span>. However, generative AI methods started being incorporated in the 2020s <span class="citation">(<a href="#ref-Gu2023">Gu 2023</a>)</span>.</p>
+<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_434.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 <div class="dictionary">
 <p>Many of the machine learning approaches we’re discussing here are <strong>supervised learning</strong> approaches. This means that data is labeled in predefined categories. An example could be “spam” or “not spam” labels attached to a data set of emails.</p>
 <p>Sometimes, we are more interested in discovering variation, regardless of how we describe, or label, the data. This is called <strong>unsupervised learning</strong>. An example of this approach could be clustering human cells based on what kind of genes they have turned on. We don’t know what type of cells they are necessarily, but can group them based on their behavior.</p>
 </div>
 </div>
 </div>
-<div id="generative-ai" class="section level2">
-<h2>Generative AI</h2>
+<div id="generative-ai" class="section level2 hasAnchor">
+<h2>Generative AI<a href="demystifying-types-of-ai.html#generative-ai" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Artificial Intelligence exploded in the early 2020s due to advancements in <strong>Generative AI</strong>, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, simulated data, and more. Let’s break down some of the following terms related to generative AI.</p>
-<div id="transformer-models-and-architecture" class="section level3">
-<h3>Transformer Models and Architecture</h3>
-<p>In 2017, Google engineers published a paper, “Attention is all you need”, describing a type of neural network they called a <strong>transformer</strong> <span class="citation">(<a href="#ref-vaswani2017" role="doc-biblioref">Vaswani et al. 2017</a>)</span>. Transformer architecture has revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformers are a key feature of what drives generative AI models today, and have allowed huge leaps forward in language understanding and image processing <span class="citation">(<a href="#ref-tay2022efficient" role="doc-biblioref">Tay et al. 2022</a>)</span>.</p>
+<div id="transformer-models-and-architecture" class="section level3 hasAnchor">
+<h3>Transformer Models and Architecture<a href="demystifying-types-of-ai.html#transformer-models-and-architecture" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>In 2017, Google engineers published a paper, “Attention is all you need”, describing a type of neural network they called a <strong>transformer</strong> <span class="citation">(<a href="#ref-vaswani2017">Vaswani et al. 2017</a>)</span>. Transformer architecture has revolutionized the field of natural language processing and led to an explosion in what was possible with AI. Transformers are a key feature of what drives generative AI models today, and have allowed huge leaps forward in language understanding and image processing <span class="citation">(<a href="#ref-tay2022efficient">Tay et al. 2022</a>)</span>.</p>
 <p>The transformer architecture uses something called <strong>self-attention</strong> to figure out how important different parts of a sentence are when making predictions. This helps the model understand how words relate to each other in a sentence, regardless of their order in the sentence.</p>
 <p>Do we say transformer model or transformer architecture? Transformer architecture refers to the overall design, or “transformers” generally speaking. We use the term “transformer model” when dealing with a specific example, such as the GPT (Generative Pre-trained Transformer) model.</p>
-<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_6.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_6.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
-<div id="large-language-model" class="section level3">
-<h3>Large Language Model</h3>
+<div id="large-language-model" class="section level3 hasAnchor">
+<h3>Large Language Model<a href="demystifying-types-of-ai.html#large-language-model" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Large Language Models (LLMs) are a specific type of generative AI model, often built using the transformer architecture, that leverage a huge volume of language data. Examples include models like OpenAI’s GPT (Generative Pre-trained Transformer) series. LLMs are trained on extensive text datasets and can generate coherent and contextually relevant text passages. You might be very familiar with LLMs, as they include super popular tools like <a href="https://chat.openai.com/">ChatGPT</a>, <a href="https://bard.google.com/chat">Bard</a>, <a href="https://poe.com/Claude-instant">Claude Instant</a>, and <a href="https://ai.meta.com/llama/">Llama</a>.</p>
 <p>The process of interpreting a user prompt for a GPT model might go as follows:</p>
 <ol style="list-style-type: decimal">
@@ -547,33 +550,33 @@ div.csl-indent {
 <li><p>The hidden layers of the neural network further decipher complex patterns and representations.</p></li>
 <li><p>Decoders generate the output that the user sees.</p></li>
 </ol>
-<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_170.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_170.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
-<div id="diffusion-model" class="section level3">
-<h3>Diffusion Model</h3>
-<p>Diffusion models are a type of <strong>deep generative model</strong>. They are particularly powerful when it comes to image generation, but can also be used for other generative AI applications, like video generation and molecule design <span class="citation">(<a href="#ref-yang2023" role="doc-biblioref">Yang et al. 2023</a>)</span>. The approach behind diffusion models is that they add more and more random noise to images (the “diffusion” process). Noise is then removed to generate the most “likely” novel outputs. The key feature of these models is the denoising process.</p>
+<div id="diffusion-model" class="section level3 hasAnchor">
+<h3>Diffusion Model<a href="demystifying-types-of-ai.html#diffusion-model" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Diffusion models are a type of <strong>deep generative model</strong>. They are particularly powerful when it comes to image generation, but can also be used for other generative AI applications, like video generation and molecule design <span class="citation">(<a href="#ref-yang2023">Yang et al. 2023</a>)</span>. The approach behind diffusion models is that they add more and more random noise to images (the “diffusion” process). Noise is then removed to generate the most “likely” novel outputs. The key feature of these models is the denoising process.</p>
 <p>A very popular diffusion model is used by <a href="https://stability.ai/">Stable Diffusion</a> for real-time text-to-image generation.</p>
-<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_339.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html/1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_339.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
-<div id="variational-autoencoders-vaes" class="section level3">
-<h3>Variational Autoencoders (VAEs)</h3>
-<p>Variational autoencoders are a type of <strong>deep generative model</strong>. Variational autoencoders emerged slightly earlier than diffusion models <span class="citation">(<a href="#ref-kingma2013" role="doc-biblioref">Kingma and Welling 2013</a>)</span>. Like diffusion models, they work with data that is noisy and not perfect. Variational autoencoders are trained and generate outputs differently, however. They detect essential features or patterns within inputs and condense them in a more concise and abstract form. This differs from diffusion models, which focus on the process of cleaning up noisy data to make it look like new images, text, etc.</p>
+<div id="variational-autoencoders-vaes" class="section level3 hasAnchor">
+<h3>Variational Autoencoders (VAEs)<a href="demystifying-types-of-ai.html#variational-autoencoders-vaes" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Variational autoencoders are a type of <strong>deep generative model</strong>. Variational autoencoders emerged slightly earlier than diffusion models <span class="citation">(<a href="#ref-kingma2013">Kingma and Welling 2013</a>)</span>. Like diffusion models, they work with data that is noisy and not perfect. Variational autoencoders are trained and generate outputs differently, however. They detect essential features or patterns within inputs and condense them in a more concise and abstract form. This differs from diffusion models, which focus on the process of cleaning up noisy data to make it look like new images, text, etc.</p>
 </div>
-<div id="generative-adversarial-networks-gans" class="section level3">
-<h3>Generative Adversarial Networks (GANs)</h3>
+<div id="generative-adversarial-networks-gans" class="section level3 hasAnchor">
+<h3>Generative Adversarial Networks (GANs)<a href="demystifying-types-of-ai.html#generative-adversarial-networks-gans" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Generative adversarial networks are a type of <strong>deep generative model</strong>. While the end goals are similar (new generated content), GANs differ in their training and objective. Generative Adversarial Networks work like two computers competing with each other. The first component, the “generator”, creates data, while the second, the “discriminator”, determines if the sample is realistic. Imagine two professionals, one artist specializing in artwork forgery, and one a detective specializing in forgery detection. If they are constantly competing, they will both get better at their respective specialty!</p>
-<p>The website <em>This Person Does Not Exist</em> (<a href="https://thispersondoesnotexist.com/" class="uri">https://thispersondoesnotexist.com/</a>) creates photorealistic headshots of imaginary people using a GAN called StyleGAN2 <span class="citation">(<a href="#ref-karras2020" role="doc-biblioref">Karras et al. 2020</a>)</span>.</p>
+<p>The website <em>This Person Does Not Exist</em> (<a href="https://thispersondoesnotexist.com/" class="uri">https://thispersondoesnotexist.com/</a>) creates photorealistic headshots of imaginary people using a GAN called StyleGAN2 <span class="citation">(<a href="#ref-karras2020">Karras et al. 2020</a>)</span>.</p>
 </div>
 </div>
-<div id="natural-language-processing" class="section level2">
-<h2>Natural Language Processing</h2>
+<div id="natural-language-processing" class="section level2 hasAnchor">
+<h2>Natural Language Processing<a href="demystifying-types-of-ai.html#natural-language-processing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p><strong>Natural language processing</strong>, or NLP, deals with interpreting text and extracting relevant information and insights. It is a field of study rather than a type of algorithm. Typically, these systems look at huge volumes of text data to understand the relationship among words, parts of words, or sentences.</p>
 <p>Natural language processing can also categorize and organize the documents themselves. For example, NLP could help read the contents of documents online and decide whether they are patents or journal articles. These documents could then be indexed in <a href="https://scholar.google.com/">Google Scholar</a>.</p>
-<p>Initially, NLP was accelerated by techniques such as word vectorization <span class="citation">(<a href="#ref-odsc2023" role="doc-biblioref">ODSC 2023</a>)</span>. In short, this makes it easier for computers to understand that the words “apple” and “orange” (both fruits) are more closely related than “apple” and “planet” (perhaps both round, but that’s less important). Many NLP approaches also use deep learning <span class="citation">(<a href="#ref-wikiNLP" role="doc-biblioref">Wikipedia 2023b</a>)</span>. Increasingly, generative AI is part of natural language processing <span class="citation">(<a href="#ref-odsc2023" role="doc-biblioref">ODSC 2023</a>)</span>.</p>
-<p>Natural language processing has been used to summarize the abundance of text information available in electronic health records. For example, healthcare practitioners showed that detecting evidence and information in records could improve treatment and quality of care for patients with diabetes <span class="citation">(<a href="#ref-turchin2021" role="doc-biblioref">Turchin and Florez Builes 2021</a>)</span>.</p>
+<p>Initially, NLP was accelerated by techniques such as word vectorization <span class="citation">(<a href="#ref-odsc2023">ODSC 2023</a>)</span>. In short, this makes it easier for computers to understand that the words “apple” and “orange” (both fruits) are more closely related than “apple” and “planet” (perhaps both round, but that’s less important). Many NLP approaches also use deep learning <span class="citation">(<a href="#ref-wikiNLP">Wikipedia 2023b</a>)</span>. Increasingly, generative AI is part of natural language processing <span class="citation">(<a href="#ref-odsc2023">ODSC 2023</a>)</span>.</p>
+<p>Natural language processing has been used to summarize the abundance of text information available in electronic health records. For example, healthcare practitioners showed that detecting evidence and information in records could improve treatment and quality of care for patients with diabetes <span class="citation">(<a href="#ref-turchin2021">Turchin and Florez Builes 2021</a>)</span>.</p>
 </div>
-<div id="strengths-and-weaknesses" class="section level2">
-<h2>Strengths and Weaknesses</h2>
+<div id="strengths-and-weaknesses" class="section level2 hasAnchor">
+<h2>Strengths and Weaknesses<a href="demystifying-types-of-ai.html#strengths-and-weaknesses" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Here is a summary of some strengths and weaknesses of different concepts in AI. These are handy to keep in mind as you are making decisions about what kind of AI to use in your workplace.</p>
 <table class="striped">
 <thead>
@@ -648,8 +651,8 @@ Very computationally intensive; might only work well for a specific task (e.g., 
 </tbody>
 </table>
 </div>
-<div id="summary-2" class="section level2">
-<h2>Summary</h2>
+<div id="summary-2" class="section level2 hasAnchor">
+<h2>Summary<a href="demystifying-types-of-ai.html#summary-2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Neural Networks and Deep Neural Network Learning are both key components of today’s AI. They function like human brains for advanced pattern recognition. Deep Neural Networks are a critical component of generative AI.</p>
 <p>Transformer architecture is central to many of today’s Large Language Models and allows for rapid processing of context in text.</p>
 <p>Diffusion models adjust noise to generate new content, such as images.</p>
@@ -659,7 +662,7 @@ Very computationally intensive; might only work well for a specific task (e.g., 
 </div>
 </div>
 </div>
-<h3>References</h3>
+<h3>References<a href="references.html#references" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-ibm2023" class="csl-entry">
 AI Team, IBM Data &amp;. 2023. <span>“AI Vs. Machine Learning Vs. Deep Learning Vs. Neural Networks: What’s the Difference?”</span> <a href="https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/">https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/</a>.

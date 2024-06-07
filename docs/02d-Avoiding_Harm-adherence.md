@@ -25,7 +25,7 @@ Launching large projects using AI before you get a chance to test them could lea
 
 This also gives you time to correspond with legal, equity, security, etc. experts about the risks of your AI use. 
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_27.png" title="An image of a small robot." alt="An image of a small robot." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_27.png" alt="An image of a small robot." width="100%" style="display: block; margin: auto;" />
 
 ### Tips for starting slow
 
@@ -63,7 +63,7 @@ See here for addition info: https://ieeexplore.ieee.org/abstract/document/867851
 When AI systems are trained on data, they may also learn and incorporate copyrighted information or protected intellectual property. This means that AI-generated content could potentially infringe on the copyright or protection of trademarks or patents of the original author. For more extreme examples, if an AI system is trained on an essay or art or  in some cases even code written by a human, the AI system could generate responses that are identical to or very similar to that of the original author, which some AI tools have done. Regardless, even training AI tools on copyrighted information where the responses are still relatively different, if the AI system uses this content without permission from the original author, this could constitute copyright or trademark infringement @brittain_more_2023.
 
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_38.png" title="An image of a robot checking lists on a bicycle." alt="An image of a robot checking lists on a bicycle." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_38.png" alt="An image of a robot checking lists on a bicycle." width="100%" style="display: block; margin: auto;" />
 
 
 <div class = example>
@@ -119,7 +119,7 @@ Did this content use any content from others that I can cite?
 Only using one AI tool can increase the risk of the ethical issues discussed. For example, it may be easier to determine if a tool incorrect about a response if we see that a variety of tools have different answers to the same prompt. Secondly, as our technology evolves, some tools may perform better than others at specific tasks. It is also necessary to check responses over time with the same tool, to verify that a result is even consistent from the same tool.
 
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_22.png" title="An image of a several different robots." alt="An image of a several different robots." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_22.png" alt="An image of a several different robots." width="100%" style="display: block; margin: auto;" />
 
 ### Tips for using multiple AI tools
 
@@ -150,7 +150,7 @@ Properly educating those you wish to comply with standards, can better ensure th
 
 It is especially helpful if training materials are developed to be especially relevant to the actually potential uses by the individuals receiving training and if the training includes enough fundamentals so that individuals understand why policies are in place.
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_32.png" title="An image of a robot teaching at a chalkboard." alt="An image of a robot teaching at a chalkboard." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_32.png" alt="An image of a robot teaching at a chalkboard." width="100%" style="display: block; margin: auto;" />
 
 
 <div class = "example">
@@ -211,19 +211,19 @@ Even if we are sure that the sample is representative of the population, a diffe
 
 There are many other sources of unfairness in model development - see @baker_algorithmic_2022. 
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_0.png" title="An image showing a larger circle indicating the population of all photos of all dogs in the world and a smaller circle within that circle depicting a sample of 1000 dog photos'." alt="An image showing a larger circle indicating the population of all photos of all dogs in the world and a smaller circle within that circle depicting a sample of 1000 dog photos'." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_0.png" alt="An image showing a larger circle indicating the population of all photos of all dogs in the world and a smaller circle within that circle depicting a sample of 1000 dog photos'." width="100%" style="display: block; margin: auto;" />
 
 
 **Training data**
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_22.png" title="An image of possible training data of photos of different dog breeds'." alt="An image of possible training data of photos of different dog breeds'." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_22.png" alt="An image of possible training data of photos of different dog breeds'." width="100%" style="display: block; margin: auto;" />
 
 
 The above image depicts some of our samples for building an artificial intelligence model to classify dog photographs based on their breeds. Each dog photograph has a corresponding label that gives the correct dog breed, and the goal of the model training process is to have the artificial intelligence model learn the association between photograph and dog breed label. For now, we will use *all of our samples for training the model*. The data we use for model training is called the **training data**. Then, once the model is trained and has learned the association between photograph and dog breed, the model will be able make new predictions: given a new dog image without its breed label, the model will make a prediction of what its breed label is. 
 
 **Testing data**
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_28.png" title="An image of possible testing data of photos of different dog breeds, including 3 of the exact images shown in the training data'." alt="An image of possible testing data of photos of different dog breeds, including 3 of the exact images shown in the training data'." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_28.png" alt="An image of possible testing data of photos of different dog breeds, including 3 of the exact images shown in the training data'." width="100%" style="display: block; margin: auto;" />
 
 
 To evaluate how well this model is good as predicting dog breeds from dog images, we need to use some of our samples to evaluate our model. The samples being used for model evaluation is called the **testing data**. For instance, suppose we used these four images to score our model. We give it to our trained model without the true breed label, and then the model makes a prediction on the breed. Then we compare the predicted breed label with the true label to compute the model accuracy. 
@@ -232,24 +232,24 @@ To evaluate how well this model is good as predicting dog breeds from dog images
 **Evaluation**
 
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_38.png" title="An image of possible testing data of photos of different dog breeds, including 4 of the images show in the training data and the accuracy value of 74%." alt="An image of possible testing data of photos of different dog breeds, including 4 of the images show in the training data and the accuracy value of 74%." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_38.png" alt="An image of possible testing data of photos of different dog breeds, including 4 of the images show in the training data and the accuracy value of 74%." width="100%" style="display: block; margin: auto;" />
 
 Suppose we get 3 out of 4 breed predictions correct. That would be an accuracy of 75 percent.
 
 **Proper separation of Training and Testing data**
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_57.png" title="An of the dog photos showing that the testing and training data had the same images." alt="An of the dog photos showing that the testing and training data had the same images." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_57.png" alt="An of the dog photos showing that the testing and training data had the same images." width="100%" style="display: block; margin: auto;" />
 
 
 However, we have inflated our model evaluation accuracy. The samples we used for model evaluation were also used for model training! Our training and testing data are not independent of each other. Why is this a problem? When we train a model, the model will naturally perform well on the training data, because the model has seen it before. This is called **Overfitting**. In real life, when the dog breed image labeling system is deployed, the model would not be seeing any dog images it has seen in the training data. Our model evaluation accuracy is likely too high because it is evaluated on data it was trained on. 
 
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_65.png" title="An image showing that the testing and training dataset should be separate from one another, so 4 images used for testing are now not included in the training set." alt="An image showing that the testing and training dataset should be separate from one another, so 4 images used for testing are now not included in the training set." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_65.png" alt="An image showing that the testing and training dataset should be separate from one another, so 4 images used for testing are now not included in the training set." width="100%" style="display: block; margin: auto;" />
 
 Let’s fix this. Given a sample, we split it into two independent groups for training and testing. We use the training data for training the model, and we use the testing data for evaluating the model. They don’t overlap. 
 
 
-<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_75.png" title="An image that the accuracy with this independent test set is now 50%." alt="An image that the accuracy with this independent test set is now 50%." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02d-Avoiding_Harm-adherence_files/figure-html//11oUc4KvmSiQBCj8rzj9v_e5te62qBIyriFHG_hQvFZA_g262d5f57190_0_75.png" alt="An image that the accuracy with this independent test set is now 50%." width="100%" style="display: block; margin: auto;" />
 
 When we evaluate our model under this division of training and testing data, our accuracy will look a bit lower compared to our first scenario, but that is more realistic of what happens in the real world. Our model evaluation needs to be a simulation of what happens when we deploy our model into the real world! 
 
