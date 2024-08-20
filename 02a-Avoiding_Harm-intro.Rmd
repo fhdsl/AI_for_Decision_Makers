@@ -5,7 +5,7 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# Introduction to Avoiding AI Harm
+# Introduction to Avoiding AI Harm 
 
 This course aims to help you recognize some of the potential consequences of using or developing AI tools.
 
