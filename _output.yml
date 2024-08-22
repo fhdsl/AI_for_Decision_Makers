@@ -19,3 +19,4 @@ bookdown::gitbook:
        <p style="padding-left: 40px;"><div class="trapezoid" style = "padding-left: 40px;"><span>  <a href="https://forms.gle/W6Mg4rzuMK6Yk3Am8"> Click here to provide feedback</a> <img src="assets/itcr_arrow.png" style=" width: 10%" ></span></div></p>
 bookdown::word_document2:
   toc: true
+  always_allow_html: true
