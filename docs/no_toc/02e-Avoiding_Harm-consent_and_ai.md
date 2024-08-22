@@ -50,7 +50,7 @@ It has been argued that there are possible uses that should be exempt, such as l
 
 See [here](https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-facial-recognition-raises-concerns/) to learn more about this debate.
 
-<div>
+</div>
 
 <img src="resources/images/02e-Avoiding_Harm-consent_and_ai_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_57.png" title="An artistic image of a face that looks like it is being scanned for facial recognition." alt="An artistic image of a face that looks like it is being scanned for facial recognition." width="100%" style="display: block; margin: auto;" />
 

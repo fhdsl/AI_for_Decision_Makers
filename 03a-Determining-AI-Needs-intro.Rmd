@@ -5,13 +5,13 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# VIDEO Introduction to Determining AI Needs Video
+<!-- # VIDEO Introduction to Determining AI Needs Video -->
 
-This video introduces the 'Determining AI Needs' course.
+<!-- This video introduces the 'Determining AI Needs' course. -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
+<!-- <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->  -->
 
-You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit).
+<!-- You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1COHDxEwy9GwXAgUJLBqjDjWm-lqdKy2n3Qds4ivM4UA/edit). -->
 
 
 # Introduction to Determining AI Needs
@@ -23,7 +23,7 @@ You can view and download the Google Slides [here](https://docs.google.com/prese
 
 ## Motivation
 
-There are a ever increasing number of options, strategies and solutions for integrating AI solutions into a project. It can feel overwhelming to understand what these options entail let alone understand how to decide what solution best fits a use case.
+There are an ever increasing number of options, strategies and solutions for integrating AI solutions into a project. It can feel overwhelming to understand what these options entail let alone understand how to decide what solution best fits a use case.
 
 In this course we aim to give individuals the basic info they need to make basic plans for integrating AI tools into their project.
 

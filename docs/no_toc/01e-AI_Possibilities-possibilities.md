@@ -1,9 +1,9 @@
 
 
 
-# VIDEO Real Life Possibilities
+<!-- # VIDEO Real Life Possibilities -->
 
-You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit?usp=sharing).
+<!-- You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc/edit?usp=sharing). -->
 
 # What AI Makes Possible
 

@@ -7,7 +7,7 @@
 
 # Societal Impact
 
-There is the potential for AI to dramatically influence society. It is our responsibility to be proactively think about what uses and impacts we consider to be useful and appropriate and those we consider harmful and inappropriate. 
+There is the potential for AI to dramatically influence society. It is our responsibility to proactively think about what uses and impacts we consider to be useful and appropriate and those we consider harmful and inappropriate. 
 
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
@@ -78,7 +78,7 @@ Therefore it is critical that we be considerate of the downstream consequences o
 <div class = fordev>
 **For decision makers about AI development:**
 
-* Consider newly developed AI tools might be used by others.
+* Consider how newly developed AI tools might be used by others.
 * Continually audit AI tools to look for unexpected and potentially harmful or biased behavior.
 * Be transparent with users about the limitations of the tool and the data used to train the tool.
 * Caution potential users about any potential negative consequences of use

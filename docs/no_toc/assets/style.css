@@ -192,10 +192,6 @@ li.appendix span, li.part span { /* for TOC part names */
   text-transform: uppercase;
 }
 
-.part + li[data-level=""] { /* grabs first .chapter immediately after .part...but only those ch without numbers */
- text-transform: uppercase;
-}
-
 
 /* The next two rules make the horizontal line go straight across in top navbar */
 
