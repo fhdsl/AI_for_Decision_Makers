@@ -1,4 +1,6 @@
-
+---
+always_allow_html: yes
+---
 
 
 ```{r, include = FALSE}
@@ -258,11 +260,7 @@ In the flip side, AI has the potential if used wisely, to reduce health inequiti
 * Consider the possible outcomes of the use of content created by newly developed AI tools. Consider if the content could possibly be used in a manner that will result in discrimination.
 </div>
 
-See @belenguer_ai_2022 for more guidance. We also encourage you to check out the following video for a classic example of bias in AI:
-
-```{r, fig.align="center", fig.alt = "video", echo=FALSE, out.width="90%"}
-knitr::include_url("https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56vM")
-```
+See @belenguer_ai_2022 for more guidance. We also encourage you to check out [this video for a classic example of bias in AI](https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56vM).
 
 
 For further details check out this [course](https://www.coursera.org/learn/algorithmic-fairness) on Coursera about building fair algorithms. We will also describe more in the next section.
