@@ -19,7 +19,7 @@ Let’s look at a few examples that illustrate the potential benefits and risks 
 
 ### Categorizing Businesses
 
-<img src="resources/images/01g-AI_Possibilities-case_studies_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_58.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01g-AI_Possibilities-case_studies_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_58.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 An important task in analysis of economic data is to classify business by institutional sector. For instance, given 10 million legal entities in the European Union, they need to be classified by financial sector to conduct downstream analysis. In the past, classifying legal entities was curated by expert knowledge [@moufakkir2023].
 
@@ -27,13 +27,13 @@ Text-based analysis and machine learning classifiers, which are all considered A
 
 ### Incorporating new predictors for forecasting
 
-<img src="resources/images/01g-AI_Possibilities-case_studies_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_70.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01g-AI_Possibilities-case_studies_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_70.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 Banks are considering expanding upon existing traditional economic models to bring in a wider data sources, such as pulling in social media feeds as an indicator of public sentiment. The National bank of France has started to use social media information to estimate the public perception of inflation. The Malaysian national bank has started to incorporate new articles into its financial model of gross domestic product estimation. However, the use of these new data sources may may raise questions about government oversight of social media and public domain information [@omfif2023]. 
 
 ### Using Large Language Models to predict inflation
 
-<img src="resources/images/01g-AI_Possibilities-case_studies_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_14.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01g-AI_Possibilities-case_studies_files/figure-html//1b8ivojtu3UA0HcACLqcghS300Ia4Wu7iXmgp6KacEJw_g2639341f200_0_14.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 The US Federal Reserve has researched the idea of using pre-trained large language models from Google to make inflation predictions. Usually, inflation is predicted from the Survey of Professional Forecasters, which pools forecasts from a range of financial forecasts and experts. When compared to the true inflation rate, the researchers found that the large language models performed slightly better than the Survey of Professional Forecasters [@stlouisfed2023].
 
