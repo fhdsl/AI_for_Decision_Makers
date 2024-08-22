@@ -3,7 +3,7 @@
 
 
 
-# VIDEO Summary of This Course
+<!-- # VIDEO Summary of This Course {.unlisted .unnumbered} -->
 
 # Introduction
 
@@ -28,7 +28,7 @@ We think understanding AI is essential for executives. It helps today's leaders 
 
 1. **Data-Driven Decision Culture:** Leaders can promote a data-driven decision-making culture within their organizations, using AI insights to inform strategic planning, understand their teams better, and improve other key business functions.
 
-1. **Communication with Tech Teams:** Executives and managers benefit from understanding AI event if they aren't building tech, as it helps them effectively communicate with their technical teams. This can mean more effective collaboration and improved alignment between teams or departments.
+1. **Communication with Tech Teams:** Executives and managers benefit from understanding AI even if they aren't building tech, as it helps them effectively communicate with their technical teams. This can mean more effective collaboration and improved alignment between teams or departments.
 
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
@@ -42,7 +42,5 @@ We also believe that learning is a life-long process. This specialization is tar
 
 <img src="resources/images/00-intro_files/figure-html//13QC5DTLefV5AIUd_3QPW42D-Zf2Yf6tgrJivIf7jbaQ_g2a3e68cb5a3_0_16.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
-## Curriculum  
 
-The course covers...
 

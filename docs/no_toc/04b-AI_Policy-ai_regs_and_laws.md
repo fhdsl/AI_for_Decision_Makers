@@ -51,6 +51,7 @@ More information about the EU's AI Act can be found in these sources.
 Some individual industries have already begun adopting policies about generative AI. They may also have long-standing policies in place about the use of other forms of AI, like machine learning. Some countries have also begun creating policies for specific industries and fields. When in doubt, always check with the experts within your organization about what AI policies exist for your industry.
 
 <img src="resources/images/04b-AI_Policy-ai_regs_and_laws_files/figure-html//1PSprPB9RrNJh_01BXAcj9jn6NK2XzWx74vD_YmQyliM_g2a84ae71e54_0_67.png" width="100%" />
+We'll discuss some specific examples of how different industries are approaching AI regulation in the next section.
 
 # Case Studies
 
@@ -90,4 +91,4 @@ The AMA and health care leaders have highlighted the importance of specialized e
 
 The medical community should actively shape the development of AI-enabled technologies by advocating for clinically-informed standards for the training of AI, and for the evaluation of the value of AI in real-world health care settings. At an institutional level, specialized clinical expertise is required to create policies that align AI adoption with standards for health care delivery. And in-depth knowledge of U.S. health insurance system is required to understand how complexity and lack of standardization in this landscape may impact AI adoption in clinical operations (schulman2023). In summary, health care leaders and the medical community need to play an active role in the development of new AI regulations and policy.
 
-# VIDEO AI acts, orders, and policies
+<!-- # VIDEO AI acts, orders, and policies -->

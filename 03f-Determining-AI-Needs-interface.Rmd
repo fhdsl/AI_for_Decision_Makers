@@ -1,10 +1,10 @@
-# VIDEO: Customized Interface for AI
+<!-- # VIDEO: Customized Interface for AI -->
 
-This video discusses how to address custom interface needs for an AI tool.
+<!-- This video discusses how to address custom interface needs for an AI tool. -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> -->
 
-You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g/edit).
+<!-- You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1qrR_FHMrYr4ZUgghC5FE4sJ107uv7QPisyGPTPI4I1g/edit). -->
 
 # Customized Interfaces for AI
 

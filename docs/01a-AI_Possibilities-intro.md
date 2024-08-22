@@ -19,7 +19,7 @@ This course is targeted toward industry and non-profit leaders and decision make
 
 ## Curriculum
 
-In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, learn about different types of AI, and set some ground rules for minimizing the harms and maximizing the benefits of AI.
+In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, and learn about different types of AI.
 
 This course will cover:
 
@@ -28,7 +28,7 @@ This course will cover:
 - The take-home of how AI works
 - Key definitions of types of AI and related technologies
 - What is possible with AI
-- Ground rules for using AI for good
+
 
 ## Learning Objectives
 
@@ -37,7 +37,6 @@ We will learn how to:
 - Determine what AI is and isn't using our three part framework: the data, algorithm, and interface
 - Identify common technologies and whether or not they are AI
 - Explain the essential "behind the scenes" technology of how AI works
-- Detail ground rules for using AI ethically
 - Identify possibilities for using AI while understanding its limitations
 
 <br>
@@ -45,6 +44,6 @@ We will learn how to:
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
 </div>
 
-# VIDEO Introduction to Exploring AI Possibilities
+<!-- # VIDEO Introduction to Exploring AI Possibilities {.unlisted .unnumbered} -->
 
-You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit?usp=sharing).
+<!-- You can find the Google Slides for this video [here](https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit?usp=sharing). -->
