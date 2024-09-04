@@ -6,11 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Algorithm considerations | AI for Decision Makers</title>
   <meta name="description" content="Description about Course/Book." />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.39.1 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Algorithm considerations | AI for Decision Makers" />
   <meta property="og:type" content="book" />
-  
   
   <meta property="og:description" content="Description about Course/Book." />
   
@@ -31,7 +30,6 @@
   <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
 <link rel="prev" href="societal-impact.html"/>
 <link rel="next" href="adherence-practices.html"/>
-<script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -49,8 +47,9 @@
 
 
 
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
@@ -69,6 +68,10 @@
 
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 <style type="text/css">
 /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
 div.csl-bib-body { }
@@ -501,8 +504,8 @@ div.csl-indent {
 <div class="hero-image-container"> 
   <img class= "hero-image" src="assets/dasl_thin_main_image.png">
 </div>
-<div id="algorithm-considerations" class="section level1">
-<h1>Algorithm considerations</h1>
+<div id="algorithm-considerations" class="section level1 hasAnchor">
+<h1>Algorithm considerations<a href="algorithm-considerations.html#algorithm-considerations" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>In this chapter we will discuss the some of the major ethical considerations regarding the algorithms underlying AI tools. We will provide some tips for how to deal with these issues that may be useful for creating AI guidelines at your institution.</p>
 <div class="disclaimer">
 <p><strong>Disclaimer:</strong> The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.</p>
@@ -513,12 +516,12 @@ div.csl-indent {
 <li><strong>Misinformation and Faulty Responses</strong> - Fake or manipulated data used to help design algorithms could be believed to be correct and this could be further propagated. Text, code, etc. provided to users may not be correct or optimal for a given situation, and may have at times severe downstream consequences.</li>
 </ol>
 <p>Note that this is an incomplete list; additional ethical concerns will become apparent as we continue to use these new technologies. We highly suggest that users of these tools <strong>careful to learn more about the specific tools they are interested in</strong> and to be <strong>transparent</strong> about the use of these tools, so that as new ethical issues emerge, we will be better prepared to understand the implications.</p>
-<div id="harmful-or-toxic-responses" class="section level2">
-<h2>Harmful or Toxic Responses</h2>
-<p>One major concern is the use of AI to generate malicious content. Secondly the AI itself may accidentally create harmful responses or suggestions. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">“toxicity”</a>, which refers to disrespectful, rude, or hateful responses (<span class="citation">Nikulski (<a href="#ref-nikulski_toxicity_2021" role="doc-biblioref">2021</a>)</span>). These responses can have very negative consequences for users. Ultimately these issues could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses, to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.</p>
-<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_93.png" title="Image of a mosaic robot." alt="Image of a mosaic robot." width="100%" style="display: block; margin: auto;" /></p>
-<div id="tips-for-avoiding-the-creation-of-harmful-content" class="section level3">
-<h3>Tips for avoiding the creation of harmful content</h3>
+<div id="harmful-or-toxic-responses" class="section level2 hasAnchor">
+<h2>Harmful or Toxic Responses<a href="algorithm-considerations.html#harmful-or-toxic-responses" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>One major concern is the use of AI to generate malicious content. Secondly the AI itself may accidentally create harmful responses or suggestions. For instance, AI could start suggesting the creation of code that spreads malware or hacks into computer systems. Another issue is what is called <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">“toxicity”</a>, which refers to disrespectful, rude, or hateful responses (<span class="citation">Nikulski (<a href="#ref-nikulski_toxicity_2021">2021</a>)</span>). These responses can have very negative consequences for users. Ultimately these issues could cause severe damage to individuals and organizations, including data breaches and financial losses. AI systems need to be designed with safeguards to avoid harmful responses, to test for such responses, and to ensure that the system is not infiltrated by additional possibly harmful parties.</p>
+<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_93.png" alt="Image of a mosaic robot." width="100%" style="display: block; margin: auto;" /></p>
+<div id="tips-for-avoiding-the-creation-of-harmful-content" class="section level3 hasAnchor">
+<h3>Tips for avoiding the creation of harmful content<a href="algorithm-considerations.html#tips-for-avoiding-the-creation-of-harmful-content" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div class="foruse">
 <p><strong>For decision makers about AI use:</strong></p>
 <ul>
@@ -548,13 +551,13 @@ What are some possible negative consequences of using this content?</p>
 </div>
 </div>
 </div>
-<div id="lack-of-interpretability" class="section level2">
-<h2>Lack of Interpretability</h2>
+<div id="lack-of-interpretability" class="section level2 hasAnchor">
+<h2>Lack of Interpretability<a href="algorithm-considerations.html#lack-of-interpretability" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>There is risk in using AI tools, that we may encounter situations where it is unclear why the AI system came to a particular result. AI systems that use more complicated algorithms can make it difficult to trace back the decision process of the algorithm.</p>
 <p>Using content created or modified by AI, could make it difficult for others to understand if the content is adequate or appropriate, or to identify and fix any issues that may arise.</p>
 <p>This could result in negative consequences, such as for example reliance on a system that distinguishes consumers or patients based on an arbitrary factor that is actually not consequential. Decisions based on AI responses therefore need to be made extra carefully and with clarity about why the AI system may be indicating various trends or predictions.</p>
-<div id="tips-for-avoiding-a-lack-of-interpretability" class="section level3">
-<h3>Tips for avoiding a lack of interpretability</h3>
+<div id="tips-for-avoiding-a-lack-of-interpretability" class="section level3 hasAnchor">
+<h3>Tips for avoiding a lack of interpretability<a href="algorithm-considerations.html#tips-for-avoiding-a-lack-of-interpretability" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div class="foruse">
 <p><strong>For decision makers about AI use:</strong></p>
 <ul>
@@ -578,8 +581,8 @@ Can you explain how you generated this response?</p>
 </ul>
 </div>
 </div>
-<div id="misinformation-and-faulty-responses" class="section level2">
-<h2>Misinformation and Faulty Responses</h2>
+<div id="misinformation-and-faulty-responses" class="section level2 hasAnchor">
+<h2>Misinformation and Faulty Responses<a href="algorithm-considerations.html#misinformation-and-faulty-responses" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>AI tools use data that may contain false or incorrect information and may therefore respond with content that is also false or incorrect.</p>
 <p>This is due to number of reasons:</p>
 <ul>
@@ -590,9 +593,9 @@ Can you explain how you generated this response?</p>
 </ul>
 <p>AI tools may also report that fake data is real, when it is in fact not real. For example, currently at the time of the writing of this course, older versions of ChatGPT will report citations with links that are not always correct and it doesn’t seem to be able to correct itself very well when challenged. Furthermore, AI models can “hallucinate” incorrect responses based on artifacts of the algorithm underneath the tool. These responses are essentially made up by the tool. It is difficult to know when a tool is hallucinating especially if it is a tool that you did not create, therefore it is important to review and check responses from AI tools. There is also a risk that content written with AI tools, may be incorrect or inappropriate for the given context of intended use, or they may not reflect best practices for a given context or field. The tools are limited to the data they were trained on, which may not reflect your intended use.</p>
 <p>It is also important to remember that content generated by AI tools is not necessarily better than content written by humans. Additionally review and auditing of AI-generated content by humans is needed to ensure that they are working properly and giving expected results.</p>
-<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_88.png" title="image of a robot writing." alt="image of a robot writing." width="100%" style="display: block; margin: auto;" /></p>
-<div id="tips-for-reducing-misinformation-faulty-responses" class="section level3">
-<h3>Tips for reducing misinformation &amp; faulty responses</h3>
+<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_88.png" alt="image of a robot writing." width="100%" style="display: block; margin: auto;" /></p>
+<div id="tips-for-reducing-misinformation-faulty-responses" class="section level3 hasAnchor">
+<h3>Tips for reducing misinformation &amp; faulty responses<a href="algorithm-considerations.html#tips-for-reducing-misinformation-faulty-responses" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div class="foruse">
 <p><strong>For decision makers about AI use:</strong></p>
 <ul>
@@ -625,11 +628,11 @@ What assumptions were made in creating this content?</p>
 <p><span id="exm:unlabeled-div-3" class="example"><strong>Example 3  </strong></span><strong>Real World Example</strong></p>
 <p><a href="https://stackoverflow.com/">Stack Overflow</a>, a popular community-based website where programmers help one another, has (at the time of writing this) temporarily <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned">banned</a> users from answering questions with AI-generated code. This is because users were posting incorrect answers to questions. It is important to follow policies like this (as you may face removal from the community). This policy goes to show that you really need to check the code that you get from AI models. While they are currently helpful tools, they do not know everything.</p>
 </div>
-<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_157.png" title="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." alt="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/02c-Avoiding_Harm-algorithms_files/figure-html/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g263a8b2455e_0_157.png" alt="Cartoon of a robot that says AI can assist us in utilizing AI technology more responsibly, if we ask for the right help." width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
-<div id="summary-4" class="section level2">
-<h2>Summary</h2>
+<div id="summary-4" class="section level2 hasAnchor">
+<h2>Summary<a href="algorithm-considerations.html#summary-4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Here is a summary of all the tips we suggested:</p>
 <div class="ethics">
 <ul>
@@ -650,19 +653,25 @@ What assumptions were made in creating this content?</p>
 
 </div>
 </div>
-<h3>References</h3>
+<h3>References<a href="references.html#references" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-nikulski_toxicity_2021" class="csl-entry">
 Nikulski, Julia. 2021. <span>“Toxicity in <span>AI</span> <span>Text</span> <span>Generation</span>.”</span> <em>Medium</em>. <a href="https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f">https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f</a>.
 </div>
 </div>
 <hr>
-<center> 
+<center>
+<div class="container">
+  <iframe class="responsive-iframe" src="https://c-savonen.shinyapps.io/widget-survey/?course_name=ai_decisions" style="width: 400px; height: 220px; overflow: auto;"></iframe>
+</div>
+  </div>
+</center>
+
+<hr>
+<center>
   <div class="footer">
       All illustrations <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY. </a>
-      <br>
       All other materials <a href= "https://creativecommons.org/licenses/by/4.0/"> CC-BY </a> unless noted otherwise.
-      <a href="https://hutchdatascience.org/" target="_blank"><img src="https://hutchdatascience.org/images/crazy-idea-wide.png" style="width: 80%; padding-left: 15px; padding-top: 8px;"</a>
   </div>
 </center>
             </section>

@@ -30,7 +30,7 @@ There are currently several guidelines for the responsible use and development o
 As this is an emerging technology, more guidelines will be developed and updated as the technology evolves. When you read this, more guideline and updates are likely to be available. It is important to be aware of the current ethical guidelines and regulations for your respective field.
 
 
-<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_0.png" title="A cartoon of a robot reading'." alt="A cartoon of a robot reading'." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_0.png" alt="A cartoon of a robot reading'." width="100%" style="display: block; margin: auto;" />
 
 
 ## Major Ethical Considerations
@@ -62,7 +62,7 @@ Perhaps you or your company develop an AI tool that helps to identify individual
 
 Therefore it is critical that we be considerate of the downstream consequences of what we create and what might happen if that technology or data was used for other purposes.
 
-<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_6.png" title="A robot thinking'." alt="A robot thinking'." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_6.png" alt="A robot thinking'." width="100%" style="display: block; margin: auto;" />
 
 ### Tips for avoiding inadvertent harm
 
@@ -90,7 +90,7 @@ While AI systems are useful, they **do not replace human strengths**. While AI s
 
 AI systems should be thought of as better computers as opposed to replacements for humans.
 
-<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_69.png" title="A small robot on a computer'." alt="A small robot on a computer'." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_69.png" alt="A small robot on a computer'." width="100%" style="display: block; margin: auto;" />
 
 While there are some contexts in which human labor has already been replaced by robotics and AI, studies show that humans tend to prefer human-made goods when those goods are not strictly functional (@bellaiche_humans_2023, @granulo_preference_2021). 
 It has been proposed that there will be radical shifts in the way that humans work in many fields including health care, banking, retail, security, and more (@selenko_artificial_2022). Yet we need to implement changes gradually to allow for time to better understand the consequences and mindfully consider how such changes impact human employment and well-being. 
@@ -252,7 +252,7 @@ In the flip side, AI has the potential if used wisely, to reduce health inequiti
 
 See @belenguer_ai_2022 for more guidance. We also encourage you to check out the following video for a classic example of bias in AI:
 
-<iframe src="https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56vM" width="90%" height="400px"></iframe>
+<iframe src="https://www.youtube.com/embed/TWWsW1w-BVo?si=YLGbpVKrUz5b56vM" width="90%" height="400px" data-external="1"></iframe>
 
 
 For further details check out this [course](https://www.coursera.org/learn/algorithmic-fairness) on Coursera about building fair algorithms. We will also describe more in the next section.
@@ -262,7 +262,7 @@ For further details check out this [course](https://www.coursera.org/learn/algor
 
 Security and privacy are a major concern for AI usage. Here we discuss a few aspects related to this.
 
-<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_83.png" title="Image of a robot at a door'." alt="Image of a robot at a door'." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_83.png" alt="Image of a robot at a door'." width="100%" style="display: block; margin: auto;" />
 
 ### Use the right tool for the job
 
@@ -342,7 +342,7 @@ However, AI also poses a number of climate risks (@bender_dangers_2021; @hulick_
 2) If not designed carefully, AI could also spread false solutions for climate crises  or promote inefficient practices (@jansen_climate_2023). 
 3) Differences in access to AI technologies may exacerbate social inequities related to climate (@hulick_training_2021)
 
-<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_16.png" title="A cartoon of robots camping." alt="A cartoon of robots camping." width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_16.png" alt="A cartoon of robots camping." width="100%" style="display: block; margin: auto;" />
 
 ## Tips for reducing climate impact
 
@@ -377,7 +377,7 @@ This transparency is important for people to understand how decisions are made u
 
 It also better helps us to understand what AI systems may need to be fixed or adapted if there are issues.
 
-<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_11.png" title="An image of glass robots" alt="An image of glass robots" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/02b-Avoiding_Harm-concepts_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g2aaead717c1_8_11.png" alt="An image of glass robots" width="100%" style="display: block; margin: auto;" />
 
 
 ### Tips for being transparent

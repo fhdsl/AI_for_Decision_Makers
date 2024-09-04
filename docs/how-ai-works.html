@@ -6,11 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>How AI Works | AI for Decision Makers</title>
   <meta name="description" content="Description about Course/Book." />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.39.1 and GitBook 2.6.7" />
 
   <meta property="og:title" content="How AI Works | AI for Decision Makers" />
   <meta property="og:type" content="book" />
-  
   
   <meta property="og:description" content="Description about Course/Book." />
   
@@ -31,7 +30,6 @@
   <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
 <link rel="prev" href="discussion-is-it-ai.html"/>
 <link rel="next" href="discussion-how-ai-works.html"/>
-<script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -49,8 +47,9 @@
 
 
 
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
@@ -69,6 +68,10 @@
 
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 <style type="text/css">
 /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
 div.csl-bib-body { }
@@ -501,12 +504,12 @@ div.csl-indent {
 <div class="hero-image-container"> 
   <img class= "hero-image" src="assets/dasl_thin_main_image.png">
 </div>
-<div id="how-ai-works" class="section level1">
-<h1>How AI Works</h1>
+<div id="how-ai-works" class="section level1 hasAnchor">
+<h1>How AI Works<a href="how-ai-works.html#how-ai-works" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>Let’s briefly revisit our definition of AI. It must have some data, an algorithm, and an interface. Let’s break these down in more detail below.</p>
-<div id="early-warning-for-skin-cancer" class="section level2">
-<h2>Early Warning for Skin Cancer</h2>
-<p>Each year in the United States, 6.1 million adults are treated for skin cancer (basal cell and squamous cell carcinomas), totaling nearly $10 billion in costs <span class="citation">(<a href="#ref-CDC2023" role="doc-biblioref">CDC 2023</a>)</span>. It is one of the most common forms of cancer in the United States, and mortality from skin cancer is a real concern. Fortunately, early detection through regular screening can increase survival rates to over 95% <span class="citation">(<a href="#ref-Melarkode2023" role="doc-biblioref">Melarkode et al. 2023</a>)</span>. Cost and accessibility of screening providers, however, means that many people aren’t getting the preventative care they need.</p>
+<div id="early-warning-for-skin-cancer" class="section level2 hasAnchor">
+<h2>Early Warning for Skin Cancer<a href="how-ai-works.html#early-warning-for-skin-cancer" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Each year in the United States, 6.1 million adults are treated for skin cancer (basal cell and squamous cell carcinomas), totaling nearly $10 billion in costs <span class="citation">(<a href="#ref-CDC2023">CDC 2023</a>)</span>. It is one of the most common forms of cancer in the United States, and mortality from skin cancer is a real concern. Fortunately, early detection through regular screening can increase survival rates to over 95% <span class="citation">(<a href="#ref-Melarkode2023">Melarkode et al. 2023</a>)</span>. Cost and accessibility of screening providers, however, means that many people aren’t getting the preventative care they need.</p>
 <p>Increasingly, AI is being used to flag potential skin cancer. AI focused on skin cancer detection could be used by would-be patients to motivate them to seek a professional opinion, or by clinicians to validate their findings or help with continuous learning.</p>
 <ol style="list-style-type: decimal">
 <li><p><strong>Data</strong>: Images with and without skin cancer present</p></li>
@@ -514,36 +517,36 @@ div.csl-indent {
 <li><p><strong>Interface</strong>: Web portal or app where you can submit a new picture</p></li>
 </ol>
 </div>
-<div id="collecting-datapoints" class="section level2">
-<h2>Collecting Datapoints</h2>
+<div id="collecting-datapoints" class="section level2 hasAnchor">
+<h2>Collecting Datapoints<a href="how-ai-works.html#collecting-datapoints" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Let’s say a clinician, <em>Dr. Derma</em>, is learning how to screen for skin cancer. Dr. D goes to their first day at the clinic and sees their first instance of skin cancer. Dr. D now has one data point.
-Dr. D could make future diagnoses based on this single data point, but these diagnoses probably won’t be very accurate. Over time, as Dr. D does more screenings of skin with and without cancer, they will get a better and better idea of what skin cancer looks like. This is part of what we do best. Human beings are powerhouses when it comes to pattern recognition and processing <span class="citation">(<a href="#ref-Mattson2014" role="doc-biblioref">Mattson 2014</a>)</span>.</p>
-<p>Like Dr. D, AI will get better at finding the right patterns with more data. In order to train an AI algorithm to detect possible skin cancer, we’ll first want to gather as many pictures of normal and cancerous skin as we can. This is the <strong>raw data</strong> <span class="citation">(<a href="#ref-Leek2017" role="doc-biblioref">Leek and Narayanan 2017</a>)</span>.</p>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_153.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
-<div id="what-is-data" class="section level3">
-<h3>What Is Data</h3>
+Dr. D could make future diagnoses based on this single data point, but these diagnoses probably won’t be very accurate. Over time, as Dr. D does more screenings of skin with and without cancer, they will get a better and better idea of what skin cancer looks like. This is part of what we do best. Human beings are powerhouses when it comes to pattern recognition and processing <span class="citation">(<a href="#ref-Mattson2014">Mattson 2014</a>)</span>.</p>
+<p>Like Dr. D, AI will get better at finding the right patterns with more data. In order to train an AI algorithm to detect possible skin cancer, we’ll first want to gather as many pictures of normal and cancerous skin as we can. This is the <strong>raw data</strong> <span class="citation">(<a href="#ref-Leek2017">Leek and Narayanan 2017</a>)</span>.</p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_153.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<div id="what-is-data" class="section level3 hasAnchor">
+<h3>What Is Data<a href="how-ai-works.html#what-is-data" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>In our skin cancer screening example, our data is all of the information stored in an image. However, data comes in many shapes and forms. Data can be <strong>structured</strong>, such as a spreadsheet of the time of day plus traffic volume or counts of viral particles in different patients. Data can also be <strong>unstructured</strong>, such as might be found in social media text or genome sequence data.</p>
-<p>Other kinds of data can be collected and used to train algorithms. These might include survey data collected directly from consumers, medical data collected in a healthcare setting, purchase or transaction tracking, and online tracking of your time on certain web pages <span class="citation">(<a href="#ref-Cote2022" role="doc-biblioref">Cote 2022</a>)</span>.</p>
+<p>Other kinds of data can be collected and used to train algorithms. These might include survey data collected directly from consumers, medical data collected in a healthcare setting, purchase or transaction tracking, and online tracking of your time on certain web pages <span class="citation">(<a href="#ref-Cote2022">Cote 2022</a>)</span>.</p>
 <p>Quantity <em>and</em> quality of data are very important. More data makes it easier to detect and account for minor differences among observations. However, that shouldn’t come at the cost of quality. It is sometimes better to have fewer, high resolution or high quality images in our dataset than many images that are blurry, discolored, or in other ways questionable.</p>
 <div class="ethics">
 <p>Representative diversity of datasets is crucial for the effectiveness of AI. For instance, if an AI used for skin cancer screening only encounters instances of skin cancer on lighter skin tones, it might fail to alert individuals with darker skin tones.</p>
 <p>The tech industry’s lack of diversity contributes to these issues, often leading to the discovery of failures only after harm has occurred.</p>
 </div>
 <p>Large Language Models (LLMs), which we will cover later, are great examples of using high quantity and quality of data. Think about how much text information is freely available on the internet! Throughout the internet, we’re much more likely to see the phrase “cancer is a disease” than “cancer is a computer program”. Many LLMs are trained on sources like <a href="https://www.wikipedia.org/">Wikipedia</a>, which are typically grammatically sound and informative, leading to higher quality output.</p>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_1_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/10PZ8gQQIIxIjC8ELCMZdshoOUxrIMo1iKjbKspM2J4E_g2a972176106_1_0.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 <div class="ethics">
-<p>It is <strong>essential</strong> that you and your team think critically about data sources. Many companies releasing generative AI systems have come under fire for training these systems on data that doesn’t belong to them <span class="citation">(<a href="#ref-Walsh2023" role="doc-biblioref">Walsh 2023</a>)</span>. Individual people also have a right to data privacy. No personal data should be used without permission, even if that data could be interesting or useful.</p>
+<p>It is <strong>essential</strong> that you and your team think critically about data sources. Many companies releasing generative AI systems have come under fire for training these systems on data that doesn’t belong to them <span class="citation">(<a href="#ref-Walsh2023">Walsh 2023</a>)</span>. Individual people also have a right to data privacy. No personal data should be used without permission, even if that data could be interesting or useful.</p>
 </div>
 </div>
-<div id="preparing-the-data" class="section level3">
-<h3>Preparing the Data</h3>
+<div id="preparing-the-data" class="section level3 hasAnchor">
+<h3>Preparing the Data<a href="how-ai-works.html#preparing-the-data" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>It’s important to remember that AI systems need specific instructions to start detecting patterns. We’ll need to take our raw data and indicate which pictures are positive for skin cancer and which aren’t. This process is called <strong>labeling</strong> and has to be done by humans.</p>
 <p>Once data is labeled, either “cancer” or “not cancer”, we can use it to train the algorithm in the next step. This data is aptly called <strong>training data</strong>.</p>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_318.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_318.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
-<div id="understanding-the-algorithm" class="section level2">
-<h2>Understanding the Algorithm</h2>
+<div id="understanding-the-algorithm" class="section level2 hasAnchor">
+<h2>Understanding the Algorithm<a href="how-ai-works.html#understanding-the-algorithm" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Our goal is “detection of possible skin cancer”, but how does a computer do that?</p>
 <p>First, we’ll need to break down the image into attributes called <strong>features</strong>. This could be the presence of certain color pixels, percentage of certain shades, spot perimeter regularity, or other features. Features can be determined by computers or by data scientists who know what kind of features are important. It’s not uncommon for an AI looking at image data to have thousands of features.</p>
 <p>Because we’ve supplied a bunch of images with labels, AI can look for patterns that are present in cancerous images that are not present in others.</p>
@@ -553,9 +556,9 @@ Dr. D could make future diagnoses based on this single data point, but these di
 <li><p>If the perimeter of the spot is exactly circular, label the image “not cancer”.</p></li>
 <li><p>If the perimeter of the spot is not circular, label the image “cancer”.</p></li>
 </ol>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_474.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
-<div id="testing-the-algorithm" class="section level3">
-<h3>Testing the Algorithm</h3>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_474.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<div id="testing-the-algorithm" class="section level3 hasAnchor">
+<h3>Testing the Algorithm<a href="how-ai-works.html#testing-the-algorithm" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>After setting up and quantifying the features, we want to make sure the AI is actually doing a good job. We’ll take some images the AI hasn’t seen before, called <strong>test data</strong>. We know the correct answers, but the AI does not. The AI will measure the features within each of the images to provide an educated guess of the proper label. Every time AI gets a label wrong, it will reassess parts of the algorithm. For example, it might make the tweak below:</p>
 <ol style="list-style-type: decimal">
 <li><p>Calculate the perimeter of a darker spot in the image.</p></li>
@@ -563,20 +566,20 @@ Dr. D could make future diagnoses based on this single data point, but these di
 <li><p>If the perimeter of the spot is not close to circular, label the image “cancer”.</p></li>
 </ol>
 <p>Humans play a big part in what kind of scores are acceptable when producing outputs. With cancer screening, we might be very worried about missing a real instance of cancer. Therefore, we might tell the AI to score false negatives more harshly than false positives.</p>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_360.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_360.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
-<div id="interfacing-with-ai" class="section level2">
-<h2>Interfacing with AI</h2>
+<div id="interfacing-with-ai" class="section level2 hasAnchor">
+<h2>Interfacing with AI<a href="how-ai-works.html#interfacing-with-ai" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Finally, AI would not work without an interface. This is where we can get creative. In our skin cancer screening, we might create a website where providers or patients could upload a picture of an area that needs screening.</p>
 <ul>
 <li><p>Because skin images could be considered medical data, we would need to think critically about what happens to images after they are uploaded. Are images deleted after a screening prognosis is made? Will images be used to update the training data?</p></li>
 <li><p>Telling people they might have cancer could be very upsetting for them. Our interface should provide supporting resources and clear disclaimers about its abilities.</p></li>
 </ul>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_397.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g263e06ef889_36_397.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
-<div id="understanding-the-ai-spring" class="section level2">
-<h2>Understanding the AI Spring</h2>
+<div id="understanding-the-ai-spring" class="section level2 hasAnchor">
+<h2>Understanding the AI Spring<a href="how-ai-works.html#understanding-the-ai-spring" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>The “AI Spring” is the period of rapid growth and progress in artificial intelligence starting in the early 2020s. A huge component of the AI Spring is <strong>Generative AI</strong>, which includes text generation, image creation, natural speech generation, computer code production, biological molecule discovery, and more.</p>
 <p>In the example above, the AI learns to distinguish between skin conditions based on features and patterns it identifies. Its main goal is to make decisions about someone’s skin condition rather than generating new examples. This is called <strong>discriminative AI</strong>. Other examples of discriminative AI include:</p>
 <ol style="list-style-type: decimal">
@@ -594,25 +597,25 @@ Dr. D could make future diagnoses based on this single data point, but these di
 <p><strong>Generative AI</strong>: Creates new, creative things that look like what it has learned.
 <strong>Discriminative AI</strong>: Tells things apart or makes decisions based on what it has learned.</p>
 </div>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_9.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_9.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 <p>We’ll talk next about some generative AI models which have made recent breakthroughs possible.</p>
-<div id="transformer-models" class="section level3">
-<h3>Transformer Models</h3>
+<div id="transformer-models" class="section level3 hasAnchor">
+<h3>Transformer Models<a href="how-ai-works.html#transformer-models" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Transformers have been especially helpful for text generation. They work like smart readers that can understand context and relationships in language very well. Imagine you’re reading a sentence, and at each word, you want to pay attention to other words to understand the context better. The <strong>self-attention mechanism</strong> does this very efficiently. It allows the model to focus on different parts of the input (like words in a sentence) simultaneously, capturing long-range dependencies. The model then uses this training to generate new text.</p>
 <p>Take for example this paragraph from the Wikipedia entry for skin cancer. A transformer model would be able to synthesize the information to understand the relationship between UV exposure, risk factors, and the development of different types of skin cancers for different groups of individuals. It can easily distill the information into themes and topics.</p>
 <blockquote>
 <p>More than 90% of cases are caused by exposure to ultraviolet radiation from the Sun.[4] This exposure increases the risk of all three main types of skin cancer.[4] Exposure has increased, partly due to a thinner ozone layer. Tanning beds are another common source of ultraviolet radiation. For melanomas and basal-cell cancers, exposure during childhood is particularly harmful. For squamous-cell skin cancers, total exposure, irrespective of when it occurs, is more important. Between 20% and 30% of melanomas develop from moles.[6] People with lighter skin are at higher risk as are those with poor immune function such as from medications or HIV/AIDS. Diagnosis is by biopsy.</p>
 </blockquote>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_28.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_28.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
-<div id="diffusion-models" class="section level3">
-<h3>Diffusion Models</h3>
+<div id="diffusion-models" class="section level3 hasAnchor">
+<h3>Diffusion Models<a href="how-ai-works.html#diffusion-models" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Like transformers, diffusion models are useful for generative AI, particularly image generation. The key to diffusion models is that they have a lot of training in how to fill in the blanks. The model starts with many “noisy” images (imagine a photo with lots of holes or black spots) and tries to reproduce the original image. This process is called “denoising score matching”. It then uses this training to generate entirely new content.</p>
-<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_41.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="resources/images/01c-AI_Possibilities-how_ai_works_files/figure-html/1OydUyEv1uEzn8ONPznxH1mGd4VHC9n88_aUGqkHJX4I_g2640f36ed31_12_41.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
-<div id="summary-1" class="section level2">
-<h2>Summary</h2>
+<div id="summary-1" class="section level2 hasAnchor">
+<h2>Summary<a href="how-ai-works.html#summary-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>In our skin cancer detection example, an AI system required lots of data labeled with information (“cancer” or “not cancer”). An algorithm looked for patterns between these two groups and then provided the results via an interface. This AI is an example of discriminative AI.</p>
 <p>Since the early 2020s, generative AI has exploded in popularity, assisted by transformer and diffusion models, among other advancements. These technologies have allowed AI to excel at creating new content, by recognizing deeper context and patterns.</p>
 <br>
@@ -621,7 +624,7 @@ Dr. D could make future diagnoses based on this single data point, but these di
 </div>
 </div>
 </div>
-<h3>References</h3>
+<h3>References<a href="references.html#references" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-CDC2023" class="csl-entry">
 CDC. 2023. <span>“Melanoma of the Skin Statistics.”</span> <a href="https://www.cdc.gov/cancer/skin/statistics/index.htm">https://www.cdc.gov/cancer/skin/statistics/index.htm</a>.
@@ -643,12 +646,18 @@ Walsh, Dylan. 2023. <span>“The Legal Issues Presented by Generative AI.”</sp
 </div>
 </div>
 <hr>
-<center> 
+<center>
+<div class="container">
+  <iframe class="responsive-iframe" src="https://c-savonen.shinyapps.io/widget-survey/?course_name=ai_decisions" style="width: 400px; height: 220px; overflow: auto;"></iframe>
+</div>
+  </div>
+</center>
+
+<hr>
+<center>
   <div class="footer">
       All illustrations <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY. </a>
-      <br>
       All other materials <a href= "https://creativecommons.org/licenses/by/4.0/"> CC-BY </a> unless noted otherwise.
-      <a href="https://hutchdatascience.org/" target="_blank"><img src="https://hutchdatascience.org/images/crazy-idea-wide.png" style="width: 80%; padding-left: 15px; padding-top: 8px;"</a>
   </div>
 </center>
             </section>

@@ -43,7 +43,7 @@ Historically, mining for relevant text had to follow rule-based or statistical m
 
 1. **Domain-Specific Language Generation**: Generative AI can be fine-tuned for domain-specific language generation. This is particularly beneficial in industries where specialized terminology or jargon is prevalent. By training generative models on domain-specific data, text mining models can better adapt to the nuances of the industry or discipline in general.
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_111.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_111.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Examples
 
@@ -83,13 +83,13 @@ These statistics highlight the significant population growth of Seattle over the
 
 In reality, you might be providing a much larger volume of data or be looking for more nuanced information.
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_140.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_140.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Modifying and Generating Text
 
 Generative AI in the form of Large language Models like [ChatGPT](https://chat.openai.com/) and [Claude](https://poe.com/Claude-instant) can be especially useful for modifying and generating text. This could mean changing the tone of a piece of writing, creating summaries based on text data input, or making writing more understandable to different audiences.
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a0731d95f1_0_44.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a0731d95f1_0_44.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Examples
 
@@ -147,13 +147,13 @@ Alex
 
 We all have our moments of frustration, but AI can help us be better colleagues. By asking Bard to transform this email, we can prevent an uncomfortable and hurtful work situation. 
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_181.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_181.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Automating Tedious Processes
 
 Generative AI can help tackle repetitive processes. You can think of it like an automation assistant. It can be especially useful for automating work that requires conversion of content from one form to another, for example text-to-speech, image-to-text, and so on.
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_209.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_209.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Examples
 
@@ -173,13 +173,13 @@ Here are some examples of using AI to automate tasks:
 
 No one likes to attend a meeting, only to forget what was being discussed. Fortunately, many AI note takers have entered our world recently. The online meeting platform [Zoom](https://www.zoom.com/) has an "AI assistant" that can summarize meetings [@zoom2023]. Companies like [fireflies.ai](https://fireflies.ai/about-us) and [Otter.ai](https://otter.ai/) also offer similar functionality, recording meeting notes, offering summaries, capturing action items, and more.
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_255.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2641ae2cc7f_0_255.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Idea Generation
 
 Generative AI can provide templates or scaffolds. In other words, AI can get the creative juices flowing and make it easier to start new content. AI can also help synthesize data to suggest possible new relationships.
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_0.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Diabetes Gene Hypotheses
 
@@ -187,7 +187,7 @@ The Diabetes Data and Hypothesis Hub (D2H2, https://d2h2.maayanlab.cloud/) was c
 
 D2H2 also has the ability to generate hypotheses. It randomly selects gene sets related to existing gene activation signatures and compares them with gene sets found in published articles. The AI provides ideas about possible explanations for the similarities between these gene sets.
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_28.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_28.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Planning and Organizing
 
@@ -273,7 +273,7 @@ Remember to adjust the agenda based on your specific needs and priorities. The k
 I hope this sample agenda helps you prepare for a successful meeting!
 </div>
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_53.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_53.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 The above gives us a good place to start, so we aren't staring at a blank page. Of course, it's important to tailor responses to meet your needs. However, this could get us started, ensuring that we use time in the meeting effectively.
 
@@ -354,7 +354,7 @@ Here is a toy time series dataset tracking individuals, time points, and coffee 
 This tracks 3 individuals over 3 time points (days) and their daily coffee consumption in cups. Individual 1 drank 2 cups on day 1, 3 cups on day 2, and 1 cup on day 3. Individual 2 drank 4 cups on day 1, 2 cups on day 2, and 3 cups on day 3. Individual 3 drank 1 cup on day 1, 0 cups on day 2, and 2 cups on day 3.
 </div>
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_87.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_87.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Text to Speech to Text
 
@@ -362,7 +362,7 @@ Generative AI is great at converting text to realistic sounding speech. It can a
 
 Both Text-to-Speech, and Speech-to-Text models benefit from specific training. This is because there are likely to be acronyms and jargon specific to your industry or institution. 
 
-<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_103.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01e-AI_Possibilities-possibilities_files/figure-html//16FlAoE9-kTinf4ErYYtDs5Ge2thneUtQUawem_eaHtc_g2a8ebbd3748_0_103.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ## Interactive Help
 

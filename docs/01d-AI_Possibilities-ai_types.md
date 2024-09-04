@@ -23,7 +23,7 @@ Neural networks organize data into layers, starting with an "input layer" of raw
 
 Neural networks often require large amounts of labeled data for training, and their performance may continue to improve with more data. [Google](https://about.google/) uses a neural network to power its search algorithm [@ibm2023]. Neural networks also do a pretty good job of recognizing human handwritten digits. 
 
-<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a694e3cce9_0_0.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Deep Learning
 
@@ -31,7 +31,7 @@ Neural networks often require large amounts of labeled data for training, and th
 
 [Google Translate](https://translate.google.com/) has used deep learning to accurately translate text since 2016 [@Turner2016]. However, generative AI methods started being incorporated in the 2020s [@Gu2023].
 
-<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_434.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_434.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 <div class = "dictionary">
 Many of the machine learning approaches we're discussing here are **supervised learning** approaches. This means that data is labeled in predefined categories. An example could be "spam" or "not spam" labels attached to a data set of emails.
@@ -51,7 +51,7 @@ The transformer architecture uses something called **self-attention** to figure 
 
 Do we say transformer model or transformer architecture? Transformer architecture refers to the overall design, or "transformers" generally speaking. We use the term "transformer model" when dealing with a specific example, such as the GPT (Generative Pre-trained Transformer) model.
 
-<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_6.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_6.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Large Language Model
 
@@ -69,7 +69,7 @@ The process of interpreting a user prompt for a GPT model might go as follows:
 
 1. Decoders generate the output that the user sees.
 
-<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_170.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_170.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Diffusion Model
 
@@ -77,7 +77,7 @@ Diffusion models are a type of **deep generative model**. They are particularly 
 
 A very popular diffusion model is used by [Stable Diffusion](https://stability.ai/) for real-time text-to-image generation.
 
-<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_339.png" title="CAPTION HERE" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
+<img src="resources/images/01d-AI_Possibilities-ai_types_files/figure-html//1UiYOR_4a68524XsCv-f950n_CfbyNJVez2KdAjq2ltU_g2a7d2be0b8f_0_339.png" alt="CAPTION HERE" width="100%" style="display: block; margin: auto;" />
 
 ### Variational Autoencoders (VAEs)
 
