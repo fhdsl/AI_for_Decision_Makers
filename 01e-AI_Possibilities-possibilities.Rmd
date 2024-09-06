@@ -1,3 +1,6 @@
+---
+always_allow_html: yes
+---
 
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
@@ -315,14 +318,14 @@ Here is the response:
 Here is a toy time series dataset tracking individuals, time points, and coffee consumption:
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE}
-install.packages("kableExtra")
-library(kableExtra)
+install.packages("kableExtra", repos = "https://cloud.r-project.org")
+library(magrittr)
 data.frame(
   ID = c(rep(1:3, each = 3)),
   Time_point = c(rep(1:3, times = 3)),
   Coffee_cups = c(2,3,1,4,2,3,1,0,2)
 ) %>%
-  kbl() 
+  kableExtra::kbl() 
 ```
 
 This tracks 3 individuals over 3 time points (days) and their daily coffee consumption in cups. Individual 1 drank 2 cups on day 1, 3 cups on day 2, and 1 cup on day 3. Individual 2 drank 4 cups on day 1, 2 cups on day 2, and 3 cups on day 3. Individual 3 drank 1 cup on day 1, 0 cups on day 2, and 2 cups on day 3.
