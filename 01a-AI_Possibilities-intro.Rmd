@@ -35,6 +35,9 @@ This course will cover:
 - Key definitions of types of AI and related technologies
 - What is possible with AI
 
+```{r topics_covered, echo=FALSE, fig.alt='Pathway of more specific topics covered in this course: defining AI, how AI works, demystifying AI, what makes AI possible, ground rules for AI, and AI possibilities case studies.', out.width = '100%', warning=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit#slide=id.g33dc6c728b0_0_348")
+```
 
 ## Learning Objectives
 
