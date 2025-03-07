@@ -17,6 +17,8 @@ This course will help you with your understanding of AI, helping you make strate
 
 This course is targeted toward industry and non-profit leaders and decision makers.
 
+<img src="resources/images/01a-AI_Possibilities-intro_files/figure-html//1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok_g33dc6c728b0_0_0.png" alt="This course is designed for industry and non-profit leaders, executives, and decision-makers shaping strategy and innovation. Tailored for non-technical professionals, it provides practical insights into AI concepts, applications, and limitations, empowering leaders to evaluate AI opportunities, mitigate risks, and align AI initiatives with organizational goals." width="100%" />
+
 ## Curriculum
 
 In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, and learn about different types of AI.
@@ -29,6 +31,7 @@ This course will cover:
 - Key definitions of types of AI and related technologies
 - What is possible with AI
 
+<img src="resources/images/01a-AI_Possibilities-intro_files/figure-html//1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok_g33dc6c728b0_0_348.png" alt="Pathway of more specific topics covered in this course: defining AI, how AI works, demystifying AI, what makes AI possible, ground rules for AI, and AI possibilities case studies." width="100%" />
 
 ## Learning Objectives
 
@@ -38,6 +41,8 @@ We will learn how to:
 - Identify common technologies and whether or not they are AI
 - Explain the essential "behind the scenes" technology of how AI works
 - Identify possibilities for using AI while understanding its limitations
+
+<img src="resources/images/01a-AI_Possibilities-intro_files/figure-html//1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok_g33dc6c728b0_0_187.png" alt="Learning objectives are: define AI using the data, algorithm, and interface approach, classify technologies as AI or not AI, explain the essentials of how AI works, and consider AI applications and limitations." width="100%" />
 
 <br>
 <div class = disclaimer>
