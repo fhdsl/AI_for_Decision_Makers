@@ -19,6 +19,10 @@ This course will help you with your understanding of AI, helping you make strate
 
 This course is targeted toward industry and non-profit leaders and decision makers.
 
+```{r for_individuals_who, echo=FALSE, fig.alt='This course is designed for industry and non-profit leaders, executives, and decision-makers shaping strategy and innovation. Tailored for non-technical professionals, it provides practical insights into AI concepts, applications, and limitations, empowering leaders to evaluate AI opportunities, mitigate risks, and align AI initiatives with organizational goals.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit#slide=id.g33dc6c728b0_0_0")
+```
+
 ## Curriculum
 
 In this course, we'll learn about what Artificial intelligence is, and what it isn't. We'll also learn the basics of how it works, and learn about different types of AI.
@@ -31,6 +35,9 @@ This course will cover:
 - Key definitions of types of AI and related technologies
 - What is possible with AI
 
+```{r topics_covered, echo=FALSE, fig.alt='Pathway of more specific topics covered in this course: defining AI, how AI works, demystifying AI, what makes AI possible, ground rules for AI, and AI possibilities case studies.', out.width = '100%', warning=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit#slide=id.g33dc6c728b0_0_348")
+```
 
 ## Learning Objectives
 
@@ -40,6 +47,10 @@ We will learn how to:
 - Identify common technologies and whether or not they are AI
 - Explain the essential "behind the scenes" technology of how AI works
 - Identify possibilities for using AI while understanding its limitations
+
+```{r learning_objectives, echo=FALSE, fig.alt = 'Learning objectives are: define AI using the data, algorithm, and interface approach, classify technologies as AI or not AI, explain the essentials of how AI works, and consider AI applications and limitations.', out.width = '100%', warning=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit#slide=id.g33dc6c728b0_0_187")
+```
 
 <br>
 <div class = disclaimer>
