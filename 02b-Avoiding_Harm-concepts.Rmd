@@ -344,7 +344,7 @@ AI can help humans to innovate ways to improve efficiency and to devise strategi
 
 A few organizations are working on supporting the use of AI for climate crises mitigation uses such as:
 
-- AI for the Plane: https://www.aifortheplanet.org/en 
+- AI for the Planet: https://www.aifortheplanet.org 
 - Climate Change AI (CCAI): https://www.climatechange.ai/about 
 
 
