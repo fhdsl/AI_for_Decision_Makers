@@ -41,6 +41,10 @@ We will learn how to:
 - Explain the essential "behind the scenes" technology of how AI works
 - Identify possibilities for using AI while understanding its limitations
 
+```{r learning_objectives, echo=FALSE, fig.alt = 'Learning objectives are: define AI using the data, algorithm, and interface approach, classify technologies as AI or not AI, explain the essentials of how AI works, and consider AI applications and limitations.', out.width = '100%', warning=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit#slide=id.g33dc6c728b0_0_187")
+```
+
 <br>
 <div class = disclaimer>
 `r config::get("disclaimer")`
