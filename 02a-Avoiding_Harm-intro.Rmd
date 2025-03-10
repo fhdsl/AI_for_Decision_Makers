@@ -65,7 +65,7 @@ We will demonstrate how to:
 
 
 ```{r learning_objectives, echo=FALSE, fig.alt = 'The overall course learning objectives are: By completing this course, learners will be able to: Describe key ethical concerns for using AI tools, Discuss why human monitoring is important and necessary, Discuss the benefits of being transparent about the use of AI, Recognize real-world examples of AI usage that have resulted in ethical debate, Identify possible strategies for more responsible AI use and development, Discuss nuances involved with consent in the use of AI, Describe a possible process for reflecting on ethical AI use and development', out.width = '100%', warning=FALSE}
-ottrpal::include_slide(“https://docs.google.com/presentation/d/1M6lqJoN0yQDPJtO8nGWYrb7pI6kNv3uZeKcB8y5iPok/edit#slide=id.g33dc6c728b0_0_187")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ/edit#slide=id.g33ee7326077_0_0")
 ```
 
 <div class = disclaimer>
