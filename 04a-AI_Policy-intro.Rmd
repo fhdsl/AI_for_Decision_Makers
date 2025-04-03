@@ -17,9 +17,20 @@ AI tools are already changing how we work, and they will continue to do so for y
 
 This course is targeted toward industry and non-profit leaders and decision makers.
 
+```{r for_individuals_who, echo=FALSE, fig.alt='This course is designed for leaders, executives, and decision-makers shaping strategy and driving innovation for use or development of AI or non-technical professionals seeking to use AI and those who need to learn about the current rules and regulations around AI use and how to develop a thoughtful AI policy for their organization.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1w5PkqNeYlkUik4uXw30Opnzm9o-G_YQdOdjffNXlIA4/edit?slide=id.g3480d8adf7f_1_0#slide=id.g3480d8adf7f_1_0")
+```
+
+
 ## Curriculum  
 
 In this course, you’ll learn why you need an AI policy, what an AI policy might include, who can help you create and develop a policy, the state of existing AI laws, other laws and regulations that can apply to AI systems and products, and considerations for creating a strong AI policy for your organization.
+
+
+```{r topics_covered, echo=FALSE, fig.alt='You’ll learn why you need an AI policy, what an AI policy might include, who can help you create and develop a policy, the state of existing AI laws, other laws and regulations that can apply to AI systems and products, and considerations for creating a strong AI policy for your organization. You’ll also look at two real-world case studies of AI policy.', out.width = '100%', warning=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1w5PkqNeYlkUik4uXw30Opnzm9o-G_YQdOdjffNXlIA4/edit?slide=id.g3480d8adf7f_1_8#slide=id.g3480d8adf7f_1_8")
+```
+
 
 ## Learning Objectives
 
