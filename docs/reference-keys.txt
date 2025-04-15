@@ -151,14 +151,15 @@ introduction-to-determining-ai-needs
 motivation-3
 target-audience-3
 curriculum-2
-what-are-the-components-of-ai
 learning-objectives-2
+what-are-the-components-of-ai
+learning-objectives-3
 intro
 what-makes-an-ai-model-accurate
 what-makes-an-ai-model-efficient
 putting-it-together
 determining-your-ai-needs
-learning-objectives-3
+learning-objectives-4
 intro-1
 generalized-custom-ai-use-cases
 customized-knowledge
@@ -177,7 +178,7 @@ chatgpt-api
 hugging-face
 conclusion
 customized-knowledge-for-ai
-learning-objectives-4
+learning-objectives-5
 intro-2
 summary-of-possible-strategies
 prompt-engineering
@@ -186,7 +187,7 @@ fine-tuning
 find-a-base-model-to-start-with
 example-strategies-for-fine-tuning
 customized-security-for-ai
-learning-objectives-5
+learning-objectives-6
 intro-3
 data-security-basics
 secure-ai-solutions-for-protected-data
@@ -197,7 +198,7 @@ deidentify
 aws-servers-huggingface
 always-double-triple-quadruple-check
 customized-interfaces-for-ai
-learning-objectives-6
+learning-objectives-7
 intro-4
 general-strategies-for-custom-interfaces
 examples-of-ai-customized-interface-strategies
@@ -205,7 +206,7 @@ premade-ai-tools
 ai-tool-apis
 custom-builds
 evaluating-your-customized-ai-tool
-learning-objectives-7
+learning-objectives-8
 intro-5
 evaluating-accuracy-of-an-ai-model
 evaluating-computational-efficiency-of-an-ai-model
@@ -214,7 +215,7 @@ introduction-to-developing-ai-policy
 motivation-4
 target-audience-4
 curriculum-3
-learning-objectives-8
+learning-objectives-9
 why-do-i-need-an-ai-policy
 elements-of-an-ai-policy
 building-an-ai-advisory-team
