@@ -33,6 +33,9 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1w5PkqNeYlkUik4uX
 
 
 ## Learning Objectives
+<!--```{r learning_objectives, echo=FALSE, fig.alt='Overall Course Learning Objectives. By completing this course, learners will be able to: Understand the reasons why organizations need an AI policy. Identify the key elements of a good AI policy. Describe the roles and responsibilities of different team members involved. Identify key regulations outlined in the EU AI Act. Understand how existing industry-specific AI policies can inform your policy. Identify key legal categories relevant to AI use, including intellectual property, data privacy, and liability. Understand the limitations of relying solely on an AI policy without supporting infrastructure. Recognize the importance of involving diverse stakeholders AI policy creation. Identify strategies for building adaptable AI policies, such as living documents and separate best practices guidelines. Appreciate the role of effective training in promoting policy compliance.', out.width = '100%', warning=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1w5PkqNeYlkUik4uXw30Opnzm9o-G_YQdOdjffNXlIA4/edit?slide=id.g34ec0b7ad13_0_161#slide=id.g34ec0b7ad13_0_161")
+```-->
 
 During this course, learners will:
 
