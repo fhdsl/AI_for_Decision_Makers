@@ -19,6 +19,8 @@ The use of artificial intelligence (AI) and in particular, generative AI, has ra
 
 This course is intended for leaders who might make decisions about AI at nonprofits, in industry, or academia. They may have an interest to use or develop AI tools.
 
+<img src="resources/images/02a-Avoiding_Harm-intro_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g33dd464f1e3_0_5.png" alt="This course is designed for leaders, executives, and decision-makers shaping strategy and driving innovation for use or development of AI or non-technical professionals seeking to use AI and those who need to learn about the potential harms associated with AI and strategies to mitigate those risks." width="100%" />
+
 ## Curriculum
 
 This course provides a brief introduction about ethical concepts to be aware of when making decisions about AI, as well as **real-world examples** of situations that involved ethical challenges. The course is largely focused on **generative AI considerations**, although some of the content will also be applicable to other types of AI applications.
@@ -32,6 +34,10 @@ The course will cover:
 - Concepts for consent with AI
 - IDARE principles (Inclusion, Diversity, Anti-Racism, and Equity) with AI 
 - A proposed process for ethical AI use and development
+
+
+
+<img src="resources/images/02a-Avoiding_Harm-intro_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g33dd464f1e3_0_169.png" alt="Pathway of more specific topics covered in this course: possible societal impacts of AI, concerns for AI algorithms, strategies to adhere to AI codes of ethics,  concepts for consent with AI, bias and AI , and a process for reflection for ethical AI. This includes real-world examples." width="100%" />
 
 ## Learning Objectives
 
@@ -47,6 +53,10 @@ We will demonstrate how to:
 - Identify concepts and strategies for promoting social justice in AI use and development
 - Discuss nuances involved with consent in the use of AI 
 - Describe a possible process for reflecting on ethical AI use and development
+
+
+
+<img src="resources/images/02a-Avoiding_Harm-intro_files/figure-html//1L6-8DWn028c1o0p9gwXmz90BRcy_PjPqb683nbk1gHQ_g34ec0f0ae16_0_1.png" alt="The overall course learning objectives are: By completing this course, learners will be able to: Describe key ethical concerns for using AI tools, Discuss why human monitoring is important and necessary, Discuss the benefits of being transparent about the use of AI, Recognize real-world examples of AI usage that have resulted in ethical debate, Identify possible strategies for more responsible AI use and development, Discuss nuances involved with consent in the use of AI, Describe a possible process for reflecting on ethical AI use and development" width="100%" />
 
 <div class = disclaimer>
 **Disclaimer:** The thoughts and ideas presented in this course are not to be substituted for legal or ethical advice and are only meant to give you a starting point for gathering information about AI policy and regulations to consider.
